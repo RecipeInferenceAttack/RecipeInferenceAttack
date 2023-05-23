@@ -1,4 +1,4 @@
-# RecipeInferenceAttack
+# Recipe Inference Attack
 ## 运行方式
 运行main.py  
 ## 运行后文件架构
