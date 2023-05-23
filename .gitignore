@@ -1,0 +1,7 @@
+/[Ee]nvironment/
+/[Aa]ttack/
+/[Ll]og/
+/tmp/
+/[Mm]odel/
+/experiment.csv
+/test.py
