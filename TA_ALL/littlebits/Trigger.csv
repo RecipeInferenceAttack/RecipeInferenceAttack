@@ -1,0 +1,3 @@
+trigger,trigger_description
+Turned On,This Trigger fires every time your cloudBit receives an input signal from another littleBits module.
+Turned Off,This Trigger fires every time your cloudBit's input goes from high to low.

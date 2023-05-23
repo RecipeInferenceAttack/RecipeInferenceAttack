@@ -1,0 +1,4 @@
+trigger,trigger_description
+Current temperature rises above,This Trigger monitors sensor temperature value and fires whenever the temperature rises above the value you provide.
+Contact Sensor,This Trigger monitors sensor contact value and fires whenever the contact state changes.
+Current humidity rises above,This Trigger monitors sensor humidity value and fires whenever the humidity rises above the value you provide.

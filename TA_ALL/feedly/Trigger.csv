@@ -1,0 +1,9 @@
+trigger,trigger_description
+New popular article from category,This trigger fires every time a new popular article from a specific category appears on Feedly.
+New article in board,This trigger fires when an article is added to the selected personal or team board
+New prioritized article,This trigger fires when an article is prioritized by Leo
+New highlight,This trigger fires when  you (or a team member) highlight text in an article.
+New article from category,This trigger fires every time a new article from a specific category appears on Feedly.
+New source added,This trigger fires every time you add any new source to Feedly.
+New note,This trigger fires when you (or a team member) add a note to an article in Feedly.
+New article saved for later,This trigger fires every time a new article is added to your Saved For Later queue.

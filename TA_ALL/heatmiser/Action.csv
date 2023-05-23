@@ -1,0 +1,13 @@
+action,action_description
+Set temperature hold,This Action will enable a temperature hold on the selected Heatmiser Thermostat.
+Turn neoPlug off,This Action will turn off the selected neoPlug.
+Run recipe,This action will run a Heatmiser Neo recipe.
+Set Temperature,The Action will set the temperature on the selected Heatmiser Thermostat.
+Set Standby Mode,This Action will activate Standby Mode on the selected Heatmiser Thermostat.
+Boost Timer,This Action will activate a Timer Boost on the selected Heatmiser Timer.
+Cancel Standby Mode,This Action will cancel Standby Mode on the selected Heatmiser Thermostat.
+Set Home Mode,The Action will activate Home Mode on your neoHub.
+Cancel temperature hold,This Action will cancel a temperature hold on the selected Heatmiser Thermostat.
+Turn neoPlug on,This Action will allow you to switch on the selected neoPlug.
+Run Profile,This action will send a stored profile to the selected thermostat.
+Set Away Mode,This Action will activate Away Mode on your neoHub

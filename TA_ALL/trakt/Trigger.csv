@@ -1,0 +1,3 @@
+trigger,trigger_description
+New watched movie,This trigger fires every time you mark a movie as watched in Trakt.tv.
+New watched episode,This trigger fires every time you watched or marked as watching a new episode of a show.

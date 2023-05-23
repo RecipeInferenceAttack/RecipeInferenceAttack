@@ -1,0 +1,3 @@
+trigger,trigger_description
+Reminder due,This Trigger fires every time a reminder is due.
+New reminder scheduled,This Trigger fires every time you schedule a new reminder.

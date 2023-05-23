@@ -1,0 +1,53 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Automatically change your Twitter profile pic when you update your Facebook photo,Keep your social accounts in sync by updating your Twitter profile pic when your Facebook profile picture is changed.,Your profile changes,Update profile picture,/facebook,/twitter,178.3k
+Keep a simple spreadsheet of every Tweet you post,"Create an archive of your Tweets in Google Drive for eary tracking and to see all your content at-a-glance. Turn on this Applet and we'll create a spreadsheet for you in a folder called ""Twitter.""",New tweet by you,Add row to spreadsheet,/twitter,/google_sheets,44.5k
+Automatically save in Pocket the first link in a Tweet you like,This Applet is super helpful for keeping your Pocket queue healthy and happy. Read articles from your favorite tweets on your own time!,New liked tweet by you,Save for later,/twitter,/pocket,32.0k
+Forward twitter feed to telegram,Forwards a specific applet feed to an IFTTT connected telegram channel.,New tweet by a specific user,Send message,/twitter,/telegram,2.6k
+Tweet your Instagrams as native photos on Twitter,Instagram photos will show up in your Twitter feed as a full image rather than a link. Note: only works for single photo posts.,Any new photo by you,Post a tweet with image,/instagram,/twitter,648.6k
+Recurring Tweets,Recurring Tweets,Every day at,Post a tweet,/date_and_time,/twitter,5.1k
+Automatically post on Twitter when you start streaming on Twitch,"Who has time to Tweet when the latest game is waiting to be played?! Turn on this Applet and your Twitter followers will automatically be alerted when you start streaming with this Tweet and a link to your Twitch channel:
+""I'm now streaming on Twitch! Playing [Name of game]""",New stream started by you,Post a tweet,/twitch,/twitter,8.5k
+New tweet by specific user sends Discord message,"When the user you specify creates a new tweet, notify your Discord server in a Rich Text message.",New tweet by a specific user,Post a rich message to a channel,/twitter,/discord,1.9k
+Automatically tweet your new blog posts,"Don't let your followers miss an update: When you publish on Wordpress, this Applet will automatically send a tweet from your account with the post title and URL.",Any new post,Post a tweet,/wordpress,/twitter,27.3k
+"Any new post on your bloggerPost a tweet with image to your twitter","Any new post on your blogger
+Post a tweet with image to your twitter",Any new post,Post a tweet with image,/blogger,/twitter,404
+Track #hashtag mentions in a Google Spreadsheet,"Every time a certain #hashtag is used on Twitter, automatically track it in a Google Spreadsheet.",New tweet from search,Add row to spreadsheet,/twitter,/google_sheets,3.2k
+"If New tweet by specific user, then post a link to it in a Discord channel",Enter the twitter user you want and customize which Discord server and channel to post in,New tweet by a specific user,Post a message to a channel,/twitter,/discord,565
+Post to Slack when a tweet matches your search term,A great way to stay up to date with tweets that matter to you. Use Twitter's advanced search to refine your search: https://support.twitter.com/articles/71577,New tweet from search,Post to channel,/twitter,/slack,1.9k
+"If Twitter #HASHTAG, Then IF Notification.","Add a Hashtag (or search) for Twitter to follow, and expect IF notification.",New tweet from search,Send a notification from the IFTTT app,/twitter,/if_notifications,3.5k
+Twitter Mentions,Twitter Mentions,New mention of you,Post a tweet,/twitter,/twitter,8.5k
+Twitter Advanced Search to IFTTT Notification,Use a Twitter advanced search query to push a note containing a tweet as an IFTTT notification.,New tweet from search,Send a rich notification from the IFTTT app,/twitter,/if_notifications,330
+Archive every tweet from a specific handle to a spreadsheet,"Keep a record of the tweets you care about — enter the username you want to track (no need to include the ""@"" symbol) and they'll be saved in a Google spreadsheet. This is also a good workaround for accounts you don't want to follow on Twitter — but still want to track!",New tweet by a specific user,Add row to spreadsheet,/twitter,/google_sheets,1.4k
+Timed Daily Tweet,auto tweet everyday at a certain time,Every day at,Post a tweet with image,/date_and_time,/twitter,8.0k
+Save the Tweets you like in Raindrop.io,Keep a record of all of your Twitter activities directly on Raindrop.io,New liked tweet by you,Create a new bookmark,/twitter,/raindrop,1.8k
+Send a special message to your followers on Twitter,Send a special message to your followers on Twitter,Every day of the week at,Post a tweet,/date_and_time,/twitter,7.6k
+Tweet new text posts from your Telegram channel,"An easy way to share new texts posted in your Telegram channel to Twitter. Your tweet will include a direct link to the post on Telegram, so don't worry too much about the character limit. Note that the @IFTTT bot needs to be an admin in your channel for this to work. P.S. Funny syntax optional STOP",New post in your channel,Post a tweet,/telegram,/twitter,1.6k
+Get an email when there's a new tweet from a specific username,Don't want to miss an amazing tweet from your mom/@Cher/@jack/[insert the username you want to watch here]? Use this Applet to get an email when they post!,New tweet by a specific user,Send me an email,/twitter,/email,8.2k
+Automatically share new Instagram videos to Twitter,"Every time you post a new video to Instagram, it will be automatically posted to Twitter.",Any new video by you,Post a tweet with image,/instagram,/twitter,5.8k
+Twitter 2 Telegram Pic,Twitter 2 Telegram Pic,New tweet by a specific user,Send photo,/twitter,/telegram,20
+tweet my instagram video,tweet my instagram video,Any new video by you,Post a tweet,/instagram,/twitter,12.4k
+Tweet your Facebook status updates,Tweet your Facebook status updates,New status message by you,Post a tweet,/facebook,/twitter,55.8k
+Wordpress to Twitter with pic.twitter,"Every Wordpress post sends out a tweet with post title, url, and a pic.twitter image from the post.",Any new post,Post a tweet with image,/wordpress,/twitter,30
+Automatically send a Tweet to thank new Twitter followers,"When someone follows you this will Tweet ""Hey [their name] thanks for the follow!"" Note: due to Twitter's terms of service it will not tag their Twitter handle.",New follower,Post a tweet,/twitter,/twitter,11.0k
+"Twitter ""Tweets"" saved to Day One",Every new tweet you tweet creates a Journal Entry in Day One with the tweet text and a link to the tweet.,New tweet by you,Create Journal Entry,/twitter,/day_one,4.0k
+Twitch Stream Started to Twitter,"Send a customizable twitter message whenever you start streaming.
+Main tags {{Game}} {{ChannelUrl}}",New stream started by you,Post a tweet with image,/twitch,/twitter,168
+"If New tweet by @stxtiky, then post a message to a channel",twitter,New tweet by you,Post a message to a channel,/twitter,/discord,
+Automatically Tweet the videos you like,"For every video you 👍 on YouTube, this Applet will post a new Tweet to your Twitter account with the video title and link",New liked video,Post a tweet,/youtube,/twitter,4.2k
+Save the Tweets you like on Twitter to a Google Spreadsheet,A great way to archive and organize the Tweets you like on Twitter.,New liked tweet by you,Add row to spreadsheet,/twitter,/google_sheets,4.1k
+Post new Letterboxd reviews to Twitter,Use this recipe to auto-publish new Letterboxd reviews to Twitter.,New feed item matches,Post a tweet,/feed,/twitter,313
+New tweet with hashtag to Linkedin,Share your Twitter content to Linkedin when you use a hashtag of your choice.,New tweet by you with hashtag,Share a link,/twitter,/linkedin,136
+half hour tweet,half hour tweet,Every hour at,Post a tweet,/date_and_time,/twitter,2.5k
+Share Instagram photos on Twitter only when you include a specific #hashtag in the caption,"Choose a specific #hashtag below and whenever you include it in your photo's caption, it will automatically be tweeted. Note: only works for single photo posts.",New photo by you with specific hashtag,Post a tweet with image,/instagram,/twitter,65.4k
+Save your favorite tweets in an Evernote notebook,"Every time you favorite a tweet this Applet will grab it and collect in an Evernote notebook named ""Favorite tweets""",New liked tweet by you,Create a note,/twitter,/evernote,23.0k
+Track new Twitter posts on your Welltory Dashboard,See what impacts your ability to write great tweets,New tweet by you,Send event,/twitter,/welltory,1.0k
+"Twitter ""Likes"" saved to Day One","A new liked tweet creates a Journal Entry in Day One with the tweet text, a single image, a link to the tweet, and @username.",New liked tweet by you,Create Journal Entry,/twitter,/day_one,2.4k
+Share links to your Tweets automatically on a Facebook Page you manage,Great if your active on Twitter but no so much on your Facebook Page. This Applet handles the automation for you.,New tweet by you,Create a link post,/twitter,/facebook_pages,7.6k
+Tweet your new Tumblr posts,"When you create a new post on Tumblr, post a new tweet to Twitter with the post title, url, and tags.",New Post Created,Post a tweet,/tumblr,/twitter,26
+RSS to Twitter,New feed items post to Twitter,New feed item,Post a tweet,/feed,/twitter,17.6k
+If shared on Facebook Then share on Twitter,"If you share a link to your Facebook, then it will be shared to your Twitter as well",New link post by you,Post a tweet,/facebook,/twitter,362
+liked Tweets to telegram channel,liked Tweets to telegram channel,New liked tweet by you,Send message,/twitter,/telegram,641
+"If New video by channel, then Post a tweet to @Vtuitions_com","If New video by channel, then Post a tweet to @Vtuitions_com",New video by channel,Post a tweet,/youtube,/twitter,2
+"Whenever you are mentioned on Twitter, post a message to Telegram","Feedback, anyone? Get notified of new Twitter mentions right inside Telegram — or share mentions of the company Twitter to a group of colleagues.",New mention of you,Send message,/twitter,/telegram,2.4k
+If New liked tweet then create a new entry under Notion page.,If New liked tweet then create a new entry under Notion page.,New liked tweet by you,Create a page,/twitter,/notion_so,139
+Post your Tweets to Tumblr,"When you tweet on Twitter, the Tweet automatically be shared on your Tumblr blog.",New tweet by you,Create a link post,/twitter,/tumblr,155

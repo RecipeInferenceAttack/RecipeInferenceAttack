@@ -1,0 +1,3 @@
+action,action_description
+Trigger alarm with address,This action will send your address to Noonlight dispatchers alerting them of an emergency.
+Trigger alarm,This action will send your location to Noonlight dispatchers alerting them of an emergency.

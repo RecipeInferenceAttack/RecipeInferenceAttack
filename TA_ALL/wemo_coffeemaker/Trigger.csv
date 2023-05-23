@@ -1,0 +1,4 @@
+trigger,trigger_description
+Coffeemaker Not Ready Mode activated at selected time,"This Trigger fires every time your coffeemaker is Not Ready Mode (Refill, Place Carafe or Refill Water modes) is activated at your selected time."
+Water filter needs to be replaced,This Trigger fires every time your coffeemaker’s water filter needs to be replaced.
+Cleaning cycle required,This Trigger fires every time your coffeemaker needs to run a cleaning cycle.

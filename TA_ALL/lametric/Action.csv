@@ -1,0 +1,14 @@
+action,action_description
+Stop Radio,This action will stop playing radio on a LaMetric device.
+Display Notification,This Action will display notification on your LaMetric Time.
+Update Indicator App,This Action will update the Indicator app on your LaMetric Time.
+Start Timer,This action will start the timer on a LaMetric device.
+Activate App,This action will activate specific app on a LaMetric device.
+Start Stopwatch,This action will start stopwatch on a LaMetric Time device.
+Pause Stopwatch,This action will pause stopwatch on a LaMetric Time device.
+Display Sticky Notification,This action will display notification on your LaMetric device. The notification will stay on screen until dismissed.
+Reset Timer,This action will reset the timer on a LaMetric device.
+Set Clock Face,This action will set or update a clock face on your LaMetric device.
+Reset Stopwatch,This action will reset stopwatch on a LaMetric device.
+Pause Timer,This action will pause the timer on a LaMetric device.
+Start Radio,This action will start playing radio on a LaMetric Time device.

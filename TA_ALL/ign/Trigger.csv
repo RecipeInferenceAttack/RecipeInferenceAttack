@@ -1,0 +1,11 @@
+trigger,trigger_description
+Review video posted,This trigger fires when a new review video is posted.
+News video posted,This trigger fires when a news video is posted.
+Guide video posted,This trigger fires when a new guide video is posted.
+PC review posted,This trigger fires when a new PC review is posted.
+Review article posted,This trigger fires when a new review article is posted.
+Video posted,This trigger fires when a new video is posted.
+News article posted,This trigger fires when a news article is posted.
+PC article posted,This trigger fires when a new PC article is posted.
+PC video posted,This trigger fires when a new PC video is posted.
+Article posted,This trigger fires when a new article is posted.

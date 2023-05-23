@@ -1,0 +1,33 @@
+index	ID	名称		    设备		            状态
+1	    lc	Lock	    nuki		        <T0:unlocked,T1：T6:arrive home,T28:leave home>
+2	    li	LED		    Hue	                <0:off,1:on>
+3	    ti	Time		Date&Time		    <[0,24]><0,15,30,45>
+4	    sw	Sweep		wemo smart plug	    <0:off;1:on>
+5	    cu	Curtain		mycurtains		    <1:open,2:close>
+6	    li2	Night light	moonsideLight		<0:off,1:open>
+7	    mv	Move		nest cam	        <0:off,1:on>
+8	    te	Temperature	weather underground	<0:below;1:above>
+9	    fa	fans		tado airconditioning<0:off;1:on>
+10	    wa	water		Nest Protect	    <0:warning;1:emergency>
+11	    so	sound		arlo		        <0:off;1:siren>
+Rules
+1：lc=1时，li=1					开门-->开灯
+2：ti=[480,540]，且lc=2时，sw=1，cu=1，li=0	早上八点到九点出门-->开扫地机器人，开窗帘，关灯
+3：ti=[0,420]∪[1140,1440]且mv=1时，li2=1 		夜间有人移动-->开夜灯
+4：ti=1140时，cu=2				晚上七点-->关窗帘 
+5：te>27且mv=1时，fa=1				温度大于27且有人-->开风扇
+6：wa=1时，so=1					漏水触发警报
+
+1.https://ifttt.com/nuki/details
+2.https://ifttt.com/wemo_lighting/details
+3.https://ifttt.com/date_and_time
+4.https://ifttt.com/wemo_switch/details
+5.https://ifttt.com/mycurtains/details
+6.https://ifttt.com/moonside/details
+7.https://ifttt.com/nest_cam/details
+8.https://ifttt.com/weather/details
+9.https://ifttt.com/tado_air_conditioning/details
+10.https://ifttt.com/nest_protect/details
+11.https://ifttt.com/arlo/details
+
+

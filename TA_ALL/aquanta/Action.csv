@@ -1,0 +1,5 @@
+action,action_description
+Set Away,This action will set your Aquanta into Away mode.
+Set Boost,This action will Boost the specified device.
+Cancel Boost,This action will disable any running boost action.
+Cancel Away,This action will cancel an existing Away.

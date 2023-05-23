@@ -1,0 +1,10 @@
+action,action_description
+Resume robot,This action will resume your robot.
+Dock robot,This action will dock your robot.
+Vacuum and Mop a Room,This action will start a vacuum + mop job a specific room in your home. For Roomba Combo™ j7 robots only.
+Start robot,This action will start your robot.
+Locate robot,This action will locate your robot.
+Vacuum and Mop Everywhere,This action will start a Vacuum and Mop Everywhere job. For Roomba Combo™ j7 robots only.
+Clean by Room,This action will clean a specific room in your home. For robots with Imprint™ Smart Mapping technology.
+Pause robot,This action will pause your robot.
+Stop robot,This action will stop your robot.

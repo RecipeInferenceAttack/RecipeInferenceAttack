@@ -1,0 +1,9 @@
+action,action_description
+Brightness control,Set brightness of a light
+Light control,Turn on/off a light
+Roller shutter control,Move up / down a roller shutter
+Light's color,Change the color of a light
+Roller shutter position,Set the position of a roller shutter
+Climate control,Change the climate mode
+Temperature control,Change the temperature setpoint
+Scenario,Activate a scenario

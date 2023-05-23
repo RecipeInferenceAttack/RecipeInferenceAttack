@@ -1,0 +1,8 @@
+action,action_description
+Change color temperature,This action will change the color temperature of a light bulb.
+Turn off,This action will turn off a selected device.
+Activate scene,This action will activate a selected Scene from your account.
+Toggle,This action will toggle a device.
+Turn on,This action will turn on a device.
+Change color,This action will change the color of a light bulb.
+Change brightness,This action will change the brightness of a light bulb.

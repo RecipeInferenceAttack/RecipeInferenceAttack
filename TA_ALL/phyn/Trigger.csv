@@ -1,0 +1,2 @@
+trigger,trigger_description
+Alert detected,This trigger fires when Phyn detects an alert.

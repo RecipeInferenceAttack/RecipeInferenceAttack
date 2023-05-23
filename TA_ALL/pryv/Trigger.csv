@@ -1,0 +1,4 @@
+trigger,trigger_description
+New note added by you,This Trigger fires every time you add a new note to a Pryv stream. NOTE: add and manage streams via Pryv.
+New photo added by you,This Trigger fires every time you add a new photo to a Pryv stream. NOTE: add and manage streams via Pryv.
+New numerical value added by you,This Trigger fires every time you add a new numerical value to a Pryv stream. NOTE: available only via the Pryv app. NOTE: add and manage streams via Pryv.

@@ -1,0 +1,3 @@
+action,action_description
+Create a document,This action will create a new Google document at the path you specify.
+Append to a document,This action will append to a Google document as determined by the file name and folder path you specify. Once a file’s size reaches 2MB a new file will be created.

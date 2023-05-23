@@ -1,0 +1,14 @@
+action,action_description
+[Advanced] Execute a script on specified Triby IO,"This action will execute a script on a Triby IO you specify (advanced use, read the documentation available at www.invoxia.com/developers for more information)."
+Play media URL on specified Triby IO,"This action will play a provided media URL, on a Triby IO you specify."
+Send an image to every Triby IO,This action will send an image to every Triby IO you own.
+Send a silent message to specified Triby IO,This Action will send a silent message to a Triby IO you specify.
+Start a timer on specified Triby IO,This action will start a timer for a given duration on a Triby IO you specify.
+Stop playing media on specified Triby IO,"This action will stop all playing media, on a Triby IO you specify."
+Send a message to specified Triby IO,This Action will send a given message to a Triby IO you specify.
+Send an image to specified Triby IO,This action will send an image to a Triby IO you specify.
+Start a call from specified Triby IO,"This action will make a call to a given user in your group, from a Triby IO you specify."
+Send a silent message to every Triby IO,This Action will send a silent message to every Triby IO in your group.
+Play preset media on specified Triby IO,"This action will play a media among those already preset on a button, on a Triby IO you specify."
+Send a message to every Triby IO,This Action will send a given message to a every Triby IO you own.
+Start an intercom call from specified Triby IO,"This action will make an intercom call to an other Triby of your group, from a Triby IO you specify."

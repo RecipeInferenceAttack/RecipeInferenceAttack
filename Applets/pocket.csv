@@ -1,0 +1,52 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Save new Pocket items to Raindrop.io,"Save new items from Pocket to Raindrop.io.
+Tags will be the same +IFTTT, Pocket",Any new item,Create a new bookmark,/pocket,/raindrop,893
+Add the posts you save on Reddit to your Pocket queue,Add the posts you save on Reddit to your Pocket queue,New post saved by you,Save for later,/reddit,/pocket,2.1k
+Save popular NYTimes articles to Pocket,This saves popular NYTimes articles from a specific section to your Pocket. Read them at your leisure!,New popular article in section,Save for later,/nytimes,/pocket,12.9k
+Works: Pocket to PDF in Google Drive,Save archieved Pocket Articles as PDF in Google Drive,New item archived,Upload file from URL,/pocket,/google_drive,1.6k
+Save Pocket adds to your iOS Reading List,Save Pocket adds to your iOS Reading List,Any new item,Add item to Reading List,/pocket,/ios_reading_list,218
+Pocket links saved to Day One,"Entry contains: title, description, link, tags and a photo if available.",Any new item,Create Journal Entry,/pocket,/day_one,1.0k
+Weekly Pocket Digest,Send a weekly email on a Sunday evening of new articles added to Pocket,Any new item,Add to weekly email digest,/pocket,/email_digest,701
+Save new videos from your favorite channel to Pocket,Catch up on new content from your favorite subscription in your Pocket queue — the link will be waiting there for you when you're ready.,New public video from subscriptions,Save for later,/youtube,/pocket,666
+Save new Raindrop.io items to Pocket,Save new items from Raindrop.io to Pocket,New item,Save for later,/raindrop,/pocket,228
+Save bookmarked post for later,Bookmark a post on Medium to save it for later on Pocket.,Post bookmarked by you,Save for later,/medium,/pocket,873
+Save new favorite Pocket item to Raindrop.io,"When you mark some item as favorite in Pocket, it will be automatically saved to Raindrop.io collection",New favorite item,Create a new bookmark,/pocket,/raindrop,205
+Sync Pocket with Google Drive,Sync Pocket with Google Drive,Any new item,Upload file from URL,/pocket,/google_drive,803
+Save new Pocket items to Instapaper,"For those who use Pocket, but like Instapaper's weekely digest for #kindle. Or for those who bounce between Instapaper and Pocket.",Any new item,Save item,/pocket,/instapaper,2.0k
+Pocket to PDF in Dropbox,Item saved in Pocket is output to PDF and saved in Dropbox,New item archived,Add file from URL,/pocket,/dropbox,256
+Send your Pocket favorites to OneNote,"When you favorite an item in Pocket, it'll be automatically copied to a OneNote notebook.",New favorite item,Create a page from a link,/pocket,/onenote,2.7k
+RSS to Pocket,New feed items post to Pocket,New feed item,Save for later,/feed,/pocket,17.8k
+Add each favorite article as PDF to Google Drive,Add each favorite article as PDF to Google Drive,New favorite item,Upload file from URL,/pocket,/google_drive,1.5k
+Track new Pocket items on your Welltory Dashboard,See what impacts how often you bookmark items,Any new item,Send event,/pocket,/welltory,195
+Save popular posts from r/TodayILearned in Pocket,Automatically save popular posts in r/TodayILearned directly to Pocket. Never miss out on your daily dose of 'mind blown'!,New hot post in subreddit,Save for later,/reddit,/pocket,5.7k
+Keep a running Drive spreadsheet of Pocket articles,Keep a running Drive spreadsheet of Pocket articles,Any new item,Add row to spreadsheet,/pocket,/google_sheets,1.4k
+Save your Pocket favorites to Day One,"As you favorite stories in pocket, they'll save to a notebook in Day One - useful for remembering ""great reads""",New favorite item,Create Journal Entry,/pocket,/day_one,61
+Save new NPR stories to Pocket to remember to read them later,Never miss a story! Choose an NPR category then automatically have stories save to your Pocket reading list.,New story published,Save for later,/npr,/pocket,16
+Save new scientific discoveries to Pocket,Scientists! Always finding things out! So cool. The NSF is always sharing new discoveries — this Applet will send the details to your Pocket queue so you can catch up at your leisure.,New discoveries,Save for later,/nsf,/pocket,1.1k
+"Save ""starred"" articles in Feedly to Pocket.","Save ""starred"" articles in Feedly to Pocket.",New article saved for later,Save for later,/feedly,/pocket,339
+Tag Pocket entry #tweet to share it via Twitter,Tag Pocket entry #tweet to share it via Twitter,New item tagged,Post a tweet,/pocket,/twitter,17
+All Pocket saves to One Note,All Pocket saves to One Note,New item archived,Create a page with an image,/pocket,/onenote,76
+"Add Pocket ""Shared"" to Buffer","Whenever you ""Share"" something via Pocket, it'll go straight to your Buffer Queue.",New item tagged,Add to Buffer,/pocket,/buffer,37
+Add Tagged Pocket items to OneNote,"Tag an item in Pocket with ""onenote"" adds it to OneNote.",New item tagged,Create a page from a link,/pocket,/onenote,786
+Add your Pocket reading list to Todoist,"Whenever you tag an article on Pocket, a new Todoist task will be created. You'll always be on top of your reading list!",New item tagged,Create task,/pocket,/todoist,1.5k
+live better,live better,Any new item,Add a new source,/pocket,/feedly,19
+Save the best Hacker News stories to Pocket,"Whenever a new story becomes a ""best story"", the link from that story will be saved in Pocket.",New best story,Save for later,/hacker_news,/pocket,1.0k
+RSS para Pocket,"A cada novo post publicado no seu blog será criada uma nova entrada no Pocket.
+
+OBS.: É preciso compartilhar a publicação em seu painel para que seja visível ao público.",New feed item,Send me an email,/feed,/email,19
+Pocket 2 Kindle,Edit your url,Any new item,Add file from URL,/pocket,/amazonclouddrive,106
+Automatically save NASA's picture of the day to Pocket,Marvel at the daily beauty of space from your Pocket queue.,Image of the day by NASA,Save for later,/space,/pocket,21.7k
+If new item is added to Instapaper add it to Pocket also.,Allows you to keep all your links to read later on one place - Pocket.,New item saved,Save for later,/instapaper,/pocket,1.4k
+If IG then Pocket,If IG then Pocket,Any new photo by you,Save for later,/instagram,/pocket,7
+Record Pocket Item,Record to Unforgettable Me any new item saved to pocket,Any new item,Upload to Unforgettable Me,/pocket,/unforgettable_me,16
+Today in History: save posts from the Library of Congress to Pocket,Save the incredibly informative and interesting Today in History post from Library of Congress to your Pocket queue.,Today in history,Save for later,/loc,/pocket,145
+read later reminder,this recipe set's a #reminder via google #calendar to read the saved for later articles you put in #pocket,Any new item,Quick add event,/pocket,/google_calendar,67
+Pocket Archive History,"If new item archived in #Pocket, then append to a text file in #Dropbox",New item archived,Append to a text file,/pocket,/dropbox,2
+Save Christmas for later,I'm not always ready to experience Christmas right when it arrives. Save it in my Pocket account for later perusal.,Is It Christmas?,Save for later,/isitchristmas,/pocket,8
+Weekly Pocket Newsletter,Don't forget to read!,New item archived,Add to daily email digest,/pocket,/email_digest,7
+✚ New Staff Pick ➔ Pocket,✚ New Staff Pick ➔ Pocket,New staff pick,Save for later,/vimeo,/pocket,7
+Pocket to Buffer w/ image,Pocket to Buffer w/ image,Any new item,Add photo to Buffer,/pocket,/buffer,91
+URL Download,Downloads URLS,Any new note,Add row to spreadsheet,/do_note,/google_sheets,27
+Save Pocket pages to Diigo,"Save in Pocket, add to private Diigo library",Any new item,Add a private bookmark,/pocket,/diigo,59
+Save SEC filings to Pocket,Use the keyword field to specify which filings you want to save to Pocket.,New filing,Save for later,/sec,/pocket,62
+Save Dropbox PDF to Pocket,This applet saves PDFs newly created in a specify Dropbox folder to pocket. Works with applet https://ifttt.com/applets/JAdF9B6W-save-email-to-dropbox-as-pdf to save email to your pocket.,New file in your folder,Save for later,/dropbox,/pocket,19

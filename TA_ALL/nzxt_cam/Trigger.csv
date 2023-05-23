@@ -1,0 +1,18 @@
+trigger,trigger_description
+RAM load rises above,This trigger fires when RAM load exceeds ___%.
+GPU load drops below,This trigger fires when GPU load drops below ___%.
+GPU temperature rises above,This trigger fires when GPU temperature exceeds ___°.
+Network down traffic rises above,This trigger fires when network down traffic exceeds ___KB/s.
+CPU temperature drops below,This trigger fires when CPU temperature drops below ___°.
+CPU load rises above,This trigger fires when CPU load rises above ___%.
+RAM load drops below,This trigger fires when RAM load drops below ___%.
+Storage usage drops below,This trigger fires when storage usage drops below ___%.
+GPU load rises above,This trigger fires when GPU load exceeds ___%.
+CPU load drops below,This trigger fires when CPU load drops below ___%.
+Network up traffic rises above,This trigger fires when network up traffic exceeds ___KB/s.
+Network down traffic drops below,This trigger fires when network down traffic drops below ___KB/s.
+Storage usage rises above,This trigger fires when storage usage exceeds ___%.
+GPU temperature drops below,This trigger fires when GPU temperature drops below ___°.
+CPU temperature rises above,This trigger fires when CPU temperature exceeds ___°.
+Network up traffic drops below,This trigger fires when network up traffic drops below ___KB/s.
+Profile changes to,This trigger fires when a main profile is activated.

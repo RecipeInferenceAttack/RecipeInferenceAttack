@@ -1,0 +1,8 @@
+action,action_description
+Door Open,Open the Door
+Open,Open the curtain or open the door
+Switch On,This action will switch on light.
+Execute Scene,Execute preconfigured scene
+Switch Off,This action will switch off light.
+Close,Close operation
+Set Level to,Sets Level of a device to specific value

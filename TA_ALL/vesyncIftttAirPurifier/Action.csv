@@ -1,0 +1,6 @@
+action,action_description
+Change mode,"This action changes modes (Auto, Sleep)."
+Change fan speed,"This action turns the fan to a designated speed (Low, Medium, High)."
+Turn off air purifier,This action turns off your air purifier.
+Turn on air purifier,This action turns on your air purifier.
+Turn display on/off,This action turns the display on or off.

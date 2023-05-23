@@ -1,0 +1,5 @@
+action,action_description
+Turn on motion notifications,This Action turns on all motion notifications for all your cameras from your Camio App.
+Start recording,This Action starts recording on one or all of your cameras.
+Stop recording,This Action stops recording on one or all of your cameras.
+Turn off motion notifications,This Action turns off all motion notifications for all your cameras from your Camio App.

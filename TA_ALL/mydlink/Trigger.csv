@@ -1,0 +1,14 @@
+trigger,trigger_description
+Motion is detected,This trigger fires every time your D-Link device detects a motion event.
+Water is no longer detected,This trigger fires when your D-Link water sensor no longer detects water.
+Sound is detected,This trigger fires every time your D-Link camera detects a sound event.
+Plug is turned off,This tigger fires every time your D-Link smart plug is turned off.
+Person is detected,This trigger fires every time your D-Link device detects a person.
+Plug is turned on,This tigger fires every time your D-Link smart plug is turned on.
+Camera is turned on,This tigger fires every time your D-Link camera is turned on.
+T3/T4 alarm is detected,This trigger fires every time your D-Link device detects a T3/T4 alarm.
+Camera is turned off,This tigger fires every time your D-Link camera is turned off.
+Contact close is detected,This trigger fires every time your D-Link device detects a contact close event.
+Vehicle is detected,This trigger fires every time your D-Link device detects a vehicle.
+Water is detected,This trigger fires every time your D-Link water sensor detects a leak event.
+Contact open is detected,This trigger fires every time your D-Link device detects a contact open event.

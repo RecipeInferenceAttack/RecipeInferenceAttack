@@ -1,0 +1,5 @@
+trigger,trigger_description
+Humidity rises above,This trigger fires when the humidity rises above a given threshold.
+Temperature drops below,This trigger fires when the temperature drops below a given threshold.
+Temperature rises above,This trigger fires when the temperature rises above a given threshold.
+Humidity drops below,This trigger fires when the humidity drops below a given threshold.

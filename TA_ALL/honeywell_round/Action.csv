@@ -1,0 +1,4 @@
+action,action_description
+Set a zone temperature,This action sets an override on target temperature of one of your zones. This can either be permanently set or just for a number of hours.
+Enable quick action,This action will enable a quick action at one of your locations. This can either be permanent or for a number of days/hours.
+Disable a quick action,This action will remove any existing quick action at your location and set your heating system to follow the schedule.

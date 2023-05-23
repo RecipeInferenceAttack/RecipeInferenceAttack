@@ -1,0 +1,13 @@
+action,action_description
+Switch off,This Action will turn off your devices that support switching off.
+Set player control,This Action will control your media player devices.
+Change shutter/blinds position,This action will change the shutter/blinds position.
+Run scene,This Action will run a scene.
+Set color,This Action will change the color of your lights. NOTE: Accepts color names and CSS hex color values. Defaults to white if no color match is found.
+Set thermostat setpoint,This action will change the thermostat setpoint.
+Run KNX scene,This action will run a KNX scene.
+Set volume,This Action will set volume on your media player devices that support volume.
+Play favorite,This action will play an item from the favorites.
+Play playlist,This action will play a playlist.
+Switch on,This Action will turn on your devices that support switching on.
+Set light level,This Action will set level on your lighting devices that support dimming.

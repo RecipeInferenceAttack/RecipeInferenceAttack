@@ -1,0 +1,3 @@
+trigger,trigger_description
+Flic is clicked,This Trigger fires every time you click the selected Flic.
+A Flic with a tag is clicked,"You can create tags and give them to your Flics, so multiple Flics can be used with a single Recipe."

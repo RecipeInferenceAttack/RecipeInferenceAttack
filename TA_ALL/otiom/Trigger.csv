@@ -1,0 +1,3 @@
+trigger,trigger_description
+Start Alarm,The Otiom tag has entered an alarm state
+Stop Alarm,The Otiom tag has left an alarm state

@@ -1,0 +1,3 @@
+trigger,trigger_description
+Wine cooler door opened,This trigger fires every time your wine cooler door has been opened.
+Wine cooler door open too long,This trigger fires every time your wine cooler's door was left open too long.

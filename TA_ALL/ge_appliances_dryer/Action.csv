@@ -1,0 +1,2 @@
+action,action_description
+Extend tumble,"This Action will tell your dryer to utilize extended tumble for the current running cycle. If the cycle is not running, this Action will have no effect."

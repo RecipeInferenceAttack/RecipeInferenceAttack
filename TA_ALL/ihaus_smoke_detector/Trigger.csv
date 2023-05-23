@@ -1,0 +1,4 @@
+trigger,trigger_description
+Smoke alarm,The trigger fires when your smoke detector detects a smoke alarm.
+Test alarm,The trigger fires when your smoke detector launches a test alarm.
+Heat alarm,The trigger fires when your smoke detector detects a heat alarm.

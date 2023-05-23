@@ -1,0 +1,3 @@
+action,action_description
+Start Automation,This action will start a Spoki Automation that allows you to send WhatsApp messages and much more.
+Create or Update Contact,This action will create or update a contact in the Spoki Platform. matching it by phone.

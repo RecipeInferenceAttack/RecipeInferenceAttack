@@ -1,0 +1,7 @@
+action,action_description
+Turn on/off devices,This action will turn on or off a selected device.
+HVAC control,This action will allow control of selected Air conditioning / Thermostat devices
+Fan control,This action will allow fan speed control of selected fans
+Dimmer control,This action will allow you to set dimmable lights to a specific percentage
+Curtain / Blind controls,"This action will enable opening/closing, raising/lowering of blinds & curtains"
+Recall scene,This action will recall a scene in Raylogic GO

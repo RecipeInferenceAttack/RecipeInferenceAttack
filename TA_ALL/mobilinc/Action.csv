@@ -1,0 +1,10 @@
+action,action_description
+"Run, enable, or disable a program","This action will enable, disable, or run a program's If, Then, or Else condition."
+"Turn a light on, off, or dim","This action will turn an INSTEON or Z-Wave light on, off, or dim."
+Lock or unlock a door,This action will lock or unlock a Z-Wave lock.
+Turn a scene on or off,This action will turn a scene on or off.
+Set a variable,This action will set a state or integer variable to a custom value.
+Arm or disarm a security area,This action will arm or disarm a security area.
+Adjust a thermostat,This action will adjust a thermostat's mode and setpoint.
+Open or close the garage door,This action will open or close the garage door controlled by an INSTEON IOLinc.
+Turn a switch on or off,"This action will turn an INSTEON, Z-Wave, or X10 device on or off."

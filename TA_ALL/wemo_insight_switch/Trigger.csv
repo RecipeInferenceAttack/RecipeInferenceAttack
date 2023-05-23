@@ -1,0 +1,7 @@
+trigger,trigger_description
+Standby mode entered,This Trigger fires every time your WeMo Insight Switch enters standby mode. The switch enters standby mode when the device attached to it is manually powered off or stops drawing power.
+Daily minutes on is longer than,This Trigger fires when the device attached to your WeMo Insight Switch is turned on longer than the minutes you specify.
+Switched on,This Trigger fires every time your WeMo Insight Switch is turned on.
+Switched off,This Trigger fires every time your WeMo Insight Switch is turned off.
+Monthly estimated cost rises above,This Trigger fires when the estimated cost of the device attached to your WeMo Insight Switch rises above the value you specify.
+Daily cost rises above,This Trigger fires when the cost of the device attached to your WeMo Insight Switch rises above the daily value you specify.

@@ -1,0 +1,2 @@
+action,action_description
+Send data to Adafruit IO,This Action will send data to a feed in your Adafruit IO account.

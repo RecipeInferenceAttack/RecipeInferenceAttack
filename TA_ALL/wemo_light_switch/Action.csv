@@ -1,0 +1,6 @@
+action,action_description
+Toggle on/off,This Action will toggle a WeMo Light Switch on or off.
+Turn on,"This Action will turn a WeMo Light Switch on. If the WeMo Switch is already on, it will remain on."
+Turn off then on,This Action will turn a WeMo Light Switch off then immediately back on.
+Turn off,"This Action will turn a WeMo Light Switch off. If the WeMo Switch is already off, it will remain off."
+Turn on then off,This Action will turn a WeMo Light Switch on then immediately back off.

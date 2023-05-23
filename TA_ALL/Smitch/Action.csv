@@ -1,0 +1,26 @@
+action,action_description
+Turn on camera,This action will turn on camera
+Turn on mic,This action will turn on mic
+Turn on scenes,This action will turn on scenes
+Change bulb colour,This action will change colour of the bulb
+Turn off mic,This action will turn off mic
+Turn on human detection,This action will turn on human detection
+Turn on night vision,This action will turn on night vision
+Turn on motion detection,This action will turn on motion detection
+Turn on all home devices,"This action will turn on all the Smitch Home devices (bulbs, plugs and power strips)"
+Turn off device,This action will turn off device
+Turn on object tracking,This action will turn on object tracking
+Turn off all home devices,"This action will turn off all the Smitch Home devices (bulbs, plugs and power strips)"
+Turn off SD card save,This action will turn off SD card save
+Set night vision to auto mode,This action will ser night vision to auto mode
+Turn off camera,This action will turn off camera
+Change bulb effect,This action will change effects of the bulb
+Turn off human detection,This action will turn off human detection
+Turn off night vision,This action will turn off night vision
+Turn off all effects,This action will turn off all effects of the bulb
+Turn off motion detection,This action will turn off motion detection
+Turn on SD card save,This action will turn on SD card save
+Turn off sound detection,This action will turn off sound detection
+Turn off object tracking,This action will turn off object tracking
+Turn on device,This action will turn on device
+Turn on sound detection,This action will turn on sound detection

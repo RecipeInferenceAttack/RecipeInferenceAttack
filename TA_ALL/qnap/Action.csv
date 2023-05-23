@@ -1,0 +1,11 @@
+action,action_description
+Set user profile picture on QNAP NAS,This action will set/change the user profile picture on QNAP Device.
+Control device power,"These actions will either shutdown the device, reboot the device or put the device in sleep mode Action Fields.
+(This action requires IFTTT Agent v1.1 or above to be installed on your QNAP device)"
+Play any music station playlist on QNAP Device,"This action allows you to play any music station playlist. 
+(This action requires IFTTT Agent v1.1 or above, Music Station v5.0.4 or above and Media Streaming addon v430.1.0.3 or above to be installed on your QNAP device)"
+Control music on QNAP Device via Music Station,"This action allows you to control basic music station operations like stop playing current song, play next song in the current playlist and play previous song in the current playlist.
+(This action requires IFTTT Agent v1.1 or above, Music Station v5.0.4 or above and Media Streaming addon v430.1.0.3 or above to be installed on your QNAP device)"
+Download file from URL,This action will download a file from a given URL to your NAS at a path which you specify.
+Append text to file,"This action will append to a text file as determined by the filename and folder path you specify. If there is no file present, a new file will be created. Once a file’s size reaches to maximum a new file will be created."
+Control surveillance cameras of QNAP Device via Surveillance Station,This action allow the user to control the camera recording via Surveillance Station (Requires IFTTT Agent v1.1 or above and Surveillance Station v5.1.1.2 or above to be installed on your QNAP device)

@@ -1,0 +1,4 @@
+trigger,trigger_description
+Governor's press and appointment releases,This trigger fires every time the Governor's Office issues a new press release or appointment.
+Today's fiscal notes,This trigger fires every time a new fiscal note is released by the Texas Legislature.
+Today's passed bills,This trigger fire every time a new bill passes either the 150 member House of Representatives or the 31 member Senate.

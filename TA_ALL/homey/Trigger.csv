@@ -1,0 +1,2 @@
+trigger,trigger_description
+A Flow has been started,This trigger is run every time a specific Flow has been started on Homey. In order to use this Applet you need to be an owner on your Homey and have the IFTTT Homey App installed.

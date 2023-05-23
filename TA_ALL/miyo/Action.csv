@@ -1,0 +1,8 @@
+action,action_description
+Start irrigation,This action will start irrigation for the given irrigation area.
+Activate automode,This action will activate automatic irrigation for the given irrigation area.
+Stop irrigation,This action will stop irrigation for the given irrigation area.
+Automower status,"The irrigation should not start as long as the automower is still mowing. To handle this situation, MIYO can be informed if the automower has started or finished mowing."
+Deactivate automode,This action will deactivate automatic irrigation for given irrigation area until it is activated again. E.g. if you have a garden party you can deactivate sprinklers using this action.
+Firmware update,This action will check and install updates to your cube.
+Send rain detected notification,This action will notify MIYO if it is raining or not. This action can be used to integrate existing rain sensors into your irrigation system.

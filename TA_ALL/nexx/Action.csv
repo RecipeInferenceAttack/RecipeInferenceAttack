@@ -1,0 +1,8 @@
+action,action_description
+Open door,This action will open the garage door.
+Arm stay,This action will arm your alarm in stay mode.
+Disarm alarm,This action will disarm your alarm.
+Arm night,This action will arm your alarm in night mode.
+Arm away,This action will arm your alarm in away mode.
+Close door,This action will close the garage door.
+Arm alarm,This action will arm your alarm.

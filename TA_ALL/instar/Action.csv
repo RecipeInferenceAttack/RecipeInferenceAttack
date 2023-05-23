@@ -1,0 +1,12 @@
+action,action_description
+Receive a Cloud status email,This action will send an email with the number of alarm uploads today.
+Turn camera to a preset position,This action will allow you to turn your pan&tilt camera to a specific preset position.
+Turn off motion detection,This action will turn off your camera's motion detection.
+Turn off alarm email,This action will turn off your camera‘s alarm email notification.
+Turn off Cloud alarm email,This action will turn off the Cloud alarm email notification.
+Turn on Cloud alarm email,This action will turn on the Cloud alarm email notification.
+Turn on alarm email,This action will turn on your camera's alarm email notification.
+Turn on motion detection,This action will turn on your camera's motion detection.
+Switch alarm areas,This action will allow you to turn your camera's motion detection areas on or off.
+Alarm trigger and video upload,This action will trigger an alarm recording and upload to your Cloud account.
+Set the alarm area sensitivity,This action will adjust the sensitivity of your camera's motion detection areas.

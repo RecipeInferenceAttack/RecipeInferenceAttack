@@ -1,0 +1,44 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Tell Alexa to start a Harmony activity,"Choose a phrase to control your Harmony Home with Alexa. When you say ""Alexa, trigger + [ your phrase]"" you can start any Harmony activity you choose below.",Say a specific phrase,Start activity,/amazon_alexa,/harmony,66.0k
+Start a Harmony activity,Use the Button Widget to begin a Harmony activity.,Button press,Start activity,/do_button,/harmony,19.5k
+Turn TV off by voice,Use Alexa to turn OFF your TV though Harmony activity,Say a specific phrase,End activity,/amazon_alexa,/harmony,1.4k
+End a Harmony activity,Use this Button Widget to stop your Harmony activity.,Button press,End activity,/do_button,/harmony,5.3k
+Power Off A/V,Daily,Every day at,Start activity,/date_and_time,/harmony,113
+Alexa Goodnight,Turns off hue lights and harmony activity,Say a specific phrase,End activity,/amazon_alexa,/harmony,351
+Lights and music,Turn on lights and music when arriving home,You enter an area,Start activity,/location,/harmony,23
+end harmony activity,la,Every day at,End activity,/date_and_time,/harmony,74
+End your Hamony activity,With this applet you can configure to stop the specified Harmony activity when your specified device on our Kwikset cloud will be locked.,Device Locked,End activity,/kwikset,/harmony,
+"Push button, play music!","With just a tap, start some tunes and really get the party started.",Button press,Start activity,/relay,/harmony,56
+Start your Hamony activity,With this applet you can configure to start the specified Harmony activity when your specified device on our Kwikset cloud will be unlocked.,Device Unlocked,Start activity,/kwikset,/harmony,
+Turn Up (Alexa/Harmony/Hue),"This app will make you turn up! It will trigger Alexa to choose a Harmony activity, and which Hue lights you want to turn on!",Say a specific phrase,Turn on color loop,/amazon_alexa,/hue,4
+End a Harmony Home activity,End a Harmony Home activity.,Gesture with task matching ID occurs,End activity,/knocki,/harmony,95
+Harmony activation with Siri,Use Siri to turn on or off a harmony profile by sending an email to IFTTT with #TurnOn as subject of the email.,Send IFTTT an email tagged,Start activity,/email,/harmony,915
+Start movie night with Alexa!,"When you tell Alexa to trigger ""movie night"" your thermostat sets to a comfortable temperature, your lights dim, and Harmony starts an activity (maybe Netflix?).",Say a specific phrase,Start activity,/amazon_alexa,/harmony,7
+Start a Harmony Home activity.,Start a Harmony Home activity.,Gesture with task matching ID occurs,Start activity,/knocki,/harmony,160
+Call to end a Harmony activity,Call to end a Harmony activity,Leave IFTTT any voicemail,End activity,/phone_call,/harmony,30
+End Harmony Acrivity using MESH,This Action will end the Harmony Home activity you specify.,Event from MESH app received,End activity,/mesh,/harmony,2
+Turn off the TV when i go to bed,This will turn off your TV using Logitech Harmony Remote when your mode is set to sleep.,Mode switched,End activity,/futurehome,/harmony,15
+Call to start a Harmony activity,Call to start a Harmony activity,Leave IFTTT any voicemail,Start activity,/phone_call,/harmony,71
+Alexa trigger Movie Night (Wink),"This is an applet that uses Alexa to trigger actions on your harmony remote and wink hub.  For instance, you can start up Netflix and turn down the lights.",Say a specific phrase,Activate shortcut,/amazon_alexa,/wink_shortcuts,33
+Start Harmony Activity using MESH,This Action will start the Harmony Home activity you specify.,Event from MESH app received,Start activity,/mesh,/harmony,11
+Alexa mark turn on tv as complete,Alexa mark turn on tv as complete,Item completed on your To Do List,End activity,/amazon_alexa,/harmony,47
+TV off When Away,These are my notes,Nest set to Away,Start activity,/nest_thermostat,/harmony,167
+Use Alexa to turn on Harmony and Wemo,Use alexa “trigger tv on” turn tv on (harmony) and wemo switch,Say a specific phrase,Start activity,/amazon_alexa,/harmony,46
+Send a tweet to end a Harmony activity,Send a tweet to end a Harmony activity,New tweet by you,End activity,/twitter,/harmony,5
+Send a SMS to start a Harmony activity,"If new SMS sent matches ""Harmony"", then start WATCH APPLE TV activity",New SMS sent matches search,Start activity,/android_messages,/harmony,127
+When a user leaves end Harmony activity,Stop a Harmony activity when a particular user is no longer detected nearby by Fingbox,A user left,End activity,/fing,/harmony,6
+Send a tweet to start a Harmony activity,Send a tweet to start a Harmony activity,New tweet by you,Start activity,/twitter,/harmony,7
+Automatically start your morning routine,"Set the time that works for you, and this Applet will help you start your mornings off on the right foot. It will turn on your LIFX lights, switch on your coffee maker (add grounds the night before!) and turn on your favorite device with Harmony.",Every day of the week at,Start activity,/date_and_time,/harmony,
+Turn on harmony activity and hues lights,Turn on a harmony activity and hues lights with alexa Just ask alexa to turn on tv and you are all set,Say a specific phrase,Turn on lights,/amazon_alexa,/hue,10
+Use your location to end a Harmony activity,Use your location to end a Harmony activity,You exit an area,End activity,/location,/harmony,46
+Use Alexa to turn off Harmony and Wemo Switch,Use alexa “trigger tv off” to turn off harmony (tv) and turn off wemo switch,Say a specific phrase,Turn off,/amazon_alexa,/wemo_switch,14
+End a Harmony activity when everyone has left,"Save energy by turning off activities controlled by your Harmony Hub when everyone assigned to a certain Fingbox Group (""Family"" say) are no longer detected nearby",Everyone left,End activity,/fing,/harmony,7
+End a Harmony activity when you answer a call,"If any phone call answered, then end Harmony activity",Any incoming phone call ends,End activity,/android_phone,/harmony,67
+Start a Harmony activity at a time you choose,This is an easy way to start your favorite Harmony activity start based on a specific date and time.,Every day of the week at,Start activity,/date_and_time,/harmony,1.5k
+Use your location to start a Harmony activity,Use your location to start a Harmony activity,You enter an area,Start activity,/location,/harmony,120
+"Every night at sunset, start a Harmony activity","Every night at sunset, the selected Harmony activity will start.",Sunset,Start activity,/weather,/harmony,63
+Send an SMS to start an activity on your Harmony,"When you send your designated IFTTT number a specific tag, the specified Harmony activity will start.",Send IFTTT an SMS tagged,Start activity,/sms,/harmony,128
+"If front door ring, display security cameras on TV",Security system connected to AV and programmed on Harmony Elite remote.,New Ring Detected,Start activity,/ring,/harmony,292
+Turn on your TV using your Amazon Alexa to-do list,"To turn on your television, ask Alexa to add ""turn on tv"" to your To Do list.",Item added to your To Do List,Start activity,/amazon_alexa,/harmony,1.3k
+When a device connects to OnHub start Harmony activity,Control Harmony activities with OnHub.,Device Connects,Start activity,/google_wifi,/harmony,21
+Wake Up to TV and Lighting,"When Amazon Alexa's Alarm goes off this app will start a Harmony activity and turn on light(s) through Philips Hue. For example, the alarm sounds and your room will light up along with turning on your TV at the same time.",Your Alarm goes off,Turn on lights,/amazon_alexa,/hue,27

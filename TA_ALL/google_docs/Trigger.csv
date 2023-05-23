@@ -1,0 +1,2 @@
+trigger,trigger_description
+New document added,This trigger fires when a new document is added to a Google Drive folder.  Note: only works for docs created after the Applet is turned on.

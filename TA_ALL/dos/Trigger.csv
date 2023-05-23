@@ -1,0 +1,4 @@
+trigger,trigger_description
+Travel alerts,This trigger fires every time there is a new alert from the State Department.
+Press releases,This trigger fires every time there is a new press release from the State Department.
+Travel warnings,This trigger fires every time there is a new travel warning from the State Department.

@@ -1,0 +1,3 @@
+trigger,trigger_description
+Receive a web request with a JSON payload,"This trigger fires every time the Maker service receives a web request to notify it of an event. For information on triggering events, go to your Maker service settings and then the listed URL (web) or tap your username (mobile)"
+Receive a web request,"This trigger fires every time the Maker service receives a web request to notify it of an event. For information on triggering events, go to your Maker service settings and then the listed URL (web) or tap your username (mobile)"

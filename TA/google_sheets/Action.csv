@@ -1,0 +1,3 @@
+action,action_description
+Add row to spreadsheet,This action will add a single row to the bottom of the first worksheet of a spreadsheet you specify. Note: a new spreadsheet is created after 2000 rows.
+Update cell in spreadsheet,This action will update a single cell in the first worksheet of a spreadsheet you specify. Note: a new spreadsheet is created if the file doesn't exist.

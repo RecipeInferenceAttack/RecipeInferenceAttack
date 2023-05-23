@@ -1,0 +1,4 @@
+trigger,trigger_description
+Livy Protect alarm goes off,This trigger fires when your Livy Protect device reports a fire or motion alarm.
+Livy Protect alarm deactivation,This trigger fires when you turn off the alarm in the Livy App.
+Livy Protect alarm activation,This trigger fires when you turn on the alarm in the Livy App.

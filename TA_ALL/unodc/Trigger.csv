@@ -1,0 +1,3 @@
+trigger,trigger_description
+New press release,This trigger fires whenever there is a new press release from the United Nations Office on Drugs and Crime.
+New story,This trigger fires whenever there is a new story from United Nations Office on Drugs and Crime.

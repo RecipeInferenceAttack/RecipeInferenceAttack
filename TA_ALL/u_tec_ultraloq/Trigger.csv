@@ -1,0 +1,5 @@
+trigger,trigger_description
+Lock unlocked by specific person,This Trigger fires every time your lock is unlocked by a specific person.
+Lock is locked by specific person,This Trigger fires every time your lock is locked by a specific person.
+Lock is locked,This trigger fires when lock is locked
+Lock is unlocked,This trigger fires when lock is unlocked

@@ -1,0 +1,3 @@
+trigger,trigger_description
+Trigger call with voice message received,This trigger fires when you leave a voice message on any of our trigger hotlines. We transcribe your message into text. Enter a 3-digit code to distinguish events. Dial-in numbers at https://woop.la/ifttt
+Trigger call received,This trigger fires when we receive your phone call. Enter a 3-digit code to distinguish events. Dial-in numbers at https://woop.la/ifttt

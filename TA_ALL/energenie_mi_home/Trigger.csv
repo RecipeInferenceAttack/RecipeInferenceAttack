@@ -1,0 +1,11 @@
+trigger,trigger_description
+MiHome Click is single-clicked,This trigger fires when a MiHome Click device is single-clicked.
+Door/window opened,This Trigger fires whenever a specific sensor detects that its door/window was opened.
+Door/window closed,This Trigger fires whenever a specific sensor detects that its door/window was closed.
+MiHome Click is long-pressed,This trigger fires when a MiHome Click device is long-pressed.
+Temperature drops below,This Trigger fires every time a device reports that the temperature has dropped below a threshold temperature.
+Device powered on,This Trigger fires every time one of your Mi|Home devices is powered on.
+Device powered off,This Trigger fires every time one of your Mi|Home devices is powered off.
+Temperature rises above,This Trigger fires every time an eTRV reports that the temperature has risen above a threshold temperature.
+MiHome Click is double-clicked,This trigger fires when a MiHome Click device is double-clicked.
+Motion detected,This Trigger fires whenever a motion sensor detects movement nearby.

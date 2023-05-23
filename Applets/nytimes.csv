@@ -1,0 +1,51 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Get alerts if your name or company name is mentioned in the New York Times,"Just enter your keyword and when it's mentioned in an article, you'll get a notification and an email. You've made it! Assuming all press is good press...",New article from search,Send me an email,/nytimes,/email,1.4k
+Add NY Times Best Sellers to a Reading List,Add NY Times Best Sellers to an iOS Reading List,New book on the Best Sellers List,Add item to Reading List,/nytimes,/ios_reading_list,129
+"Get an email when a keyword, name, or phrase you choose appears in an article",This Applet searches newly published content across all sections of the news and sends you an email with a blurb and article link.,New article from search,Send me an email,/nytimes,/email,448
+The New York Times,The New York Times To Blogger,New article in section,Create a post,/nytimes,/blogger,36
+Save popular NYTimes articles to Pocket,This saves popular NYTimes articles from a specific section to your Pocket. Read them at your leisure!,New popular article in section,Save for later,/nytimes,/pocket,12.9k
+new york times,it is also make post with pic like others,New popular article in section,Create a photo post,/nytimes,/blogger,27
+New NYT tech article post to twitter,New NYT tech article post to twitter,New article in section,Post a tweet with image,/nytimes,/twitter,14
+Post Popular Articles from NY Times to Flapz Board,"When NY Times article becomes popular in the section you select, it will post to your Flapz Board",New popular article in section,Update All Flapz Board Rows,/nytimes,/flapz_board,20
+"Get an email when there's a new popular article in the ""Health"" section",Staying healthy means staying informed. This Applet helps you stay on top of what's new in the world of health.,New popular article in section,Send me an email,/nytimes,/email,1.8k
+Save a book,Save £1 every time a book is added to the NYT Bestsellers list,New book on the Best Sellers List,Save,/nytimes,/dozens,6
+Save popular New York Times articles to Instapaper,Save popular New York Times articles to Instapaper,New popular article in section,Save item,/nytimes,/instapaper,1.6k
+Popular article in New York Times send to me in 7am,Popular article in New York Times send to me in 7am,New popular article in section,Add to daily email digest,/nytimes,/email_digest,626
+New Travel Article,"In this recipe, you can know the news articles of Travel section, on the ""The New York Times""",New article in section,Append to a document,/nytimes,/google_docs,10
+Times Sports Tweets,A good way to support sports news to the followers around the world.,New popular article in section,Post a tweet,/nytimes,/twitter,5
+Push NYT bestseller Ebook,Send me the details on NYT bestseller on Pushbullet,New book on the Best Sellers List,Push a note,/nytimes,/pushbullet,5
+NYT Best Sellers to Teams,Get a message to your Teams channel when there is a new book on the NYT Best Sellers list.,New book on the Best Sellers List,Post to channel,/nytimes,/microsoft_teams,
+Pryv popular news from NYT,Pryv popular news from NYT,New popular article in section,Add a note,/nytimes,/pryv,9
+#Newyork Times,#Newyork Times,New article in section,Send an email,/nytimes,/gmail,3
+Business articles to daily email,Business articles to daily email,New article in section,Add to daily email digest,/nytimes,/email_digest,51
+Make Homey your personal news anchor,"When there appears a new popular article in a specified section of the New York Times, let Homey announce this as your personal news anchor.",New popular article in section,Let Homey speak,/nytimes,/homey,18
+Daily Digest of NYT Morning Briefing,get an email every morning with the morning briefing of the current day and evening briefing of the previous day from the New York Times.,New article from search,Add to daily email digest,/nytimes,/email_digest,74
+Save NYT OP-ED Articles to Instapaper,Saves Opinion articles from New York Times to Instapaper Automatically,New article in section,Save item,/nytimes,/instapaper,6
+Send articles from the NYT to OneNote,Send articles from the NYT to OneNote,New article from search,Create a page from a link,/nytimes,/onenote,279
+What's happening in NYC every morning,What's happening in NYC every morning,New article from search,Send an email,/nytimes,/gmail,16
+Search and Save Articles to Instapaper,Any Article that matches your search will be saved to Instapaper,New article from search,Save item,/nytimes,/instapaper,12
+Add NY Times Articles to a Google Sheet,Want to read the latest articles on a topic of your choice? This Applet will save your articles in a Google Sheet so you can dig into them at a later date.,New article from search,Add row to spreadsheet,/nytimes,/google_sheets,4
+buffer all news about japan from nytimes,Use this recipe to make sure you and your followers never miss ANYTHING concerning Japan from the world's best journalism. This is mostly for people with a large Japanophile following.,New article from search,Add to Buffer,/nytimes,/buffer,1
+Any new popular NYT article to Evernote.,Any new popular NYT article to Evernote.,New popular article in section,Create a note,/nytimes,/evernote,14
+Popular NYTimes article → push notification,Popular NYTimes article → push notification,New popular article in section,Send a notification from the IFTTT app,/nytimes,/if_notifications,87
+Subscribe to a weekly digest of SpaceX news,What's Elon up to? Every Friday you'll get a digest of the latest NY Times reporting on SpaceX. 🖖,New article from search,Add to weekly email digest,/nytimes,/email_digest,1.9k
+New article from search → push notification,New article from search → push notification,New article from search,Send a notification from the IFTTT app,/nytimes,/if_notifications,8
+Keep track of New York Times Critics' Picks.,Keep track of New York Times Critics' Picks.,New Critics' Pick movie review,Send an email,/nytimes,/gmail,6
+Save New York Times articles from a section you choose to your Reading List,"If you prefer reading the NYT in Safari, use this Recipe to automatically save all articles for a particular section to your Reading List so they're always at the ready.",New article in section,Add item to Reading List,/nytimes,/ios_reading_list,650
+nyt human rights tweet,nyt search for keywords related to human rights articles,New article from search,Post a tweet,/nytimes,/twitter,1
+Save image from New York Times article to HiDrive,Save image from New York Times article to HiDrive,New article in section,Save to HiDrive,/nytimes,/hidrive,1
+Get an email when the NY Times publishes an obit.,Get an email when the NY Times publishes and obit,New article in section,Send yourself an email,/nytimes,/gmail,2
+E-mail me the latest Black Friday News from NYTimes,"Breaking shopping news, NOW.",New article from search,Send me an email,/nytimes,/email,561
+"#NYT new Paul Krugman search result, add to #Feedly","#NYT new Paul Krugman search result, add to #Feedly",New article from search,Save an article for later,/nytimes,/feedly,5
+Don't miss out any new technology releases or trends,Don't miss out any new technology releases or trends,New popular article in section,Send an email,/nytimes,/gmail,8
+Share New York Times movie articles with your group.,This might be useful for figuring out what to see this weekend.,New article in section,Post a message to group,/nytimes,/groupme,5
+Get The New York Times articles posted to my Vestaboard,Get articles from my favorite NYT sections posted to my Vestaboard.,New article in section,Post to Vestaboard,/nytimes,/vestaboard,
+Read NYTimes Critics' Pick movie reviews later in Pocket,Read NYTimes Critics' Pick movie reviews later in Pocket,New Critics' Pick movie review,Save for later,/nytimes,/pocket,147
+"Add new Critics' Picks movies to a Trello ""To-watch"" list",No idea what to watch on Netflix? This Applet will automatically add new Critics' Picks from the Times' reviewers to a Trello list.,New Critics' Pick movie review,Create a card,/nytimes,/trello,20
+Add new best-selling graphic novels to a Google spreadsheet,Check the list before you head to the comic book store or the library. Happy reading!,New book on the Best Sellers List,Add row to spreadsheet,/nytimes,/google_sheets,1.3k
+Email yourself popular Fashion & Style articles from NYTimes,Be up to date about the world of fashion and style,New article in section,Send me an email,/nytimes,/email,4
+Notify on NY Times World News,Sends notifications with World headlines from NY Times,New article in section,Send a Pushover notification,/nytimes,/pushover,5
+Send me a Boxcar Push when NYT publish new article in section,Select the NYT section you are interested in.,New article in section,Send a notification,/nytimes,/boxcar_2,6
+Post NYTimes articles that match a keyword to a Slack channel,Great for articles about your company or topics that affect your business.,New article from search,Post to channel,/nytimes,/slack,180
+Place NYT Critics' Pick movie openings in your Google Calendar,Place NYT Critics' Pick movie openings in your Google Calendar,New Critics' Pick movie review,Quick add event,/nytimes,/google_calendar,28
+Get an email when a movie makes the NYTimes Critics' Pick list,Get an email when a movie makes the NYTimes Critics' Pick list,New Critics' Pick movie review,Send me an email,/nytimes,/email,218

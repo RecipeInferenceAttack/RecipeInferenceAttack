@@ -1,0 +1,13 @@
+trigger,trigger_description
+NFT transferred,This trigger fires when a NFT is transferred between two specific parties.
+Token received,This trigger fires when a Token is received.
+VET Balance below threshold,This trigger fires when the balance of a wallet goes below a certain value.
+Token sent,This trigger fires when a Token is sent.
+NFT sent,This trigger fires when a NFT is sent.
+Token Balance below threshold,This trigger fires when the balance of a wallet goes below a certain value.
+Fee Delegation has low balance,This trigger fires when the balance of the Fee Delegation Wallet is below the configured threshold.
+Token transferred,This trigger fires when a Token is transferred between two specific parties.
+Fee Delegation has fixed low balance,This trigger fires when the balance of the Fee Delegation Wallet regains the configured threshold.
+NFT in collection transferred,This trigger fires when NFT on a collection is transferred.
+NFT received,This trigger fires when a NFT is received.
+Token of certain contract transferred,This trigger fires when Token on a collection is transferred.

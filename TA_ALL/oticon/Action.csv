@@ -1,0 +1,6 @@
+action,action_description
+Set the volume,This action will set the volume on hearing aid.
+Increase the volume,This Action will increase the volume on hearing aid.
+Set a program,This Action will set a program on the hearing aid.
+Play the text to speech (iPhone),This Action will play the text to speech in the hearing aid if connected through an iPhone
+Decrease the volume,This Action will decrease the volume on the hearing aid.

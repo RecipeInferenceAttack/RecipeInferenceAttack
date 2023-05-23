@@ -1,0 +1,15 @@
+trigger,trigger_description
+ハブ２のタッチボタンを押す,SwitchBotハブ２のタッチボタンを押すことをトリガー条件として設定することが可能です。例えば：ハブ２の左ボタンを押すと、SwitchBotスマート電球をオンにします。
+Hub 2's touch buttons pressed,"This trigger fires when one of the touch buttons of your Hub 2 is pressed. E.g. when the left touch button is pressed, turn on SwitchBot Color Bulb."
+電源の変化,プラグミニの状態をアクション実行条件として設定できます
+Power changes,You can choose Plug Mini's behaviour as a trigger condition
+ロック状態変更,このトリガーはロックの状態が変更した時に実行する
+Lock status changed,This trigger fires when the status of your SwitchBot Lock is changed.
+開閉と動体を検知する,開閉状態の検知結果によって、SwitchBot開閉センサーがサービスをトリガーします。
+Motion detected or no motion detected,"When Motion Sensor detected motion or no motion, the SwitchBot motion sensor will try to trigger the service."
+ロボット状態変更,このトリガーはロボットの状態が変更した時に実行します
+Contact and Motion Detection,"When Contact Sensor detected door/window opened or closed or left open, the SwitchBot contact sensor will try to trigger the service."
+Temperature or humidity changes,"Whenever a preset temperature and/or humidity change detected, SwitchBot Thermometer & Hygrometer (the Meter) will try to trigger the service. E.g. if the temperature is too high, turn on AC with the SwitchBot Hub Plus (the Hub Plus)."
+温度・湿度の変化,温度・湿度の変化を検出された時、SwitchBot温湿度計（メーター）が「THAT」サービスをトリガーにします。例えば、温度が27度より高い時、SwitchBot Hub PlusでエアコンをONにします。
+動体が検出された、または検出されない,動体検知の結果によって、SwitchBot人感センサーがサービスをトリガーします。
+Robot status changed,This trigger fires when the status of your SwitchBot Robot Vacuum Cleaner changed

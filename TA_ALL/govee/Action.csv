@@ -1,0 +1,13 @@
+action,action_description
+Set appliance mode,This action will set the device (not including lights) to a specified mode.
+Apply Snapshot,This action will apply the snapshot of your choice to the device that created the snapshot
+Arm/Disarm,You can choose to arm or disarm your device through this action.
+Set light brightness,This action will set the light to a specified brightness.
+Set light color,This action will set the light to specified color.
+Turn on/off White Noise,This action will turn on/off the white noise of the device you've chosen.
+Turn on/off Oscillation,This action will turn on/off the oscillation of the device you've chosen.
+Turns on/off,This action will turn on/off the device of your choosing.
+Turn on/off Warm Mist,This action will turn on/off the warm mist of the device you've chosen.
+Set Volume,This action will set the device Volume
+Turn on/off Dreamview,This action will turn on/off the Dreamview of your choosing.
+Turn on/off Night Light,This action will turn on/off the Night Light of your choosing.

@@ -1,0 +1,3 @@
+trigger,trigger_description
+Lock close,Triggered when lock is closed
+Lock open,Triggered when the lock is opened

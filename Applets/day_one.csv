@@ -1,0 +1,50 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+"Twitter ""Likes"" saved to Day One","A new liked tweet creates a Journal Entry in Day One with the tweet text, a single image, a link to the tweet, and @username.",New liked tweet by you,Create Journal Entry,/twitter,/day_one,2.4k
+"Spotify ""Saved Track"" saved to Day One",A new saved track on Spotify creates a Journal Entry with track information and URL which auto-embeds the player in Day One.,New saved track,Create Journal Entry,/spotify,/day_one,986
+"YouTube ""Like"" videos saved to Day One",Like a video on YouTube creates a Journal Entry with a URL which auto-embeds the YouTube player in Day One.,New liked video,Create Journal Entry,/youtube,/day_one,3.0k
+Spotify Saved Track to Day One Journal,"Any saved/liked tracks will be saved to your journal with album art, embedded player, and URL.",New saved track,Create Journal Entry,/spotify,/day_one,1.1k
+"Twitter ""Tweets"" saved to Day One",Every new tweet you tweet creates a Journal Entry in Day One with the tweet text and a link to the tweet.,New tweet by you,Create Journal Entry,/twitter,/day_one,4.0k
+"Facebook ""Status Update"" saved to Day One",Post a new status message creates a new Journal Entry in Day One.,New status message by you,Create Journal Entry,/facebook,/day_one,3.8k
+Strava Rides and Runs saved to Day One,"Log Rides and Runs to a Day One entry with detailed info, and link. (no Photo)",New activity by you,Create Journal Entry,/strava,/day_one,2.5k
+Save your Instagram photos to Day One,Automatically post your Instagram photos to a personal Day One Journal to expand upon these memories privately.,Any new photo by you,Create Journal Entry,/instagram,/day_one,4.8k
+"Facebook ""Photo Posts"" saved to Day One",Posting new photos posts on Facebook will create a new Journal Entry in Day One.,New photo post by you,Create Journal Entry,/facebook,/day_one,2.7k
+IF screenshot THEN Day One,To add screenshots to your Day One Journal,New screenshot,Create Journal Entry,/ios_photos,/day_one,187
+5 Minute Journal Entry Template at 6am everyday,Creates a Day One journal entry using the 5 minute journal template,Every day at,Create Journal Entry,/date_and_time,/day_one,331
+"Todoist ""Completed Tasks"" saved to Day One",Save your completed tasks from Todoist as a new Journal Entry in Day On.,New completed task,Create Journal Entry,/todoist,/day_one,1.0k
+Email an entry to Day One,Email trigger@recipe.ifttt.com and auto generate a Day One entry with text and an attached photo.,Send IFTTT any email,Create Journal Entry,/email,/day_one,1.1k
+Today's Weather report saved to Day One,"At the time you specify, a new Day One journal will be created with the days weather report.",Today's weather report,Create Journal Entry,/weather,/day_one,1.9k
+Google Calendar Event Day One Entry,Will create an entry in the chosen Day One journal 15 minutes before every event starts in Google Calendar.,Any event starts,Create Journal Entry,/google_calendar,/day_one,367
+"Foursquare Swarm ""Check-in"" saved to Day One",Collect your check-in history to your Day One Journal.,Any new check-in,Create Journal Entry,/foursquare,/day_one,943
+Evernote Note (with a specific tag) saved to Day One,"When you tag an Evernote note with a specific tag, a new Day One journal entry will be created.",Add a specific tag to note,Create Journal Entry,/evernote,/day_one,899
+Pocket links saved to Day One,"Entry contains: title, description, link, tags and a photo if available.",Any new item,Create Journal Entry,/pocket,/day_one,1.0k
+Fitbit daily activity summary saved to Day One,A new Day One journal entry will be created when your daily activity summary is available from Fitbit.,Daily activity summary,Create Journal Entry,/fitbit,/day_one,959
+Reddit Save to Day One,New saves are published to Day One,New post saved by you,Create Journal Entry,/reddit,/day_one,82
+Reddit Upvotes to Day One,Save upvoted posts in Reddit as new entries in Day One.,New upvoted post by you,Create Journal Entry,/reddit,/day_one,34
+New iOS Contact to Day One Entry,Will add an entry to Day One each time a new contact is created.,Any new contact,Create Journal Entry,/ios_contacts,/day_one,317
+"Facebook ""Tagged Photos"" saved to Day One",When you are tagged in a photo post on Facebook this Applet will create a new Journal Entry in Day One.,You are tagged in a photo,Create Journal Entry,/facebook,/day_one,1.5k
+"Facebook ""Link Post"" saved to Day One",Posting a new link creates a new Journal Entry in Day One.,New link post by you,Create Journal Entry,/facebook,/day_one,1.4k
+Instapaper links saved to Day One,"Any link added to Instapaper creates a new entry in Day One with, title, description, link, and tags.",New item saved,Create Journal Entry,/instapaper,/day_one,482
+Automatically add the Quote of the Day to your DayOne journal,Add a little flair to your daily journals — this Applet will make an entry with the QotD for you.,Today's Quote,Create Journal Entry,/brainyquote,/day_one,316
+Create a Day One entry when you take a photo,"Take a photo with you iPhone and it will create a new Day One journal entry. It only works with the back camera, and does not include screenshots. This should limit the unwanted shots from showing up.",New photo with the rear camera,Create Journal Entry,/ios_photos,/day_one,225
+Quick Note to Day One with shareable link,Quickly add a note with public URL to Day One.,Any new note,Create Journal Entry,/do_note,/day_one,147
+Strava Activity (with Photo) saved to Day One,"Log Rides and Runs (that include a photo) save to a Day One entry with detailed info, link, and single photo.",New activity by you with photo,Create Journal Entry,/strava,/day_one,10
+"Instapaper ""Like"" saves Link to Day One","An entry is saved with title, description, and URL.",New liked item,Create Journal Entry,/instapaper,/day_one,681
+Save your Pocket favorites to Day One,"As you favorite stories in pocket, they'll save to a notebook in Day One - useful for remembering ""great reads""",New favorite item,Create Journal Entry,/pocket,/day_one,61
+"At the end of each Day, log recent Spotify tracks in Day One",A simple applet that gets your most recent plays in Spotify then records them as a journal entry in Day One. Want to see exactly what you were listening to on the same day last year? From now on you'll be able to!,Every day at,Create Journal Entry,/date_and_time,/day_one,12
+IF mentioned on Twitter THEN journal,"If you are mentioned on Twitter, save the mention to your Day One journal",New mention of you,Create Journal Entry,/twitter,/day_one,102
+RescueTime Daily Summary saved to Day One,"Includes total time tracked, productive, neutral and distracting, and a link to the full report on RescueTime.",New daily summary is available,Create Journal Entry,/rescuetime,/day_one,338
+Create a Day One entry containing an album cover collage of last.fm scrobbles for the last week,Replace XXX in the Body and Image URL fields with your last.fm username,Every day of the week at,Create Journal Entry,/date_and_time,/day_one,37
+Medium article to Day One Journal,Like a Medium article? Save it in your journal!,Post bookmarked by you,Create Journal Entry,/medium,/day_one,71
+New Google Contact to Day One Entry,This recipe will add every new Google Contact to your Day One journal,New contact added,Create Journal Entry,/google_contacts,/day_one,24
+Save your Wordpress posts to Day One,Automatically save your wordpress entries to Day One,Any new post,Create Journal Entry,/wordpress,/day_one,160
+RescueTime Highlight saved to Day One,Daily Highlight text posted immediately.,New highlight is added,Create Journal Entry,/rescuetime,/day_one,19
+Keep your Instapaper highlights 4ever!,Like highlighting interesting passages while you're reading? Hate losing them or not being able to search them? This recipe has you covered!,New highlight,Create Journal Entry,/instapaper,/day_one,50
+Instagram pics with hashtag #journal saved to Day One,"Add some visual flair to your journal. When you add the hashtag #journal to your Instagram caption, it'll tell this Applet this one's a keeper. It'll be added to Day One along with the caption (with the hashtag stripped out).",New photo by you with specific hashtag,Create Journal Entry,/instagram,/day_one,593
+Spotify to Day One Journal,This will help you remember when you first added a song to your playlist.,New track added to a playlist,Create Journal Entry,/spotify,/day_one,74
+Starava Activities,Strava Activities to DayOne,New route by you,Create Journal Entry,/strava,/day_one,14
+Evernoteのメモを「Day One」へ,Evernoteのメモを「Day One」へ。タイトルは文字化けするため、英数字と記号のみが望ましい。,New note in a notebook,Create Journal Entry,/evernote,/day_one,68
+Save Liked Video to Day One,Heart a video on Vimeo creates a Journal Entry with video information and URL which auto-embeds the Vimeo player in Day One.,New liked video,Create Journal Entry,/vimeo,/day_one,45
+instagramで動画を投稿したら「Day One」へ,instagramで動画を投稿したら「Day One」へ,Any new video by you,Create Journal Entry,/instagram,/day_one,69
+SoundCloud liked songs journal,Create journal entry when like a public song on SoundCloud,New public like,Create Journal Entry,/soundcloud,/day_one,42
+Save tweets to DayOne Journal,All tweets sent by specified account will be saved to DayOne Journal,New tweet by you,Create Journal Entry,/twitter,/day_one,139
+Android Outgoing Phone to Day One,Creates a journal entry for all outgoing phone calls from Android Device,Any outgoing phone call ends,Create Journal Entry,/android_phone,/day_one,4

@@ -1,0 +1,6 @@
+trigger,trigger_description
+Freezer temperature too high,This trigger fires every time your freezer temperature is too high.
+Freezer door opened,This trigger fires every time your freezer door has been opened.
+Refrigerator door opened,This trigger fires every time your refrigerator door has been opened.
+Refrigerator door open too long,This trigger fires every time your refrigerator door was left open too long.
+Freezer door open too long,This trigger fires every time your freezer door was left open too long.

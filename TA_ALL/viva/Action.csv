@@ -1,0 +1,9 @@
+action,action_description
+Turn device off,This action will turn a device off given a name.
+Lock door,This action will lock a specific door.
+Unlock door,This action will unlock a specific door.
+Turn alarm on,"This action will turn on the alarm in your house, this requires a subscription with alarm functionality."
+Change brightness of bulb,This action will change the brightness of a bulb given a name.
+Change color of bulb,This action will change the color of a bulb given a name.
+Turn alarm off,"This action will turn off the alarm in your house, this requires a subscription with alarm functionality."
+Turn device on,This action will turn a device on given a name.

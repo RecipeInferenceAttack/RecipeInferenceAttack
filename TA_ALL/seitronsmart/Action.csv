@@ -1,0 +1,4 @@
+action,action_description
+Set temperature,This action will set the thermostat in manual mode with the given setpoint.
+Switch to scheduled mode,Set the thermostat in scheduled (auto) mode.
+Set frost-guard mode,Turn off the thermostat. In OFF mode the frost-guard is active.

@@ -1,0 +1,4 @@
+action,action_description
+Turn heating on,This Action will start your heating.
+Return to tado⁠° automatic control,"This Action will return control of your heating to tado⁠°, using your user-defined settings (e.g. location and Smart Schedule) to automatically determine the right room temperature."
+Turn heating off,This Action will turn your heating off.

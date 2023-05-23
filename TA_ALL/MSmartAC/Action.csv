@@ -1,0 +1,8 @@
+action,action_description
+Turn on/off the air conditioner,This Action will turn on/off the air conditioner.
+Set operating mode,This Action will set the air conditioner to the designated operating mode.
+Turn on/off windSwingLR,This ACTION will turn on/off the left/right wind of the air conditioner
+Turn on/off windSwingUD,This ACTION will turn on or off the up and down wind of the air conditioner
+Set fan speed,"This Action sets the fan to the desired speed (Auto,Low, Medium, High)."
+Turn on/off the ECO mode,This ACTION will turn on/off the ECO mode
+Set Temperature,This Action will change the air conditioner temperature setpoint.

@@ -1,0 +1,7 @@
+action,action_description
+Change Brightness,This action will change the brightness of a light bulb.
+Turn On,This action will turn on a device.
+Turn Off,This action will turn off a device.
+Change Color,This action will change the color of a light bulb.
+Change Color Temperature,This action will change the color temperature of a light bulb.
+Activate Shortcut,This action will activate a shortcut.

@@ -1,0 +1,8 @@
+trigger,trigger_description
+Electricity Price in Denmark is Normal,This trigger fires at the hours where electricity price in Denmark is normal.
+Electricity in Denmark is Cheap,This trigger fires at the hours where electricity in Denmark is cheap.
+Electricity CO2 Emission in Denmark is Low,This trigger fires at the hours where electricity CO2 emission in Denmark is low.
+Electricity CO2 Emission in Denmark is Normal,This trigger fires at the hours where electricity CO2 emission in Denmark is normal.
+Electricity in Denmark is Free,This trigger fires at the hours where electricity in Denmark is free.
+Electricity in Denmark is Expensive,This trigger fires at the hours where electricity in Denmark is expensive.
+Electricity CO2 Emission in Denmark is High,This trigger fires at the hours where electricity CO2 emission in Denmark is high.

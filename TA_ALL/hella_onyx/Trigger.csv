@@ -1,0 +1,3 @@
+trigger,trigger_description
+Sun brightness,This trigger fires when the sun brightness is above or below the defined threshold.
+Wind peak,This trigger fires when the wind peak value is above or below the defined threshold.

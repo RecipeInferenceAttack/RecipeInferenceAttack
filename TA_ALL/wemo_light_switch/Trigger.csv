@@ -1,0 +1,4 @@
+trigger,trigger_description
+Switched off,This Trigger fires every time your WeMo Light Switch is turned off.
+Switched on,This Trigger fires every time your WeMo Light Switch is turned on.
+Long press,This Trigger fires every time your WeMo Light Switch is turned on or off with a long press over two seconds.

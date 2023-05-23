@@ -1,0 +1,4 @@
+action,action_description
+Activate tmp,This Action will activate the output of your cloudBit for 3 seconds.
+Deactivate tmp,This Action will deactivate the output of your cloudBit.
+Set tmp Level,This Action will set the output of your cloudBit to the specified level for the specified length of time.

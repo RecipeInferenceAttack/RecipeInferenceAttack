@@ -1,0 +1,3 @@
+trigger,trigger_description
+Turned on,This trigger fires when the device turns on.
+Turned off,This trigger fires when the device turns off.

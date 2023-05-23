@@ -1,0 +1,5 @@
+trigger,trigger_description
+Device turned on/off,This trigger fires when a device is turned on or off.
+Temperature reached target,This trigger fires when the temperature goes over or under a certain value
+Door opened/closed,This trigger fires when a door is opened or closed
+Digital sensor open/closed,"Movement sensor, contact sensor, doorbell, detecting a new event."

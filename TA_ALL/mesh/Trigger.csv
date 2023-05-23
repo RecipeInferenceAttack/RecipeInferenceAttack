@@ -1,0 +1,2 @@
+trigger,trigger_description
+Event from MESH app received,This Trigger fires every time your IFTTT Tag on MESH app receives an input signal from the other Tag.

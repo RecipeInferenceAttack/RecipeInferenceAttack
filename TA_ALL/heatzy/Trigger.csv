@@ -1,0 +1,10 @@
+trigger,trigger_description
+Device is set to manual mode,This trigger fires when the specified device is set to manual mode
+Activate the child lock,This trigger fires when the specified device child lock is activated
+Deactivate the child lock,This trigger fires when the specified device child lock is deactivated
+Device is set to auto mode,This trigger fires when the specified device is set to auto mode
+Device is turned off,This trigger fires when the specified device is turned off
+Device is set to eco mode,This trigger fires when the specified device is set to eco mode
+Device is set to cool mode,This trigger fires when the specified device is set to cool mode
+Device is turned on,This trigger fires when the specified device is turned on
+Device is set to heat mode,This trigger fires when the specified device is set to heat mode

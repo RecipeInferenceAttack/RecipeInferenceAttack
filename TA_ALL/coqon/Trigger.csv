@@ -1,0 +1,2 @@
+trigger,trigger_description
+Coqon rule fires,This trigger fires when the associated rule on your coqon box is activated.

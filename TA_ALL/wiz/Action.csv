@@ -1,0 +1,7 @@
+action,action_description
+Turn off the light,This action will turn off the selected light(s).
+Pulse the light,This action will make the selected light(s) pulse gently once.
+Activate a scene,This action will apply the settings of the selected scene to your WiZ lights.
+Turn on / change light mode,"This action will turn on the selected light(s). Optionally, a light mode or pre-defined color can be applied, as well as a level of dimming."
+Dim / Brighten the light,"This action will dim / brighten the selected light(s) by the step of your choice. Ideal for your smart remotes, connected buttons, widgets and much more!"
+Toggle your lights on/off,This action will turn your lights on if they are currently off – and vice versa. An easy way to toggle between on and off statuses!

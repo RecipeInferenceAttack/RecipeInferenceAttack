@@ -1,0 +1,4 @@
+trigger,trigger_description
+New open recall,This trigger fires when there is a new open recall from the USDA.
+News from the USDA,This trigger fires whenever there is a news release from the USDA. Note that this news includes new open recalls.
+New askFSIS Q&A,This trigger fires whenever there is a new Q&A entry on askFSIS (Food Safety and Inspection Service).

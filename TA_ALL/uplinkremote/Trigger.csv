@@ -1,0 +1,4 @@
+trigger,trigger_description
+The alarm panel has been armed,This trigger fires every time when your alarm panel is armed
+The alarm panel has been disarmed,This trigger fires every time when your alarm panel is disarmed.
+The alarm panel has triggered an alert,This trigger fires an alert when your alarm panel has an alarm.

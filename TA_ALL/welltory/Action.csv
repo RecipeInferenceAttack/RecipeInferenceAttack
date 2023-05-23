@@ -1,0 +1,3 @@
+action,action_description
+Send activity,This action will send information of durational activity to Welltory.
+Send event,This action will send info about events you can track in whole numbers to Welltory.

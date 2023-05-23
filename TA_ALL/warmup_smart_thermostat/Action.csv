@@ -1,0 +1,4 @@
+action,action_description
+Turn off,This action will turn off your thermostat and place it in frost protect mode until heating is turned back on.
+Set temperature,This action will set your thermostat to a specified temperature.
+Turn on,This action will turn the thermostat back on to the mode that was last set.

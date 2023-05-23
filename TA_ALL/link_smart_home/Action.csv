@@ -1,0 +1,6 @@
+action,action_description
+Toggle light power switch on or off,This action will turn on or off your light.
+Toggle aroma diffuser power switch on or off,This action will turn on or off your aroma diffuser.
+Toggle outlet power switch on or off,This action will turn on or off your outlet.
+Change light brightness,This action will change the brightness of your light.
+Change color temperature,This action will change the color temperature of your light.

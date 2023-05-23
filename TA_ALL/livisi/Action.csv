@@ -1,0 +1,3 @@
+action,action_description
+Set State to 'Yes',This action will set a innogy SmartHome State to 'Yes'.
+Set State to 'No',This action will set a innogy SmartHome State to 'No'.

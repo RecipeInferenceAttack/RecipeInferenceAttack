@@ -1,0 +1,6 @@
+action,action_description
+Set shade tilt,This Action allows shades to be set to the desired tilt.
+Activate scene,This Action will adjust multiple lights and shades together by activating a scene created in the Lutron app.
+Set fan speed,This Action allows a fan to be set to the desired speed.
+Set light level,This Action will set a Lutron dimmer or switch to the level you specify.
+Set shade position,This Action will set a Lutron shade to the position you specify.

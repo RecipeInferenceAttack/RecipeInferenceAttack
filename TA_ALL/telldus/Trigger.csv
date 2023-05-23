@@ -1,0 +1,11 @@
+trigger,trigger_description
+Temperature drops below,This trigger fires every time the temperature drops below the chosen value.
+A device switched off,This trigger fires every time your device is switched off.
+A device switched on,This trigger fires every time your device is switched on.
+Luminance drops below,This trigger fires every time the luminance drops below the chosen value.
+Temperature rises above,This trigger fires every time the temperature rises above the chosen value.
+Humidity drops below,This trigger fires every time the humidity drops below the chosen value.
+Luminance rises above,This trigger fires every time the luminance rises above the chosen value.
+Humidity rises above,This trigger fires every time the humidity rises above the chosen value.
+Power drops below,This trigger fires every time the power level drops below the chosen value.
+Power rises above,This trigger fires every time the power rises above the chosen value.

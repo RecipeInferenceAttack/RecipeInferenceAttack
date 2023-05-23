@@ -1,0 +1,4 @@
+trigger,trigger_description
+End of cycle alarm,This Trigger fires 30 minutes after the end of a wash cycle.
+Cycle ends in 10 minutes,This Trigger fires 10 minutes before the wash cycle is over.
+End of cycle,This Trigger fires every time your GE Washer finishes a cycle.

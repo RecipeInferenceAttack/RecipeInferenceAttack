@@ -1,0 +1,3 @@
+trigger,trigger_description
+New completed task,This trigger fires every time you complete a task in TickTick.
+New task created,This trigger fires every time you add a new task in TickTick.

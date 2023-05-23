@@ -1,0 +1,3 @@
+trigger,trigger_description
+Button Press Detected,This Trigger fires every time somebody presses the button on you Remo+ device
+New Motion Detected,This Trigger fires every time a motion is detected at the given remo+ device.

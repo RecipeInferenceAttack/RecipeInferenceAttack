@@ -1,0 +1,6 @@
+action,action_description
+Create Image NoteCard,This action will create an image notecard in notebook
+Create Notecard With HTML Content,This action will create a notecard with HTML content
+Add Text Note,This action will create a Text notecard in notebook
+Create Link Card,This action will create a link card in notebook
+Change Notebook Cover,This action will change a notebook cover

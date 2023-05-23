@@ -1,0 +1,18 @@
+trigger,trigger_description
+Air pressure rises above,This Trigger fires every time the ambient air pressure rises above a value you specify.
+Rain no longer detected,This Trigger fires every time your Netatmo Rain Gauge detects that it is no longer raining.
+Yesterday's rainfall measurement,This Trigger fires every day with yesterday's rainfall measurement.
+Noise level rises above,This Trigger fires every time the noise rises above a decibel value you specify.
+Humidity drops below,This Trigger fires every time the humidity drops below a percentage you specify.
+Carbon dioxide rises above,This Trigger fires every time the carbon dioxide rises above a value you specify.
+Wind speed rises above,This Trigger fires every time the wind speed rises above a value you specify.
+Wind speed drops below,This Trigger fires every time the wind speed drops below a value you specify.
+Today's rainfall measurement,This Trigger fires every day with the Netatmo Rain Gauge's rainfall measurement.
+Temperature rises above,This Trigger fires every time the temperature rises above a value you specify.
+Temperature drops below,This Trigger fires every time the temperature drops below a value you specify.
+Gust speed rises above,This Trigger fires ever time the gust speed rises above a value you specify.
+Carbon dioxide drops below,This Trigger fires every time the carbon dioxide drops below a value you specify.
+Rain detected,This Trigger fires every time your Netatmo Rain Gauge detects that it is raining.
+Air pressure drops below,This Trigger fires every time the ambient air pressure drops below a value you specify.
+Humidity rises above,This Trigger fires every time the humidity rises above a percentage you specify.
+Noise level drops below,This Trigger fires every time the noise drops below a decibel value you specify.

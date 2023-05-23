@@ -1,0 +1,2 @@
+trigger,trigger_description
+New pinned message in channel,This trigger fires when a new message is pinned in a channel you select.

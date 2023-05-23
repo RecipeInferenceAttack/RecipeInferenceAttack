@@ -1,0 +1,2 @@
+trigger,trigger_description
+SMS received,This trigger fires when an SMS is received

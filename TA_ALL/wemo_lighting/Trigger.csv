@@ -1,0 +1,4 @@
+trigger,trigger_description
+Light switched off,This Trigger fires every time your WeMo light switches off.
+Light dimmed to specific level,This Trigger fires every time your WeMo light dims to a level you specifcy.
+Light switched on,This Trigger fires every time your WeMo light switches on.

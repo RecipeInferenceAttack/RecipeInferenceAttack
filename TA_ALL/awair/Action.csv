@@ -1,0 +1,3 @@
+action,action_description
+Control an Awair Glow switch,"This action will control an Awair Glow's switch, sending an ""On"" or ""Off"" command to the connected device."
+Update Awair Glow display mode,This action will update the display mode of your Awair Glow's LEDs.

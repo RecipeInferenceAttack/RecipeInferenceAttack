@@ -1,0 +1,3 @@
+trigger,trigger_description
+Recording ended,This trigger fires when a recording ends.
+Recording started,This trigger fires when a recording starts.

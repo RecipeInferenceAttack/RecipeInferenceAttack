@@ -1,0 +1,5 @@
+trigger,trigger_description
+Transfer finished,This trigger fires when a transfer is finished at put.io.
+Playback started,This trigger fires when a media playback started on a put.io app.
+Playback stopped,This trigger fires when a media playback stopped on a put.io app.
+Conversion finished,This trigger fires when a MP4 conversion is finished.

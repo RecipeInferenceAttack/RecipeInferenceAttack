@@ -1,0 +1,9 @@
+trigger,trigger_description
+Device stops reporting,This trigger fires when your device hasn't reported for 20 minutes.
+Parameter falls below,This trigger fires when a given parameter falls below a certain threshold.
+UV rises above,This trigger fires when the UV Index rises above a given value.
+Parameter rises above,This trigger fires when a given parameter exceed a given threshold.
+Daily Rain rises above,This trigger fires when the Daily Rain measurement rises above a given threshold.
+Outdoor Temperature rises above,This trigger fires when the outdoor temperature rises above a given value.
+Outdoor Temperature falls below,This trigger fires when the Outdoor Temperature falls below a given value.
+Wind Speed rises above,This trigger fires when the wind speed rises above a given value.

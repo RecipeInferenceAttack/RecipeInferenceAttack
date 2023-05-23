@@ -1,0 +1,44 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Backup your iPhone contacts to single Google Document,"If you'd like to try a similar Applet that saves contacts to a spreadsheet instead of a doc, try this: https://ifttt.com/applets/90224p",Any new contact,Append to a document,/ios_contacts,/google_docs,23.7k
+Sync all your new iOS Contacts to a Google Spreadsheet,Automatically save new iOS Contacts you add to a Google spreadsheet for easy sorting and searching.,Any new contact,Add row to spreadsheet,/ios_contacts,/google_sheets,306.9k
+"Send me a list of my new contacts over the week, so I remember to stay in contact.","Send me a list of my new contacts over the week, so I remember to stay in contact.",Any new contact,Add to weekly email digest,/ios_contacts,/email_digest,3.9k
+Whenever you add a new iOS contact mark it in your Google Calendar,"Keep track of when you met new contacts. For every new iOS contact, an event will be made in Google Calendar on the day the contact was added.",Any new contact,Quick add event,/ios_contacts,/google_calendar,3.9k
+Save new iOS Contacts to your Google Contacts,This Applet will save any new iOS contact to your Google Contacts.,Any new contact,Create new contact,/ios_contacts,/google_contacts,124.8k
+Save New contacts to Evernote,never be bothered by accidental deletion or miss placement of contacts again.,Any new contact,Create image note from URL,/ios_contacts,/evernote,1.0k
+Add a contact and create a reminder,Wanna find the new friends in your contacts u just met last night but just can't recall the name?,Any new contact,Add reminder to list,/ios_contacts,/ios_reminders,1.5k
+Who did you meet last night? Follow an email trail of your latest contacts,"Get an email for each new entry you add to iOS Contacts. This could be helpful, it also may not.",Any new contact,Send me an email,/ios_contacts,/email,765
+Send new contact information to OneNote,Send new contact information to OneNote,Any new contact,Create a page,/ios_contacts,/onenote,356
+Create a note for every new contact you add on your iPhone,Remember everyone you meet in Evernote! This Applet automatically creates a note in Evernote when you add a new contact to your iOS Contacts.,Any new contact,Create a note,/ios_contacts,/evernote,447
+Save all your contacts,You can use this for save your stuff,Any new contact,Create a document,/ios_contacts,/google_docs,15.6k
+Automatically add new iOS Contacts to your Google services,"The Applet allows you to sync new iOS contacts with your most used Google services. New contacts will be added to a Google spreadsheet, added to your Google contacts, and marked in your Google calendar.",Any new contact,Create new contact,/ios_contacts,/google_contacts,7.6k
+Automatically back up new iOS Contacts to Dropbox,Never lose a phone number or email address again. Sync all your new contacts to Dropbox automatically!,Any new contact,Append to a text file,/ios_contacts,/dropbox,2.4k
+Send an email to your Gmail with the details when you add a new contact,"Turn your Gmail inbox into an easily searchable address book. When you add a new iOS contact, this Applet will send you an email with the name in the subject line, and all of the other details in the body. 🙌",Any new contact,Send yourself an email,/ios_contacts,/gmail,193
+New iOS Contact to Day One Entry,Will add an entry to Day One each time a new contact is created.,Any new contact,Create Journal Entry,/ios_contacts,/day_one,317
+Sync new contacts to Airtable,"Automatically save new iOS Contacts you add to Airtable. Perfect for CRM use cases where you want to sort, filter, and store additional information about your contacts.",Any new contact,Create a new record,/ios_contacts,/airtable,578
+Box cloud contacts backup,Backups your contacts into separate text files in your box cloud,Any new contact,Create a text file,/ios_contacts,/box,117
+"If new contact added in my iphone, then send a notification!!!!","If new contact added in my iphone, then send a notification!!!!",Any new contact,Send a notification from the IFTTT app,/ios_contacts,/if_notifications,296
+Mark the date on your calendar when a new name is added to your iOS Contacts,Keep track of when you meet new contacts by automatically adding an event to your iOS Calendar.,Any new contact,Create a calendar event,/ios_contacts,/ios_calendar,5.5k
+iOS contacts to Dropbox,iOS contacts to Dropbox,Any new contact,Create a text file,/ios_contacts,/dropbox,814
+Create a long list in Evernote of the new contacts you add on your iPhone,"Each new contact you add to your iPhone, this Applet will add to a single note in Evernote called ""Contacts.""",Any new contact,Append to note,/ios_contacts,/evernote,745
+New Contact added to iPhone email with details are sent to Gmail in an email to add to Google Contac,New Contact added to iPhone email with details are sent to Gmail in an email to add to Google Contac,Any new contact,Send an email,/ios_contacts,/gmail,713
+New iOS Contacts to Trello,Save your iOS contacts to trello.,Any new contact,Create a card,/ios_contacts,/trello,56
+Tweet when you add a new contact to your phone!,Beware any type of auto contact import as it will tweet every one of them! Works best with single additions.,Any new contact,Post a tweet,/ios_contacts,/twitter,35
+"If new contact added, then add new subscriber to Mailchimp",Make sure you change the list.,Any new contact,Add new subscriber,/ios_contacts,/mailchimp,134
+Save Contacts.,Saves every new contact to Dropbox.,Any new contact,Add file from URL,/ios_contacts,/dropbox,393
+IOS Contact sync & record,"When a new contact is entered into IOS contacts, the entry will be recorded in a Google calendar event, then also added to Google contacts",Any new contact,Create new contact,/ios_contacts,/google_contacts,370
+IOS contacts to Google contacts,Converts contacts from IOS to Google contacts,Any new contact,Create new contact,/ios_contacts,/google_contacts,8.7k
+Any new IOS Contacts automatically subscribed to Mailchimp,"Auto subscribed new contacts from you iPhone to selected Mailchimp list. 
+Useful for:
+- bloggers
+- sending cards
+- for company mobiles",Any new contact,Add new subscriber,/ios_contacts,/mailchimp,8
+Get an email when a new iOS Contacts Applet is published,"As we improve our service on IFTTT, we plan to publish new Applets that you won't want to miss out on. Stay tuned!",New Applet published by service,Send me an email,/ifttt,/email,11
+Get an email when iOS Contacts publishes a new trigger or action,"As we improve our service on IFTTT, we aim to publish new triggers or actions that you won't want to miss out on. Stay tuned!",New trigger or action published by service,Send me an email,/ifttt,/email,30
+If a new contact is created then send a notification from the IFTTT,this Applet fires when a new contact is created,Any new contact,Send a notification from the IFTTT app,/ios_contacts,/if_notifications,1
+iOS Contacts to Google Contacts,Clones any new iOS Contacts to Google Contacts creating a seamless experience between devices.,Any new contact,Create new contact,/ios_contacts,/google_contacts,14
+Remember when you met new contacts by adding them to Google Calendar,Remember when you met new contacts by adding them to Google Calendar,Any new contact,Quick add event,/ios_contacts,/google_calendar,64
+Quantify my IOS contacts using a spreadsheet in Google Drive,Quantify my IOS contacts using a spreadsheet in Google Drive,Any new contact,Add row to spreadsheet,/ios_contacts,/google_sheets,137
+"Whenever I add a new contact, mark it in my Calendar","Whenever I add a new contact, mark it in my Calendar",Any new contact,Quick add event,/ios_contacts,/google_calendar,14
+Email me new iOS contact,Email me new iOS contact,Any new contact,Send me an email,/ios_contacts,/email,21
+Backup my contacts to a Google Spreadsheet,Backup my contacts to a Google Spreadsheet,Any new contact,Add row to spreadsheet,/ios_contacts,/google_sheets,113
+Contacts Backup to Google Drive,Add new Contacts from iOs to a spreadsheet on Google Drive,Any new contact,Add row to spreadsheet,/ios_contacts,/google_sheets,211

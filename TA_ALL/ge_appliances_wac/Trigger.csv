@@ -1,0 +1,6 @@
+trigger,trigger_description
+Cool mode selected,This Trigger fires when cool-mode has been selected.
+Fan only mode selected,This Trigger fires every time fan-only mode is selected.
+Target temperature reached,This Trigger fires when the target temperature has been reached.
+Air filter needs cleaning,This Trigger fires when your GE Window AC unit's air filter needs to be cleaned.
+Energy saver mode selected,This Trigger fires when energy-saver mode is selected.

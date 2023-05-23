@@ -1,0 +1,16 @@
+trigger,trigger_description
+Filter Warning,This trigger fires when the filter warning activates
+Room Humidity Drops Below,This trigger fires when the humidity in the room drops below the specified percentage
+UV Warning,This trigger fires when the UV warning activates
+Room Temperature Rises Above,This trigger fires when the temperature in the room rise above the chosen temperature
+Check Warning,This trigger fires when the check warning activates
+Set Temperature Changes To Below X,This trigger fires when you set the setpoint of either heat or cool to a temperature below a threshold specified by you
+Fan Mode Change,This trigger fires when fan mode is changed to the specified value
+Low Remote Sensor Battery,This trigger fires when the remote sensor battery is low
+Room Temperature Drops Below,This trigger fires when the temperature in the room drops below the chosen temperature
+Set Temperature Changes To Above X,This trigger fires when you set the setpoint of either heat or cool to a temperature above a threshold specified by you
+Room Humidity Rises Above,This trigger fires when the humidity in the room rises above the specified percentage
+System Mode Change,This trigger fires when the system mode changes
+Low Thermostat Battery,This trigger fires when the thermostat battery is low
+Hold Status Change,This trigger fires when the hold status of the device is changed to the specified value
+HUMID PADS Warning,This trigger fires when the HUMID PADS warning activates

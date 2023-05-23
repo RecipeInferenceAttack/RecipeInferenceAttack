@@ -1,0 +1,3 @@
+trigger,trigger_description
+Fault notification,This trigger fires when the dryer has an error.
+Finished notification,This trigger fires when a dryer cycle is finished.

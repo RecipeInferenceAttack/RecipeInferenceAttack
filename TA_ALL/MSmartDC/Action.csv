@@ -1,0 +1,4 @@
+action,action_description
+Pause the dryer,This Action will pause the dryer when it is running.
+activate the child lock of the dryer,This Action will activate the child lock of the dryer.
+Turn off the dryer,This Action will turn off the Dryer.

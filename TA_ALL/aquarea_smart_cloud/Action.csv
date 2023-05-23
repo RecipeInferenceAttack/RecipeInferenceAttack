@@ -1,0 +1,10 @@
+action,action_description
+Start/Stop Quiet Mode,This action will set your device in Quiet Mode.
+Change Cool Mode settings,This action will change operation settings for Cool Mode in your device.
+Change Tank Mode settings,This action will change operation settings for Tank Mode in your device.
+Turn off,This action will turn off your device.
+Change Heat Mode settings,This action will change operation settings for Heat Mode in your device.
+Change Heat Mode settings (for direct setting),This action will change operation settings for Heat Mode in your device. This action is for devices not set to work with compensation curve setting.
+Change Cool Mode settings (for direct setting),This action will change operation settings for Cool Mode in your device. This action is for devices not set to work with compensation curve setting.
+Start/Stop Eco Mode,This action will set your device in Eco Mode.
+Start/Stop Comfort Mode,This action will set your device in Comfort Mode.

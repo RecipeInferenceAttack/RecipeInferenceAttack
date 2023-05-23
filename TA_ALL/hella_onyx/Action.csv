@@ -1,0 +1,3 @@
+action,action_description
+Move blinds,This action will move the blinds (device or group) to the defined position and angle.
+Control lights,This action will turn the selected devices on/off or set the defined brightness.

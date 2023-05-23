@@ -1,0 +1,3 @@
+trigger,trigger_description
+Task updated,This trigger fires when a task is updated.
+Task created,This trigger fires when a new task has been created.

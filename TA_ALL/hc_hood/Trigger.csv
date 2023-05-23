@@ -1,0 +1,6 @@
+trigger,trigger_description
+Grease filter saturation reached,This trigger fires every time the grease filter saturation is reached.
+Regenerative carbon filter saturation reached,This trigger fires every time the regenerative carbon filter saturation is reached.
+Hood turned on,This trigger fires every time your hood is turned on.
+Hood turned off,This trigger fires every time your hood is turned off.
+Carbon filter saturation nearly reached,This trigger fires every time the carbon filter saturation is nearly reached.

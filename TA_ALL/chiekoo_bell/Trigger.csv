@@ -1,0 +1,3 @@
+trigger,trigger_description
+Button pressed,This Trigger fires when a Chiekoo Bell button pressed.
+Alert accepted,This Trigger fires when a subscriber accepts a Chiekoo Bell alert.

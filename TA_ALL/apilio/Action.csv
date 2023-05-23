@@ -1,0 +1,9 @@
+action,action_description
+Update a string variable in Apilio,This action will update a string variable in Apilio
+Do a mathematical operation with a numeric variable,Add or subtract a value from a numeric variable in Apilio.
+Update a numeric variable in Apilio,This action will update a numeric variable in Apilio.
+Initiate a logicblock evaluation in Apilio,This action will initiate the evaluation of the specified logicblock in Apilio.
+Update a variable in Apilio to false,This action will update a boolean variable in Apilio to false.
+Clear a string variable in Apilio,This action will clear a string variable in Apilio.
+Toggle a boolean variable on Apilio,This action will update a boolean variable in Apilio from true to false or from false to true.
+Update a variable in Apilio to true,This action will update a boolean variable in Apilio to true.

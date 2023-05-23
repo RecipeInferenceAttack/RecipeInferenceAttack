@@ -1,0 +1,3 @@
+action,action_description
+Update incident status,This action will update the status of  an incident.
+Create a new incident,This action will create a new incident in PagerDuty.

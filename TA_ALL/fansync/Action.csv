@@ -1,0 +1,4 @@
+action,action_description
+Turn a device on or off,This action will turn on/off a device
+Set fan percentage,This action will adjust the percentage parameter of fan.
+Set light percentage,This action will adjust the percentage parameter of light.

@@ -1,0 +1,57 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+DJ Roomba,"Watch your robot clean for you while singing along to your favorite song! Just add a song to 'My Sonos' from your Sonos app, and then choose this song while setting up this applet. Your Sonos speaker will play this song every time your robot starts running! 
+
+Got feedback on how to improve this ""DJ Roomba"" integration? Leave us a comment! Need help adding favorites to My Sonos? See here: https://support.sonos.com/s/article/3547",Robot Started,Play Favorite,/irobot,/sonos,2
+"When I answer a call, pause Roomba®",This Applet will pause your Roomba® when answering a call.,Any incoming phone call ends,Pause robot,/android_phone,/irobot,12.9k
+Start Roomba® with the press of a button,Use this applet to create a button that triggers your robot to start. Ideal for starting your robot straight from your smart watch or home screen on your phone!,Button press,Start robot,/do_button,/irobot,13.3k
+"When I leave home, start a cleaning job",This Applet will start your Roomba® when you leave home.,You exit an area,Start robot,/location,/irobot,7.8k
+Tell Alexa to start your Roomba,"Just say ""Alexa, trigger start roomba"" and watch your iRobot vacuum get to work!",Say a specific phrase,Start robot,/amazon_alexa,/irobot,6.2k
+Send an email notification if your robot gets stuck,Send an email reminder to free your robot when you get home.,Robot Stuck,Send me an email,/irobot,/email,1.4k
+Clean a specific room with the touch of a button,Use this applet to create a button on your phone or smart watch that triggers your robot to clean a specific room. For robots with Imprint™ Smart Mapping technology.,Button press,Clean by Room,/do_button,/irobot,847
+"If your robot is stuck, notify via SMS",Oh no! Your robot is stuck somewhere inside your home. Send yourself an SMS text to remind you to free your robot when you get home.,Robot Stuck,Send an SMS,/irobot,/android_messages,3.0k
+"When I arrive home, stop my Roomba®",This Applet will stop your Roomba® when you get home.,You enter an area,Stop robot,/location,/irobot,3.4k
+Tell Alexa to dock your Roomba,"Dock your robot when you tell Alexa to ""Stop iRobot"". Perfect if you have your hands full or are about to start a task that requires a quiet space.",Say a specific phrase,Dock robot,/amazon_alexa,/irobot,550
+"When the Litter-Robot cycles, send over the Roomba to vacuum","When the Litter-Robot cycles, send over the Roomba to vacuum",Litter Robot Events,Clean by Room,/whisker,/irobot,83
+Track when your iRobot cleans the house,Use Google Sheets to track how often you are using your iRobot.,Job Complete,Add row to spreadsheet,/irobot,/google_sheets,228
+"When your robot start cleaning, turn on the Hue lights.",Let there be light! This applet turns on your Hue lights when your robot starts a cleaning job.,Robot Started,Turn on lights,/irobot,/hue,430
+"When I arrive home from work, dock Roomba®",This applet will send your robot back to the dock when you get home after 5pm.,You enter an area,Dock robot,/location,/irobot,2.8k
+"After Roomba® completes a job, start your Braava jet®","This Applet will monitor for whenever the Roomba® you select completes its job, it will start your Braava jet® immediately after.",Job Complete,Start robot,/irobot,/irobot,281
+iRobot Sunrise cleaning,Start cleaning at sunrise (for earlier or later change locatie by using a location in an other timezone),Sunrise,Start robot,/weather,/irobot,11
+"When the doorbell rings, pause cleaning","Expecting someone? When the doorbell rings, this applet will pause your robot.",New Ring Detected,Pause robot,/ring,/irobot,652
+"When Roomba® finishes a cleaning job, play music on your Android device",This applet will play music on your Android device when your Roomba® finishes cleaning.,Job Complete,Play music,/irobot,/android_device,516
+"When Roomba® starts, turn up Sonos volume",This applet will turn up the volume on your Sonos speaker when your robot starts cleaning.,Robot Started,Volume Up,/irobot,/sonos,164
+Play a spoken notification when your iRobot finishes cleaning,This Applet requires Oticon Opn hearing aids and the Oticon iOS app to work.,Job Complete,Play the text to speech (iPhone),/irobot,/oticon,198
+Go and Clean onlyweekday,Go and Clean onlyweekday,You exit an area,Start robot,/location,/irobot,95
+START HOOVER,Run iRobot,Robot Started,Dock robot,/irobot,/irobot,18
+Tweet to start a cleaning job,Send a tweet to start a cleaning job!,New tweet by you with hashtag,Start robot,/twitter,/irobot,40
+Pause iRobot when doorbell rings,The robot will be paused whenever someone rings your doorbell,Ring Was Detected,Pause robot,/WUUK,/irobot,
+Start Roomba When You Leave Home,Have your robotic vacuum automatically start cleaning when you leave home.,Total Connect security panel arming mode has changed,Start robot,/resideo_total_connect,/irobot,7
+Turn on vacuum when leaving the house,"When leaving the house, the robot vacuum will run automatically.",Geo-Circle was exited,Start robot,/bouncie,/irobot,
+Stop my Roomba when someone comes home,Stops your Roomba vacuum cleaner when Powered by Viva detects that someone is home,At least one person arrives home,Stop robot,/viva,/irobot,
+Resume Roomba when your Zoom call ends,Pair this with Applet HcyvXCPK to automatically resume your Roomba when a Zoom meeting ends. Roomba will only resume if it is currently paused,Any scheduled meeting ends,Resume robot,/zoom,/irobot,6
+Start cleaning when you leave the home,This applet will allow you to start cleaning your home with iRobot when you set the mode to Away or vacation for example.,Mode switched,Start robot,/futurehome,/irobot,6
+Start my Roomba when the house is empty,Starts your Roomba vacuum cleaner when Powered by Viva detects that your house is empty,We detect that the home is empty,Start robot,/viva,/irobot,
+Pause your Roomba before a Zoom Meeting,"Roomba is running and a meeting is about to start? No problem, with this Applet your Roomba will automatically pause anytime a Zoom meeting starts",Any scheduled meeting starts,Pause robot,/zoom,/irobot,22
+"When Nest is set to Away, start Roomba®",Smart home meet smart robot. Use this applet to trigger your robot to start cleaning once Nest is set to Away.,Nest set to Away,Start robot,/nest_thermostat,/irobot,27
+Turn on my Roomba when I leave the house,"With this applet you can automate your Roomba, so that it stay out of your way, while you are in the house. As well as have a clean home, when you return.",Switched off,Start robot,/gira,/irobot,3
+Clean your house when activating all-off,With this applet your house is being cleaned by Roomba when activating your all-off function in Niko Home Control,Routine activated,Start robot,/nikohomecontrol,/irobot,16
+Keep your floors litter-free with iRobot,Stop worrying about stray litter. Let your iRobot Roomba handle the cleaning!,Start robot,Start robot,/irobot,/irobot,49
+Stop iRobot when Apilio triggers an action,Stops your iRobot when Apilio triggers the action you specify,Receive an event from Apilio,Stop robot,/apilio,/irobot,
+Start iRobot when Apilio triggers an action,Starts your iRobot when Apilio triggers the action you specify,Receive an event from Apilio,Start robot,/apilio,/irobot,
+Stop Wyze Motion Detection when Roomba Runs,stops motion detection on a Wyze camera when the roomba starts a job,Robot Started,Disable motion detection,/irobot,/wyzecam,22
+Start irobot if you leave an area before 2pm,Start irobot if you leave an area before 2pm,You exit an area,Send a notification from the IFTTT app,/location,/if_notifications,159
+Pielāgo iRobot uzlādi elektroenerģijas cenai,Ļauj savām viedajām ierīcēm pielāgoties elektroenrģijas cenu izmaiņām,Current price exceeds threshold,Dock robot,/elektrum,/irobot,
+Start your iRobot Roomba when you are leaving,"Start your vacuum robot when you leave your home and activate the LUXORliving scene e.g. ""Leave home""",Scene gets triggered,Start robot,/luxorliving,/irobot,
+Launch HomeSeer Event When iRobot Bin is Full,HomeSeer Events can issue text or spoken alerts and can also control devices. This applet will launch a HomeSeer event when your iRobot bin is full.,Bin full,Run a HomeSeer system event,/irobot,/homeseer,
+Start my iRobot vacuum when dust level is high,Start my iRobot vacuum to help clean the dust when the dust level of my sensor is higher than my threshold.,uHoo air quality alert,Start robot,/uhoo,/irobot,2
+Post a Tweet when Roomba® finishes a cleaning job,This applet will post a tweet when Roomba® finishes a cleaning job,Job Complete,Post a tweet,/irobot,/twitter,35
+Pause iRobot when Swann Security door bell pressed,This applet would stop the iRobot when someone presses your Swann Security door bell,Doorbell button pressed,Pause robot,/swannsecurity,/irobot,
+Switch on KNX lights when Roomba starts after dark,"Newer models of the iRobot Roomba no longer move randomly through rooms, but track next to track. To do this, the camera must orient itself to the ceiling. This works best with a little light.
+
+This applet helps the Roomba by switching on the light when the hoover starts.
+
+The applet sends the start information to the Timberwolf Server. The server switches on the light when it is dark. Via KNX, but also via DMX, 1-Wire, MQTT, HTTP-API etc.",Robot Started,Switch on,/irobot,/timberwolf_server,
+Add iRobot to your lifestyle analytics with Welltory,"Explore more great ways to automate
+    
+      Welltory and iRobot",None,None,None,None,462
+Enable Wyze Motion Detection When Roomba is Finished,"Enables motion detection on one or all Wyze cams when the Roomba reports Mission Complete. Note: if Roomba becomes stuck, motion detection will not be re-enabled.",Job Complete,Enable motion detection,/irobot,/wyzecam,8

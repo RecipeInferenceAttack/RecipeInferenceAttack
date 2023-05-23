@@ -1,0 +1,22 @@
+action,action_description
+Switch on all the lights in a room,This action will switch on all the lights in the room you select.
+Move roller,This action will move the roller you select at the given opening percentage.
+Switch on all the lights,This action will switch on all your lights.
+Switch off all the lights in a room,This action will switch off all the lights in the room you select.
+Switch on all the sockets,This action will switch on all your sockets.
+Switch off socket,This action will switch off the socket you select.
+Invert socket,This action will invert the socket you select
+Invert all the sockets in a room,This action will invert all your sockets in the room you select.
+Move all the rollers in a room,This action will move all the rollers in the room you select.
+Switch on all the sockets in a room,This action will switch on all your sockets in the room you select.
+Invert light,This action will invert the state of the light you select.
+Move all the rollers,This action will move all your rollers.
+Invert all the sockets,This action will invert all your sockets.
+Invert all the lights,This action will invert all your lights.
+Switch on light,This action will switch on the light you select.
+Switch on socket,This action will switch on the socket you select.
+Switch off all the sockets,This action will switch off all your sockets.
+Switch off light,This action will switch off the light you select.
+Switch off all the lights,This action will switch off all your lights.
+Invert all the lights in a room,This action will invert all the lights in the room you select.
+Switch off all the sockets in a room,This action will switch off all your sockets in the room you select.

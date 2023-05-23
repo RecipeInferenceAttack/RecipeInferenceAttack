@@ -1,0 +1,9 @@
+action,action_description
+Turn On All Appliances,Turn On All Appliances in your default home at once.
+Turn On An Appliance,This action will turn on your appliance
+Turn On an IR Appliance,"Turn on your TV, AC, Set Top Box etc using this action"
+Turn Off a Room,Turn off all appliances in a room
+Trigger a Scene,Trigger a scene in your Home using IFTTT
+Turn Off An Appliance,This action will turn off your appliance
+Turn Off All Appliances,Turn Off All Appliances in your default home at once.
+Turn Off an IR Appliance,"Turn off your TV, AC, Set Top Box etc using this action"

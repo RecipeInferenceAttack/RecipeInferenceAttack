@@ -1,0 +1,6 @@
+trigger,trigger_description
+Cookit step finished,This trigger fires every time your Cookit has finished the current step successfully.
+Cookit turned off,This trigger fires every time your Cookit is turned off.
+Cookit started,This trigger fires every time your Cookit has started.
+Cookit finished,This trigger fires every time your Cookit has finished successfully.
+Cookit turned on,This trigger fires every time your Cookit is turned on.

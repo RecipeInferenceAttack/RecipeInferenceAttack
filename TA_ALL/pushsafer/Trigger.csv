@@ -1,0 +1,11 @@
+trigger,trigger_description
+Message & Device,This trigger fires when the push-notifications message contains a phrase you specify and device id matches.
+"Title, Priority & Device",This trigger fires when the push-notifications title contains a phrase you specify and priority and device id matches.
+Icon Color & Device,This trigger fires when the push-notifications icon color and device id matches.
+Icon & Device,This trigger fires when the push-notifications icon id and device id matches.
+"Icon, Icon Color & Device","This trigger fires when the push-notifications icon, icon color and device id matches."
+Priority & Device,This trigger fires when the push-notifications priority and device id matches.
+Title & Device,This trigger fires when the push-notifications title contains a phrase you specify and device id matches.
+"Message, Priority & Device",This trigger fires when the push-notifications message contains a phrase you specify and priority and device id matches.
+"Title, Message & Device",This trigger fires when the push-notifications title and message contains a phrase you specify and device id matches.
+Sound & Device,This trigger fires when the push-notifications sound id and device id matches.

@@ -1,0 +1,8 @@
+action,action_description
+Set manual mode,This Action will set your Easy Control to manual mode.
+Set room temperature,This Action will set the current room temperature to a level of your choice. This temperature level can be adjusted manually or if Clock Mode is activated.
+Set auto mode,"This Action will set your Easy Control to auto mode.The auto mode (e.g. clock mode, holiday mode) sets the temperatures accordingly."
+Increase room temperature,This Action will increase the room temperature by a configurable amount.
+Decrease room temperature,This Action will decrease the room temperature by a configurable amount.
+Set away mode,This Action will set your Easy Control to away mode.
+Set home mode,This Action will set your Easy Control to home mode.

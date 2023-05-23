@@ -1,0 +1,6 @@
+trigger,trigger_description
+New popular article in section,This Trigger fires every time there is a new popular article or blog post on The New York Times.
+New article from search,This Trigger fires every time a new article that is published by The New York Times matches a search query you specify. NOTE: limited to 20 items per check.
+New Critics' Pick movie review,This Trigger fires every time a new Critics' Pick movie is reviewed.
+New book on the Best Sellers List,This Trigger fires every time a new book is added to the Best Sellers List you specify. NOTE: limited to 20 items per check.
+New article in section,This Trigger fires every time a new article is published in the section of The New York Times you specify. NOTE: limited to 20 items per check.

@@ -1,0 +1,11 @@
+trigger,trigger_description
+Your fan is being turned on,If users switch on the fan would trigger this event
+Your light is being turned on,If users switch on the light would trigger this event
+Your fan is being turned off,If users switch off the fan would trigger this event
+Your light brightness is being minimum,If users set light brightness to minimum would trigger this event
+Your light brightness is being medium,If users set light brightness to medium would trigger this event
+Your fan speed is being medium,If users set fan speed to medium would trigger this event
+Your fan speed is being maximum,If users set fan speed to maximum would trigger this event
+Your light brightness is being maximum,If users set light brightness to maximum would trigger this event
+Your fan speed is being minimum,If users set fan speed to minimum would trigger this event
+Your light is being turned off,If users switch off the light would trigger this event

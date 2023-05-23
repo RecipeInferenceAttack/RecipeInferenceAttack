@@ -1,0 +1,3 @@
+trigger,trigger_description
+Switched on,This Trigger fires every time your Wemo Outdoor Plug is turned on.
+Switched off,This Trigger fires every time your Wemo Outdoor Plug is turned off.

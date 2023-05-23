@@ -1,0 +1,3 @@
+action,action_description
+Send an email,This Action will send an email to up to twenty recipients from your Gmail account.
+Send yourself an email,"This action will send yourself an email. HTML, images and links are supported."

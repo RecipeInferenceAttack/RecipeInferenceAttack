@@ -1,0 +1,10 @@
+action,action_description
+Turn off,This action will turn off a specific device
+Activate the child lock,This action will lock a specific device
+Set manual mode,This action will set a specific device on manual mode
+Turn on,This action will turn on a specific device
+Set heat mode,This action will set a specific device on heat mode
+Set cool mode,This action will set a specific device on cool mode
+Deactivate the child lock,This action will unlock a specific device
+Set eco mode,This action will set a specific device on eco mode
+Set auto mode,This action will set a specific device on auto mode

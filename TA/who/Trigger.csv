@@ -1,0 +1,3 @@
+trigger,trigger_description
+New disease outbreak news,This trigger fires when a new disease outbreak update is posted the by World Health Organization.
+News from the WHO,This trigger fires when a new update is posted by the WHO.

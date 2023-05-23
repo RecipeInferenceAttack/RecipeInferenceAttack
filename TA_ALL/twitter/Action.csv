@@ -1,0 +1,5 @@
+action,action_description
+Post a tweet,This Action will post a new tweet to your Twitter account. NOTE: Please adhere to Twitter’s Rules and Terms of Service.
+Post a tweet with image,This Action will post a new tweet to your Twitter account with a linked pic.twitter.com image. NOTE: Please adhere to Twitter’s Rules and Terms of Service.
+Update profile picture,This Action will update your profile picture from the image URL you specify and optionally tweet about it. NOTE: Please adhere to Twitter’s Rules and Terms of Service.
+Update bio,This Action will update your bio and optionally tweet about it. NOTE: Please adhere to Twitter’s Rules and Terms of Service.

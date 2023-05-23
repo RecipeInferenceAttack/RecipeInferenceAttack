@@ -1,0 +1,7 @@
+trigger,trigger_description
+New SMS sent to phone number,This Trigger fires every time you send an SMS on your Android device to a phone number you specify.
+Any new SMS received,This Trigger fires every time you receive any new SMS on your Android device.
+Any new SMS sent,This Trigger fires every time you send an SMS on your Android device.
+New SMS received matches search,This Trigger fires every time you receive an SMS on your Android device that matches a search you specify.
+New SMS sent matches search,This Trigger fires every time you send an SMS on your Android device that matches a search you specify.
+New SMS received from phone number,This Trigger fires every time you receive an SMS on your Android device from a phone number you specify.

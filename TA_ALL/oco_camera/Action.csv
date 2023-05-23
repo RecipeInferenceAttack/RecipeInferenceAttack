@@ -1,0 +1,6 @@
+action,action_description
+Turn camera on,This Action will turn on the Oco camera you specify.
+Turn notifications off,This Action will turn off the motion and sound triggered notifications from the Oco camera you specify.
+Start recording,This Action will tell the Oco camera you specify to start recording.
+Turn camera off,This Action will turn off the Oco camera you specify.
+Turn notifications on,This Action will turn on the motion and sound triggered notifications from the Oco camera you specify.

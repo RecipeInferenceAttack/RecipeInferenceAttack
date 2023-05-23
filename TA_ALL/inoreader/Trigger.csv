@@ -1,0 +1,13 @@
+trigger,trigger_description
+New tagged article,This Trigger will fire every time you add a specified tag to an article on Inoreader. It will also fire if a tag is automatically assigned from a rule.
+New article in folder,This Trigger will fire every time a new article is available in a specified folder.
+New bundle created by someone,"This Trigger will fire every time a new bundle is created by an Inoreader user, excluding you. You can also set a filter to receive only bundles containing specific words."
+New starred article,This Trigger will fire every time you star an article on Inoreader. It will also fire if a star is automatically added from a rule.
+New post on our blog,This Trigger fires every time we post something on our blog. Use it to keep up to date with our latest features and how-to's.
+New bundle created by you,This Trigger will fire every time a new bundle is created by you. You can also set a filter to receive only bundles containing specific words.
+New broadcasted article,This Trigger will fire every time you broadcast an article on Inoreader. It will also contain your broadcast message.
+New subscription,This Trigger will fire every time you subscribe to a feed (RSS or social network).
+Subscription added to folder,This Trigger will fire every time you add a subscription (new or old) to a specific folder.
+New liked article,This Trigger will fire every time you like an article on Inoreader.
+New saved web page,This Trigger will fire every time you save a web page to your Inoreader. Web pages are external articles (not related to RSS feeds) that you can save in your Inoreader for later. They behave just like normal articles and have almost the same properties.
+New Active Search result,"This Trigger will fire every time there's a new result in a specified Active Search. Active Search is a unique feature of Inoreader, which allows you to subscribe to search results from feeds, folders or even all global feeds managed by Inoreader."

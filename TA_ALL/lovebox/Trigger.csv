@@ -1,0 +1,2 @@
+trigger,trigger_description
+A new message is received,This trigger fires when a new message is received.

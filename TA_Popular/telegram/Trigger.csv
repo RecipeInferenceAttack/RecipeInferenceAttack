@@ -1,0 +1,7 @@
+trigger,trigger_description
+New photo to @IFTTT on Telegram,This trigger fires when you send a photo to the @IFTTT bot on Telegram.
+New photo in your channel,This trigger fires when a new photo is posted in a public channel where you are an admin. The @IFTTT bot must also be an admin in the channel.
+New message with key phrase in a group,This trigger fires when a user sends a message with the /ifttt command and a key phrase to the source group.
+New message with key phrase to @IFTTT,This trigger fires when you send a text message with a key phrase to the @IFTTT bot on Telegram.
+New message in a group,This trigger fires when any user sends the /ifttt command to the source group.
+New post in your channel,This trigger fires when a new message is posted in a public channel where you are an admin. The @IFTTT bot must also be an admin in the channel.

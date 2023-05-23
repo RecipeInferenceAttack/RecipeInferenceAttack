@@ -1,0 +1,7 @@
+trigger,trigger_description
+tado⁠° switches to Away Mode,This trigger fires when the last person leaves your home and tado⁠° switches to Away Mode.
+Humidity falls below threshold,This trigger fires when the humidity falls below a user-defined value.
+Humidity rises above threshold,This trigger fires when the humidity rises above a user-defined value.
+Temperature falls below threshold,This trigger fires when the room temperature falls below a user-defined threshold.
+tado⁠° switches to Home Mode,This trigger fires when tado⁠° switches to Home Mode.
+Temperature rises above threshold,This trigger fires when the room temperature rises above a user-defined value.

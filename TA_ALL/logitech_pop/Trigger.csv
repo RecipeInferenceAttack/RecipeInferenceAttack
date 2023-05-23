@@ -1,0 +1,4 @@
+trigger,trigger_description
+Double Press,This Trigger fires every time you do a double press on the configured Logi Button.
+Long Press,This Trigger fires every time you do a long press on the configured Logi Button.
+Short Press,This Trigger fires every time you do a short press on the configured Logi Button.

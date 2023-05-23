@@ -1,0 +1,9 @@
+action,action_description
+Set Fan to ON,This Action will set my thermostat's fan to On indefinitely. Note: does not work when the thermostat is in Away mode.
+Decrease Indoor Temperature,This Action will attempt to decrease the indoor temperature of an thermostat by the number of degrees specified.
+Set Fan to CIRCULATE,This Action will set my thermostat's fan to CIRCULATE indefinitely. Note: does not work when the thermostat is in Away mode.
+Set home to Away,This Action will set all Thermostats in a home to Away.
+Cancel Away,This Action will cancel Away on Thermostats in a home.
+Set Fan to AUTO,This Action will set my thermostat's fan to AUTO indefinitely. Note: does not work when the thermostat is in Away mode.
+Turn the thermostat off,This Action will set the Thermostat to Off.
+Increase Indoor Temperature,This Action will attempt to increase the indoor temperature of an thermostat by the number of degrees specified.

@@ -1,0 +1,6 @@
+trigger,trigger_description
+Thermostat occupancy changes,This trigger fires when TrickleStar Thermostat occupancy changes.
+WHC detects a leak,This trigger fires when TrickleStar Water Heater Controller detects a leak.
+Thermostat mode or setpoint changes,This trigger fires when TrickleStar Thermostat system mode or setpoint changes.
+Thermostat room temperature is less than,This trigger fires every time your TrickleStar thermostat senses that the room temperature drops below the value you specified.
+Thermostat room temperature is greater than,This trigger fires every time your TrickleStar thermostat senses that the room temperature rises above the value you specified.

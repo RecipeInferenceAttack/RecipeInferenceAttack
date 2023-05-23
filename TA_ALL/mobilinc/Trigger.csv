@@ -1,0 +1,8 @@
+trigger,trigger_description
+"A lock is locked, unlocked, or jammed",This trigger fires when a lock changes status.
+A device turned on or off,This trigger fires when an INSTEON or Z-Wave device turns on or off.
+A variable is set to a value,This trigger fires when a state or integer variable is set.
+A security area changed state,This trigger fires when a security area changed state to armed or disarmed.
+A program is true or false,This trigger fires when a program is true or false.
+A sensor turned on or off,"This trigger fires when a Motion, Water Leak, TriggerLinc, or Door sensor turns on or off."
+A Z-Wave device is reporting low battery,This trigger fires when any Z-Wave device is reporting 20% or less battery remaining.

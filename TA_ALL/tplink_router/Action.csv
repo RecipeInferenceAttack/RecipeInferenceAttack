@@ -1,0 +1,4 @@
+action,action_description
+Prioritize Online Activity,"This action will prioritize a certain type of online activity on your network, maintaining a fast connection of what's important."
+Prioritize Device,This action will prioritize a device connected to your TP-Link router for a specified duration (1 hour by default).
+Activate Shortcut,This action will activate a shortcut you've created on Deco M9 Plus for smart home devices to perform actions.

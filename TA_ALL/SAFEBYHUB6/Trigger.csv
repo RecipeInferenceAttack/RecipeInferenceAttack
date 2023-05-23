@@ -1,0 +1,2 @@
+trigger,trigger_description
+Status changed,This trigger fires when Safe by HUB6 has status update.

@@ -1,0 +1,10 @@
+trigger,trigger_description
+AQI by location and below threshold,This trigger fires when the AQI at your location is below a selected threshold.
+AQI by location,This trigger fires when the AQI at your location is updated.
+AQI by location and above threshold,This trigger fires when the AQI at your location exceeds a selected threshold.
+Data from my device below threshold,This trigger fires when the AQI of your device is below a selected threshold.
+Hourly average AQI from my device below threshold,This trigger fires when the hourly AQI of your device is below a selected threshold.
+Hourly average AQI from my device above threshold,This trigger fires when the hourly AQI of your device exceeds a selected threshold.
+AQI from my device,This trigger fires when the AQI of your device is updated.
+Hourly average AQI from my device,This trigger fires when the hourly AQI of your device is updated.
+Data from my device above threshold,This trigger fires when the AQI of your device exceeds a selected threshold.

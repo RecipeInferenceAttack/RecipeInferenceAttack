@@ -1,0 +1,11 @@
+trigger,trigger_description
+Sensor activated,This Trigger fires when a sensor has been activated.
+Orbit garage door opened (with Orbit App),This Trigger fires when an Orbit garage door is opened.
+Hub status changed,This Trigger fires when the hub is in a specific state.
+Garage door opened (with SkylinkNet Hub),This Trigger fires when a garage door (with SkylinkNet Hub) is opened.
+Sensor returns to normal,This Trigger fires when a sensor returns to normal.
+Switch turned OFF,This Trigger fires when a switch has been turned off. (SkylinkNet compatible 2-way switch)
+Orbit garage door closed (with Orbit App),This Trigger fires when an Orbit garage door is closed(with Orbit Home App).
+Garage door closed (with SkylinkNet Hub),This Trigger fires when a garage door (with SkylinkNet Hub) is closed.
+Switch turned ON,This Trigger fires when a switch is turned on (SkylinkNet compatible 2-way switch).
+Sensor battery is low,This Trigger fires when the sensor battery is low.

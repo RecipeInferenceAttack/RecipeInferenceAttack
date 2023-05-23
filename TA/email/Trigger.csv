@@ -1,0 +1,3 @@
+trigger,trigger_description
+Send IFTTT any email,Send IFTTT any email at trigger@applet.ifttt.com and this Trigger fires. You can optionally add a single file attachment and IFTTT will create a public URL to the file as an Ingredient. This trigger will reject emails with attachments over 30MB.
+Send IFTTT an email tagged,Send IFTTT an email at trigger@applet.ifttt.com with a hashtag in the subject (e.g. #IFTTT) and this Trigger fires. You can optionally add a single file attachment (up to 30MB) and IFTTT will create a public URL to the file as an Ingredient.

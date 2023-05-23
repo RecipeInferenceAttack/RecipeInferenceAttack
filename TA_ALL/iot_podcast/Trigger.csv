@@ -1,0 +1,3 @@
+trigger,trigger_description
+New IoT Podcast episode,This trigger fires when a new IoT Podcast episode is published.
+New article from Stacey on IoT,This trigger fires when a new article is posted to Stacey on IoT.

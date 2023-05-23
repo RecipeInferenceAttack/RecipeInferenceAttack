@@ -1,0 +1,7 @@
+action,action_description
+Boost heating,This Action will boost heating to the temperature and duration you specify.
+Boost hot water,This Action will boost your hot water for 1 hour.
+Turn off thermostat,This Action will set the heating mode to off.
+Set the thermostat to schedule,This Action will set the heating mode to schedule.
+Set mode to manual at a specific temperature,This Action will set thermostat to manual at a specific temperature indefinitely.
+Set thermostat to a specific temperature in current mode,This Action will set thermostat to a specific temperature in current mode

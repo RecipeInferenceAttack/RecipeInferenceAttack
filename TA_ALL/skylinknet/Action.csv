@@ -1,0 +1,11 @@
+action,action_description
+Turn Orbit garage light OFF (with Orbit App),This Action will turn off the Orbit garage Light.
+Close Orbit garage door (with Orbit App),This action will close your Skylink Orbit garage door.
+Turn device ON,This Action will turn on the selected device.
+Open garage door (with SkylinkNet Hub),This Action will open your Skylink garage door (with SkylinkNet Hub).
+Close garage door (with SkylinkNet Hub),This Action will close your Skylink garage door (with SkylinkNet Hub).
+Set hub mode,This Action will set the hub to a specific mode.
+Toggle garage door (with SkylinkNet Hub),This Action will toggle your Skylink garage door (with SkylinkNet Hub).
+Turn Orbit garage light ON (with Orbit App),This Action will turn on the Orbit garage light.
+Turn device OFF,This Action will turn off the selected device.
+Toggle device,This Action will toggle the selected device.

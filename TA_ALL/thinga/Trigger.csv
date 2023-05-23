@@ -1,0 +1,7 @@
+trigger,trigger_description
+Medicine was missed,This trigger fires every time you miss to take a medicine on time
+RAK was clicked,This Trigger fires every time you click a button on RAK.
+Alarm from Sensor,"Alarm trigger is raised by a source based on its
+internal criteria and acts as a bridge to trigger next set of actions."
+Data from Sensor,This trigger gets called whenever a new data set is made available by RPI.
+Thinga was clicked,This Trigger fires every time you click a button on Thinga.

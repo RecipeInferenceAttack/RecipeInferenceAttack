@@ -1,0 +1,3 @@
+trigger,trigger_description
+Socket switched on,This trigger fires whenever a socket is turned on.
+Socket switched off,This trigger fires whenever a socket is turned off.

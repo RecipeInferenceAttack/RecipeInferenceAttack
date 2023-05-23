@@ -1,0 +1,4 @@
+trigger,trigger_description
+"New ""The Discovery Files"" podcast","This trigger fires every time a new ""Discovery Files"" episode is published."
+News from the National Science Foundation,This trigger fires when there's news posted from the National Science Foundation.
+New discoveries,This trigger fires every time the National Science Foundation posts a new discovery.

@@ -1,0 +1,2 @@
+trigger,trigger_description
+New page in a database,This trigger fires when a new page is published in a database you select.

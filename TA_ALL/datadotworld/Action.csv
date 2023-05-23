@@ -1,0 +1,4 @@
+action,action_description
+Append to a stream,This action will append a new record to a stream in a data.world dataset or data project. New data appended to a stream will be processed the next time sync runs.
+Sync files and streams,This action will initiate the sync process for a data.world dataset or data project. data.world will fetch the latest version of all files added via URL and process data streamed since the last sync.
+Add file from URL,"This action will add a file via URL to a data.world dataset or data project. If a file already exists with the same name, it will be updated."

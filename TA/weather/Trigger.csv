@@ -1,0 +1,15 @@
+trigger,trigger_description
+Current pollen count rises above,This Trigger monitors your local pollen levels and fires every time the pollen count rises above the value you specify (1-12). NOTE: Available only in the USA.
+Current humidity level rises above,This Trigger monitors your local humidity and fires every time the humidity rises above the value you specify.
+Today's weather report,This Trigger retrieves today's current weather report within 5 minutes of the time you specify. NOTE: Pollen count available only in the USA.
+Tomorrow's forecast calls for,This Trigger monitors changes in tomorrow’s forecasted weather condition.
+Tomorrow's weather report,"This Trigger retrieves tomorrow's weather report within 5 minutes of the time you specify, depending on when forecast data is updated."
+Current condition changes to,"This Trigger monitors changes in the current weather condition. When one of those conditions is met the Trigger fires. Currently only these simple conditions are supported: Rain, Snow, Cloudy, Clear."
+Tomorrow's low drops below,This Trigger fires every time tomorrow’s forecasted low temperature drops below a value you provide.
+Tomorrow's high rises above,This Trigger fires every time tomorrow’s forecasted high temperature rises above a value you provide.
+Sunset,This Trigger fires within 15 minutes of the sunset in your location.
+Wind speed rises above,This Trigger fires every time the wind speed rises above a value you specify in your location.
+Current temperature rises above,This Trigger monitors your local temperature and fires whenever the temperature rises above the value you provide.
+Sunrise,This Trigger fires within 15 minutes of the sunrise in your location.
+Current UV index rises above,This Trigger monitors your local UV levels and fires every time the UV index rises above the value you specify (0-16).
+Current temperature drops below,This Trigger monitors your local temperature and fires whenever the temperature drops below the value you provide.

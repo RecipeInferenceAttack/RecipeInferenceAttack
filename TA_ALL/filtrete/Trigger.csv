@@ -1,0 +1,9 @@
+trigger,trigger_description
+Filtrete Smart Air Filter life (%) dropped below,This trigger fires when the remaining life of any of your Filtrete Smart Air Filter drops below your chosen percentage.
+Filtrete barcode air filter life (days remaining) dropped below,This trigger fires when the days remaining on any of your Filtrete barcode air filters drops below your chosen value.
+Filtrete Smart Air Filter life changed,This trigger fires when the remaining life (%) of a Filtrete Smart Air Filter changes.
+Outdoor Air Quality updated,This trigger fires when updated outdoor air quality information becomes available.
+New Filtrete air filter installed,This trigger fires whenever an existing air filter is replaced or a new air filter is added using the Filtrete Smart app.
+Outdoor Air Quality Value became lower than,This trigger fires when the Filtrete outdoor Air Quality Value becomes lower (i.e. better) than a chosen value.
+Outdoor Air Quality Level changed,This trigger fires when the Filtrete™ outdoor Air Quality Scale level changes; for example: from Good to Fair.
+Outdoor Air Quality Value became higher than,This trigger fires when the Filtrete™ outdoor Air Quality Value becomes higher (i.e. worse) than a chosen value.

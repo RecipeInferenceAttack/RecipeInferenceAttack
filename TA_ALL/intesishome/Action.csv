@@ -1,0 +1,6 @@
+action,action_description
+Enable timer,This Action will enable the indicated timer.
+Execute scene,This Action will execute the indicated scene.
+Disable timer,This Action will disable the indicated timer.
+Turn off A/C,This Action will turn your IntesisHome A/C off.
+Turn on A/C,This Action will turn your IntesisHome A/C on.

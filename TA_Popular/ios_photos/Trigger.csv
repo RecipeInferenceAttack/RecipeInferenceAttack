@@ -1,0 +1,7 @@
+trigger,trigger_description
+New photo added to album,This Trigger fires every time a new photo is added to the album you specify.
+Any new photo,This Trigger fires every time a new photo is added to your camera roll.
+New photo with the front camera,This Trigger fires every time you take a photo with the front camera.
+New photo with the rear camera,This Trigger fires every time you take a photo with the rear camera.
+New screenshot,This Trigger fires every time you take a screenshot.
+New photo taken in area,This Trigger fires every time you take a photo in an area you specify.

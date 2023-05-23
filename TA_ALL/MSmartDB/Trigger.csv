@@ -1,0 +1,3 @@
+trigger,trigger_description
+Washing machine error,This trigger fires when the washing machine has an error.
+Washing cycle finishes,This trigger fires when a washing cycle is finished.

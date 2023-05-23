@@ -1,0 +1,3 @@
+action,action_description
+Raise Alarm,This action will raise a new alarm in Zuluhood.
+Start Zuluchat,This action will start a new Zuluchat.

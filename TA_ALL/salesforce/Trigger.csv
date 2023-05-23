@@ -1,0 +1,4 @@
+trigger,trigger_description
+Record created or updated,This Trigger fires within 15 minutes of a record being created or updated on the specified object in Salesforce.
+Advanced: Custom Salesforce Trigger [package required],"Any new record in your ""IFTTT Event"" SObject can cause this Trigger to fire. You can use the Salesforce UI (web or mobile), Apex Triggers, Process Builder, etc to insert new records thus causing this IFTTT Trigger to fire. Note: You or your Salesforce adm"
+Opportunity was won,"This Trigger fires every time an Opportunity changes to the ""Closed Won"" stage. Note: For realtime notifications, you or your Salesforce administrator must install the IFTTT Salesforce Package. For more details see: ift.tt/salesforce"

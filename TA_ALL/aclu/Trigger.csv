@@ -1,0 +1,4 @@
+trigger,trigger_description
+New blog post from search,This trigger fires whenever there is a new blog post in a specific ACLU feed that contains a specified search term.
+Breaking news,This trigger fires whenever there is breaking news from the ACLU.
+New blog post,This trigger fires whenever there is a new blog post in a specific ACLU feed.

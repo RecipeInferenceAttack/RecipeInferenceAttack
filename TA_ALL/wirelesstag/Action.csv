@@ -1,0 +1,16 @@
+action,action_description
+Disable brightness monitoring,This Action will disable brightness/ambient light intensity monitoring on a tag.
+Stop a KumoApp,"This Action will stop a KumoApp. If the KumoApp is not running, nothing will happen."
+Disable humidity or moisture monitoring,This Action will disable humidity or moisture monitoring on a tag.
+Update Temperature/Humidity/Lux,"This action will force an update to read the current temperature, humidity and ambient light (when available)."
+Turn off light or switch,This Action will turn off LED on the tag or a WeMo device.
+Arm motion sensor,"This Action arms motion sensor on a tag. Regular angle based motion sensor, Reed KumoSensor and PIR KumoSensor can all be armed using this action."
+Beep a tag,This Action will beep the tag. NOTE: Only compatible with the Motion Sensor Tags with buzzer.
+Enable brightness monitoring,This Action will enable brightness/ambient light intensity monitoring on a tag. NOTE: Only compatible with Tags with ambient light sensor.
+Enable temperature monitoring,This Action will enable temperature monitoring on a tag.
+Disarm motion sensor,"This Action disarms motion sensor on a tag. Regular angle based motion sensor, Reed KumoSensor and PIR KumoSensor can all be disarmed using this action."
+Turn on light or switch,This Action will turn on LED on the tag or a WeMo device.
+Stop beeping a tag,This Action will stop the tag beeping. This action can also be used to test tag connectivity.
+Enable humidity or moisture monitoring,This Action will enable humidity or moisture monitoring on a tag. NOTE: Only compatible with Tags with humidity or moisture sensor.
+Disable temperature monitoring,This Action will disable temperature monitoring on a tag.
+Run a KumoApp,"This Action will start a KumoApp installed under the current user account. If the KumoApp is running, nothing will happen. If a KumoApp does not register any event handler or timer, it will automatically stop after executing the first time, allowing this action to run multiple times without user intervention."

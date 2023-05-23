@@ -1,0 +1,51 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Share photos to Discord,Send photos you post on Instagram to a Discord channel.,Any new photo by you,Post a message to a channel,/instagram,/discord,1.0k
+Share Instagram photos on Twitter only when you include a specific #hashtag in the caption,"Choose a specific #hashtag below and whenever you include it in your photo's caption, it will automatically be tweeted. Note: only works for single photo posts.",New photo by you with specific hashtag,Post a tweet with image,/instagram,/twitter,65.4k
+Tweet your Instagrams as native photos on Twitter,Instagram photos will show up in your Twitter feed as a full image rather than a link. Note: only works for single photo posts.,Any new photo by you,Post a tweet with image,/instagram,/twitter,648.6k
+Automatically upload your Instagrams to a Facebook Page Album,"Stay organized and share all your Instagram pics to an album on your Facebook Page, automatically. Great for small business marketing! You can customize the Album name. Note: only works for single photo posts.",Any new photo by you,Upload a photo from URL,/instagram,/facebook_pages,41.2k
+if instagram then facebook page,if instagram then facebook page,Any new photo by you,Create a link post,/instagram,/facebook_pages,112
+Automatically share new Instagram videos to Twitter,"Every time you post a new video to Instagram, it will be automatically posted to Twitter.",Any new video by you,Post a tweet with image,/instagram,/twitter,5.8k
+tweet my instagram video,tweet my instagram video,Any new video by you,Post a tweet,/instagram,/twitter,12.4k
+Post your Instagram photos to Tumblr,Keep your Tumblr fresh and up-to-date with your Instagrams. Note: only works for single photo posts.,Any new photo by you,Create a photo post,/instagram,/tumblr_legacy,59.9k
+Track new Instagram photos on your Welltory Dashboard,See what impacts your ability to write great posts,Any new photo by you,Send event,/instagram,/welltory,1.6k
+"Every time you post a new Instagram photo, share it to a Telegram chat",Spread your photo-sharing tentacles to new regions at no added cost. This will automatically send new photos you post on Instagram to a Telegram group or channel.,Any new photo by you,Send photo,/instagram,/telegram,4.2k
+Share instagram photos on Discord as embedded post,Share any instagram photos on Discord as embedded post.,Any new photo by you,Post a rich message to a channel,/instagram,/discord,366
+Save your Instagram photos to Day One,Automatically post your Instagram photos to a personal Day One Journal to expand upon these memories privately.,Any new photo by you,Create Journal Entry,/instagram,/day_one,4.8k
+Post your Instagram photos to Wordpress,Keep your Wordpress fresh and up-to-date with your Instagrams. Note: only works for single photo posts.,Any new photo by you,Create a photo post,/instagram,/wordpress,11.9k
+Save your new Instagram photos to Dropbox,"Whenever you post a new photo on Instagram, a copy will be saved to a folder in Dropbox. Note: only works for single photo posts.",Any new photo by you,Add file from URL,/instagram,/dropbox,141.1k
+Save your Instagrams to Google Drive,"Automatically save your photos to a folder. Keep in mind, it only works for new photos you post.",Any new photo by you,Upload file from URL,/instagram,/google_drive,9.2k
+Instagram video to Telegram chat,"When you upload a video to Instagram, it'll be sent to a Telegram chat",Any new video by you,Send video,/instagram,/telegram,271
+Sync your new Instagrams to a Pinterest board,"Keep your Instagram and Pinterest in sync. 
+
+Note: only works for single photo posts.",Any new photo by you,Add Pin to board,/instagram,/pinterest,49.8k
+Post your Instagram photos to Flickr,Keep your Flickr fresh and up-to-date with your latest Instagram pics. Note: only works for single photo posts.,Any new photo by you,Upload public photo from URL,/instagram,/flickr,39.8k
+"When you post to Instagram, share the photo on Slack",Share your photos to Instagram and automatically have them posted to a Slack channel.,Any new photo by you,Post to channel,/instagram,/slack,235
+IG Video ⇒ BL Video,Use this recipe to automatically post your Instagram uploaded videos to your Blogger page as embedded videos.,Any new video by you,Create a post,/instagram,/blogger,179
+Save your Instagram photos to OneDrive,Save your Instagram photos to OneDrive,Any new photo by you,Add file from URL,/instagram,/onedrive,4.8k
+Save your Instagram photos in Evernote,Automatically store the Instagram photos you post to an Evernote notebook,Any new photo by you,Create image note from URL,/instagram,/evernote,29.1k
+Selectively post your Instagrams to a Facebook Page when you include a specific #hashtag,Add the #hashtag you choose to the caption your next Instagram post and this Applet will upload the photo to a Facebook Page. Note: only works for single photo posts.,New photo by you with specific hashtag,Upload a photo from URL,/instagram,/facebook_pages,11.5k
+Post your public Instagram photos to Tumblr,"When you post a new photo on a public Instagram profile, the image will automatically be shared on your Tumblr blog as full image.",Any new photo by you,Create a link post,/instagram,/tumblr,128
+great for us,great for us,Any new video by you,Create a status message,/instagram,/facebook_pages,7
+Instagram Photo to Google + Post,"Just add your Buffer and select Google Plus as the target, then insert this recipe.",Any new photo by you,Add photo to Buffer,/instagram,/buffer,1.5k
+Archive my video instagram to dropbox,Archive my video instagram to dropbox,Any new video by you,Add file from URL,/instagram,/dropbox,156
+"If Any new photo by mitbysharon17, then Share an update on your profile",Come Explore The World Me,Any new photo by you,Share an update,/instagram,/linkedin,2
+Instagram Video to Google Drive,Instagram Video to Google Drive,Any new video by you,Upload file from URL,/instagram,/google_drive,18
+Automatically post about your latest Instagram video on your Facebook Page,"This Applet does not post your actual video to a Facebook Page. Instead, it posts a screenshot of your video to your photos album and includes a link to the video as a caption.",Any new video by you,Upload a photo from URL,/instagram,/facebook_pages,771
+Set your Android phone wallpaper with your latest Instagram photo,Turn on this Applet and each time you post a photo on Instagram it will be set as your Android device's wallpaper,Any new photo by you,Update device wallpaper,/instagram,/android_device,24.4k
+Save new Instagram photos to Box,"For every new Instagram you post, save a copy of the photo to Box.",Any new photo by you,Upload file from URL,/instagram,/box,63
+Post your pics to Slack when you use a specific hashtag,"Just add the hashtag #Slack (or pick your own) to your Instas — when you publish them, they'll be shared to the Slack channel of your choice.",New photo by you with specific hashtag,Post to channel,/instagram,/slack,35
+Post Instagram photos to Facebook Page and Twitter,This Applet post new Instagram photos to your Facebook Page and Twitter as a native Post.,Any new photo by you,Upload a photo from URL,/instagram,/facebook_pages,262
+Track new Instagram video on your Welltory Dashboard,Find out how your videos correlate with other lifestyle events,Any new video by you,Send event,/instagram,/welltory,87
+Post your new Instagram videos with a specific hashtag to a Telegram chat,"When you post a new video with the hashtag you specify, it will be sent to a Telegram chat.",New video by you with specific hashtag,Send video,/instagram,/telegram,582
+"Instagram to Linkedin, Pages, and Twitter","Share your Instagram photo with a specific hashtag and it will be shared across Linkedin, Facebook Pages, and Twitter.",New photo by you with specific hashtag,Upload a photo from URL,/instagram,/facebook_pages,91
+(Test) Insta Video to Twitter Video (Test),Insta Video to Twitter Video. Note: only works for single video posts.,Any new video by you,Post a tweet,/instagram,/twitter,2.8k
+if IG then IP,if IG then IP,Any new photo by you,Save item,/instagram,/instapaper,5
+Instagram pics with hashtag #journal saved to Day One,"Add some visual flair to your journal. When you add the hashtag #journal to your Instagram caption, it'll tell this Applet this one's a keeper. It'll be added to Day One along with the caption (with the hashtag stripped out).",New photo by you with specific hashtag,Create Journal Entry,/instagram,/day_one,593
+Update your Twitter profile pic with your latest selfie,All you have to do is add the hashtag #selfie to your caption on Instagram and this Applet will upload the photo as your new Twitter profile pic,New photo by you with specific hashtag,Update profile picture,/instagram,/twitter,280
+Instagram Videos,Upload any new Instagram video to your Unforgettable Me account.,Any new video by you,Upload to Unforgettable Me,/instagram,/unforgettable_me,19
+Instagram Photos,Upload any new Instagram photos to your Unforgettable Me account.,Any new photo by you,Upload to Unforgettable Me,/instagram,/unforgettable_me,27
+If IG then Pocket,If IG then Pocket,Any new photo by you,Save for later,/instagram,/pocket,7
+Revo IG Publishing,"Link your team instagram, then tell the action to post the message to Revo groupchat.",Any new photo by you,Post a message to group,/instagram,/groupme,6
+Instagram yo Diigo,Add your Instagram photo to Diigo.,Any new photo by you,Add a public bookmark,/instagram,/diigo,22
+Tweet out your videos when you use the hashtag #Twitter in the caption,"This Applet will help you automatically, but selectively, share your new videos to Twitter. Just use the hashtag (you can customize it), and it'll send a tweet with a link to the video. We'll even strip out the hashtag so you'll have more characters to work with. 🙌",New video by you with specific hashtag,Post a tweet,/instagram,/twitter,206
+Save all your uploaded Instagram pictures to a separate folder on QNAP device,"Whenever you upload a photo on Instagram, this applet will automatically download that photo to a specific folder on the QNAP device",Any new photo by you,Download file from URL,/instagram,/qnap,124

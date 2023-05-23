@@ -1,0 +1,8 @@
+trigger,trigger_description
+Zeno alert for a specific goal,This Trigger fires when the goal is close to derailing. It will begin firing according to the goal's reminder settings.
+Datapoint added to any goal,This Trigger fires every time a datapoint is added to any goal.
+Beemergency day on a specific goal,This Trigger fires when a specific goal moves into the red (imminent derailment).
+Datapoint added to a specific goal,This Trigger fires every time a datapoint is added to a specific goal.
+N days of safety buffer for a specific goal,This Trigger fires when a specific goal gets too close to derailing. You choose which goal and how many days before derail it should fire when you set up the Trigger.
+N days of safety buffer for any goal,This Trigger fires when any goal gets too close to derailing. You choose how many days before derail it should fire when you set up the Trigger.
+Beemergency day on any goal,This Trigger fires when any goal moves into the red (imminent derailment).

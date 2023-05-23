@@ -1,0 +1,54 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Automatically add new tasks with a specific label to Evernote,"This Applet will sync any tasks with a specific label (you could use Evernote) to a new note in the Evernote notebook of your choice. Sync it up, and get it done!",New task created with label,Create a note,/todoist,/evernote,316
+Save liked tweets as tasks in Todoist,"No time to read all the links and twitter threads in your timeline? Just like the tweet, and the tweet details and first link will be posted as a task on the Todoist project of your choice.",New liked tweet by you,Create task,/twitter,/todoist,126
+Add saved items from Pocket to Todoist,"When you save a new item to Pocket, this will be added as a task in your Todoist account.",Any new item,Create task,/pocket,/todoist,540
+Sync Evernote and Todoist,Two way syncing of Evernote notes and Todoist tasks,Create task,Create a note,/todoist,/evernote,1.7k
+Save new iOS reminders as a Todoist task,Creates a new Todoist task when you create an iOS reminder. Thus you can finally create Todoist tasks with Siri.,Any new reminder,Create task,/ios_reminders,/todoist,17.9k
+Automatically add new tasks from Google Tasks to Todoist,This Applet will create a task in Todoist any time a task is added to Google Tasks,New task added,Create task,/google_tasks,/todoist,850
+Automatically create Google Calendar events for new Todoist tasks,Stay organized and efficient: Automatically add a new event to your calendar when you add a new task to Todoist.,New task created,Quick add event,/todoist,/google_calendar,12.6k
+Put all your completed tasks in a Google Spreadsheet,Document your accomplishments and completed tasks one-by-one in a Google spreadsheet.,New completed task,Add row to spreadsheet,/todoist,/google_sheets,8.2k
+"Add a task to Todoist Inbox for every note tagged with ""Todoist"" in Evernote","Create a task in your Todoist Inbox if you add ""Todoist"" tag to any notes in Evernote. It uses the Todoist formatting syntax to create a hyperlink in the task title to the note, using note's title and PublicUrl of the note.",Add a specific tag to note,Create task,/evernote,/todoist,4.1k
+"If any new Google Calendar event, create Todoist task","Any time you create a new event in Google Calendar, a new Todoist task is created, as well.",New event added,Create task,/google_calendar,/todoist,2.5k
+Use Siri to create Todoist reminders,"New tasks added to your default list in iOS Reminders are also added to your ""Today"" list and inbox in Todoist",New reminder added to list,Create task,/ios_reminders,/todoist,10.0k
+Transfer Calendar Events to Todoist,"Sometimes you subscribe to a calendar service with assigned tasks/events by some organizations, but sadly you cannot set up alert for them. This applet helps you to add these tasks to your Todoist so you will not miss them.",New event added to specific calendar,Create task,/ios_calendar,/todoist,1.4k
+Make a new task,Quickly add a new task on Todoist with this simple Applet.,Any new note,Create task,/do_note,/todoist,7.3k
+"Todoist ""Completed Tasks"" saved to Day One",Save your completed tasks from Todoist as a new Journal Entry in Day On.,New completed task,Create Journal Entry,/todoist,/day_one,1.0k
+Echo add shopping list item to grocery list in todoist.,"Add shopping list item as a task under any project in Todoist (e.g. create a project called ""Grocery List"", and select that project as the action in the recipe).",Item added to your Shopping List,Create task,/amazon_alexa,/todoist,1.7k
+Log completed Todoist Tasks to one Evernote note,Keep track of your completed Todoist tasks in an appended Evernote note.,New completed task,Append to note,/todoist,/evernote,3.1k
+Trello tasks assigned to me go into Todoist,You can add your tasks from Trello to Todoist easily.,Card assigned to me,Create task,/trello,/todoist,4.0k
+Todoist Tickler,Adding an event to your Google calendar will get inserted into Todoist at the time the event starts. This is extremely helpful for tasks that need attention weeks or months away :),Any event starts,Create task,/google_calendar,/todoist,420
+"If you miss a call on your Android phone, have Todoist remind you to return it","If you miss a call on your Android phone, create a Todoist task to remind me to call back.
+
+(Note: This recipe requires the IFTTT app to be installed on the Android device.)",Any incoming phone call missed,Create task,/android_phone,/todoist,1.0k
+Automatically add new Todoist tasks with a specific label to Google Tasks,"This Applet will sync any tasks with a specific
+label (you could use Google Tasks) to a Google Tasks tasklist.",New task created with label,Add task to a list,/todoist,/google_tasks,77
+Add assigned Github issues to your Todoist,Make sure you keep on top of the GitHub issues that have been raised to you by easily seeing them at a glance in Todoist.,New issue assigned to you,Create task,/github,/todoist,195
+NEXT ACTION HABITS,"When you complete the task, it will create a NEXT ACTION TASK to fill in",New completed task,Create task,/todoist,/todoist,136
+Create a new task in Todoist by messaging @IFTTT in Telegram,Send a message to @IFTTT starting with 'Create task' to create a new task in Todoist. E.g. 'Create task Call grandma to wish her a happy birthday',New message with key phrase to @IFTTT,Create task,/telegram,/todoist,792
+New OneNote Page for specific ToDoIstask #TodoistIFTTT,Create a Task with the Label OneNote then a new OneNote page will be created where you can collect every important information,New task created with label,Create a page,/todoist,/onenote,77
+Get a summary email of tasks you have completed this week,Need to keep tabs on your weekly accomplishments? This is a perfect Applet for you. See all your completed tasks in one single email.,New completed task,Add to weekly email digest,/todoist,/email_digest,7.5k
+Todoist calendar creator,Creates a calendar event for todoist items,New task created,Send a notification from the IFTTT app,/todoist,/if_notifications,507
+Create ClickUp tasks from new tasks in Todoist,No need to waste time copying tasks between apps. Use this Applet to automatically have your Todoist tasks added to ClickUp.,New task created,Create task,/todoist,/clickup,4
+Create calendar event for tasks with label @calendar,This applet creates​ an event on google calendar for tasks that have a specific label.,New task created with label,Create a detailed event,/todoist,/google_calendar,168
+A checklist of completed Todoist tasks in Evernote,Each completed Todoist task is appended to an Evernote note with a checklist,New completed task,Append a to-do to note,/todoist,/evernote,42
+Create a Todoist task when a card is added to a list,"Just pick the board and the list, and when a card is added in Trello, a corresponding task will be created in Todoist automatically. Get. More. Done!",Card added to list,Create task,/trello,/todoist,926
+New Task for Todoist,Creates a new task for todoist,Say a specific phrase,Create task,/amazon_alexa,/todoist,35
+Memorialize Todoist Tasks in OneNote,Keep track of what you do in OneNote,New task created,Create a page,/todoist,/onenote,602
+Fiverr todos,Creates a todo when you get fiverr orders.,New order received,Create task,/fiverr,/todoist,16
+Track completed Todoist tasks on your Welltory dashboard,Find correlations between your lifestyle and productivity,New completed task,Send event,/todoist,/welltory,43
+Task in #todoist >> Post to #slack,Create a new task in #todoist and publis that task into a #slack channel.,New task created,Post to channel,/todoist,/slack,236
+Track the completed items on your to-do list,"Whenever you mark an item as completed in Todoist, a highlight event will be logged so you can have a record of how many items you complete each day.",New completed task,Log a highlight event,/todoist,/rescuetime,1.1k
+Track new Todoist tasks on your Welltory dashboard,Keep track of all your new tasks,New task created,Send event,/todoist,/welltory,102
+Automatically create a Trello card when you make a new task,"Sync your to-dos with your Trello — when you add a task, it'll make a new card with the details on the board and list you specify.",New task created,Create a card,/todoist,/trello,1.2k
+Todoist task to Google Sheets,Add Todoist task with specific label to Google Sheets,New task created with label,Add row to spreadsheet,/todoist,/google_sheets,83
+Send iOS screenshot as Todoist task,I put everything in the Inbox.,New screenshot,Create task,/ios_photos,/todoist,503
+"If a new to-do list item is created in Todoist via Alexa, import that task to a Ticktick list","This is a convoluted workaround for the currently nonfunctional Ticktick Alexa skill. It requires a Todoist account (free is okay) linked to Alexa via the Todoist Alexa skill. Once you link those and have the required Alexa lists ready to go in your Todoist account, just ask Alexa to add something to your to-do list, and she'll send that to the Alexa To-do List in Todoist, then this will send the same task to your Ticktick inbox! 
+
+Dear Ticktick, please fix the Alexa skill!",New task created,Add a task,/todoist,/TickTick,54
+Log Todoist completed tasks in Onenote,This Logs todoist completed tasks into a new Onenote page.,New completed task,Create a page,/todoist,/onenote,111
+Add your Pocket reading list to Todoist,"Whenever you tag an article on Pocket, a new Todoist task will be created. You'll always be on top of your reading list!",New item tagged,Create task,/pocket,/todoist,1.5k
+Create Todoist tasks for new issues in Jira,Stay on top of your work by putting new Jira issues into a to-do list. This Applet will automatically create Todoist tasks for newly created Jira issues.,New issue,Create task,/jira,/todoist,1
+"SMS saying ""remember to.."" adds Todoist task","Whenever somebody sends you a text message reminding you of something you are supposed to remember to do, when using the phrase ""remember to.."", a Todoist task will be created from their message.",New SMS received matches search,Create task,/android_messages,/todoist,739
+Add new Pipedrive activities to Todoist as tasks,Don't waste time manually creating tasks for your deals and activities. Use this Applet to automatically create new tasks in Todoist for new activities added to your Pipedrive deals.,New activity,Create task,/pipedrive,/todoist,1
+Create Task to Reply to Fiverr Messages in Todoist,Helps manage #Fiverr conversations easily by creating tasks in #Todoist,New message in inbox,Create task,/fiverr,/todoist,5
+"Track phone call answered, then create a task in Inbox","Track phone call answered, then create a task in Inbox",Any incoming phone call ends,Create task,/android_phone,/todoist,140

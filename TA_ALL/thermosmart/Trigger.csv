@@ -1,0 +1,6 @@
+trigger,trigger_description
+Temperature rises above,This Trigger fires every time the temperature rises above a threshold you specify.
+ThermoSmart gets unpaused,This Trigger fires every time the ThermoSmart gets unpaused.
+ThermoSmart gets paused,This Trigger fires every time the ThermoSmart is paused.
+Temperature drops below,This Trigger fires every time the temperature drops below a threshold you specify.
+ThermoSmart changes program,This Trigger fires every time the ThermoSmart changes a scheduled program.

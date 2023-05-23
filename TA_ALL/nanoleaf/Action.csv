@@ -1,0 +1,9 @@
+action,action_description
+Change Nanoleaf Light Panels or Canvas color,This action will change the color of the Nanoleaf Light Panels or Canvas that you select from the device dropdown on this screen. You can enter either a hex value or a keyword for the color. Need help choosing a color? Bookmark nanoleaf.me/ifttt for easy access to a list and color picker.
+Turn on Nanoleaf smart light,This action will turn on the Nanoleaf product that you select from the device dropdown on this screen.
+Activate a scene,This action will activate the Scene that you choose. You can choose from any Scene that is listed in your Nanoleaf Smarter Series App.
+Set brightness of Nanoleaf smart light,"This action will set the brightness of the Nanoleaf product that you select from the device dropdown on this screen, using the percentage that you specify."
+Brighten Nanoleaf smart light,"This action will brighten the Nanoleaf product that you select from the device dropdown on this screen, using the percentage that you specify."
+Notify you using your Nanoleaf Light Panels or Canvas,This action will temporarily set your Nanoleaf Light Panels or Canvas to a solid or blinking color and then return to its previous state.
+Turn off Nanoleaf smart light,This action will turn off the Nanoleaf product that you select from the device dropdown on this screen.
+Dim Nanoleaf smart light,"This action will dim the Nanoleaf product that you select from the device dropdown on this screen, using the percentage that you select."

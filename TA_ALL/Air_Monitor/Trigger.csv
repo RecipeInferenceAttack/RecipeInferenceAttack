@@ -1,0 +1,13 @@
+trigger,trigger_description
+High humidity,This trigger fires when the humidity measured from your Air Monitor rises above your threshold setting.
+High temperature,This trigger fires when the temperature measured from your Air Monitor rises above your threshold setting.
+Low temperature,This trigger fires when the temperature measured from your Air Monitor drops below your threshold setting.
+Low humidity,This trigger fires when the humidity measured from your Air Monitor drops below your threshold setting.
+Air quality is very unhealthy,"This trigger fires when the air quality measured from your Air Monitor is very unhealthy.
+ (Indoor Air Quality value rises higher than 200 or your threshold setting)"
+New air quality reading,This trigger fires when a new air quality is reading available.
+Button pressed,This trigger fires when the button on Air Monitor is pressed briefly.
+Air quality is unhealthy,"This trigger fires when the air quality measured from your Air Monitor is unhealthy. 
+(Indoor Air Quality value rises higher than 150 or your threshold setting)"
+Air quality is good,"This trigger fires when the air quality measured from your Air Monitor is good. 
+(Indoor Air Quality value drops below 50 or your threshold setting)"

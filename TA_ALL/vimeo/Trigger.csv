@@ -1,0 +1,10 @@
+trigger,trigger_description
+New staff pick,This Trigger fires every time a new video is added to the Vimeo Staff Picks Channel.
+New follower,This Trigger fires every time you have a new follower on Vimeo.
+New video from search,This Trigger fires every time a new video is uploaded to Vimeo that matches a search query you specify.
+New video in your feed,This Trigger fires every time there is a new video in your feed.
+New live event,This Trigger fires every time you start a live event on Vimeo. Note: Vimeo's Live API is available only to Vimeo Enterprise customers.
+New video uploaded,This Trigger fires every time you upload a new video to Vimeo.
+New watch later video,This Trigger fires every time you add a video to watch later on Vimeo.
+New appearance in a video,This trigger fires every time there is a new video  in which the authenticated user has a credited appearance.
+New liked video,This Trigger fires every time you like (heart) a video on Vimeo.

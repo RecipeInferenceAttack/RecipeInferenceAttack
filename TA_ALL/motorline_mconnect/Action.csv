@@ -1,0 +1,5 @@
+action,action_description
+Activate RF transmitter,This action will activate the RF channel of your MCONNECT device.
+Activate scene,This action will activate one MCONNECT scene.
+Turn ON/OFF,This action will turn ON/OFF your MCONNECT device.
+Open/Close,This action will open/close your MCONNECT device.

@@ -1,0 +1,10 @@
+action,action_description
+Turn off lights,This Action will turn off your sengled lights.
+Toggle lights on/off,This Action will toggle your lights on or off.
+Turn off plug,This action will turn off your plug.
+Change color,This Action will change your lights to a specified color.
+Change color temperature,This Action will change your lights to specified color temperature.
+Set brightness,This Action will set your lights to a specified brightness.
+Turn on lights,This Action will turn on your sengled lights.
+Toggle plug on/off,This action will toggle your plug.
+Turn on plug,This action will turn on your plug.

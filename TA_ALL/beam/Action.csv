@@ -1,0 +1,4 @@
+action,action_description
+Open garage door,"This action will ask the controller to open the garage door you specify. If the garage door is already open, then the door will remain open."
+Partially open garage door,"This action will ask the controller to partially open the garage door you specify. If the garage door is already partially open, then the door will remain partially open."
+Close garage door,"This action will ask the controller to close the garage door you specify. If the garage door is already closed, then the door will remain closed."

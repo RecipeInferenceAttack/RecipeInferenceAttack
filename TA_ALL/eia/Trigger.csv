@@ -1,0 +1,3 @@
+trigger,trigger_description
+This Week in Petroleum,This trigger fires when the latest This Week in Petroleum report is published.
+Today in Energy,This trigger fires when the Today in Energy report is published.

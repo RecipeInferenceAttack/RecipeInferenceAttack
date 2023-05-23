@@ -1,0 +1,8 @@
+trigger,trigger_description
+Lint filter is full,This trigger fires every time the lint filter is full.
+Door closed,This trigger fires every time your dryer door has been closed (works only if the dryer is turned on).
+Condensate container is full,This trigger fires every time the condensate container is full.
+Drying process finished,This trigger fires every time the drying process of your dryer is finished.
+Door opened,This trigger fires every time your dryer door has been opened (works only if the dryer is turned on).
+Cycle starts,This trigger fires every time your dryer cycle starts.
+Cycle is complete,"This trigger fires every time your dryer cycle is complete. This requires both the drying and wrinkle guard to be finished, in case you were using wrinkle guard."

@@ -1,0 +1,6 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Not Interested,"When someone is detected on your camera, close the curtains to let them know you are not interested.",New motion event,Move a curtain,/nest_cam,/MyCurtains,
+Coming Home,Opens your curtain(s) when you approach your house.,You enter an area,Move a curtain,/location,/MyCurtains,
+Leaving Home,Closes your curtain(s) when you leave home.,You exit an area,Move a curtain,/location,/MyCurtains,
+Too Hot,"When the temperature becomes too hot outside, close the curtains to keep some of the sunlight out.",Current temperature rises above,Move a curtain,/weather,/MyCurtains,1
+Too Cold,"When the temperature gets too cold outside, open the curtain(s) to let in some sunlight.",Current temperature drops below,Move a curtain,/weather,/MyCurtains,

@@ -1,0 +1,2 @@
+trigger,trigger_description
+Receive a message from EveryKit,This trigger fires every time you receive a message from EveryKit.

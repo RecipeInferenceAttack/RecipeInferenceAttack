@@ -1,0 +1,4 @@
+action,action_description
+Toggle plug on or off,This Action will toggle your Hive Plug on or off.
+Turn off plug for a specific duration,This Action will turn your Hive plug off for a specific duration.
+Turn on plug for a specific duration,This Action will turn your Hive plug on for a specific duration.

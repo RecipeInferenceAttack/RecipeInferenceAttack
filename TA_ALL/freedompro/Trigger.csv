@@ -1,0 +1,12 @@
+trigger,trigger_description
+ContactSensor,This trigger fires every time a contact sensor is in a specific state (open or close).
+CarbonDioxideSensor,This trigger fires every time a carbon dioxide sensor is in a specific state (detected or not detected).
+SmokeSensor,This trigger fires every time a smoke sensor is in a specific state (detected or not detected).
+Switch,This trigger fires every time a switch is in a specific state (on or off).
+OccupancySensor,This trigger fires every time an occupancy sensor is in a specific state (detected or not detected).
+Lightbulb,This trigger fires every time a light is in a specific state (on or off).
+MotionSensor,This trigger fires every time a motion sensor is in a specific state (detected or not detected).
+LeakSensor,This trigger fires every time a leak sensor is in a specific state (detected or not detected).
+Fan,This trigger fires every time a fan is in a specific state (on or off).
+Outlet,This trigger fires every time an outlet is in a specific state (on or off).
+Lock,This trigger fires every time a lock is in a specific state (lock or unlock).

@@ -1,0 +1,5 @@
+trigger,trigger_description
+Too many false alarms,This trigger fires when you have more than 500 alarm videos of which more than 80% are recognized as false alarms.
+Cloud storage will expire,This trigger fires when your INSTAR Cloud storage plan is coming close to it's expiration.
+Too many alarm uploads,This trigger fires when the amount of alarm uploads per day exceeds a specific number.
+Cloud storage is full,This trigger fires when your Cloud storage reaches it's maximum capacity.

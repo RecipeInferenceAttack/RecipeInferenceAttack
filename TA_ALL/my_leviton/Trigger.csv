@@ -1,0 +1,10 @@
+trigger,trigger_description
+Residence set to away,This trigger fires when a My Leviton Residence's status is set to away.
+Scene ran,This trigger fires when a My Leviton Scene has run.
+Activity ran,This trigger fires when a My Leviton Activity has run.
+Residence set to home,This trigger fires when a My Leviton Residence's status is set to home.
+Device turned off,This trigger fires when a Decora Smart Wi-Fi device turns off.
+Room turned off,This trigger fires when a My Leviton Room turns off.
+Button pressed,"This trigger fires when a DW4BC or D2SCS button is pressed. The DW4BC supports buttons 1,2,3, or 4. The D2SCS supports buttons 1,2, or 3."
+Device turned on,This trigger fires when a Decora Smart Wi-Fi device turns on.
+Room turned on,This trigger fires when a My Leviton Room turns on.

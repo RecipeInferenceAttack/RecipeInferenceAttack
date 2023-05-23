@@ -1,0 +1,9 @@
+action,action_description
+Stop program,This action will stop the active dryer program.
+Start time program,This action will start the selected time program with your preferred duration.
+Start automatic program,This action will start the selected automatic program with your preferred settings.
+Start selected program,This action will start the dryer program selected on the appliance.
+Pause program,This action will pause the active dryer program.
+Select Connected Dry program recommendation,This action will select the program recommended by intelligentDry/Smart Dry with your preferred settings.
+Resume program,This action will resume the paused dryer program.
+Turn off dryer,This action will turn off your dryer.

@@ -1,0 +1,6 @@
+trigger,trigger_description
+System detects an intrusion,This Trigger fires every time your Myfox security system detects an intrusion.
+System is partially armed,This Trigger fires every time your Myfox security system is partially armed.
+System is disabled,This Trigger fires every time your Myfox security system is disabled.
+System detects a household risk,This Trigger fires every time your Myfox security system detects a household risk.
+System is armed,This Trigger fires every time your Myfox security system is armed.

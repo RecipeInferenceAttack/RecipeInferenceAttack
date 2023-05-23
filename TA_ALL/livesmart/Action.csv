@@ -1,0 +1,2 @@
+action,action_description
+Execute a rule,This action will execute the rule set up by the user at a given trigger point.

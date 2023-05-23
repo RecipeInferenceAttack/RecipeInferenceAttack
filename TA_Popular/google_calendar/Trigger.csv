@@ -1,0 +1,8 @@
+trigger,trigger_description
+You respond to an event invite,The trigger fires every time you respond to an event you're invited to. Note: The time in the ingredient will be based on the timezone set in Google Calendar.
+Event from search starts,"This Trigger fires a set number of minutes before the starting time of an event on your Calendar that contains a specific keyword or phrase in the event’s Title, Description, or Location. Ingredient will be based on the zone set in Google."
+New event from search added,"This Trigger fires every time a new event from search is added to your Google Calendar that contains a specific keyword or phrase. The search looks at the event’s Title, Description, and Location. Ingredient will be based on the timezone set in Google"
+Any event starts,This Trigger fires a set number of minutes before the starting time of any event on your Google Calendar. Note: The time in the ingredient will be based on the timezone set in Google Calendar.
+Any event ends,This Trigger fires within 15 minutes of the ending time of an event on your Google Calendar. Note: The time in the ingredient will be based on the timezone set in Google Calendar.
+New event from search ends,"This Trigger fires within 15 minutes of the ending time of an event on your Google Calendar that contains a specific keyword or phrase. The search looks at the event’s Title, Description, and Location. Ingredient will be based on the zone set in Google."
+New event added,This Trigger fires every time a new event is added to your Google Calendar. Note: The time in the ingredient will be based on the timezone set in Google Calendar.

@@ -1,0 +1,3 @@
+action,action_description
+Add to Buffer,This Action will add a post to Buffer. If your Buffer is full then the post will be skipped.
+Add photo to Buffer,This Action will add a photo to Buffer. If your Buffer is full then the post will be skipped.

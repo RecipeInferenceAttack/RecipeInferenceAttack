@@ -1,0 +1,10 @@
+action,action_description
+Speak to me,This Action will convert your message to speech and play it to a room (i.e. Musaic player) in the voice/language you choose.
+Un-mute,This Action will un-mute the selected room (i.e. Musaic player).
+Sound an alarm,This Action will play an alarm sound to the room (i.e. Musaic player) you select.
+Mute,This Action will mute the selected room (i.e. Musaic player).
+Recall home control scene,"This Action will recall a home control scene that you have set up on your Musaic player. Setting a scene to ""on"" recalls that scene, setting a scene to ""off"" turns off all devices that are included in that scene."
+Set volume,This Action will set a specific volume (0-100) for the room (i.e. Musaic player) that you select.
+Play radio preset,This Action will recall and start playback of an internet radio preset stored in a Musaic player. If the player is in Networked Standby it will wake up. The volume will be the last volume used unless specified.
+Play audio from URL,This Action will replace the Musaic players queue with the audio from the given URL and start playback. The URL can be for a local music server or internet radio stream.
+Turn off room,This Action will turn off the selected room (i.e. put the selected Musaic player into Networked Standby).

@@ -1,0 +1,6 @@
+trigger,trigger_description
+New order,This trigger fires when a new order is placed.
+Order updated,This trigger fires when an order is updated.
+New product added,This trigger fires when a new product is added to your Webflow site.
+New collection item,This trigger fires when there is a new collection item.
+Form submitted,This trigger fires when a form is submitted.

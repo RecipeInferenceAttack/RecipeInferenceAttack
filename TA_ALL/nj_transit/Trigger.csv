@@ -1,0 +1,3 @@
+trigger,trigger_description
+New light rail advisory,This trigger fires every time there is a new light rail advisory.
+New bus advisory,This trigger fires when there is a new NJ transit bus advisory.

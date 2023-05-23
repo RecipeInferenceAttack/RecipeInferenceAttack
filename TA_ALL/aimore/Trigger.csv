@@ -1,0 +1,3 @@
+trigger,trigger_description
+When one of your devices is turned on,This trigger fires when the device you selected turns on.
+When one of your devices is turned off,This trigger fires when the device you selected turns off.

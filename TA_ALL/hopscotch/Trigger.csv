@@ -1,0 +1,9 @@
+trigger,trigger_description
+A new text post is scheduled,This trigger fires when a new plain text post is scheduled.
+A new post is scheduled,This trigger fires when a new post is scheduled.
+A new link post is published,This trigger fires when a new post containing an link is published.
+A new photo post is published,This trigger fires when a new post containing an image is published.
+A new photo post is scheduled,This trigger fires when a new post containing an image is scheduled.
+A new text post is published,This trigger fires when a new plain text post is published.
+A new post is published,This trigger fires when a new post is published.
+A new link post is scheduled,This trigger fires when a new post containing a link is scheduled.

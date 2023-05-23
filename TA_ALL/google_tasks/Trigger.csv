@@ -1,0 +1,3 @@
+trigger,trigger_description
+A task is completed,This trigger fires when a task is completed.
+New task added,This trigger fires when a task is added to a list.

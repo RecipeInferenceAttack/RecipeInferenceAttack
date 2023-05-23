@@ -1,0 +1,4 @@
+trigger,trigger_description
+New screenshot,This Trigger fires every time a new screenshot is taken on your Android device.
+New photo taken in area,This Trigger fires every time a new photo is taken on your Android device in an area you specify.
+Any new photo,This Trigger fires every time a new photo is taken on your Android device.

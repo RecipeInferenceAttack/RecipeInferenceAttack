@@ -1,0 +1,4 @@
+action,action_description
+Upload file from URL,This Action will download a file at a given URL and add it to Box at the path you specify. NOTE: 30 MB file size limit.
+Create a text file,This Action will create a new text file at the path you specify.
+Append to a text file,This Action will append to a text file as determined by the file name and folder path you specify. Once a file’s size reaches 2MB a new file will be created.

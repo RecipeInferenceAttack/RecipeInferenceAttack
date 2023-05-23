@@ -1,0 +1,2 @@
+trigger,trigger_description
+On button pressed,This trigger fires when you press a given button on your Triby IO.

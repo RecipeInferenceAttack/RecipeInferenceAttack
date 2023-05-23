@@ -1,0 +1,3 @@
+action,action_description
+Create a new post,This action will create a new public post.
+Create new post in room,This action will post inside of a room you are a member of.

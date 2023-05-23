@@ -1,0 +1,11 @@
+action,action_description
+Turn off,This action will turn off the device/group of your choosing.
+Start Cool Mode,This action will set your AC to Cool Mode.
+Turn on,This action will turn on the device/group of your choosing.
+Activate Scene,This action will activate the specified scene.
+Set light brightness,This action will set your light to a specified brightness.
+Set light color,This action will set the light to specified color.
+Start Heat Mode,This action will set your AC to Heat Mode.
+Turn off oscillation function of fan,This action will turn off the oscillation function of your fan by IR remote controller.
+Set AC temperature,This action will set your AC to a specified temperature by remote controller.
+Turn on oscillation function of fan,This action will turn on the oscillation function of your fan by IR remote controller.

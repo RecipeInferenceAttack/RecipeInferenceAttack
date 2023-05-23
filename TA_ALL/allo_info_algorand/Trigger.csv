@@ -1,0 +1,5 @@
+trigger,trigger_description
+Algo received,This trigger fires when someone sends Algo to your NFD deposit address.
+ASA received,This trigger fires when someone sends ASA to your NFD deposit address.
+ASA sent,This trigger fires when ASA is sent from NFD deposit address.
+Algo sent,This trigger fires Algo is sent from FD deposit address.

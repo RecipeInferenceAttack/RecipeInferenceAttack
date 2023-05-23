@@ -1,0 +1,3 @@
+action,action_description
+Snooze alarm,This action will stop alarm on Glance Clock.
+Show notice,This action will show a simple notice on your Glance Clock.

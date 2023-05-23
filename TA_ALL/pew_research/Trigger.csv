@@ -1,0 +1,2 @@
+trigger,trigger_description
+Updates from the research center,This trigger fires whenever a new item is added to the Pew Research feed. You can filter for specific keywords when you build an Applet.

@@ -1,0 +1,16 @@
+trigger,trigger_description
+Webinar Delete,Triggers when a webinar is cancelled / deleted.
+Sub-Account Delete,Triggers when sub-account is deleted.
+Sub-Account Status Enable,Triggers when your sub-account is enabled.
+Sub-Account Create,Triggers when a new sub-account is created under your account.
+Widget Session Stop,Triggers when widget session stop.
+Webinar Create,Triggers when a new webinar or meeting is created.
+Webinar Status Disable,Triggered when webinar status changes to disabled.
+Sub-Account Status Disable,Triggers when your sub-account status is disabled.
+Webinar Recording Ready,Triggers when a recording of your webinar is post-processed and ready for download. Based on this trigger you can download it to you FTP server or upload to Vimeo/YouTube.
+New Registrant,Triggers when new registrant registers to your webinar.
+Sub-Account Update,Triggers when your sub-account details changes.
+Webinar Status Enable,Triggers when webinar status is changed to enable.
+Widget Session Start,Triggers when widget session start.
+Webinar Update,Triggers when a webinars details changes.
+New Lead,Triggered when someone fills in the Lead form before entering your webinar.

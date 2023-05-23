@@ -1,0 +1,5 @@
+action,action_description
+Activate Scene,This Action will activate an individual Room Scene.
+Turn on all Schedules,This Action will globally enable all Scheduled Scenes.
+Activate Multiple Room Scene,This Action will activate a Multiple Room Scene.
+Turn off all Schedules,This Action will globally disable all Scheduled Scenes.

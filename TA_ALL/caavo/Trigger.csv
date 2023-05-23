@@ -1,0 +1,5 @@
+trigger,trigger_description
+Caavo turned off,This trigger fires when Caavo Control Center is put to sleep.
+Caavo turned on,This trigger fires when Caavo Control Center is turned on.
+Caavo search,This trigger fires when Caavo Control Center performs any search query.
+Caavo plays content,This trigger fires when Caavo Control Center directly launches content.

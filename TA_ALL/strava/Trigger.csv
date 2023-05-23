@@ -1,0 +1,6 @@
+trigger,trigger_description
+New club event scheduled,This Trigger fires every time there is a new event scheduled for one of your clubs.
+New activity by you,This Trigger fires every time you complete a new activity on Strava.
+New activity by you with photo,This Trigger fires every time you complete a new activity that includes a photo.
+New starred segment by you,This Trigger fires every time you star a segment on Strava.
+New route by you,This Trigger fires every time you create a new route on Strava.

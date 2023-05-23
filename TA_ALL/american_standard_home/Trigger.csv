@@ -1,0 +1,8 @@
+trigger,trigger_description
+American Standard Home automation runs,This trigger fires when an American Standard Home automation runs.
+Door closes,This trigger fires when your door closes.
+Motion sensor detects motion,This trigger fires when your motion sensor detects motion.
+Lock is unlocked,This trigger fires when your lock is unlocked.
+Camera detects motion,This trigger fires when a camera detects motion.
+Door opens,This trigger fires when your door opens.
+Lock is locked,This trigger fires when your lock is locked.

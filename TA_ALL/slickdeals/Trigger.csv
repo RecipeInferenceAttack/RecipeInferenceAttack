@@ -1,0 +1,4 @@
+trigger,trigger_description
+Popular deals,This trigger fires when a new popular deal is posted on Slickdeals
+Trending deals,This trigger fires when a deal is trending
+Frontpage deals,This trigger fires when a new deal is posted on the frontpage at Slickdeals

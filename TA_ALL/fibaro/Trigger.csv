@@ -1,0 +1,18 @@
+trigger,trigger_description
+Closed,This trigger fires when the device connected to FIBARO Home Center is closed.
+Armed,This trigger fires when the device connected to FIBARO Home Center  is armed.
+The button,This trigger fires when The Button connected to FIBARO Home Center is pressed as specified.
+Opened,This trigger fires when the device connected to FIBARO Home Center  is opened.
+CO alarm,This trigger fires when the device connected to FIBARO Home Center detects CO.
+Switched off,This trigger fires when the device connected to FIBARO Home Center is switched off.
+Smoke alarm,This trigger fires when the device connected to FIBARO Home Center  detects smoke.
+Flood alarm,This trigger fires when the device connected to FIBARO Home Center detects flood.
+Low battery level,This trigger fires when the device connected to FIBARO Home Center reports low battery level.
+Motion detected,This trigger fires when the device connected to FIBARO Home Center detects motion.
+Tamper alarm,This trigger fires when the device connected to FIBARO Home Center reports a tamper alarm.
+Scene activated,This trigger fires when the scene connected to FIBARO Home Center device is activated.
+Switched on,This trigger fires when the device connected to FIBARO Home Center device is switched on.
+Keyfob,This trigger fires when Keyfob connected to FIBARO Home Center is pressed as specified.
+Disarmed,This trigger fires when the device connected to FIBARO Home Center  is disarmed.
+Overheat alarm,This trigger fires when the device connected to FIBARO Home Center detects overheat.
+Toggled,This trigger fires when the device connected to FIBARO Home Center device changes is toggled.

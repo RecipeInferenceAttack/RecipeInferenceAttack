@@ -1,0 +1,6 @@
+trigger,trigger_description
+New business headlines from section,This trigger fires when a new article is published from the business section of your choosing.
+New headlines from section,This trigger fires when a new article from a section of your choosing is published.
+Trending news from section,This trigger fires when an article from a specific section is trending.
+Trending business news from section,This trigger fires when an article from a specific business section is trending.
+Breaking news alert,The trigger fires when there is a breaking news alert.

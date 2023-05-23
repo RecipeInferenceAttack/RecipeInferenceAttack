@@ -1,0 +1,5 @@
+action,action_description
+Arm the panel,This action will arm the panel
+Set temperature,This action will set the temperature of a chronothermostat.
+Disable device,This action will disable a device.
+Enable device,This action will enable a device.

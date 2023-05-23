@@ -1,0 +1,4 @@
+trigger,trigger_description
+Appointment starts,This trigger fires when an appointment starts.
+New appointment,This trigger fires when a new appointment is scheduled.
+New product order,This trigger fires when there is a new product order.

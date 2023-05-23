@@ -1,0 +1,9 @@
+action,action_description
+Set thermostat mode,This action will set the mode of the selected thermostat.
+Set thermostat target temperature,This action will set the target temperature of your thermostat.
+Set night light color,Set the color of the specified product's night light.
+Turn night light off,This action will turn the specified product's night light off.
+Turn night light on,This action will turn the specified product's night light on.
+Turn on,This action will turn the specified product on.
+Turn off,This action will turn the specified product off.
+Adjust brightness,This action will set the percentage of brightness for the specified product.

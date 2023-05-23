@@ -1,0 +1,7 @@
+action,action_description
+Send bell to a device,Send bell to a device that supports a bell. E.g. a door bell.
+Send up to a device,Send up to a device that support up. It may be e.g. Blinds or a Projector screen
+Turn on a device,Turn on a device that support switching on.
+Dim a device,Dim a device that support dimming.
+Turn off a device,Turn off a device that support switching off.
+Send down to a device,Send down to a device that support up. It may be e.g. Blinds or a Projector screen

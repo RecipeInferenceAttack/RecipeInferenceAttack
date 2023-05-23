@@ -1,0 +1,3 @@
+trigger,trigger_description
+New event from a camera,This Trigger fires every time a rule on a Sighthound Video camera you specify sends an event. You must first configure rules in Sighthound Video to “Send an IFTTT event”.
+New event from a rule,This Trigger fires every time a Sighthound Video rule you specify sends an event. You must first configure the rule in Sighthound Video to “Send an IFTTT event”.

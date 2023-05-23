@@ -1,0 +1,3 @@
+trigger,trigger_description
+New post by you,"This trigger fires when you make a new public post. Does not fire when you reply, re-post, or post to a room."
+New post to room,This trigger fires when anyone posts to a specific room

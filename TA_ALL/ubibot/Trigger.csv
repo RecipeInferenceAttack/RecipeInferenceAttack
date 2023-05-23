@@ -1,0 +1,18 @@
+trigger,trigger_description
+Vibration Index Rises above or Drops below,This trigger monitors the WS1 vibration sensor readings and fires whenever the vibration index rises above or drops below the value you provide.
+External-PT100-Probe Temperature Rises above or Drops below,This trigger monitors the UbiBot device's external PT100 probe Temperature readings and fires whenever the Temperature rises above or drops below the value you provide.
+Light Rises above or Drops below,This trigger monitors the UbiBot device's built-in light sensor readings and fires whenever the light level rises above or drops below the value in lux you provide.
+External-Soil-Probe-Temperature Rises above or Drops below,This trigger monitors the UbiBot device's external Soil Probe Moisture readings and fires whenever the temperature level rises above or drops below the value you provide.
+External-Soil-Probe-Moisture Rises above or Drops below,This trigger monitors the UbiBot device's external Soil Probe Moisture readings and fires whenever the moisture level rises above or drops below the value you provide.
+Temperature Rises above or Drops below,This trigger monitors the UbiBot device's built-in temperature sensor readings and fires whenever the temperature rises above or drops below the value you provide.
+Device is offline,This trigger fires when your UbiBot device is offline.
+Voltage Rises above or Drops below,This trigger monitors the voltage of the batteries or USB power and fires whenever the voltage rises above or drops below the value you provide.
+External-DS18B20-Temperature-Probe-2 Rises above or Drops below,This trigger monitors the UbiBot device's external DS18B20 temperature probe 2's readings and fires whenever the temperature rises above or drops below the value you provide.  (Available for WS1-PRO devices)
+External-TH30S-Probe-Humidity Rises above or Drops below,This trigger monitors the UbiBot device's external TH30S probe Humidity readings and fires whenever the Humidity rises above or drops below the value you provide (Available for WS1-PRO and GS1 devices).
+External-TH30S-Probe-Temperature Rises above or Drops below,This trigger monitors the UbiBot device's external TH30S probe Temperature readings and fires whenever the Temperature rises above or drops below the value you provide (Available for WS1-PRO and GS1 devices).
+External Power Supply is Up or Down,This trigger monitors the status of the external power supply (USB) that connects to the device and fires whenever the power supply is up or down.
+Motion is Detected or Undetected from Motion Sensor,This trigger monitors the status of the motion sensor and fires whenever motion is detected or undetected.
+(Universal) Any Channel Field Value Rises above or Drops below,This trigger monitors the UbiBot device's selected Field readings and fires whenever the reading rises above or drops below the value you provide.
+Carbon Dioxide (CO2) Rises above or Drops below,This trigger monitors the UbiBot device's connected Carbon Dioxide (CO2) probe readings and fires whenever the result rises above or drops below the value you provide.
+External-DS18B20-Temperature-Probe-1 Rises above or Drops below,This trigger monitors the UbiBot device's external DS18B20 temperature probe 1's readings and fires whenever the temperature rises above or drops below the value you provide (Available for WS1 and WS1-PRO devices).
+Humidity Rises above or Drops below,This trigger monitors the UbiBot device's built-in humidity sensor readings and fires whenever the humidity rises above or drops below the value you provide.

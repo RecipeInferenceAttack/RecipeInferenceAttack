@@ -1,0 +1,3 @@
+trigger,trigger_description
+Envelope completed,This trigger fires when an envelope is completed.
+Envelope sent,This trigger fires when an envelope is sent.

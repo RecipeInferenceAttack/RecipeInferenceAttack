@@ -1,0 +1,3 @@
+trigger,trigger_description
+Specific command,This trigger files when a command you choose is triggered.
+Any command,This trigger fires when any command runs

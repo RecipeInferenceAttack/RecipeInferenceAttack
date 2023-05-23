@@ -1,0 +1,6 @@
+action,action_description
+myStrom device off,This Action will turn OFF one of your myStrom devices.
+Change color,This Action will change the color of myStrom WiFi Bulb.
+Toggle myStrom device,This Action will TOGGLE one of your myStrom devices.
+myStrom device on,This Action will turn ON one of your myStrom devices.
+Set scene,This Action will execute predefined Scene.

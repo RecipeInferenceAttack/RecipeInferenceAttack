@@ -1,0 +1,6 @@
+trigger,trigger_description
+Temperature drops below,This Trigger fires every time your A/C unit detects temperatures below a value you specify.
+Device alert,This Trigger fires every time your A/C unit has an alert message.
+Temperature rises above,This Trigger fires every time your A/C unit detects temperatures above a value you specify.
+A/C turned on,This Trigger fires every time your A/C unit is turned on.
+A/C turned off,This Trigger fires every time your A/C unit is turned off.

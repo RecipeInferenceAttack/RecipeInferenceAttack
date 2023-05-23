@@ -1,0 +1,5 @@
+action,action_description
+Log calories consumed,This action logs calories consumed to your iPhone's Health app.
+Log sleep,This action logs sleep to your iPhone's Health app.
+Log weight,This action logs body mass in pounds or kilograms to your iPhone's Health app.
+Log workout,"This action logs a workout to your iPhone's Health app. Choose the type of activity, calories burned, duration, and more to customize your workouts."

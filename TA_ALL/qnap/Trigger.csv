@@ -1,0 +1,3 @@
+trigger,trigger_description
+New file in your folder,This trigger fires every time when a new file is stored to the selected folder.
+New system event,This trigger fires every time a new system event occurs on your QNAP device. This trigger is only available to the device administrator.

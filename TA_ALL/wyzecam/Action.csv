@@ -1,0 +1,20 @@
+action,action_description
+Turn switch on,This action will turn on your Wyze Switch.
+Lock Wyze Lock,This Action will lock your Wyze Lock.
+Turn bulb off,This action will turn the bulb off.
+Change color,This Action will change the color of your Wyze Bulb Color.
+Turn off device,This action will turn off your selected camera. The minimum firmware version required is v3.9.3.62 for v1 and v4.9.1.60 for v2.
+Set bulb color temperature,This action will change the color temperature of the bulb.
+Disable motion detection,This action will turn off your device's motion detection. This action does not apply to shared cameras. The minimum firmware version required is v3.9.3.62 for v1 and v4.9.1.60 for v2.
+Set bulb brightness,This action will change the brightness of the bulb.
+Enable motion detection,This action will turn on your device's motion detection. This action does not apply to shared cameras. The minimum firmware version required is v3.9.3.62 for v1 and v4.9.1.60 for v2.
+Turn switch off,This action will turn off your Wyze Switch.
+Turn off notifications,This action will turn off notifications for your camera alerts.
+Turn bulb on,This action will turn the bulb on.
+Turn on device,This action will turn on your selected camera. The minimum firmware version required is v3.9.3.62 for v1 and v4.9.1.60 for v2.
+Unlock Wyze Lock,This Action will unlock your Wyze Lock.
+Turn plug on,This action will turn the plug on.
+Turn on notifications,This action will turn on notifications for your camera alerts.
+Turn plug off,This action will turn the plug off.
+Restart device,This action will restart your selected camera. This action does not apply to shared cameras. The minimum firmware version required is v3.9.3.62 for v1 and v4.9.1.60 for v2.
+Record a short video clip,This action will record an alert video and store it on the cloud. This action does not apply to shared cameras. The minimum firmware version required is v3.9.3.62 for v1 and v4.9.1.60 for v2.

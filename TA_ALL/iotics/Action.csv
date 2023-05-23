@@ -1,0 +1,8 @@
+action,action_description
+Level control for particular fan,This action will help to control the fan level
+Turn on a particular device,This action will turn on the selected iotics device
+Turn off all devices,This action will turn off all iotics devices
+Turn on all devices,This action will turn on all the iotics device linked to your account
+Turn on a particular device switch,This action will allow user to select the iotics device and the particular switch of it to be turned on
+Turn off a particular device,This action will turn off the selected iotics device
+Turn off a particular device switch,This action will allow user to select the particular switch  to be turned off

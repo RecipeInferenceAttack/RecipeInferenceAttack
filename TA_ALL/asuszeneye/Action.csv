@@ -1,0 +1,5 @@
+action,action_description
+Turn off Guard,"This action will disable VivoCam Guard mode. When Guard mode is disabled, the camera stops monitoring for your privacy."
+Turn off siren,This action will disable VivoCam Base Station siren
+Turn on siren,This action will enable VivoCam Base Station siren
+Turn on Guard,"This action will enable VivoCam Guard mode. When Guard mode is enabled, the camera starts monitoring for your home security."

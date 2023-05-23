@@ -1,0 +1,15 @@
+trigger,trigger_description
+New voice message from phone number,This trigger fires when a voice message is received on a landline phone from a specific phone number.
+Any host disconnected,This trigger fires when a host disconnects from the Bbox gateway network. This trigger can take up to 2 minutes to dispatch.
+Missed call from phone number,This trigger fires when a call is missed on a landline phone from a specific phone number.
+Missed call,This trigger fires when a call is missed on a landline phone.
+Volume changed,This trigger fires when the volume changes on Bbox Miami.
+Any host connected,This trigger fires when any host connects to the Bbox gateway network.
+New voice message,This trigger fires when a voice message is received on a landline phone.
+Device state changed,This trigger fires when the Bbox Miami state changes (wake up / stand by). This doesn't trigger when Bbox Miami is shutdown or unplugged.
+Host disconnected by hostname,This trigger fires when a host matching the hostname value disconnects from the Bbox gateway network. This trigger can take up to 2 minutes to dispatch.
+Host connected by hostname,This trigger fires when a host matching the specified host name connects to the Bbox gateway network.
+TV channel change,This trigger fires when someone zaps on any TV channel.
+Call state changed,"This trigger fires when a call state has been detected (ringing, incoming call, outgoing call etc.)."
+WiFi state changed,This trigger fires when the WiFi state changes.
+TV channel change by name,This trigger fires when you watch a specific TV channel

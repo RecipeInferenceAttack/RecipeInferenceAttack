@@ -1,0 +1,7 @@
+trigger,trigger_description
+Door opened,This trigger fires every time your washer door has been opened (works only if the washer is turned on).
+Cycle starts,This trigger fires every time your washer cycle starts.
+i-Dos content 2 is low,This trigger fires every time i-Dos content 2 is low. Please note that this trigger is not supported by all washers.
+i-Dos content 1 is low,This trigger fires every time i-Dos content 1 is low. Please note that this trigger is not supported by all washers.
+Cycle is complete,This trigger fires every time your washer cycle is complete.
+Door closed,This trigger fires every time your washer door has been closed (works only if the washer is turned on).

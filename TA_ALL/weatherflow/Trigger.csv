@@ -1,0 +1,20 @@
+trigger,trigger_description
+Pressure drops below,This Trigger fires every time the pressure at your WeatherFlow Tempest Station drops below a value you select.
+Forecast temperature rises above,This Trigger fires when the temperature forecast for your WeatherFlow Tempest Station rises above a value in the time frame you select.
+Brightness rises above,This Trigger fires every time the brightness at your WeatherFlow Tempest Station rises above a value that you select.
+UV rises above,This Trigger fires every time the UV at your WeatherFlow Tempest Station rises above a value that you select.
+Temperature rises above,This Trigger fires every time the temperature at your WeatherFlow Tempest Station rises above a value that you select.
+Forecast temperature drops below,This Trigger fires when the temperature forecast for your WeatherFlow Tempest Station drops below a value in the time frame you select.
+Brightness drops below,This Trigger fires every time the brightness at your WeatherFlow Tempest Station drops below a value that you select.
+Rain detected,This trigger fires every time your WeatherFlow Tempest Station detects the start of rain.
+UV drops below,This Trigger fires every time the UV at your WeatherFlow Tempest Station  drops below a value that you select.
+Humidity drops below,This Trigger fires every time the humidity at your WeatherFlow Tempest Station drops below a value you select.
+Wind speed drops below,This Trigger fires every time the wind speed at your WeatherFlow Tempest Station drops below a value that you select.
+New observation,This Trigger fires every time your WeatherFlow Tempest Station has a new observation.
+Temperature drops below,This Trigger fires every time the temperature at your WeatherFlow Tempest Station drops below a value that you select.
+Pressure rises above,This Trigger fires every time the pressure at your WeatherFlow Tempest Station rises above a value you select.
+Humidity rises above,This Trigger fires every time the humidity at your WeatherFlow Tempest Station rises above a value you select.
+Lightning strike,This Trigger fires every time your WeatherFlow Tempest Station detects a lightning strike.
+Wind speed rises above,This Trigger fires every time the wind speed at your WeatherFlow Tempest Station rises above a value that you select.
+Solar radiation rises above,This Trigger fires every time the solar radiation at your WeatherFlow Tempest Station rises above a value that you select.
+Solar radiation drops below,This Trigger fires every time the solar radiation at your WeatherFlow Tempest Station drops below a value that you select.

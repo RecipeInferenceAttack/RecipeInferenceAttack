@@ -1,0 +1,3 @@
+trigger,trigger_description
+News articles,This trigger fires when a news article is published by the Department of Defense.
+Photo essays,This trigger fires when a new photo essay is published by the Department of Defense.

@@ -1,0 +1,11 @@
+trigger,trigger_description
+Disconnects from any WiFi network,This Trigger fires every time your Android device disconnects from any WiFi network.
+Connects or disconnects from a specific WiFi network,This Trigger fires every time your Android device connects or disconnects from a WiFi network you specify.
+Connects to any WiFi network,This Trigger fires every time your Android device connects to any WiFi network.
+Connects to a Bluetooth device,This Trigger fires every time your Android device connects to a Bluetooth device.
+Disconnects from a Bluetooth device,This Trigger fires every time your Android device disconnects from a Bluetooth device.
+Connects to a specific WiFi network,This Trigger fires every time your Android device connects to a WiFi network you specify.
+Disconnects from a specific WiFi network,This Trigger fires every time your Android device disconnects from a WiFi network you specify.
+Notification received,This trigger fires every time any new notification is received on your Android device. NOTE: will not fire for IFTTT app notifications.
+Connects or disconnects from any WiFi network,This Trigger fires every time your Android device connects or disconnects from any WiFi network.
+Notification received from a specific app,This trigger fires every time a new notification is received on your Android device from an app that you specify. NOTE: will not fire for IFTTT app notifications.

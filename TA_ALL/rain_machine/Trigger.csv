@@ -1,0 +1,18 @@
+trigger,trigger_description
+Rain sensor is on,This Trigger fires every time the rain sensor detects rain.
+Program has started,This Trigger fires every time a watering program has started.
+Device is back online,This Trigger fires when device connects to the remote access service.
+Rain sensor is off,This Trigger fires every time the rain sensor finished to detect rain.
+Rain delay ended,This Trigger fires every time a snooze has  become inactive.
+No weather update,This Trigger fires every time weather did not update for 24h
+Weather update,This Trigger fires every time a new weather update was successfully executed.
+Rain delay started,This Trigger fires every time a snooze has  become active.
+Device is offline,This Trigger fires every time device disconnects from the remote access service.
+Automatic update,This Trigger fires every time an automatic firmware update has occurred.
+Reboot during watering,This Trigger fires every time a reboot has occurred during watering zone or program
+Leak Detected,This Trigger fires every time a leak was detected by your sprinkler
+New software update available,This Trigger fires every time a new software update is available.
+Freeze Protect Enforced,This Trigger fires when freeze protect mode is in effect.
+Zone has started,This Trigger fires every time a zone has started.
+Zone has stopped,This Trigger fires every time a zone has stopped.
+Program has stopped,This Trigger fires every time a watering program has stopped.

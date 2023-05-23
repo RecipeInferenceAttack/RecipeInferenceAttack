@@ -1,0 +1,5 @@
+trigger,trigger_description
+Your light is being turned on,If users switch on the light would trigger this event
+Your fan is being turned on,If users switch on the fan would trigger this event
+Your fan is being turned off,If users switch off the fan would trigger this event
+Your light is being turned off,If users switch off the light would trigger this event

@@ -1,0 +1,5 @@
+trigger,trigger_description
+Low humidity,This trigger fires if your room humidity is too low.
+Low temperature,This trigger fires if your room temperature is too low.
+High humidity,This trigger fires if your room humidity is too high.
+High temperature,This trigger fires if your room temperature is too high.

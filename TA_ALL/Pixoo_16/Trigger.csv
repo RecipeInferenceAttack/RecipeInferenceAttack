@@ -1,0 +1,7 @@
+trigger,trigger_description
+Planner alert set off,This trigger fires when schedule time start on pixoo-16.
+Planner alert stopped,This trigger fires when schedule time stop on pixoo-16.
+Celebrations alert stopped,This trigger fires when memorial stop on pixoo-16.
+Alarm set off,This trigger fires when a alarm is started on pixoo-16.
+Celebrations alert set off,Memorial start on pixoo-16.
+Countdown meter ended,The down clock is finished on pixoo-16.

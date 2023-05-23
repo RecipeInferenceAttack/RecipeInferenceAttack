@@ -1,0 +1,41 @@
+trigger,trigger_description
+Battery below,This Trigger fires every time your device's battery level falls below the value you specified.
+CO2 level drops below,This Trigger fires every time your device detects a CO2 level below the value you specified.
+Motion detected,This Trigger fires every time your device detects motion.
+Volume level drops below,This Trigger fires every time your device volume level is below the value you specified.
+Brightness level drops below,This Trigger fires every time your device brightness level is below the value you specified.
+Humidity level rises above,This Trigger fires every time your device detects humidity levels higher than the threshold you specified.
+Volume level rises above,This Trigger fires every time your device detects a volume level above the value you specified.
+Brightness level rises above,This Trigger fires every time your device detects a brightness level above the value you specified.
+Binary switch is turned off,This Trigger fires every time your device's binary switch is turned off.
+Device is unreachable,This Trigger fires every time your device is unreachable.
+Luminescence level rises above,This Trigger fires every time your device detects luminescence levels higher than the value you specified.
+Device is reachable,This Trigger fires every time your device is reachable.
+Binary switch is turned on,This Trigger fires every time your device's binary switch is turned on.
+Device is locked,This Trigger fires every time your device is locked.
+Fire alarm off,This Trigger fires every time your device's fire alarm is off.
+Wind alarm off,This Trigger is fired every time your device's wind alarm is turned off.
+Device is heating,This Trigger fires every time your device is heating.
+Frost alarm turned on,This Trigger fires every time your device's frost alarm is on.
+Rain indicator is turned on,This Trigger fires every time your device's rain indicator is turned on.
+Device is unlocked,This Trigger fires every time your device is unlocked.
+CO2 level rises above,This Trigger fires every time your device detects a CO2 level above the value you specified.
+Device switched off,This Trigger fires every time your device is switched off.
+Device is cooling,This Trigger fires every time your device is cooling.
+Device is opened,This Trigger fires every time your device is opened.
+Player state changes,This Trigger fires every time your device player's state changes to the value you specified.
+Device switched on,This Trigger fires every time your device is switched on.
+Device is closed,This Trigger fires every time your device is closed.
+Wind speed drops below,This Trigger fires every time your device detects wind speed lower than the value you specified.
+Contact sensor is turned on,This Trigger fires every time your device's contact sensor is turned on.
+Wind alarm on,This Trigger is fired every time your device's wind alarm is turned on.
+Luminescence level drops below,This Trigger fires every time your device detects a luminescence level below the value you specified.
+Wind speed rises above,This Trigger fires every time your device detects wind speed higher than the value you specified.
+Temperature rises above,This Trigger fires every time your device detects temperatures above the value you specified.
+Rain indicator is turned off,This Trigger fires every time your device's rain indicator is turned off.
+Scene triggered,This Trigger fires every time your scene is triggered.
+Temperature drops below,This Trigger fires every time your device detects a temperature below the value you specified.
+Contact sensor is turned off,This Trigger fires every time your device's contact sensor is turned off.
+Humidity level drops below,This Trigger fires every time your device detects a humidity level below the value you specified.
+Frost alarm turned off,This Trigger fires every time your device's frost alarm is off.
+Fire alarm on,This Trigger fires every time your device's fire alarm is on.

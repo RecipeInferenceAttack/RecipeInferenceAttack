@@ -1,0 +1,5 @@
+action,action_description
+Toggle output,This action will toggle an output of your Dobiss smart home.
+Turn flag ON or OFF,This action will turn a flag of your Dobiss smart home ON or OFF.
+Execute scenario,This action will execute a scenario on your Dobiss NXT installation.
+Turn output ON or OFF,This action will turn an output of your Dobiss smart home ON or OFF.

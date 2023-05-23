@@ -1,0 +1,6 @@
+action,action_description
+Turn on,"This Action will turn a WeMo Insight Switch on. If the WeMo Insight Switch is already on, it will remain on."
+Toggle on/off,This Action will toggle a WeMo Insight Switch on or off.
+Turn off then on,This Action will turn a WeMo Switch off then immediately back on.
+Turn off,"This Action will turn a WeMo Switch off. If the WeMo Switch is already off, it will remain off."
+Turn on then off,This Action will turn a WeMo Insight Switch on then immediately back off.

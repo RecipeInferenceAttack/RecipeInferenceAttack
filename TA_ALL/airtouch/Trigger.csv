@@ -1,0 +1,13 @@
+trigger,trigger_description
+Air conditioning is turned off,This trigger fires when your air conditioning is turned off.
+Air conditioning fan speed is changed,This trigger fires when your air conditioning fan speed is changed.
+Zone temperature rises above,This Trigger fires when a specific zone temperature rises above a specific threshold.
+Zone is turned off,This trigger fires when the specific zone is turned off.
+Zone is turned on,This trigger fires when the specific zone is turned on.
+Air conditioning mode is changed,This trigger fires when your air conditioning mode is changed.
+Zone has changed to percentage control,This trigger fires when the specific zone has changed to percentage control.
+Air conditioning temperature rises above,This Trigger fires when the air conditioning home temperature rises above a specific threshold.
+Zone temperature falls below,This Trigger fires when a specific zone temperature falls below a specific threshold.
+Zone has changed to temperature control,This trigger fires when the specific zone has changed to temperature control.
+Air conditioning is turned on,This trigger fires when your air conditioning is turned on.
+Air conditioning temperature falls below,This Trigger fires when the air conditioning home temperature falls below a specific threshold.

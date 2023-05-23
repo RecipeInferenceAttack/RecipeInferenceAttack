@@ -1,0 +1,12 @@
+action,action_description
+Set Volume,Set Volume of Sonos Player or Group
+Skip to Next Track,"This action will skip to the next track, if Sonos is playing a queue."
+Unmute,Unmutes a Sonos Player or Group
+Pause,This action will pause playback.
+Play Favorite,This action will play a Sonos Favorite.
+Volume Up,This action will increase the volume by a small amount.
+Mute,Mutes a Sonos Player or Group
+Skip to Previous Track,"This action will skip to the previous track, if Sonos is playing a queue."
+Play Stream,"This action will stream audio, such as a radio station, from a URL."
+Resume,This action will resume playback.
+Volume Down,This action will decrease the volume by a small amount.

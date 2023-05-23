@@ -1,0 +1,8 @@
+action,action_description
+Set RGB color,This action will set the RGB color of a light from your KNX installation.
+Set shutter/blind position,This action will set the position of a shutter/blind from your KNX installation.
+Set brightness level,This action will set the brightness level of a light from your KNX installation.
+Switch on,This action will turn on a device or binary switch from your KNX installation.
+Run scene,This action will run a scene from your KNX installation.
+Set heating mode,This action will set a thermostat to one of the five KNX heating modes.          NOTE: Whether the chosen mode can be set or not depends on your KNX system's configuration and your thermostat's capabilities.
+Switch off,This action will turn off a device or binary switch from your KNX installation.

@@ -1,0 +1,2 @@
+trigger,trigger_description
+Sensor measurement above/below the defined threshold,"This trigger fires when a sensor you select detects a value above, at, or below the threshold you set of the selected device."

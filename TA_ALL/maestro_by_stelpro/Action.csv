@@ -1,0 +1,6 @@
+action,action_description
+Set setpoint,This action sets the selected thermostat's setpoint.
+Modify setpoint by X°,"This action modifies a thermostat's setpoint by X°. 
+The temperature format can be either set to Celsius or Fahrenheit."
+Run activity,This action runs a Maestro activity.
+Set home status,This action changes the home's status of the selected residence

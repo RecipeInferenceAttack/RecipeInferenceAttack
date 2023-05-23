@@ -1,0 +1,6 @@
+trigger,trigger_description
+Motion detected,This trigger fires when your device detects a motion.
+Human detected,This trigger fires when your device detects a human.
+Face detected,This trigger fires when your device detects a face.
+Sound detected,This trigger fires when your device detects a sound.
+Someone rang the doorbell,This trigger fires when someone rang the doorbell.

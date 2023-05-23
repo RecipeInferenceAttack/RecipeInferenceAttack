@@ -1,0 +1,3 @@
+trigger,trigger_description
+Motion detected,This Trigger fires every time a specified camera detects motion.
+Camera offline,This Trigger fires every time a specified camera goes offline.

@@ -1,0 +1,2 @@
+action,action_description
+Fire rule in coqon,This action will fire the associated rule on our coqon box.

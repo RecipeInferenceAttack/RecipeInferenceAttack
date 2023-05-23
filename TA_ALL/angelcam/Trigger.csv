@@ -1,0 +1,2 @@
+trigger,trigger_description
+Incident detected,This trigger fires when Angelcam evaluates that incident that you should be aware of is happening based on data received from your sensors.

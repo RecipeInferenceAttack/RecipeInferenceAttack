@@ -1,0 +1,11 @@
+action,action_description
+Close roller shutter,"This action will initiate closing of roller shutter device connected to FIBARO Home Center, if the device is already fully closed, it will remain closed."
+Toggle,This action will toggle the device connected to FIBARO Home Center.
+Run scene,This action will run the scene created on FIBARO Home Center.
+Turn on,"This action will turn on the device connected to FIBARO Home Center, if the device is already on, it will remain on."
+Set roller shutter,This action will set  roller shutter connected to FIBARO Home Center to specified percentage.
+Open lamels,"This action will open lamels of roller shutter device connected to FIBARO Home Center, if the lamels are already open, they will remain open."
+Open roller shutter,"This action will initiate opening of roller shutter device connected to FIBARO Home Center, if the device is already fully open, it will remain open."
+Turn off,"This action will turn off the device connected to FIBARO Home Center, if the device is already off, it will remain off."
+Close lamels,"This action will close lamels of roller shutter device connected to FIBARO Home Center, if the lamels already closed, they  will remain closed."
+Stop roller shutter,"This action will stop movement of roller shutter device connected to FIBARO Home Center, if the device is not moving, it will remain still."

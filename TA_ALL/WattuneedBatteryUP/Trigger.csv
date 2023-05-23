@@ -1,0 +1,5 @@
+trigger,trigger_description
+Energy meter reading matches two specified conditions,This trigger fires when specified conditions for device metrics values are met.
+Energy meter reading matches a specified condition,This trigger fires when a specified condition for a device metric value is met.
+Battery reading matches two specified conditions,This trigger fires when specified conditions for device metrics values are met.
+Battery reading matches a specified condition,This trigger fires when a specified condition for a device metric value is met.

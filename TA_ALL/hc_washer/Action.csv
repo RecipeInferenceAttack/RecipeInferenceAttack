@@ -1,0 +1,7 @@
+action,action_description
+Pause program,This action will pause the active washer program.
+Start program,This action will start the selected washer program with your preferred settings.
+Turn off washer,This action will turn off your washer.
+Stop program,This action will stop the active washer program.
+Start selected program,This action will start the washer program that is currently selected on the appliance.
+Resume program,This action will resume the paused washer program.

@@ -1,0 +1,2 @@
+trigger,trigger_description
+New item in posting campaign,This trigger fires when RSS Ground posting campaign runs and sends a new item to IFTTT

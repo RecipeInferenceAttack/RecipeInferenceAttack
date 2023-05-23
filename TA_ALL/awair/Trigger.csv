@@ -1,0 +1,9 @@
+trigger,trigger_description
+High humidity alert,This Trigger fires when the humidity measured from your Awair device rises above the threshold you specified for more than 30 seconds.
+High temperature alert,This Trigger fires when the temperature measured from your Awair device rises above the threshold you specified for more than 30 seconds.
+Dust level alert,This Trigger fires if the level of dust concentration measured from your Awair device rises above the threshold you specified for more than 30 seconds.
+Carbon Dioxide (CO₂) alert,This Trigger fires if the concentration of Carbon Dioxide (CO₂) measured from your Awair device rises above the threshold you specified for more than 30 seconds.
+Low temperature alert,This Trigger fires when the temperature measured from your Awair drops below the threshold you specified for more than 30 seconds.
+Glow Motion Detection,"This trigger fires continuously whenever motion is detected, allowing you to log motion events over time."
+VOCs alert,This Trigger fires if the Volatile Organic Compound (VOC) levels measured from your Awair device rises above the threshold you specified for more than 30 seconds.
+Low humidity alert,This Trigger fires when the humidity measured from your Awair device dropped below the threshold you specified for more than 30 seconds.

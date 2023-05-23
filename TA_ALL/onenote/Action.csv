@@ -1,0 +1,4 @@
+action,action_description
+Create a page from a link,This Action creates a page from a link in the specified section of the specified notebook.
+Create a page with an image,This Action will create a new page with an image in the specified section of the specified notebook.
+Create a page,This Action will create a new page in the specified section of the specified notebook.

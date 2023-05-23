@@ -1,0 +1,11 @@
+action,action_description
+Electric Switch Off,This Action will switch the Electric Switch Off.
+Set TRV Position 4,This Action will set the position of a Thermostatic Radiator Valve (TRV).
+Set TRV Position 1,This Action will set the position of a Thermostatic Radiator Valve (TRV).
+Electric Switch On,This Action will switch the Electric Switch On.
+Set TRV Position 2,This Action will set the position of a Thermostatic Radiator Valve (TRV).
+Set TRV Position 0,This Action will set the position of a Thermostatic Radiator Valve (TRV).
+Set TRV to a Position,This Action will set the position of a Thermostatic Radiator Valve (TRV).
+Set TRV Position 5,This Action will set the position of a Thermostatic Radiator Valve (TRV).
+Set temperature,This Action will set the temperature of a thermostat or thermostatic radiator valve (TRV).
+Set TRV Position 3,This Action will set the position of a Thermostatic Radiator Valve (TRV).

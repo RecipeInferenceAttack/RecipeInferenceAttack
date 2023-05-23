@@ -1,0 +1,3 @@
+action,action_description
+Turn off plug,This Action will turn off a plug for the specified duration.
+Turn on plug,This Action will turn on a plug for the specified duration.

@@ -1,0 +1,6 @@
+action,action_description
+Turn on oven,This action will turn on your oven.
+Stop program,This action will stop the active oven program.
+Turn off oven,This action will turn off your oven.
+Start heating mode,This action will start the selected heating mode at your preferred temperature and duration.
+Preheat oven,This action will preheat your oven using the hot air program with the fast preheat option.

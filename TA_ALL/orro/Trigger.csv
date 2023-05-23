@@ -1,0 +1,9 @@
+trigger,trigger_description
+Away Mode DISABLED,This trigger fires when Away Mode is disabled.
+Scene DEACTIVATED,This trigger fires when a scene is deactivated.
+Lights turned ON,This trigger fires when the lights turn on.
+Scene ACTIVATED,This trigger fires when a scene is activated.
+Light Switch changed to VACANT,This trigger fires when the Switch (or Group) changes to a vacant.
+Away Mode ENABLED,This trigger fires when Away Mode is enabled.
+Lights turned OFF,This trigger fires when the lights turn off.
+Light Switch changed to PRESENT,This trigger fires when the Switch (or Group) changes to present.

@@ -1,0 +1,8 @@
+trigger,trigger_description
+Any new check-in,This Trigger fires every time you check in on Foursquare or Swarm. Only works with public check-ins.
+New check-in with photo,This Trigger fires every time you check in with a photo on Foursquare or Swarm. Only works with public check-ins.
+New check-in at category,This Trigger fires every time you check in to a venue in a specific category on Foursquare or Swarm. It only works with public check-ins.
+New check-in tagged,"This trigger fires every time you check in on Foursquare or Swarm
+with a single hashtag in the shout (e.g. #IFTTT)."
+New check-in by you in area,This Trigger fires every time you check in on Foursquare or Swarm in an area you specify.
+New check-in by friend in area,This Trigger fires every time any friend checks in on Foursquare or Swarm in an area you specify.

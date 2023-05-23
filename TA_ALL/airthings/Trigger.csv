@@ -1,0 +1,17 @@
+trigger,trigger_description
+Humidity falls below threshold,This trigger fires when the humidity of a device falls below the provided threshold.
+PM2.5 below threshold,This trigger fires when the PM2.5 level for a device rises below the provided threshold.
+Radon level above threshold,This trigger fires when the radon level for a device rises above the provided threshold.
+Air pressure level above threshold,This trigger fires when the air pressure level for a device rises above the provided threshold.
+Temperature below threshold,This trigger fires when the temperature of a device falls below the provided threshold.
+TVOC level below threshold,This trigger fires when the TVOC level for a device falls below the provided threshold.
+Mold risk level above threshold,This trigger fires when the mold risk level for a device rises above the provided threshold.
+CO2 level above threshold,This trigger fires when the CO2 level for a device rises above the provided threshold.
+Temperature above threshold,This trigger fires when the temperature of a device rises above the provided threshold.
+Air pressure level below threshold,This trigger fires when the air pressure level for a device falls below the provided threshold.
+Mold risk level below threshold,This trigger fires when the mold risk level of a device falls below the provided threshold.
+Humidity rises above threshold,This trigger fires when the humidity of a device rises above the provided threshold.
+TVOC level above threshold,This trigger fires when the TVOC level for a device rises above the provided threshold.
+PM2.5 above threshold,This trigger fires when the PM2.5 level for a device rises above the provided threshold.
+Radon level below threshold,This trigger fires when radon level of a device falls below the provided threshold.
+CO2 level below threshold,This trigger fires when the CO2 level for a device falls below the provided threshold.

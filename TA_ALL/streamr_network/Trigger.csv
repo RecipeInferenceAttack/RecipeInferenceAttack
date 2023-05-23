@@ -1,0 +1,2 @@
+trigger,trigger_description
+A new stream event published,This trigger fires when a new stream event was published

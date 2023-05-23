@@ -1,0 +1,3 @@
+trigger,trigger_description
+New motion after quiet period,This Trigger fires every time your WeMo Motion sensor detects new motion after a specific period of inactivity.
+Any new motion,This Trigger fires every time your WeMo Motion sensor detects new motion.

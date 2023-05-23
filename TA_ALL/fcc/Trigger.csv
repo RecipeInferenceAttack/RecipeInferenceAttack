@@ -1,0 +1,4 @@
+trigger,trigger_description
+News release,This trigger fires every time there is a news release from the FCC.
+New notice,This trigger fires every time there is a new notice from the FCC.
+New order,This trigger fires every time there is a new order from the FCC.

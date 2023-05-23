@@ -1,0 +1,3 @@
+action,action_description
+Update a Pushover widget,This action will update your Pushover widget/watch with new glance data.
+Send a Pushover notification,This Action will generate a Pushover notification to your subscribed devices

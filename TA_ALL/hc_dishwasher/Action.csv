@@ -1,0 +1,7 @@
+action,action_description
+Start program,This action will start the selected dishwasher program.
+Turn on dishwasher,This action will turn on your dishwasher.
+Stop program,This action will stop the active dishwasher program.
+Turn off dishwasher,This action will turn off your dishwasher.
+Activate Silence on Demand,"This action will activate Silence on Demand on your dishwasher*, which reduces the noise level to a minimum for up to 30 minutes*. Please note that not all programs supports Silence on Demand feature."
+Start selected program,This action will start the dishwasher program that is currently selected on the appliance.

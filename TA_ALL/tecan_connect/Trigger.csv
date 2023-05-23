@@ -1,0 +1,5 @@
+trigger,trigger_description
+Estimated End Time Overshoot,This trigger fires actions when the estimated end time of a method running on the selected Tecan Instrument overshoots 20% of the initially estimated end time
+Instrument State Change,"This trigger fires actions when the selected Tecan Instrument's state changes to Idle, Running, Paused, Error, User Interaction Required, Software Not Running, Not Connected and Stopped"
+Custom Message,"This trigger fires actions when there is a new Custom messages like Info, Error, Warning and Comment from the selected   Tecan Instrument"
+Run Completion Message,This trigger fires actions when a Run on the selected Tecan Instrument is completed

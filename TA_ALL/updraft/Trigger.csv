@@ -1,0 +1,4 @@
+trigger,trigger_description
+Signal Identifies Downtrend,This trigger fires whenever an Updraft stock trading algorithm identifies a downtrend in its stock's price.
+Signal Trigger,This trigger fires whenever an Updraft stock trading algorithm identifies an uptrend or downtrend in its stock's price.
+Signal Identifies Uptrend,This trigger fires whenever an Updraft stock trading algorithm identifies an uptrend in its stock's price

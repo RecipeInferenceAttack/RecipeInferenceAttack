@@ -1,0 +1,7 @@
+action,action_description
+Lights On,This Action will turn your Arlo device on.
+Siren,This action will sound the Arlo siren
+Arm,This Action will set your Arlo mode to Armed.
+Start recording,This Action will start recording with the selected camera.
+Disarm,This Action will set your Arlo mode to Disarmed.
+Lights Off,This Action will turn your Arlo device off.

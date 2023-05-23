@@ -1,0 +1,4 @@
+action,action_description
+Turned on/off,This action will turn on/off the device of your choosing.
+Set light color tempreture,This action will set the light to a specified color tempreture.
+Set light brightness,This action will set the light to a specified brightness.

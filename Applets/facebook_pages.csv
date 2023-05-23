@@ -1,0 +1,53 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Automatically share new posts to a Facebook Page,It's easy to keep your community updated: This Applet will share a link to your new Wordpress blog with your Facebook Page.,Any new post,Create a link post,/wordpress,/facebook_pages,34.1k
+Automatically share your new videos to a Facebook Page,Keep your communities in sync — when you upload a new public video the link will be posted on your Facebook Page.,New public video uploaded by you,Create a link post,/youtube,/facebook_pages,36.5k
+Automatically upload your Instagrams to a Facebook Page Album,"Stay organized and share all your Instagram pics to an album on your Facebook Page, automatically. Great for small business marketing! You can customize the Album name. Note: only works for single photo posts.",Any new photo by you,Upload a photo from URL,/instagram,/facebook_pages,41.2k
+"If Blogged, post to FB Blog page","Posts a photo and ifttt url to the blog entry on your facebook page, not your personal page.",Any new post,Upload a photo from URL,/blogger,/facebook_pages,128
+if instagram then facebook page,if instagram then facebook page,Any new photo by you,Create a link post,/instagram,/facebook_pages,112
+Blogger Post To Facebook Page,Blogger Post To Facebook Page,Any new post,Create a status message,/blogger,/facebook_pages,395
+Facebook Pages to Linkedin (with hashtag),Share an image from a Facebook Page if you have included a specific hashtag.,New photo upload on page,Share a link,/facebook_pages,/linkedin,189
+Automatically post on your official Facebook Page when you start streaming on Twitch,Make sure your loyal Facebook followers know when you go live — this Applet will post the message of your choice when you start a stream. It'll also automatically include a link to your channel to make sure people can get straight to the action.,New stream started by you,Create a link post,/twitch,/facebook_pages,1.5k
+Auto post from telegram to facebook page,"Write post on telegram channel it will be post into facebook page also. 
+نشر تلقائي من التلجرام الي صفحة فيس بوك",New post in your channel,Create a status message,/telegram,/facebook_pages,44
+Share links to your Tweets automatically on a Facebook Page you manage,Great if your active on Twitter but no so much on your Facebook Page. This Applet handles the automation for you.,New tweet by you,Create a link post,/twitter,/facebook_pages,7.6k
+"When I post a new Wordpress Blog, upload a Facebook Page Image",It helps share the new posts like magic!,Any new post,Upload a photo from URL,/wordpress,/facebook_pages,35
+Facebook Pages Post to Telegram,Send a post from your Facebook Page to a Telegram channel or group.,New status message on page,Send message,/facebook_pages,/telegram,288
+Post Facebook photos to telegram,The posts your new Facebook pages photos to telegram,New photo upload on page,Send photo,/facebook_pages,/telegram,200
+facebook wordpress,prueba,Any new post,Create a status message,/wordpress,/facebook_pages,12
+"If YT like, then FB Fanpage Link Post","If YT like, then FB Fanpage Link Post",New liked video,Create a link post,/youtube,/facebook_pages,2.3k
+RSS to FB Page,RSS to FB Page,New feed item,Create a link post,/feed,/facebook_pages,3.6k
+Twitch Auto Facebook Page,Twitch Auto Facebook Page,New stream started by you,Create a status message,/twitch,/facebook_pages,188
+Facebook page to LinkedIn company page,"If an image is posted on Facebook page, then Buffer will post to LinkedIn company page",New photo upload on page,Add to Buffer,/facebook_pages,/buffer,1.5k
+Automatically share new Facebook status updates to a Facebook Page,"When you share a new Facebook post, it will be automatically posted to a Facebook Page you manage.",New status message by you,Create a status message,/facebook,/facebook_pages,6.7k
+RSS Feed autoposts to Twitter and Facebook Pages,Use this applet to quickly insert the URL to an RSS feed and have it start updating your Twitter and Facebook Page whenever a new item is posted. This is perfect for an organization that uses Twitter and Pages for social network updates.,New feed item,Create a link post,/feed,/facebook_pages,550
+"If New video from search, then Create a link post on Amélio",U,New video from search,Create a link post,/youtube,/facebook_pages,1
+Post from #WordPress to #FacebookPages with an image,Post from #WordPress to #FacebookPages with an image,New post with tag or category,Upload a photo from URL,/wordpress,/facebook_pages,1.2k
+BLOGGER TO FB PAGE AND TWITTER,"Here you can post to your Facebook fan page and tweets them to your twitter.
+By ajiboye de newmaster",Any new post,Post a tweet,/blogger,/twitter,1.2k
+Selectively post your Instagrams to a Facebook Page when you include a specific #hashtag,Add the #hashtag you choose to the caption your next Instagram post and this Applet will upload the photo to a Facebook Page. Note: only works for single photo posts.,New photo by you with specific hashtag,Upload a photo from URL,/instagram,/facebook_pages,11.5k
+Blogger to FB Page,Blogger to FB Page,Any new post,Create a link post,/blogger,/facebook_pages,3.4k
+great for us,great for us,Any new video by you,Create a status message,/instagram,/facebook_pages,7
+Add posted facebook photo tot your page,Reduce work as photographer,New photo post by you,Create a link post,/facebook,/facebook_pages,71
+Facebook Status Updates With Image To New Wordpress Post,"Adds Status Updates, including image to a new post on your wordpress blog",New photo upload on page,Create a post,/facebook_pages,/wordpress,791
+Automatically share your new videos to a Facebook Page and Twitter,Rack up the views! This Applet automatically shares the link and title of your new public videos to your Facebook Page and Twitter.,New public video uploaded by you,Post a tweet,/youtube,/twitter,1.8k
+Automatically post about your latest Instagram video on your Facebook Page,"This Applet does not post your actual video to a Facebook Page. Instead, it posts a screenshot of your video to your photos album and includes a link to the video as a caption.",Any new video by you,Upload a photo from URL,/instagram,/facebook_pages,768
+"""Have a nice week-end"" post for Facebook Page","""Have a nice week-end"" post for Facebook Page",Every day of the week at,Create a status message,/date_and_time,/facebook_pages,2.6k
+New Tweet/Pic from Twitter goes to your Facebook Page.,For those who want to directly send the images they post on Twitter to their Facebook page :),New tweet by you,Upload a photo from URL,/twitter,/facebook_pages,6.4k
+YouTube video social sharing,Share your latest YouTube video across your social channels.,New public video uploaded by you,Post a message to a channel,/youtube,/discord,89
+Automatically post on Twitter and your Facebook Page when you start a Twitch stream,"Give the people what they want: make sure your social media followers never miss a stream. This Applet will automatically post this message on Twitter and your official Facebook Page when you start a stream:
+""I'm now streaming on Twitch! Playing [Game name]"" + a link to your Twitch channel",New stream started by you,Create a link post,/twitch,/facebook_pages,605
+internet marketing,online jobs,New public video uploaded by you,Upload a photo from URL,/youtube,/facebook_pages,48
+If fb photo then blog photo post,If fb photo then blog photo post,New photo upload on page,Create a photo post,/facebook_pages,/blogger,17
+Post BrainyQuote's quote of the day as a status message on your page,Share the wisdom of the world with your Facebook community on the daily. This Applet will take the QOTD and post it as a status (with a link to the quote and the source).,Today's Quote,Create a link post,/brainyquote,/facebook_pages,277
+Post daily Weather report with image to facebook page.,Add a great good morning message with the weather report for today on your Facebook page.,Today's weather report,Upload a photo from URL,/weather,/facebook_pages,182
+Blogger to Facebook Business Page,"Create a new blog post and get the Title of your post, the link to your blog and a picture from the post all pushed to your Facebook Business Page",New post labeled,Upload a photo from URL,/blogger,/facebook_pages,9
+Share Medium Stories that you publish on a Facebook Page,"If you publish a story on Medium, this Recipe will share the story link on a Facebook Page for you.",Post published by you,Create a link post,/medium,/facebook_pages,135
+Post Instagram photos to Facebook Page and Twitter,This Applet post new Instagram photos to your Facebook Page and Twitter as a native Post.,Any new photo by you,Upload a photo from URL,/instagram,/facebook_pages,262
+Auto publish a channel new video to a Page // Content Curation Project,The applet take a new video url and author and publish it on a selected facebook page,New public video from subscriptions,Create a link post,/youtube,/facebook_pages,64
+Event on Google calendar to Facebook page,Event on Google calendar to Facebook page,Any event starts,Create a link post,/google_calendar,/facebook_pages,276
+From Facebook Profile (new photo post) To Facebook Page (Photo + Description),From Facebook Profile (new photo post) To Facebook Page (Photo + Description),New photo post by you,Upload a photo from URL,/facebook,/facebook_pages,38
+twitter link to facebook page whith photo post,twitter link to facebook page whith photo post,New link by you,Upload a photo from URL,/twitter,/facebook_pages,132
+Auto post to Facebook page when a Google Calendar event is triggered.,"1) Create a Google Calendar. (I called mine ""Facebook posts."") 2) Create calendar entries at the date and time you want something posted to Facebook. Whatever you put in the ""description"" is what will be posted to Facebook. 3) Use this recipe to post when the Calendar event comes due. 
+      Create a week (or a month) worth of posts at one time! Your Facebook page is constantly updated but your overall time investment is greatly reduced.",Any event starts,Create a status message,/google_calendar,/facebook_pages,55
+Post NAACP news to a Facebook Page,Share the latest NAACP news with followers of your Facebook Page,New post in NAACP News,Create a link post,/naacp,/facebook_pages,2
+Post RSS Feed To FacebookPage & Twitter,Post RSS Feed To FacebookPage & Twitter,New feed item,Post a tweet with image,/feed,/twitter,545

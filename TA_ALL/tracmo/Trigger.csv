@@ -1,0 +1,5 @@
+trigger,trigger_description
+tracMo is disconnected,This trigger fires every time your tracMo is disconnected​.
+Button click,This trigger fires every time you click the button on your tracMo.
+tracMo is connected,This trigger fires every time your tracMo is re-connected.
+Motion detected on tracMo,This trigger fires when you get motion alerts from tracMo.

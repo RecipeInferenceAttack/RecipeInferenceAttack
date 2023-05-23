@@ -1,0 +1,2 @@
+trigger,trigger_description
+uHoo air quality alert,This trigger fires when your air quality goes above or below the target level.

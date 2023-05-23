@@ -1,0 +1,13 @@
+trigger,trigger_description
+Wind alarm not detected,This Trigger fires every time your Theben LX Weatherstation detects no wind alarm.
+Frost alarm detected,This Trigger fires every time your Theben LX Weatherstation detects frost alarm.
+Temperature rises above,This Trigger fires every time the temperature rises above a value you specify.
+Frost alarm not detected,This Trigger fires every time your Theben LX Weatherstation detects no frost alarm.
+Blind gets triggered,This trigger fires when the selected blind is activated.
+Switch gets triggered,This trigger fires when the selected switch is activated.
+Rain detected,This Trigger fires every time your Theben LX Weatherstation detects that it is raining.
+Temperature drops below,This Trigger fires every time the temperature drops below a value you specify.
+Wind alarm detected,This Trigger fires every time your Theben LX Weatherstation detects wind alarm.
+Dimmer gets triggered,This trigger fires when the selected dimmer is activated.
+Rain not detected,This Trigger fires every time your Theben LX Weatherstation detects that it is not raining.
+Scene gets triggered,This trigger fires when the selected scene trigger is activated.

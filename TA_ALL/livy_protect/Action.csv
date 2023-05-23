@@ -1,0 +1,3 @@
+action,action_description
+Turn on Livy Protect,This action will arm Livy Protect.
+Turn off Livy Protect,This action will disarm Livy Protect.

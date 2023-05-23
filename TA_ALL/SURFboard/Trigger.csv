@@ -1,0 +1,5 @@
+trigger,trigger_description
+dummy_trigger,SURFboard Internal Trigger
+Someone arrives Home,This trigger is fired when device gets connected.
+Someone arrives Home,This trigger fires when the device re-connects.
+Someone left home,"When the device gets disconnected, this event gets fired."

@@ -1,0 +1,3 @@
+trigger,trigger_description
+New contact added to group,This Trigger fires every time a Google Contact is added to a group.
+New contact added,This Trigger fires every time a new Google Contact is created.

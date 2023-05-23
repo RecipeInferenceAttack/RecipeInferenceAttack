@@ -1,0 +1,3 @@
+trigger,trigger_description
+Irrigation stopped,This trigger fires when an irrigation has stopped.
+Irrigation started,This trigger fires when an irrigation has started.

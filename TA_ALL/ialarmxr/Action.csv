@@ -1,0 +1,5 @@
+action,action_description
+Disattivazione Allarme,Spegnere l'allarme
+Inserimento Allarme Totale,Inserire l'allarme totale quando si esce
+Bypass Zona,Esclude temporaneamente la zona selezionata
+Inserimento Allarme In Casa,Inserire l'allarme parziale in casa

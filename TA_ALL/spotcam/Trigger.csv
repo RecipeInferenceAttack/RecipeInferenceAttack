@@ -1,0 +1,18 @@
+trigger,trigger_description
+Human Detected,This Trigger fires every time when a person is detected.
+Virtual Fence Crossed,This Trigger fires every time when a virtual fence is crossed
+SpotCam low battery,This Trigger fires every time when a low battery event is detected by SpotCam Ring video doorbell or SpotCam Solo.
+SpotCam Ring battery cover removed,This Trigger fires every time when SpotCam Ring battery cover is removed.
+Face Recognized,This Trigger fires every time a face is recognized.
+Vehicle Detected,This Trigger fires every time when a vehicle is detected
+Motion event detected,This Trigger fires every time a motion event is detected.
+Illumination event detected,This Trigger fires every time a illumination event is detected.
+Human Tracking,This Trigger fires every time when a person is being tracked.
+SpotCam Ring video doorbell pressed,This Trigger fires every time when SpotCam Ring video doorbell is pressed.
+Baby Crying,This Trigger fires every time when baby crying sound is detected.
+Pass Out Event,This Trigger fires every time when system detects someone fall or pass out
+Missing Object Event,This Trigger fires every time when a designated object is missing
+Audio event detected,This Trigger fires every time an audio event is detected.
+Humidity event detected,This Trigger fires every time a humidity event is detected.
+Temperature event detected,This Trigger fires every time a temperature event is detected.
+Pet Detected,This Trigger fires every time when a pet is detected

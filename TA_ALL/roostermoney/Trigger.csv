@@ -1,0 +1,5 @@
+trigger,trigger_description
+Removed from Child,Child has had money removed
+Money Boosted to Child,Child has had money added
+Pot Transfer,Child has had money transferred between pots
+Card Spend Authorised,Child has a spend authorised on their Rooster Card

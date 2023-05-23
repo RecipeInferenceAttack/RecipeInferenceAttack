@@ -1,0 +1,3 @@
+action,action_description
+Add new subscriber,This Action will add a new subscriber to the specified list.
+Unsubscribe email address,This Action will unsubscribe the specified email address from the specified list.

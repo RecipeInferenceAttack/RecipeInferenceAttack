@@ -1,0 +1,5 @@
+trigger,trigger_description
+New SF Giants update,This trigger fires when there is a new update on the San Francisco Giants.
+Breaking news,This trigger fires when there is a new Breaking News event.
+New story on SFGATE homepage,This trigger fires when a new article is added to the SFGATE homepage.
+New piece from Mark Morford,This trigger fires when there is a new article from author Mark Morford.

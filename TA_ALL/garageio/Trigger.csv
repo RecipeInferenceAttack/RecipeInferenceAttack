@@ -1,0 +1,2 @@
+trigger,trigger_description
+Door opened or closed,This Trigger fires every time a garage door you manage is opened or closed via the Garageio website or smartphone app.

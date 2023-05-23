@@ -1,0 +1,4 @@
+action,action_description
+Toggle on/off,This Action will toggle the Pivot Power Genius outlet you specific on or off.
+Turn outlet on,"This Action will turn on the Pivot Power Genius outlet you specify. If the outlet is already on, it will remain on."
+Turn outlet off,"This Action will turn off the Pivot Power Genius outlet you specify. If the outlet is already off, it will remain off."

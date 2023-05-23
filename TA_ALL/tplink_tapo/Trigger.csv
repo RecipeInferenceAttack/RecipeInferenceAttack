@@ -1,0 +1,19 @@
+trigger,trigger_description
+Camera Motion Person Detected,This triggers fires every time the camera detects a person motion.
+Camera Motion Pickup Package Detected,This triggers fires every time the camera detects a package pickup motion.
+Camera Motion Glass Breaking Detected,This triggers fires every time the camera detects a glass breaking motion.
+Camera Motion Meow Detected,This triggers fires every time the camera detects meows.
+Camera Motion Line Crossing Detected,This triggers fires every time the camera detects a line crossing motion.
+Camera Motion Area Intrusion Detected,This triggers fires every time the camera detects a area intrusion motion.
+Turn On,This trigger fires every time a plug/bulb turns on.
+Shortcut Change,This triggers fires every time a shortcut is changed.
+Camera Motion Detected,This triggers fires every time the camera detects a motion.
+Turn Off,This trigger fires every time a plug/bulb turns off.
+Camera Motion Tampering Detected,This triggers fires every time the camera detects a tampering motion.
+Camera Motion Vehicle Detected,This triggers fires every time the camera detects a vehicle motion.
+Camera Motion Smoke Alarm Detected,This triggers fires every time the camera detects a smoke alarm motion.
+Color Change,This trigger fires every time the color of a light bulb changes.
+Camera Motion Deliver Package Detected,This triggers fires every time the camera detects a motion of delivering a package.
+Camera Motion Pet Detected,This triggers fires every time the camera detects a pet.
+Shortcut Deleted,This triggers fires every time a shortcut is deleted.
+Camera Motion Baby Cry Detected,This triggers fires every time the camera detects a baby cry motion.

@@ -1,0 +1,3 @@
+action,action_description
+Send to Raspberry PI,Route the incoming request from an event to Raspberry PI so that the action is processed
+Send to SwitchIT,Route the incoming request from an event to SwitchIT so that the action is processed

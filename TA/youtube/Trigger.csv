@@ -1,0 +1,11 @@
+trigger,trigger_description
+New public video uploaded by you,This Trigger fires every time you upload a new public video to YouTube.
+New Super Sticker,This trigger fires when there is a new Super Sticker in a live chat during a live stream on your channel.
+New liked video,This Trigger fires every time you like a video on YouTube.
+New Super Chat message,This trigger fires when there is a new Super Chat message in a live chat during a live stream on your channel.
+New public video from subscriptions,This Trigger fires every time a specific user you are subscribed to makes a new video public.
+New video from search,This Trigger fires every time a video is published that matches a search query.
+New playlist,This trigger fires when a new playlist is created by a  specific channel.
+New channel membership,This trigger fires when there is a new membership for your channel.
+New video by channel,This Trigger fires every time a specific channel publishes a video.
+New subscription,This trigger fires when a new subscription is made by a  specific channel.

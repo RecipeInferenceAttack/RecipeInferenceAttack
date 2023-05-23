@@ -1,0 +1,6 @@
+trigger,trigger_description
+New photo in folder,This Trigger fires every time a photo is saved in the folder you specify.
+New file in album,This Trigger fires every time any file is saved in a specific album.
+New contact,This Trigger fires every time a new contact is created.
+New photo in album,This Trigger fires every time a photo is saved in a specific album.
+New file added in folder,This Trigger fires every time any file is saved in the folder you specify.

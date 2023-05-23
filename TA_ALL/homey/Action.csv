@@ -1,0 +1,4 @@
+action,action_description
+Let Homey speak,This Action will let Homey speak.
+Start a Flow,This Action will start a Flow on Homey.
+Start a Flow with Tags,This Action will start a Flow with Tags on Homey. Please install the IFTTT App on Homey and create a Flow that uses the Flow Card Trigger provided by the IFTTT App. You need to be an owner on your Homey in order to use this Applet.

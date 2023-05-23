@@ -1,0 +1,4 @@
+trigger,trigger_description
+Outlet power switch is turned on or off,This trigger fires when your outlet is turned on or off.
+Aroma diffuser power switch is turned on or off,This trigger fires when your aroma diffuser is turned on or off.
+Light power switch is turned on or off,This trigger fires when your light is turned on or off.

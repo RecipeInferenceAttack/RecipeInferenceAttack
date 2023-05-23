@@ -1,0 +1,6 @@
+trigger,trigger_description
+Every day at,This Trigger fires every single day at a specific time set by you.
+Every hour at,"This Trigger fires once an hour at :00, :15, :30, or :45 minutes past the hour."
+Every day of the week at,This Trigger fires only on specific days of the week at the time you provide.
+Every year on,This Trigger fires once a year on the date and time you specify.
+Every month on the,This Trigger fires every month on the day and time you specify.

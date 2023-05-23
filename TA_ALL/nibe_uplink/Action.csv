@@ -1,0 +1,7 @@
+action,action_description
+Set to home mode,This Action will place your system in Home mode.
+Set to away mode,This Action will place your system in Away mode.
+Set to vacation mode,This Action will place your system in Vacation mode.
+Boost hot water production,This Action will temporarily increase the hot water production in your NIBE system by turning on the temporary lux feature.
+Boost ventilation,"This Action will temporarily boost the ventilation speed by switching to ""speed 4""."
+Set temperature setting,"This Action will create a smart home thermostat in NIBE Uplink which will be used for controlling the indoor temperature for the next 7 days. If no update of the values are provided before that, the system will return to its previous settings."

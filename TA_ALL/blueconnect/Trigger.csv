@@ -1,0 +1,21 @@
+trigger,trigger_description
+Salinity becomes too high,This trigger fires when the salinity of your pool water has been evaluated as too high according to your swimming pool target values.
+ORP becomes too high,This trigger fires when the ORP of your pool water has been evaluated as too high according to your swimming pool target values.
+ORP becomes OK,This trigger fires when the ORP of your pool water has been evaluated as OK according to your swimming pool target values.
+Temperature becomes too high,This trigger fires when the temperature of your pool water has been evaluated as too high according to your swimming pool target values.
+PH becomes OK,This trigger fires when the pH of your pool water has been evaluated as OK according to your swimming pool target values.
+Salinity becomes too low,This trigger fires when the salinity of your pool water has been evaluated as too low according to your swimming pool target values.
+Temperature is < setpoint,"This trigger fires when the temperature of your pool water is lower than your swimming pool ""temperature   setpoint""."
+PH is > setpoint,"This trigger fires when the pH of your pool water is greater than your swimming pool ""pH setpoint""."
+ORP is < setpoint,"This trigger fires when the ORP of your pool water is smaller than your swimming pool ""ORP setpoint""."
+Temperature is >= setpoint,"This trigger fires when the temperature of your pool water is greater or equal to your swimming pool ""temperature setpoint""."
+Temperature becomes too low,This trigger fires when the temperature of your pool water has been evaluated as too low according to your swimming pool target values.
+PH becomes too high,This trigger fires when the pH of your pool water has been evaluated as too high according to your swimming pool target values.
+New water measurement,This trigger fires every time a new water measurement of a swimming pool is available.
+ORP becomes too low,This trigger fires when the ORP of your pool water has been evaluated as too low according to your swimming pool target values.
+No measurement received,This trigger fires when no measurement has been received for the last 2 hours.
+ORP is >= setpoint,"This trigger fires when the ORP of your pool water is greather or equal to your swimming pool ""ORP setpoint""."
+Salinity becomes OK,This trigger fires when the salinity of your pool water has been evaluated as OK according to your swimming pool target values.
+PH is <= setpoint,"This trigger fires when the pH of your pool water is lower or equal to your swimming pool ""pH setpoint""."
+Temperature becomes OK,This trigger fires when the temperature of your pool water has been evaluated as OK according to your swimming pool target values.
+PH becomes too low,This trigger fires when the pH of your pool water has been evaluated as too low according to your swimming pool target values.

@@ -1,0 +1,5 @@
+trigger,trigger_description
+Irrigation has started,This trigger fires if irrigation for an irrigation area has started
+Soil is dry,This trigger fires if soil is dry for given irrigation area compared to your moisture borders
+Irrigation has stopped,This trigger fires if irrigation has stopped for given irrigation area
+Soil is wet,This trigger fires if soil is wet enough for given irrigation area compared to your moisture borders

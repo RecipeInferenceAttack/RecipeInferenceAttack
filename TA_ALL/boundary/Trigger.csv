@@ -1,0 +1,4 @@
+trigger,trigger_description
+The alarm was armed,This trigger fires when the alarm is armed.
+The alarm was disarmed,This trigger fires when the alarm is disarmed.
+The alarm was triggered,This trigger fires when the alarm is triggered

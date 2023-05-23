@@ -1,0 +1,4 @@
+trigger,trigger_description
+Trigger fired,This Trigger fires every time a M2X trigger has been fired.
+New device location,This Trigger fires every time the location of a device is updated.
+New datapoint,This Trigger fires every time a new datapoint is written to a device.

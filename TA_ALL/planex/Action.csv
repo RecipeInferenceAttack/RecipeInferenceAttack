@@ -1,0 +1,5 @@
+action,action_description
+Turn off alerts,This Action will turn off your Smacame's alert function.
+Set Smacame,This Action will set your Smacame's alert function.
+Turn on alerts,This Action will turn on your Smacame's alert function.
+Set Smart Socket,This action controls ON / OFF.

@@ -1,0 +1,6 @@
+trigger,trigger_description
+Congress is scheduled to vote on a bill,This Trigger fires every time Congress is scheduled to vote on a bill.
+A legislator in Congress has a birthday,This Trigger fires on each legislator's birthday. Wish them a happy day!
+New bill from search is introduced,This Trigger fires every time a new bill is introduced that matches your search query.
+The president signs a new bill into law,This Trigger fires every time the president signs a new bill into law.
+New legislator representing you,This Trigger fires every time you have a new legislator representing you in Congress.

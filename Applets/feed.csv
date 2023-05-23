@@ -1,0 +1,49 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Send new Feed items to a Telegram chat,"Whenever one of your favorite Feeds has a new item, send a message to a Telegram chat.",New feed item,Send message,/feed,/telegram,5.3k
+Main Site RSS To WordPress,New Feed Item Post To WordPress,New feed item,Create a post,/feed,/wordpress,821
+Main Site RSS To Evernote,New Feed Item post to Evernote,New feed item,Create a link note,/feed,/evernote,647
+Get some good news in the morning,Daily email digest for good news for an uplifting start to your day.,New feed item,Add to daily email digest,/feed,/email_digest,705
+Post to a channel when new articles appear in the RSS Feed you choose,All you have to do is paste in a specific RSS Feed in the field below and select the channel you want to keep up-to-date with the latest news,New feed item,Post to channel,/feed,/slack,1.3k
+RSS to Buffer URL Only,New Feed Item Post URL Only to G+ via Buffer,New feed item,Add to Buffer,/feed,/buffer,14.2k
+RSS to Blogger HDA,Post RSS to Blogger HDA,New feed item,Create a post,/feed,/blogger,1.8k
+Get a weekly email with updates from healthy eating blog 101 Cookbooks,"101 Cookbooks is an award-winning food blog by Heidi Swanson. It keeps the focus on foods and recipes that are fresh, seasonal, healthy and delicious. Turn on this Applet to get the latest posts in a convenient Friday digest so you can plan your meals and find inspiration for the week to come!",New feed item,Add to weekly email digest,/feed,/email_digest,3.2k
+Post new Letterboxd reviews to Twitter,Use this recipe to auto-publish new Letterboxd reviews to Twitter.,New feed item matches,Post a tweet,/feed,/twitter,311
+Earthquake in your country ? Receive Telegram notification,Receive Telegram message when an earthquake is registered in your country,New feed item matches,Send message,/feed,/telegram,1.6k
+RSS to Nimbus Note Persona Tier,Post RSS to Nimbus Note Persona Tier,New feed item,Create note,/feed,/nimbus_note,1.2k
+RSS to Twitter,New feed items post to Twitter,New feed item,Post a tweet,/feed,/twitter,17.6k
+RSS to FB Page,RSS to FB Page,New feed item,Create a link post,/feed,/facebook_pages,3.6k
+Fly4Free Feed,Instant access to ERROR flights on Fly4Free.com,New feed item matches,Send a notification from the IFTTT app,/feed,/if_notifications,969
+RSS Google Calendar Brand,To share your article to Google Calendar.,New feed item,Create a detailed event,/feed,/google_calendar,6
+RSS Feed autoposts to Twitter and Facebook Pages,Use this applet to quickly insert the URL to an RSS feed and have it start updating your Twitter and Facebook Page whenever a new item is posted. This is perfect for an organization that uses Twitter and Pages for social network updates.,New feed item,Create a link post,/feed,/facebook_pages,550
+Get an email when TechCrunch writes about a specific company,"Just pop in the company name you'd like to track, and articles in TC that mention it will be sent straight to your inbox.",New feed item matches,Send me an email,/feed,/email,2.2k
+"If New RSS Feed Item, Then Add to Buffer Queue",Sends new posts via your RSS feed to Buffer with an image,New feed item,Add photo to Buffer,/feed,/buffer,62
+Set Android wallpaper to National Geographic Photo of the Day,Set Android wallpaper to National Geographic Photo of the Day,New feed item,Update device wallpaper,/feed,/android_device,2.0k
+RSS to Instapaper,New feed items post to Instapaper,New feed item,Save item,/feed,/instapaper,15.8k
+RSS to Diigo,RSS to Diigo,New feed item,Add a public bookmark,/feed,/diigo,14.9k
+Save National Geographic Photo of the Day to DropBox,This is great for building an amazing collection of photos to use for wallpapers or screensavers.,New feed item,Add file from URL,/feed,/dropbox,1.4k
+Text me a funny quote every day,Text me a funny quote from BrainyQuote every day.,New feed item,Send an SMS,/feed,/android_messages,79
+RSSFeed to Weebly,RSSFeed to Weebly: IFTTT DIRECT AUTO SYNDICATION SYSTEM,New feed item,Publish blog post,/feed,/weebly,474
+Save Loved Hype Machine Tracks to a Spotify Playlist,#rss #spotify #music #hypemachine #songs,New feed item,Add track to a playlist,/feed,/spotify,15
+RSS to Pocket,New feed items post to Pocket,New feed item,Save for later,/feed,/pocket,17.8k
+RSS to Trello,RSS to Trello: IFTTT DIRECT RSS SYNDICATION SYSTEM,New feed item,Create a card,/feed,/trello,941
+RSS To Google Sheets,Rss To Google Sheets,New feed item,Add row to spreadsheet,/feed,/google_sheets,567
+Best New Android Wear Apps and Watch Faces,The best #Android #Wear apps and watch faces,New feed item matches,Send a notification,/feed,/android_wear,32
+Monday Morning Arduino Hacks,Send me all of last weeks hackaday articles that have something to do with Arduinos.,New feed item matches,Add to weekly email digest,/feed,/email_digest,17
+RSS to Raindrop.io,Save new items from RSS to Raindrop.io,New feed item,Create a new bookmark,/feed,/raindrop,1.2k
+"RSS to OneDrive, OneNote, Evernote, Nimbus","RSS to OneDrive, OneNote, Evernote, Nimbus",New feed item,Create note,/feed,/nimbus_note,34
+Remote Jobs to Discord,Remote Jobs feed. Creates a new Discord message with a new remote job.,New feed item,Post a message to a channel,/feed,/discord,6
+Get regular notifications on the air quality in San Francisco,"Stay aware of air quality trends and stay safe — this Applet draws from a feed that monitors the air quality in San Francisco, CA, and will send you push notifications with updates.",New feed item,Send a notification from the IFTTT app,/feed,/if_notifications,276
+Get notifications about the Tokyo Olympics,Receive notifications whenever there is news about the Tokyo Olympics.,New feed item,Send a rich notification from the IFTTT app,/feed,/if_notifications,58
+RSS to Bitly,New feed items post to Bitly,New feed item,Add a bitlink,/feed,/bitly,16.5k
+Google Apps Service Status Notification,"If an updated is posted on the Google Apps service status page, send a notification.",New feed item,Send a notification,/feed,/android_wear,43
+RSS to Reddit,RSS to Reddit,New feed item,Submit a new link,/feed,/reddit,1.4k
+RSS Feed to LinkedIn,"Post links from an RSS feed to your LinkedIn. Customize the caption, or make your own using the action ""New feed item matches search"" to only share specific updates from a feed.",New feed item,Share a link,/feed,/linkedin,215
+Post RSS Feed To FacebookPage & Twitter,Post RSS Feed To FacebookPage & Twitter,New feed item,Post a tweet with image,/feed,/twitter,545
+ios system1,applet for RSS with ios system,New feed item,Send a notification from the IFTTT app,/feed,/if_notifications,40
+omran homsi,omran rss,New feed item matches,Send an email,/feed,/gmail,392
+Nuovo Episodio,Invia un messaggio su Telegram se c'è un nuovo episodio nell'rss delle Serie TV di Tnt Village,New feed item,Send message,/feed,/telegram,9
+rss then diigo,rss then diigo,New feed item matches,Add a public bookmark,/feed,/diigo,147
+rss then paper,rss then paper,New feed item matches,Save item,/feed,/instapaper,148
+RSS para Pocket,"A cada novo post publicado no seu blog será criada uma nova entrada no Pocket.
+
+OBS.: É preciso compartilhar a publicação em seu painel para que seja visível ao público.",New feed item,Send me an email,/feed,/email,19

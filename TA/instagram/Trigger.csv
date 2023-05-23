@@ -1,0 +1,5 @@
+trigger,trigger_description
+Any new photo by you,This Trigger fires every time you share any new photo on Instagram.
+New photo by you with specific hashtag,This Trigger fires every time you share a photo on Instagram with a hashtag you specify.
+New video by you with specific hashtag,This Trigger fires every time you share a video on Instagram with the hashtag you specify.
+Any new video by you,This Trigger fires every time you share any new video on Instagram.

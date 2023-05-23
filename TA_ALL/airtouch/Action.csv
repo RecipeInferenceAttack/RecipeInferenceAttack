@@ -1,0 +1,18 @@
+action,action_description
+Change zone damper opening percentage,This action will change a specific zone damper opening to a given percentage.
+Change air conditioning mode,This action will change the air conditioning to a specific mode.
+Change all zones open percentage,This action will set all percentage control zones to a given percentage.
+Set air conditioning to sleep mode,This action will set air conditioning to sleep mode.
+Set air conditioning to away mode,This action will set air conditioning to away mode
+Increase/Decrease air conditioning set point temperature,This action will increase or decrease the air conditioning set point temperature by one degree.
+Turn on/off zone,This action will turn on or turn off a specific zone.
+Change air conditioning set point temperature,This action will change the air conditioning set point temperature to a specific value.
+Increase/Decrease zone damper opening percentage,This action will increase or decrease a specific zone damper opening percentage by 5-10%.
+Change zone set point temperature,This action will change a specific zone set point temperature to a given value.
+Set all zones to 100%,This action will set all percentage control zones to 100%.
+Increase/Decrease zone set point temperature,This action will increase or decrease a specific zone set point temperature by one degree.
+Turn on/off air conditioning,This action will turn on or turn off air conditioning.
+Change air conditioning fan speed,This action will change the air conditioning to a specific fan speed.
+Change zone to temperature/percentage control,This action will change a specific zone to temperature control or percentage control.
+Set all zones to temperature/percentage control,This action will set all zones to temperature control or percentage control.
+Turn on/off all zones,"This action will turn on or turn off all zones. If turn off all zones. (If turning off all zones, make sure Spill has been set.)"

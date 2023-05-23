@@ -1,0 +1,4 @@
+trigger,trigger_description
+New Device Connects,This trigger fires every time a new device connects to your TP-Link router.
+Device Connects,This trigger fires every time a previously-connected device connects to your TP-Link router.
+Device Disconnects,This trigger fires every time a previously-connected device disconnects from your TP-Link router.

@@ -1,0 +1,6 @@
+trigger,trigger_description
+Any new public photo,This Trigger fires every time you upload a new public photo to your Flickr photostream.
+New public photo tagged,This Trigger fires every time you upload a new public photo to your Flickr photostream with the tag you specify.
+New public photos,This Trigger fires once new photos are detected in your Flickr photostream. It uses a 5 minute delay to identify batch uploads.
+Any new set,This Trigger fires every time you create a new photoset on Flickr.
+New public favorite,This Trigger fires every time you favorite a public photo on Flickr.

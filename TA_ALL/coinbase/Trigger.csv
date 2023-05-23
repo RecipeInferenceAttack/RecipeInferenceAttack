@@ -1,0 +1,3 @@
+trigger,trigger_description
+Cryptocurrency bought,This trigger fires when a new buy is registered in the wallet
+Cryptocurrency sold,This trigger fires when a new sell is registered in the wallet.

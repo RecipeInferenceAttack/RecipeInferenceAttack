@@ -1,0 +1,5 @@
+action,action_description
+Add an article to a team board,This action will add an article to the selected team board (requires a Feedly Teams subscription)
+Add an article to a personal board,This action will add an article to the selected personal board
+Add a new source,This action will attempt to add a new source from a feed or page URL.
+Save an article for later,This action will add a new article URL to your Saved For Later queue.

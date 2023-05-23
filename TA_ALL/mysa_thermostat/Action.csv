@@ -1,0 +1,2 @@
+action,action_description
+Change the setpoint,This action will change the setpoint of a device to the desired value.

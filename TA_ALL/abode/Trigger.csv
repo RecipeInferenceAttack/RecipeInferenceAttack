@@ -1,0 +1,11 @@
+trigger,trigger_description
+Lock unlocked,This trigger fires when the selected lock is unlocked.
+Door closed,This trigger fires when the selected door is closed.
+Lock locked,This trigger fires when the selected lock is locked.
+Switch On,This trigger fires when the selected switch is turned on.
+Garage Door Opened,This trigger fires when the selected garage door is opened.
+Door opened,This trigger fires when the selected door is opened.
+Garage Door Closed,This trigger fires when the selected garage door is closed.
+Mode changed,"This trigger fires when your abode system mode is changed (Away, Home, Standby)."
+Alarm activated,This trigger fires when an abode alarm is active.
+Switch Off,This trigger fires when the selected switch is turned off.

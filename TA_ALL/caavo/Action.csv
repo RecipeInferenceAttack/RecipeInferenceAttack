@@ -1,0 +1,7 @@
+action,action_description
+Turn on Caavo,This action will turn on Caavo Control Center and your TV.
+Send Command to Caavo,"This action will trigger any action on Caavo (i.e. “play Game of Thrones”, “tune to ESPN”, “set sleep timer to 20 minutes”, “search for holiday movies”)"
+Play,"This action will play, launch or tune to any channel, app, device, or content on Caavo Control Center."
+Mute Caavo,This action will mute your TV or sound system.
+Turn off Caavo,This action will put Caavo Control Center to sleep and turn off your TV.
+Show notification on Caavo,This action will display a notification on your TV.

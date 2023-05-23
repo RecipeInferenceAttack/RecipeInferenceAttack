@@ -1,0 +1,10 @@
+action,action_description
+Lock your lock,This Action will lock one of your locks.
+Unlock your lock,This Action will unlock one of your locks.
+Set Mode,This Action will allow you to set a mode on your site.
+Dim light,This Action will allow you to set your lights to a defined brightness between 0-100%.
+Turn on device,This Action will turn on one of your Futurehome devices.
+Run shortcut,This Action will let you run one of your shortcuts.
+Set temperature,This Action will allow you to set the desired temperature for a room.
+Change color,This Action will change the colour of your RGB lights. Input may be colour name or Colour HEX. If a match is not found the light will change to White (FFFFFF).
+Turn off device,This Action will turn off one of your Futurehome devices.

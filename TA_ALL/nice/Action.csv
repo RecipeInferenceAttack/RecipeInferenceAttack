@@ -1,0 +1,3 @@
+action,action_description
+Close door,"This action will close the door you specify. If the door is already closed, the door will remain closed."
+Open door,"This action will open the door you specify. If the door is already open, the door will remain open."

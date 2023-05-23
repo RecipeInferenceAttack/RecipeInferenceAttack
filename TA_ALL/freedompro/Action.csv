@@ -1,0 +1,13 @@
+action,action_description
+Garage door,This action will open or close a garage door.
+Scene,This action will activate a scene.
+Outlet,This action will turn on or off an outlet.
+Door,This action will open or close a door.
+WindowCovering,This action will open or close a window.
+Lock,This action will change state of a lock.
+Thermostat,This action will manage the thermostat temperature.
+Gate,This action will open and close a gate.
+Fan,This action will turn a fan on and off and control its rotation speed.
+Switch,This action will turn on and off a switch.
+Lightbulb,"This action will turn on or off a lightbulb and set its brightness, saturation and colour."
+Window,This action will open or close a window.

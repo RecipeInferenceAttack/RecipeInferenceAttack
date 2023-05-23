@@ -1,0 +1,3 @@
+trigger,trigger_description
+Garage door is opened,This trigger fires when your specific garage door opens
+Garage door is closed,This trigger fires when your specific door closes

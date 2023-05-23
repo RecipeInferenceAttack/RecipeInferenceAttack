@@ -1,0 +1,9 @@
+trigger,trigger_description
+Person detected,This trigger fires when a person is detected on your Swann security device
+Sound detected,This trigger fires when a sound is detected by the selected Swann security device.
+Pet detected,This trigger fires when a pet is detected on the selected Swann security device.
+Motion detected,This trigger fires when the selected Swann security device detects  motion.
+Doorbell button pressed,The trigger fires when the Swann Video Doorbell button is pressed.
+Face recognized,This trigger is fired when an enrolled or selected face is detected by the Swann security device.
+Low battery,This trigger is fired when a low battery is detected on the selected Swann wireless security device.
+Vehicle detected,This trigger fires when a vehicle is detected by the selected Swann security device.

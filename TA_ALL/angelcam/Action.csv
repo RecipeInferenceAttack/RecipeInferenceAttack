@@ -1,0 +1,8 @@
+action,action_description
+Stop camera recording,This action will stop recording of a camera you specify
+Start broadcasting,This action will start broadcasting the camera you specify.
+Receive event from sensor,"This action will create an event from the specified sensor. All other settings (sensor name, type, site, arming, ...) are managed at Angelcam platform."
+Disarm RTS,This action will disarm RTS causing that no sensor connected to Angelcam will trigger security incident.
+Arm RTS,This action will arm RTS causing that you will receive notifications about security incidents based on your notifications settings.
+Start camera recording,This action will start recording of a camera you specify
+Stop broadcasting,This action will stop broadcasting the camera you specify.

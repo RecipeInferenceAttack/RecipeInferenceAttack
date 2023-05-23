@@ -1,0 +1,5 @@
+trigger,trigger_description
+sensor data,This trigger fires when your Whisperer sensor reports measured data.
+moisture,This trigger fires when the moisture value is calculated.
+events,This trigger fires when a new event is generated.
+schedules,This trigger fires when a schedule is complete.

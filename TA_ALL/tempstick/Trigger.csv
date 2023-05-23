@@ -1,0 +1,3 @@
+trigger,trigger_description
+Temperature and Humidity Readings,This trigger fires when a Temp Stick gets a new reading.
+Alerts,This trigger fires when a new sensor alert occurs

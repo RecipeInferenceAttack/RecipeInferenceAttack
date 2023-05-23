@@ -1,0 +1,8 @@
+action,action_description
+Setting numeric value,This action will allow setting a value of the numeric type sensor.
+Disabling,This action will disable the selected sensor.
+Setting color value,This action will allow choosing a color for the sensor.
+Enabling,This action will enable the selected sensor.
+Setting enum value,This action will allow choosing a value of the enum type sensor.
+Setting string value,This action will allow setting a value of the string type sensor.
+Switching,This action will switch the state of the sensor to the opposite.

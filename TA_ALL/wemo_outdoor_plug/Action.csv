@@ -1,0 +1,6 @@
+action,action_description
+Toggle on/off,This Action will toggle a Wemo Outdoor Plug on or off.
+Turn off then on,This Action will turn a Wemo Outdoor Plug off then immediately back on.
+Turn on then off,This Action will turn a Wemo Outdoor Plug on then immediately back off.
+Turn off,"This Action will turn a Wemo Outdoor Plug off. If the Wemo Outdoor Plug is already off, it will remain off."
+Turn on,"This Action will turn a Wemo Outdoor Plug on. If the Wemo Outdoor Plug is already on, it will remain on."

@@ -1,0 +1,7 @@
+action,action_description
+Set fan speed,"This Action sets the fan to the desired speed (Low, Medium, High)."
+Turn on/off  the display,This Action will Turn on/off  the display
+Turn on/off the fan,This Action will turn on/off the fan.
+Set operating mode,This Action will set the fan to the designated operating mode.
+Turn on/off  the beep,This action will turn on/off  the beep
+Turn on/off  the oscillation,This Action will turn on/off the oscillation

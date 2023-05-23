@@ -1,0 +1,3 @@
+trigger,trigger_description
+Fasting time,This trigger fires when it's time for fast.
+Prayer time,This trigger fires when it's time for prayer.

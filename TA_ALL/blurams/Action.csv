@@ -1,0 +1,8 @@
+action,action_description
+Turn on cloud recording,This action will turn on cloud recording for the selected device.
+Turn off cloud recording,This action will turn off cloud recording for the selected device.
+Turn off notification,This action will turn off notification for the selected device.
+Turn on notification,This action will turn on notification for the selected device.
+Enable alarm,This action will enable alarm for the selected device.
+Turn on night vision,This action will turn on night vision for the selected device.
+Turn off night vision,This action will turn off night vision for the selected device.

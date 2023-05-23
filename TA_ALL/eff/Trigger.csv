@@ -1,0 +1,3 @@
+trigger,trigger_description
+Action alerts,This trigger fires when the Electronic Frontier Foundation issues a new action alert.
+News updates,"This trigger fires when the Electronic Frontier Foundation posts a new press release, blog post, or podcast."

@@ -1,0 +1,3 @@
+trigger,trigger_description
+New incident assigned to me,Fires when a new incident gets assigned to the current user.
+New oncall shift starts for me,Fires when a new oncall shift starts for the current user.

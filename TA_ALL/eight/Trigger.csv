@@ -1,0 +1,3 @@
+trigger,trigger_description
+Alarm event,This Trigger fires when an event related to the Eight alarm happens.
+Day and night mode,This Trigger fires when you tap the 'Night mode' or 'Day mode' buttons in the Eight App.

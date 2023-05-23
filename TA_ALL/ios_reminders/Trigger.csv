@@ -1,0 +1,5 @@
+trigger,trigger_description
+Any reminder completed,This Trigger fires every time any reminder is completed.
+Reminder completed in list,This Trigger fires every time a new reminder is completed in a list you specify.
+Any new reminder,This Trigger fires every time you add a new reminder.
+New reminder added to list,This Trigger fires every time a new reminder is added to the list you specify.

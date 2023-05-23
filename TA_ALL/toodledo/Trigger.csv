@@ -1,0 +1,9 @@
+trigger,trigger_description
+Task completed in folder,This Trigger fires every time you complete a task in the folder you specify.
+New task with tag,This Trigger fires every time a new task is added to your Toodledo list with a tag you specify.
+Any new task,This Trigger fires every time a new task is added to your Toodledo list.
+New task in folder,This Trigger fires every time a new task is added to a folder you specify.
+Any task completed,This Trigger fires every time any task is completed in your Toodledo list.
+New task in context,This Trigger fires every time a new task is added to a context you specify
+Task completed with tag,This Trigger fires every time you complete a task with a tag you specify.
+Task completed in context,This Trigger fires every time you complete a task in the context you specify.

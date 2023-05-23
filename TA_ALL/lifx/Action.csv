@@ -1,0 +1,11 @@
+action,action_description
+Toggle lights on/off,"This Action will turn your lights off if they are on, and turn them on if they are off."
+Breathe lights,This Action will make your lights slowly breathe the color of your choice.
+Stop Clean Cycle,Turn off the Clean Cycle of your LIFX Clean
+Blink lights,This Action will make your lights quickly blink the color of your choice.
+Move lights,This Action will make your LIXF Z lights move in a pattern.
+Turn lights on,This Action will turn your lights on.
+Activate scene,This Action will activate a Scene.
+Start Clean Cycle,Turn on the Clean Cycle of your LIFX Clean to it's default duration
+Turn lights off,This Action will turn your lights off.
+Change color of lights,This Action will change the color of your lights.

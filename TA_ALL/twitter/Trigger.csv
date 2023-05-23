@@ -1,0 +1,11 @@
+trigger,trigger_description
+New tweet by you,This Trigger fires every time you post a new tweet.
+New tweet by a specific user,This Trigger fires every time the Twitter user you specify tweets.
+New mention of you,This Trigger fires every time you are @mentioned in a tweet.
+New link by you,"This Trigger fires for every link you tweet. If your tweet has multiple links, it will fire multiple times."
+New liked tweet by you,This Trigger fires every time you like a tweet.
+New tweet by you with hashtag,This Trigger fires every time you post a new tweet with a specific hashtag.
+New tweet from search,This Trigger fires every time a new tweet matches your search query. NOTE: limited to 15 tweets per check.
+New follower,This Trigger fires every time a new user starts following you.
+New tweet by you in area,This Trigger fires every time you post a tweet at a location you specify.
+New tweet by anyone in area,This Trigger fires every time anyone posts a tweet at a location you specify.

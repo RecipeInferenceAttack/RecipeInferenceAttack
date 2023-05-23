@@ -1,0 +1,5 @@
+trigger,trigger_description
+Every time you save using a specific method,This Trigger fires every time you save using a specific method like round-up or guilty-pleasure.
+Every time you save,This Trigger fires every time you save toward one of your goals.
+Create or join a new goal,This Trigger fires every time you either create a new goal or accept an invitation to join a friend's goal.
+Every time you save toward a specific goal,This Trigger fires every time you save toward one specific goal.

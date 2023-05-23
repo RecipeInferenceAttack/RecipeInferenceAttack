@@ -1,0 +1,2 @@
+action,action_description
+Add file from URL,This Action will upload a file from a given URL and add it to Amazon Cloud Drive at the path you specify.

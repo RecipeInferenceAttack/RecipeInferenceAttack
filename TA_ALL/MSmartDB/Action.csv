@@ -1,0 +1,4 @@
+action,action_description
+Turn off the washing machine,This Action will turn off the washing machine.
+Pause the washing machine,This Action will pause the washing machine when it is running.
+Activate the child lock of the washing machine,This Action will activate the child lock of the washing machine.

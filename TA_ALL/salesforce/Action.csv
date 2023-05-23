@@ -1,0 +1,5 @@
+action,action_description
+Post Chatter message,This Action will post a new message on your Chatter feed or in a group.
+Post Chatter link,This Action will post a link on Chatter.
+Post Chatter file,This Action will post a file on Chatter. NOTE: 30 MB file size limit.
+Advanced: Insert a Record,This Action will insert a record into any SObject and set up to five fields on the new record.

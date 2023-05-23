@@ -1,0 +1,11 @@
+trigger,trigger_description
+You are tagged in a photo,This Trigger fires every time you are tagged you in a new photo. NOTE: Facebook privacy settings may block IFTTT’s access to some photos you are tagged in.
+Your profile changes,"A Trigger that monitors changes in your Facebook profile information. It works with these Facebook profile fields: Name, Profile picture, Location, Website, and Bio."
+New status message by you with hashtag,This Trigger fires every time you create a new plain text status message on Facebook with a specific hashtag.
+New photo post by you in area,This Trigger fires every time you post a new public photo on Facebook at a location you specify.
+Any new post by you in area,This Trigger fires every time you post on Facebook at a location you specify.
+New photo post by you,This Trigger fires every time you post a new photo on Facebook.
+New link post by you,This Trigger fires every time you create a new link post on Facebook.
+New status message by you,This Trigger fires every time you create a new plain text status message on Facebook.
+New photo post by you with hashtag,This Trigger fires every time you post a new photo on Facebook with a specific hashtag.
+New link post by you with hashtag,This Trigger fires every time you create a new link post on Facebook with a specific hashtag.

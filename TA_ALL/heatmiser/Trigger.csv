@@ -1,0 +1,8 @@
+trigger,trigger_description
+neoHub Home Mode,Triggers when your neoHub returns to Home Mode.
+Temperature drops below,This Trigger fires every time the temperature drops above a threshold you specify.
+Contact Sensor Closed,This trigger fires when the Contact Sensor is closed
+Low Battery,This trigger fires when your Heatmiser Device has a Low Battery.
+neoHub Away Mode,This trigger fires when your neoHub is set to away mode.
+Contact Sensor Open,This trigger fires when the Contact Sensor is opened
+Temperature rises above,This Trigger fires every time the temperature rises above a threshold you specify.

@@ -1,0 +1,14 @@
+action,action_description
+Set cooling temperature,This Action will set temperature on your thermostat devices that support cooling set point.
+Run scene,This Action will run a scene.
+Set position,This Action will set position on your shutter devices that support positioning.
+Set level/brightness,This Action will set level/brightness on your lighting devices that support dimming.
+Player control,This Action will control your media player devices.
+Switch off,This Action will turn off your devices that support switching off.
+Switch on,This Action will turn on your devices that support switching on.
+Play favorites list,This action will play a favorites list.
+Set heating temperature,This Action will set temperature on your thermostat devices that support heating set point.
+Set angle,This Action will set angle on your shutter devices that support angle positioning.
+Set volume,This Action will set volume on your media player devices that support volume.
+Set color,This Action will change the color of your lights. NOTE: Accepts color names and CSS hex color values. Defaults to white if no color match is found.
+Play playlist,This action will play a playlist.

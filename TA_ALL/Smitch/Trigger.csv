@@ -1,0 +1,3 @@
+trigger,trigger_description
+A motion detected,This trigger fires when a motion detected
+A sound detected,This trigger fires when a sound is detected

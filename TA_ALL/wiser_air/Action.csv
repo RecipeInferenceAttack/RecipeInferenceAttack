@@ -1,0 +1,4 @@
+action,action_description
+Set temperature,This Action will set your Wiser Air Thermostat to the temperature you specify. Eco IQ is disabled by running this Action.
+Set mode,"This Action will set your Wiser Air Thermostat to Home, Away or Sleep mode. Eco IQ is disabled by running this Action."
+Set system mode,"This Action will set your Wiser Air Thermostat to Off, Heat, Cool, or Auto mode. Eco IQ is disabled by running this Action."

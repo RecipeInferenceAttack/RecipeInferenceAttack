@@ -1,0 +1,7 @@
+action,action_description
+Lock,This Action will lock your SmartThings devices that support locking.
+Unlock,This Action will unlock your SmartThings devices that support unlocking.
+Switch on,This Action will turn on your SmartThings devices that support switching on.
+Deactivate siren/strobe,This Action will deactivate your SmartThings alerting device's siren and/or strobe.
+Switch off,This Action will turn off your SmartThings devices that support switching off.
+Activate siren/strobe,This Action will activate your SmartThings alerting device's siren and/or strobe.

@@ -1,0 +1,6 @@
+trigger,trigger_description
+New task assigned to you in a project,This Trigger fires every time there is a new task assigned to you in the specified project on Asana.
+New project,This Trigger fires every time there is a new project added in a workspace.
+New task in a project,This Trigger fires every time there is a new task in the project you specify.
+Tag added to task,This Trigger fires every time a tag is added to a task in a project.
+New task completed in a project,This Trigger fires every time there is a new completed task in a project.

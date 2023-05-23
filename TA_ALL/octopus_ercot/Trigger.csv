@@ -1,0 +1,2 @@
+trigger,trigger_description
+Energy Price,Use this trigger to fire something when your energy price falls or rises past your set threshold such as $0.45/kWh and between your preferred time settings.

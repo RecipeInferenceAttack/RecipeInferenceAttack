@@ -1,0 +1,5 @@
+trigger,trigger_description
+When electricity is high carbon (by country),This trigger fires when the climate impact of country electricity is high.
+When electricity is high carbon (by location),This trigger fires when the climate impact of local electricity is high.
+When electricity is low carbon (by country),This trigger fires when the climate impact of country electricity is low.
+When electricity is low carbon (by location),This trigger fires when the climate impact of local electricity is low.

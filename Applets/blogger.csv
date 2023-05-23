@@ -1,0 +1,51 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+"Any new post on your bloggerPost a tweet with image to your twitter","Any new post on your blogger
+Post a tweet with image to your twitter",Any new post,Post a tweet with image,/blogger,/twitter,392
+"If Blogged, post to FB Blog page","Posts a photo and ifttt url to the blog entry on your facebook page, not your personal page.",Any new post,Upload a photo from URL,/blogger,/facebook_pages,128
+Share your new videos to Blogger,"Get those views! This Applet will grab the embed code from your new public videos and turn them into blog posts. The title on YouTube will be the title on Blogger, too.",New public video uploaded by you,Create a post,/youtube,/blogger,10.0k
+blogger to telegram @IFTTT Bot,Post new blogger updates on your telegram channel and groups,Any new post,Send message,/blogger,/telegram,696
+Blogger Post To Facebook Page,Blogger Post To Facebook Page,Any new post,Create a status message,/blogger,/facebook_pages,395
+RSS to Blogger HDA,Post RSS to Blogger HDA,New feed item,Create a post,/feed,/blogger,1.8k
+Post your Blogger posts to Tumblr,"When you post on Blogger, the post will automatically be shared on your Tumblr blog.",Any new post,Create a link post,/blogger,/tumblr,116
+"If Blogger Post, then Reddit text post","If Blogger Post, then Reddit text post",Any new post,Submit a new text post,/blogger,/reddit,263
+The New York Times,The New York Times To Blogger,New article in section,Create a post,/nytimes,/blogger,33
+My Blogger posts to twitter,My Blogger posts to twitter,New post labeled,Post a tweet,/blogger,/twitter,980
+Like on Youtube then create a post on Blogger,Nice Na,New liked video,Create a post,/youtube,/blogger,247
+Post all new post on tumblr,Post all blogger post to tumblr,Any new post,Create a text post,/blogger,/tumblr,8
+EARN BITCOIN FROM FAUCETBOX,EARN BITCOIN FROM FAUCETBOX,Any new post,Create a photo post,/blogger,/blogger,24
+IG Video ⇒ BL Video,Use this recipe to automatically post your Instagram uploaded videos to your Blogger page as embedded videos.,Any new video by you,Create a post,/instagram,/blogger,179
+BLOGGER TO FB PAGE AND TWITTER,"Here you can post to your Facebook fan page and tweets them to your twitter.
+By ajiboye de newmaster",Any new post,Post a tweet,/blogger,/twitter,1.2k
+"If New breaking news alert from Fox News, then Create a post on your Blogger blog",Breaking News,Breaking news alert,Create a post,/foxnews,/blogger,5
+Blogger to FB Page,Blogger to FB Page,Any new post,Create a link post,/blogger,/facebook_pages,3.4k
+A new Video uploaded,Hi we have uploaded a new video on youtube,New public video uploaded by you,Create a photo post,/youtube,/blogger,114
+new york times,it is also make post with pic like others,New popular article in section,Create a photo post,/nytimes,/blogger,25
+Blogger to Twitter,Blogger to Twitter,Any new post,Post a tweet,/blogger,/twitter,5.9k
+Create a post on Blogger,Create a quick post on Blogger with this Recipe.,Any new note,Create a post,/do_note,/blogger,4.1k
+If fb photo then blog photo post,If fb photo then blog photo post,New photo upload on page,Create a photo post,/facebook_pages,/blogger,17
+Post to Blogger From Bitly,Post to Blogger From Bitly,Any new bitlink,Create a post,/bitly,/blogger,10
+Auto-Blog hot posts on /r/gaming,"Just add, nothing else required",New hot post in subreddit,Create a post,/reddit,/blogger,2
+Blogger to Facebook Business Page,"Create a new blog post and get the Title of your post, the link to your blog and a picture from the post all pushed to your Facebook Business Page",New post labeled,Upload a photo from URL,/blogger,/facebook_pages,9
+Make money online from home,Click the link below.,New link post by you,Create a photo post,/facebook,/blogger,7
+Create a photo post on Blogger,This Recipe will use an map image of your location as the photo,Any new note,Create a photo post,/do_note,/blogger,101
+Blogger post to Drive Spreadsheet,Blogger post to Drive Spreadsheet,New post labeled,Add row to spreadsheet,/blogger,/google_sheets,6
+tweet blogger,saves a tweet from shaunking to blogger,New tweet by a specific user,Create a post,/twitter,/blogger,180
+ATE ENTERPRISE,Latest posts..,New broadcasted article,Create a post,/inoreader,/blogger,1
+Post the new stories in blogger,This is to post the best hacker news post on blogger,New Show HN story,Create a post,/hacker_news,/blogger,207
+Blogger to Linkedin,Share all of your latest posts on Blogger directly to Linkedin.,Any new post,Share a link,/blogger,/linkedin,157
+RSS to Blogger photo post,RSS to Blogger photo post,New feed item,Create a photo post,/feed,/blogger,7
+Bitmark your Blogger posts,Automatically convert your Blogger posts into digital property.,New post labeled,Issue bitmark,/blogger,/bitmark,22
+Post NAACP news to Blogger,Share the latest NAACP news on your blog,New post in NAACP News,Create a post,/naacp,/blogger,
+Blogger post with label to Lnk,Create a Lnk.Bio Lnk for every new Blogger post published with a specific label,New post labeled,Create Lnk,/blogger,/lnkbio,1
+Blogger new posts notification,If anyone publish a post on your blogger page it notify to you,Any new post,Send a notification from the IFTTT app,/blogger,/if_notifications,20
+birth of Cool,birth of Cool,Any new post,Post to channel,/blogger,/slack,40
+Flickr (Album) to Blogger (Post),A new album uploaded on flickr will create a post on Blogger with a photo hyperlinked to the original album. Opens the album in a new window.,Any new set,Create a post,/flickr,/blogger,9
+Twitter link to Blogger photo post,Photo post of twitter link,New link by you,Create a photo post,/twitter,/blogger,4
+Add stock prices to my business blog,Add stock prices to my business blog,Price at close,Create a post,/finance,/blogger,4
+Inoreader Article in Folder to Blogger,When there is a new article in folder Inoreader is published in Blogger.,New article in folder,Create a post,/inoreader,/blogger,
+Picks post on buffer to post to blogger,Picks post on buffer to post to blogger,Any new post in Buffer,Create a post,/buffer,/blogger,34
+Share your new Vimeo uploads to Blogger,"Get those views! This Applet will grab the embed code from your uploads and turn them into blog posts. The title on Vimeo will be the title on Blogger, too.",New video uploaded,Create a post,/vimeo,/blogger,121
+New photo in Buffer - Create a photo post,New photo in Buffer - Create a photo post,New photo in Buffer,Create a photo post,/buffer,/blogger,14
+Create a Blogger Post Database in Airtable,Add a new record to Airtable whenever a Blogger post is published.,New post labeled,Create a new record,/blogger,/airtable,
+most beautiful photos of kingfisher models,most beautiful photos of kingfisher models,New post labeled,Create a photo post,/blogger,/blogger,4
+Blogger label 👉 Twitter with image - Sport,.,New post labeled,Post a tweet with image,/blogger,/twitter,6

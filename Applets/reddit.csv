@@ -1,0 +1,53 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Mail me free games with Steam keys posted to /r/gamedeals,Free games on Steam!,New post from search,Send me an email,/reddit,/email,51.0k
+Alert me of free games with Steam keys posted to /r/gamedeals,"Based on pezmc's email version. Same trigger search and action message, just changed method from email to alert.",New post from search,Send a notification from the IFTTT app,/reddit,/if_notifications,9.4k
+FreeGames Discord,Post on Discord whenever a free games is available to redeem,Any new post in subreddit,Post a message to a channel,/reddit,/discord,157
+Share your latest YouTube uploads on /r/videos,Share your latest YouTube uploads on /r/videos,New public video uploaded by you,Submit a new link,/youtube,/reddit,4.3k
+"If Blogger Post, then Reddit text post","If Blogger Post, then Reddit text post",Any new post,Submit a new text post,/blogger,/reddit,263
+Submit your new WordPress posts to reddit,Submit your new WordPress posts to reddit,Any new post,Submit a new link,/wordpress,/reddit,1.2k
+Add the posts you save on Reddit to your Pocket queue,Add the posts you save on Reddit to your Pocket queue,New post saved by you,Save for later,/reddit,/pocket,2.1k
+"If New hot post in /r/memes, then post a message to a channel",Posts hot memes from reddit to a Discord channel.,New hot post in subreddit,Post a rich message to a channel,/reddit,/discord,16
+Reddit post from search to Discord,"Add any search term and get notifications for new Reddit posts about that keyword. Great for keeping up with a brand, game, or specific topic.",New post from search,Post a message to a channel,/reddit,/discord,70
+Add top posts from the Reddit r/ListenToThis subreddit to a Spotify playlist,"When there's a top post in r/listentothis, it'll automatically be added to a Spotify playlist for you.",New top post in subreddit,Add track to a playlist,/reddit,/spotify,2.9k
+Track new Reddit posts on your Welltory Dashboard,See what impacts your ability to write great posts,New post by you,Send event,/reddit,/welltory,290
+New request in r/fantasyartists,Sends new client requests in r/fantasyartists to your Gmail,New post from search,Send yourself an email,/reddit,/gmail,2
+Repost photos from Reddit to a Telegram channel.,"This applet reposts only photos. No captions, titles, etc.",Any new post in subreddit,Send photo,/reddit,/telegram,45
+Saved Reddit posts with images get uploaded to Google Drive,This uploads all images from saved posts to a Google drive folder under IFTTT/reddit/saved-images.,New post saved by you,Upload file from URL,/reddit,/google_drive,1.3k
+Reddit Save to Day One,New saves are published to Day One,New post saved by you,Create Journal Entry,/reddit,/day_one,82
+Share Reddit post to Discord,Share your latest Reddit post with your Discord community.,New post by you,Post a rich message to a channel,/reddit,/discord,341
+Reddit Post Notifier,"Uses regular expressions to search for new posts on a specified subreddit whose title contain specific text. It then sends a notification with the text matches found, post title, and URL. 
+
+In the default state, it searches r/buildapcsales for posts about a fan, GTX 1070 Ti, or GTX 1050 Ti. 
+
+Regular expressions were used to allow the search to be very specific, but also inclusive towards any forms of capitalization and whitespace.",Any new post in subreddit,Send a rich notification from the IFTTT app,/reddit,/if_notifications,729
+Reddit Upvotes to Day One,Save upvoted posts in Reddit as new entries in Day One.,New upvoted post by you,Create Journal Entry,/reddit,/day_one,34
+Scan Reddit For Free Steam Games,Scans all of Reddit for free steam games.,New post from search,Send an email,/reddit,/gmail,110
+Automatically repost Reddit pictures to Twitter,This applet can be set to automatically repost any hot post,New hot post in subreddit,Post a tweet with image,/reddit,/twitter,22
+"When a reddit post is saved, enter a row into a Google Drive sheet with its info.",Keep track of everything you've ever saved on reddit.,New post saved by you,Add row to spreadsheet,/reddit,/google_sheets,1.7k
+Get new iPhone wallpapers sent to your phone,"From /r/iWallpaper straight to your iDevice, this recipe gives you a plethora of daily wallpapers.",Any new post in subreddit,Add photo to album,/reddit,/ios_photos,1.1k
+Get alerts when your company or name is mentioned on Reddit,This Applet will send you an email and a notification when the name you enter is mentioned on Reddit. Stay on top of your brand!,New post from search,Send a notification from the IFTTT app,/reddit,/if_notifications,1.8k
+Saved Reddit post nicely formatted to OneNote page,Saved Reddit post nicely formatted to OneNote page,New post saved by you,Create a page from a link,/reddit,/onenote,262
+Send a new top jokes from Reddit to your iPhone,"If new top post in /r/jokes, then send a notification",New top post in subreddit,Send a notification from the IFTTT app,/reddit,/if_notifications,2.5k
+Save popular posts from r/TodayILearned in Pocket,Automatically save popular posts in r/TodayILearned directly to Pocket. Never miss out on your daily dose of 'mind blown'!,New hot post in subreddit,Save for later,/reddit,/pocket,5.7k
+Get a daily email update with the top posts from your favorite Reddit subreddit,Choose the subreddit and get updates on the top posts in your daily email digest. You can set up multiple versions to cover all of your favorite topics.,New top post in subreddit,Add to daily email digest,/reddit,/email_digest,1.2k
+Track every time you upvote on Reddit on your Welltory Dashboard,Find correlations between your lifestyle and social media performance,New upvoted post by you,Send event,/reddit,/welltory,47
+Auto-Blog hot posts on /r/gaming,"Just add, nothing else required",New hot post in subreddit,Create a post,/reddit,/blogger,2
+Daily Reddit Digest in your inbox,Daily Reddit Digest in your inbox,Any new post in subreddit,Send an email,/reddit,/gmail,34
+reddit scheduler,"Schedule a reddit post to go at one time (delete this after it runs because it'll post next year, too)",Every year on,Submit a new link,/date_and_time,/reddit,205
+Weekly Reddit Saved Posts Reminder,Save a lot on Reddit but never remember to check? Send yourself an email every week containing that week's saved posts.,New post saved by you,Add to weekly email digest,/reddit,/email_digest,477
+Save newly added /r/Wallpapers images to Drive for ChromeCast Backdropping,"Insert a subreddit that you want the images from, and enable the ""Show Drive photos and videos in your photo library"" option in your Google + settings. Set the folder that you've created as the only BackDrop in your ChromeCast settings and you're done!",Any new post in subreddit,Upload file from URL,/reddit,/google_drive,232
+RSS to Reddit,RSS to Reddit,New feed item,Submit a new link,/feed,/reddit,1.4k
+Reddit New Post to Twitter Tweets,Reddit New Post to Twitter Tweets,New post by you,Post a tweet,/reddit,/twitter,410
+Saved or starred posts to Pinboard,Saved or starred posts to Pinboard,New post saved by you,Add a private bookmark,/reddit,/pinboard,96
+Send saved reddit posts to Instapaper,I wanted to save articles for reading during commuting...,New post saved by you,Save item,/reddit,/instapaper,93
+E-mail saved Reddit posts to yourself,"Whenever you save a post you want to read later, it sends a transcript of that post to your e-mail. It helps prevent you from forgetting about it.",New post saved by you,Send me an email,/reddit,/email,606
+Add image from Subreddit to Amazon Cloud Drive,"Change to what ever subreddit you would like, will store on Cloud Drive in IFTTT/reddit/subreddit",Any new post in subreddit,Add file from URL,/reddit,/amazonclouddrive,26
+Tweet upvotes,Tweet upvotes,New upvoted post by you,Post a tweet,/reddit,/twitter,11
+Reddit checker,Reddit checker,New hot post in subreddit,Send an SMS,/reddit,/android_messages,6
+Isabella Hibbs,Isabella Hibbs,Any new post in subreddit,Post a tweet,/reddit,/twitter,57
+New post on NFC,New post on NFC,Any new post in subreddit,Send me an email,/reddit,/email,9
+Stack javascript,Stack javascript,New post from search,Add a bitlink,/reddit,/bitly,4
+Save hot /r/worldnews posts to Instapaper for reading later,/r/worldnews is for major news from around the world except US-internal news and US politics. Great for staying on top of breaking news!,New hot post in subreddit,Save item,/reddit,/instapaper,118
+Reddit Save Backup,can't be blank,New post saved by you,Create a text file,/reddit,/dropbox,38
+Subreddit Analytics,Gives data on subreddit usage,Any new post in subreddit,Upload file from URL,/reddit,/google_drive,
+Log Reddit Upvotes,Log your up votes to your evernote log,New upvoted post by you,Append to note,/reddit,/evernote,19

@@ -1,0 +1,58 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Save new photos you post on Facebook to Dropbox,"A great way to automatically backup your Facebook photos. For any new photo uploaded by you, a copy will be saved in a Dropbox folder.",New photo post by you,Add file from URL,/facebook,/dropbox,42.0k
+Save photos you post on Tumblr to Dropbox,"Automatically backup your Tumblr photos. For any photo you post, a copy will be uploaded in a Dropbox folder.",New photo post,Add file from URL,/tumblr_legacy,/dropbox,2.1k
+Share files in Slack from a Dropbox folder,Simply add a file to the Slack folder this Applet creates in your Dropbox and it will send the file to a Slack channel of your choosing.,New file in your folder,Post to channel,/dropbox,/slack,1.6k
+Save a photo to Dropbox with a camera widget,"Snap and save photos using the camera widget. Photos will automatically upload to a folder called ""Camera widget."" For info on widgets, see: https://ifttt.com/help/applets-with-widgets",Any new photo,Add file from URL,/do_camera,/dropbox,19.3k
+Save new photos you're tagged in on Facebook to Dropbox,"An easy way to download and save pictures that you're tagged in on Facebook. Every time that you're tagged, a copy of the photo will be saved in a Dropbox folder.",You are tagged in a photo,Add file from URL,/facebook,/dropbox,157.9k
+Save your new Instagram photos to Dropbox,"Whenever you post a new photo on Instagram, a copy will be saved to a folder in Dropbox. Note: only works for single photo posts.",Any new photo by you,Add file from URL,/instagram,/dropbox,141.1k
+[ACC] Open file (example) (Dropbox),"Opens the example.txt file (example on how to use the ""open"" action in ACC). AssistantComputerControl:
+https://assistantcomputercontrol.com/",Say a specific phrase,Create a text file,/amazon_alexa,/dropbox,242
+[ACCV2] Shutdown (forced) (Dropbox),"Shuts down your computer(s) forcefully (meaning all unsaved work will also close, without warning) using your Google Assistant. Requires AssistantComputerControl, https://assistantcomputercontrol.com/",Activate scene,Create a text file,/google_assistant_v2,/dropbox,137
+Automatically sync new files added to Dropbox to your Google Drive,Whenever a new file is added to a Dropbox folder you select it will be automatically uploaded to Google Drive. Keep everything in sync!,New file in your folder,Upload file from URL,/dropbox,/google_drive,8.6k
+[ACCv2] Shutdown Computer (Dropbox),"If you say ""Okay Google, activate computer"", then Append to a text file in Dropbox",Activate scene,Append to a text file,/google_assistant_v2,/dropbox,104
+When you receive an email attachment automatically save it to Dropbox,Back up any attachment in your email account to the your Dropbox account.,Send IFTTT any email,Add file from URL,/email,/dropbox,3.1k
+Sync new files added to Dropbox to OneDrive,Whenever a new file is added to a Dropbox folder you select it will be automatically uploaded to OneDrive. Keep everything in sync!,New file in your folder,Add file from URL,/dropbox,/onedrive,5.3k
+"If you like a YouTube video, then add a file to Dropbox",Like a youtube video and it will show up on your dropbox,New liked video,Add file from URL,/youtube,/dropbox,788
+Sync Google Drive with Dropbox,"Whenever a new file is added to Google Drive, then it will be uploaded to Dropbox.
+Customize the trigger to specify which Google Drive folder you would like to pull files from.",New file in your folder,Add file from URL,/google_drive,/dropbox,65
+Save National Geographic Photo of the Day to DropBox,This is great for building an amazing collection of photos to use for wallpapers or screensavers.,New feed item,Add file from URL,/feed,/dropbox,1.4k
+Pocket to PDF in Dropbox,Item saved in Pocket is output to PDF and saved in Dropbox,New item archived,Add file from URL,/pocket,/dropbox,256
+Put to sleep your Mac using Amazon Alexa [MIC],Put to sleep your Mac using Amazon Alexa. Requires macOS IFTTT Control installed on your Mac. http://abdyfran.co/projects/macos-ifttt,Say a specific phrase,Append to a text file,/amazon_alexa,/dropbox,331
+Back up new iOS photos you take to Dropbox,Back up new iOS photos you take to Dropbox,Any new photo,Add file from URL,/ios_photos,/dropbox,19.4k
+Archive my video instagram to dropbox,Archive my video instagram to dropbox,Any new video by you,Add file from URL,/instagram,/dropbox,156
+Send me an email when file is uploaded to Dropbox,"Every time a new file is uploaded to a specified folder on Dropbox, send me an email.",New file in your folder,Send me an email,/dropbox,/email,47
+"If I upload a file to a specific folder in Dropbox, send that file as an email attachment","If I upload a file to a specific folder in Dropbox, send that file as an email attachment",New file in your folder,Send an email,/dropbox,/gmail,290
+Keep Documents,Helps filing documents.,Any new visit,Create a text file,/docsend,/dropbox,8
+Save Contacts.,Saves every new contact to Dropbox.,Any new contact,Add file from URL,/ios_contacts,/dropbox,393
+Your Facebook shared links saved,Always have those songs and news links backed up for future,New link post by you,Create a text file,/facebook,/dropbox,108
+SMS Backup to dropbox in text file,SMS Backup to dropbox in text file,Any new SMS received,Append to a text file,/android_messages,/dropbox,924
+download from url,"Put #download in object, the url in the body, and the file will go in dropbox!",Send IFTTT an email tagged,Add file from URL,/email,/dropbox,11
+Add ToDos to DropBox file,"When a Todo is created, it is added to a dropbox file, along with a list of all ToDos.",Item added to your To Do List,Create a text file,/amazon_alexa,/dropbox,80
+Backup my photos to Dropbox,Backup my photos to Dropbox,Any new photo,Add file from URL,/android_photos,/dropbox,314
+Play Sonos when arriving home.,"This recipe requires Hazel, SoCo Python library (https://github.com/rahims/SoCo) and a shell script to provide an integrated solution",You enter an area,Create a text file,/location,/dropbox,37
+Backup Dropbox files to QNAP Device,"Whenever you add a file in your specified Dropbox folder, this applet will automatically download that file to your QNAP Device",New file in your folder,Download file from URL,/dropbox,/qnap,682
+Add Spotify Music You Save to Dropbox,"If you save an music in spotify, it will be save into dropbox.",New saved track,Add file from URL,/spotify,/dropbox,1.3k
+Download new songs you like to Dropbox,"Automatically download your new favorite songs directly to Dropbox. 
+*Note* this works only on tracks that are publicly available for download.",New public like,Add file from URL,/soundcloud,/dropbox,9.7k
+Take a note,Quickly take notes in Dropbox with this Recipe. Each note is saved as a .txt file automatically.,Any new note,Create a text file,/do_note,/dropbox,1.3k
+Save GIFs from Favorite tweets to Dropbox.,Actually saves the first link it finds... so it could be any file.,New liked tweet by you,Add file from URL,/twitter,/dropbox,29
+XML Archiver,Download XML to dropbox in various time.,Every hour at,Add file from URL,/date_and_time,/dropbox,7
+Upload pictures from Dropbox folder to Flickr,The easiest way to upload pictures to Flickr! Just put them in a folder on Dropbox and you're done.,New photo in your folder,Upload public photo from URL,/dropbox,/flickr,1.9k
+[ACC] Install AssistantComputerControl (Alexa),"Say ""Alexa, trigger install Assistant Computer Control"" and ACC will be downloaded to your Dropbox. Open the file on your computer, and the software is ready to be used!",Say a specific phrase,Add file from URL,/amazon_alexa,/dropbox,24
+Placed call log,Placed call log,Any outgoing phone call ends,Append to a text file,/android_phone,/dropbox,43
+Vectra entry/exit,Vectra entry/exit,You enter or exit an area,Append to a text file,/location,/dropbox,1
+Reddit Save Backup,can't be blank,New post saved by you,Create a text file,/reddit,/dropbox,38
+Sonos Motion Alarm,"Download and install the following Ruby daemon which will activate the alarm on a Sonos system when Wemo Motion is triggered:
+https://github.com/nbroberg/ifttt_sonos",Any new motion,Create a text file,/wemo_motion,/dropbox,6
+Create a text file,Create a text file in Dropbox.,Gesture with task matching ID occurs,Create a text file,/knocki,/dropbox,3
+Save tweets of user,Just fill in the @ user,New tweet by a specific user,Append to a text file,/twitter,/dropbox,7
+Pocket Archive History,"If new item archived in #Pocket, then append to a text file in #Dropbox",New item archived,Append to a text file,/pocket,/dropbox,2
+Play iTunes on Schedule,"1. Install Hazel(Paid ware) http://www.noodlesoft.com/hazel.php
+2. Add a new Automator Workflow
+3. Add Action Music -> Start iTunes Playing
+4. Set Hazel to open this Workflow every time IFTTT saves a file name ""play"" to set Dropbox location.
+
+You can also use this method to stop playing music and change volume.",Every day at,Create a text file,/date_and_time,/dropbox,4
+Image Gallery by Upvote,"By default, it creates a subfolder for each subreddit.",New upvoted post by you,Add file from URL,/reddit,/dropbox,64
+new photo in your folder,dropbox/email,New photo in your folder,Send me an email,/dropbox,/email,4
+Log checkins in text file,Log checkins in text file,Any new check-in,Append to a text file,/foursquare,/dropbox,7

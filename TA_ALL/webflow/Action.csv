@@ -1,0 +1,7 @@
+action,action_description
+Create live collection item,This action will create a live collection item.
+Publish site,This action will publish a Webflow site.
+Refund order,This action will refund an order.
+Fulfill order,This action will fulfill an order.
+Unfulfill order,This action will unfulfill an order.
+Create collection item,This action will create a collection item.

@@ -1,0 +1,17 @@
+trigger,trigger_description
+Humidity rises above,This Trigger fires every time your SmartThings device detects humidity above a value you specify.
+Temperature rises above,This Trigger fires every time your SmartThings device detects temperatures above a value you specify.
+Unlocked,This Trigger fire every time your SmartThings device is unlocked.
+Temperature drops below,This Trigger fires every time your SmartThings device detects temperatures below a value you specify.
+Brightness rises above,This Trigger fires every time the your SmartThings device detects brightness above a value you specify.
+Switched on,This Trigger fires every time your SmartThings device is switched on.
+Presence detected,This Trigger fires every time your SmartThings device's presence is detected.
+Locked,This Trigger fires every time your SmartThings device is locked.
+Switched off,This Trigger fires every time your SmartThings device is switched off.
+Moisture detected,This Trigger fires every time your SmartThings device detects moisture.
+Brightness drops below,This Trigger fires every time the your SmartThings device detects brightness below a value you specify.
+Closed,This Trigger fires every time your SmartThings device is closed.
+Humidity drops below,This Trigger fires every time your SmartThings device detects humidity below a value you specify.
+Opened,This Trigger fires every time your SmartThings device is opened.
+Presence no longer detected,This Trigger fires every time your SmartThings device's presence is no longer detected.
+Any new motion,This Trigger fires every time your SmartThings device senses motion.

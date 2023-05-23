@@ -1,0 +1,6 @@
+trigger,trigger_description
+Unit turned on,This Trigger fires within 15 minutes of your unit having been turned on.
+Temperature rises above,This Trigger fires within 15 minutes of detection of the indoor temperature rising above the specified temperature threshold.
+Unit turned off,This Trigger fires within 15 minutes of your unit having been turned off.
+Unit notification,This Trigger fires within 15 minutes of a detection of any unit notification from one of your registered devices.
+Temperature drops below,This Trigger fires within 15 minutes of detection of the indoor temperature dropping below the specified temperature threshold.

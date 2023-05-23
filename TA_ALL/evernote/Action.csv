@@ -1,0 +1,7 @@
+action,action_description
+Create a note,This Action will create a new note in the notebook you specify.
+Create image note from URL,This Action will create a new note with an image attachment in the notebook you specify.
+Create a link note,This Action will create a new link note from a source URL in the notebook you specify.
+Create an audio note from URL,This Action will create a new note with an audio attachment in the notebook you specify.
+Append to note,This Action will append to a note as determined by its title and notebook. Once a note’s size reaches 2MB a new note will be created.
+Append a to-do to note,This Action will append a to-do checkbox to a note as determined by its title and notebook. Once a note’s size reaches 2MB a new note will be created.

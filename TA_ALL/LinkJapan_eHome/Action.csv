@@ -1,0 +1,15 @@
+action,action_description
+Turn device on or off,This action will turn a device on or off
+Set windspeed,This action will control the windspeed of your device
+Adjust volume,This action adjust the volume of your device
+Change mode,This action will control the mode of your device
+Rewind,This action can control your TV/STB to rewind
+Play,This action can control your TV/STB to play
+Adjust brightness,This will adjust the brightness of the light configured under your eRemote mini/eRemote
+Pause,This action can control your TV/STB to pause
+Fast Forward,This action can control your TV/STB to fast forward
+Set channel,This action will control the channel of your TV
+Resume,This action can control your TV/STB to resume
+Set temperature,This action control the temperature of your device
+Adjust channel,This action can adjust your TV/STB to the previous or next
+Mute adjustment,This action adjust your device to mute or unmute

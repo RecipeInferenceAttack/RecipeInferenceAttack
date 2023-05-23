@@ -1,0 +1,2 @@
+trigger,trigger_description
+Listen for a word or phrase,This trigger fires every time you or someone in your Orion group says a particular word or phrase.

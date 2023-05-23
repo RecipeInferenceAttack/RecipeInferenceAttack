@@ -1,0 +1,5 @@
+action,action_description
+Add a photo,This Action will add a photo to the stream you specify.
+Add a note,This Action will add a note to the stream you specify.
+Add a numerical value,This Action will add a numerical value to the stream you specify.
+Add a file,This Action will add a new file to the stream you specify.

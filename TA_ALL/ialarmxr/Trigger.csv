@@ -1,0 +1,5 @@
+trigger,trigger_description
+Trigger Inserimento Allarme In Casa,Questo trigger viene generato quando viene inserito l'allarme in modalità parziale in casa sulla centralina selezionata
+Trigger Disattivazione Allarme,Questo trigger viene generato quando viene disinserito l'allarme sulla centralina selezionata
+Trigger Centralina In Allarme,Questo trigger viene generato quando la centralina selezionata è in allarme
+Trigger Inserimento Allarme Totale,Trigger generato quando viene inserito l'allarme totale sulla centralina selezionata.

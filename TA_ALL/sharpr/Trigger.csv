@@ -1,0 +1,3 @@
+trigger,trigger_description
+Any new file,This Trigger fires every time a file is uploaded to Sharpr.
+New post with tag,This Trigger fires every time a new Sharpr post is published with a specific tag.

@@ -1,0 +1,4 @@
+trigger,trigger_description
+New deal,This trigger fires when there is a new deal.
+New deal matching filter,This trigger fires when there is a new deal which matches a Pipedrive filter.
+New activity,This trigger fires when there is a new activity.

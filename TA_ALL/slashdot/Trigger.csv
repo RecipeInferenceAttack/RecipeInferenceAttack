@@ -1,0 +1,2 @@
+trigger,trigger_description
+New story,This trigger fires each time there is a new article on Slashdot.

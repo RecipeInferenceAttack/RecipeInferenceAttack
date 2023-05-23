@@ -1,0 +1,3 @@
+action,action_description
+Text occupancy report,"This action will send an occupancy report with details about the family members at home, in which room they are and for how long."
+Email occupancy report,"This action will send an occupancy report with details about the family members at home, in which room they are and for how long."

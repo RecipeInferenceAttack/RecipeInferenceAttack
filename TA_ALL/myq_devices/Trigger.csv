@@ -1,0 +1,5 @@
+trigger,trigger_description
+Door closed,This trigger fires when a door is closed.
+Door opened,This trigger fires when a door is opened.
+Light turned off,This trigger fires when a light is turned off
+Light turned on,This trigger fires when a light is turned on.

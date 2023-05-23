@@ -1,0 +1,5 @@
+action,action_description
+Turn off alarm,This action will stop a GentleRise alarm (thermal & vibration) that is currently running on a Pod Pro.
+Turn on warming,This Action will turn on bed warming for the side of the bed you choose.
+Set temperature,This Action will turn on temperature for the side of the bed you choose.
+Turn off warming,This Action will turn off warming for the side of the bed you choose.

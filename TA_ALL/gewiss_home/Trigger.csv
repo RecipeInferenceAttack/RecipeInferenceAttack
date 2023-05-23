@@ -1,0 +1,3 @@
+trigger,trigger_description
+Something Happened With Your Thermostat,This trigger fires when something happens with one of your thermostat devices.
+Something Interesting Happened In The Smart Home,This trigger fires when something you are interested in happens in the smart home

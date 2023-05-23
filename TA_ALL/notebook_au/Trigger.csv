@@ -1,0 +1,10 @@
+trigger,trigger_description
+New Audio notecard in Notebook,This trigger fires whenever a user creates a new Audio notecard in a specific notebook
+A Specific Tag is Associated,This trigger fires when a specific tag is associated to a notecard
+New Image notecard in Notebook,This trigger fires whenever a user creates a new Image notecard in a specific notebook
+New Sketch notecard in Notebook,This trigger fires whenever a user creates a new Sketch notecard in a specific notebook
+New Text notecard in Notebook,This trigger fires whenever a user creates a new Text notecard in a specific notebook
+New Reminder Created,This trigger fires when a new reminder is created
+New File notecard in Notebook,This trigger fires whenever a user creates a new File notecard in a specific notebook
+New Checklist notecard in Notebook,This trigger fires whenever a user creates a new Checklist notecard in a specific notebook
+New Bookmark notecard in Notebook,This trigger fires whenever a user creates a new Bookmark notecard in a specific notebook

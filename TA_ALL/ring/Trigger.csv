@@ -1,0 +1,3 @@
+trigger,trigger_description
+New Motion Detected,This Trigger fires every time a motion is detected at the given doorbell.
+New Ring Detected,This Trigger fires every time somebody rings your Ring Doorbell.

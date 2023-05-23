@@ -1,0 +1,6 @@
+trigger,trigger_description
+10 Pods remaining,This Trigger fires every time your GE Dishwasher detects that you have 10 pods left in stock.
+Filter needs cleaning,This Trigger fires every time your GE Dishwasher senses that your filter needs to be cleaned.
+Rinse aid levels low,This Trigger fires when your GE Dishwasher senses that you need to add rinse aid.
+Leak detected,This Trigger fires when your GE Dishwasher detects a leak.
+End of cycle,This Trigger fires every time your GE Dishwasher finishes a cycle.

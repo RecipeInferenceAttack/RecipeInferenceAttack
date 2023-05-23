@@ -1,0 +1,23 @@
+trigger,trigger_description
+Smarthub online,This Trigger runs every time a Futurehome Smarthub restores it’s connection and is brought online.
+Brightness lower than,This Trigger fires every time a sensor reports a lower brightness than desired.
+Locked,This Trigger fires every time one of your locks have been Locked.
+Smoke detected,This Trigger fires every time a smoke sensor senses smoke.
+Temperature drops below,This Trigger fires every time a temperature sensor senses a temperature below a desired value.
+Closed,This Trigger fires every time a door or a window is closed. You can also set a delay to have the trigger run if something has been closed for more than a defined time.
+Switched Off,This Trigger fires every time a device in your home is switched off.
+Brightness higher than,This Trigger fires every time a sensor reports a higher brightness than desired.
+Humidity rises above,This Trigger fires every time a humidity sensor senses a humidity above a desired value.
+Switched On,This Trigger fires every time a device in your home is switched on.
+Power consumption higher than,This Trigger fires every time a device reports a higher power consumption than defined.
+Motion no longer detected,This Trigger fires every time motion is no longer detected in a room.
+Unlocked,This Trigger fires every time one of your locks have been Unlocked.
+Power consumption lower than,This Trigger fires every time a device reports a lower power consumption than defined.
+Humidity drops below,This Trigger fires every time a humidity sensor senses a humidity below a desired value.
+Shortcut run,This Trigger fires every time someone manually runs a Futurehome shortcut.
+Motion detected,This Trigger fires every time motion has been detected in one of your rooms.
+Smarthub offline,This trigger runs every time a Futurehome Smarthub loses connection.
+Water leakage detected,This Trigger fires every time a flood sensor detects moisture.
+Mode switched,This Trigger fires every time your site changes modes.
+Opened,This Trigger fires every time a door or a window is opened. You can also set a delay to have the trigger run if something has been left open.
+Temperature rises above,This Trigger fires every time a temperature sensor senses a temperature above a desired value.

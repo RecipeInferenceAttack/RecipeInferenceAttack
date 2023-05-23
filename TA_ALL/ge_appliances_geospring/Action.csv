@@ -1,0 +1,4 @@
+action,action_description
+Set temperature,This Action will set the temperature of your GE water heater.
+Set operating mode,This Action will set the operating mode of your GE water heater.
+Set vacation mode,This Action will set your GE water heater to vacation mode for the desired number of days.

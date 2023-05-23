@@ -1,0 +1,8 @@
+action,action_description
+Close motor device,This action will close a motor device
+Activate Routine,This action will activate a Routine.
+Open motor device,This action will open a motor device
+Set motor device position,This action will set motor device position to a desired value
+Turn device on,Turn device on
+Turn device off,Turn device off
+Set dimmer brightness,This action will set dimmer device brightness to a desired value

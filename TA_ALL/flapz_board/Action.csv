@@ -1,0 +1,3 @@
+action,action_description
+Update All Flapz Board Rows,This action will update data rows on a chosen Flapz board with text or new data.
+Update Single Flapz Board Row,This action will push new data or text to a single row on your Flapz board.

@@ -1,0 +1,4 @@
+action,action_description
+Toggle,This action will toggle a device.
+Turn off,This action will turn off a device.
+Turn on,This action will turn on a device.

@@ -1,0 +1,6 @@
+trigger,trigger_description
+New file in your folder,"This trigger fires every time a new file is added to the Google Drive folder you specify. Note: Does not work for Google Docs, Forms, or Sheets files."
+New photo in your folder,This trigger fires every time any new photo is saved in the Google Drive folder you specify. Note: only works for photos created after the Applet is turned on.
+New starred file in folder,This trigger fires every time a new file is starred in a specified Google Drive folder. Note: only works for files created and starred after the Applet is turned on.
+New file from search in your folder,This trigger fires every time a new file matches your search query in a Google Drive folder. Note: only works for files created after the Applet is turned on.
+New video in your folder,This trigger fires every time a new video is saved in the Google Drive folder you specify. Note: only works for videos created after the Applet is turned on.

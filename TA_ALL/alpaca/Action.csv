@@ -1,0 +1,4 @@
+action,action_description
+Liquidate Positions,This action will liquidate all open positions.
+Cancel Open Orders,This action will cancel all open orders.
+Place Market Order,"This action will place a new day market order for the given symbol, side and quantity."

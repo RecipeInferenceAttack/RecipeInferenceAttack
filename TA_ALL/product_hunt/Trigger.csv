@@ -1,0 +1,5 @@
+trigger,trigger_description
+You comment on a product,This Trigger fires every time you comment on a product on Product Hunt.
+New hot product,This Trigger fires every time a product hits 100 upvotes.
+You upvote a product,This Trigger fires every time you upvote a product.
+New featured collection,This Trigger fires every time there is a new featured collection on Product Hunt.

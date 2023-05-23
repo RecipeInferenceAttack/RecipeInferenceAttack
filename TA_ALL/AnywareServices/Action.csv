@@ -1,0 +1,4 @@
+action,action_description
+Set light level,This action will set light for all registered adaptors
+Set adaptor's light level,This action will set light for the specified adaptor
+Stop Intrusion Alert,This action will stop Intrusion Alert for all adaptors

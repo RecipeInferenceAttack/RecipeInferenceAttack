@@ -1,0 +1,4 @@
+trigger,trigger_description
+Filter life drops below threshold,This Trigger fires every time the filter life of your air purifier drops below your specified filter life percentage.
+Air quality changed,"This Trigger fires every time your air purifier registers an air quality you specify (poor, moderate, good)."
+Fan mode changed,"This Trigger fires every time your air purifier is changed to your specified fan mode (Auto, High, Medium, Low, Off)."

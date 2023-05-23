@@ -1,0 +1,6 @@
+action,action_description
+Turn on/off/press a Smart Switch,This action sends a command to one of your iotty Smart Switches.
+Turn on/off a Smart Outlet,This action sends a command to one of your iotty Smart Outlets.
+Open/close a Smart Shades Switch,"This action sends a command to one of your iotty Smart Shades Switches.
+
+The selected movement accuracy will be based on the calibration given to the device. You can change it from device settings on the iotty App: Update Shades calibration."

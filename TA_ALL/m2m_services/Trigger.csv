@@ -1,0 +1,4 @@
+trigger,trigger_description
+System is armed,When alarm system is armed
+System alarm event,When an alarm event was generated from the system
+System is disarmed,When alarm system is disarmed

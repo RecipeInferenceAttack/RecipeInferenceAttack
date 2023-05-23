@@ -1,0 +1,2 @@
+action,action_description
+Actuate an output,This action will command a device to turn ON/OFF an output

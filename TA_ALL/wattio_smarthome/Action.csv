@@ -1,0 +1,13 @@
+action,action_description
+THERMIC - Set mode,This Action will set the THERMIC to the selected mode.
+POD - Switch on,This Action will switch on the POD.
+GATE - Switch all security on,This Action will switch on all your security devices.
+GATE - Switch security off,This Action will switch off your security device.
+AIR - Switch off,Switch Wattio AIR off
+THERMIC - Set temperature,This Action will set the temperature to the selected level in THERMIC.
+GATE - Switch security on,This Action will switch on a security device.
+POD - Switch off,This Action will switch off the POD.
+AIR - Switch on,Switch AIR On
+GATE - Switch all security off,This Action will switch off all your security devices.
+POD - Toggle on/off,This Action will toggle the POD on or off.
+AIR - Set mode,Set Wattio AIR mode

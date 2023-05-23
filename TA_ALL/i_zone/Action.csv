@@ -1,0 +1,29 @@
+action,action_description
+Change light effect,This action will change the special effect for the iLight.
+Set iZone system sleep timer,This Action will set the A/C sleep timer to a predetermined period.
+Turn light on,This action will turn the specified iLight on.
+Set light color,This action will change the colour of the iLight.
+Set zone mode,This Action will set the selected zone to selected mode
+Set iDrate weather mode,This action will changes the iDrate weather mode to fine.
+Increase zone target temperature,This Action will increase the selected zone setpoint temperature by the selected number of degrees celcius.
+Turn off iZone system,This Action will turn off the iZone AC system.
+Increase iZone system target temperature,This Action will increase the A/C setpoint temperature by selected number of degrees celcius.
+Turn iDrate system off,This action will turn the iDrate system off.
+Activate iLight favourite,This action will activate a specified favourite for your iLight.
+Set iZone system fan speed,This Action will set the iZone A/C system to the selected fan speed.
+Set iZone system mode,This Action will change the iZone air condition system to the selected mode.
+Set zone target temperature,This Action will change the selected zone setpoint temperature.
+Set iZone system target temperature,This Action will change the iZone A/C system's setpoint temperature.
+Set iSave,This Action will set iSave for the selected iZone system. The iSave cools your whole home using your ducted reverse cycle air conditioner’s fan mode for only a few cents an hour.
+Turn on iZone system,This Action will turn on the iZone system.
+Turn all lights off,This action will turn all iLights off.
+Decrease iZone system target temperature,This Action will decrease the A/C setpoint by the selected number of degrees celcius.
+Run iDrate Program,This action will run the selected Program on the iDrate.
+Set iDrate run time ratio factor,This action will change the station run times by the selected percentage. This will increase or decrease the programmed station running time.
+Turn iDrate system on,This action will turn the iDrate system on.
+Decrease zone target temperature,This Action will decrease the selected zone setpoint temperature by the selected number of degrees celcius.
+Activate iZone favourite,This Action will activate the selected iZone favourite.
+Turn all lights on,This action will turn all iLights on.
+Turn light off,This action will turn the specified iLight off.
+Run iDrate station,This action will run the selected iDrate station.
+Set light brightness,Change the brightness of an iLight.

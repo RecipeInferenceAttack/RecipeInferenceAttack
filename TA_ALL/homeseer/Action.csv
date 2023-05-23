@@ -1,0 +1,14 @@
+action,action_description
+Change a thermostat's operating mode to heat,This Action will change the the operating mode of a thermostat attached to your HomeSeer system to heat.
+Run a HomeSeer system event,This Action will run a HomeSeer system event. HomeSeer events can be programmed to control just about any combination of home automation products installed in your home!
+Change a thermostat's operating mode to off,This Action will change the the operating mode of a thermostat attached to your HomeSeer system to off.
+Turn on a device,"This Action will turn on a device attached to your HomeSeer system. Devices may include light switches, receptacles, plug-in modules and much more!"
+Change a thermostat's cool set-point,This Action will change the cool set-point of a thermostat attached to your HomeSeer system.
+Dim a device,This Action will dim a dimmable lighting device attached to your HomeSeer system.
+Change a thermostat's operating mode to auto,This Action will change the the operating mode of a thermostat attached to your HomeSeer system to auto.
+Change a thermostat's heat set-point,This Action will change the heat set-point of a thermostat attached to your HomeSeer system.
+Lock a door lock,This Action will lock a door lock attached to your HomeSeer system.
+Change a thermostat's operating mode to cool,This Action will change the the operating mode of a thermostat attached to your HomeSeer system to cool.
+Unlock a door lock,This Action will unlock a door lock attached to your HomeSeer system.
+Turn off a device,"This Action will turn off a device attached to your HomeSeer system. Devices may include light switches, receptacles, plug-in modules and much more!"
+Send a text command to HomeSeer,This action will send a text command to your HomeSeer system.

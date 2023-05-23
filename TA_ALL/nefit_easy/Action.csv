@@ -1,0 +1,7 @@
+action,action_description
+Increase room temperature,This Action will increase the room temperature by a configurable amount.
+Activate overwork timer,This Action will set your room temperature to a new set point for a configurable period.
+Decrease room temperature,This Action will decrease the room temperature by a configurable amount.
+Set room temperature,This Action will set the current room temperature to a level of your choice. This temperature level can be adjusted manually or if Clock Mode is activated.
+Set auto mode,"This Action will set your Nefit Easy to auto mode. The auto mode (e.g. clock mode, holiday mode) sets the temperatures accordingly."
+Set manual mode,This Action will set your Nefit Easy to manual mode.

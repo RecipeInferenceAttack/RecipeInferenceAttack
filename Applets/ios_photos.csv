@@ -1,0 +1,39 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Organize iPhone screenshots into their own album,Organize iPhone screenshots into their own album,New screenshot,Add photo to album,/ios_photos,/ios_photos,111.7k
+Automatically upload your Camera Roll to Google Drive,Automatically upload your Camera Roll to Google Drive,New photo added to album,Upload file from URL,/ios_photos,/google_drive,1.1k
+Automatically back up your new iOS photos to Google Drive,Archive all your new iOS Photos to a folder on Google Drive. Never lose a pic again!,Any new photo,Upload file from URL,/ios_photos,/google_drive,13.0k
+Back up new iOS photos you take to Dropbox,Back up new iOS photos you take to Dropbox,Any new photo,Add file from URL,/ios_photos,/dropbox,19.4k
+Add NASA's image of the day to an iOS album,"Add NASA's cool image of the day to iOS, automatically. Then you can set your wallpaper to something cool!",Image of the day by NASA,Add photo to album,/space,/ios_photos,16.8k
+Save my iOS photos to OneDrive (SkyDrive),Save my iOS photos to OneDrive (SkyDrive),Any new photo,Add file from URL,/ios_photos,/onedrive,3.6k
+Send your iPhone screenshots to OneNote,Send your iPhone screenshots to OneNote,New screenshot,Create a page with an image,/ios_photos,/onenote,5.0k
+Oops... Took a screenshot accidentally remind me to delete it,Oops... Took a screenshot accidentally remind me to delete it,New screenshot,Add reminder to list,/ios_photos,/ios_reminders,3.8k
+Save your iPhone screenshots to an Evernote notebook,"This Applet uses Public Photo URLs which creates a unique link for each of your screenshots. For access to all of the links created by your Applets, visit https://ifttt.com/files",New screenshot,Create a note,/ios_photos,/evernote,2.0k
+Get a digest of last week's photos on Sunday evening,On Android? Try this Recipe instead: http://ift.tt/1lVTYLk,Any new photo,Add to weekly email digest,/ios_photos,/email_digest,3.0k
+Save screenshots you take on your iPhone to a notebook,Any new screenshot you take on your iPhone will be added to an iOS Photos notebook in Evernote.,New screenshot,Create image note from URL,/ios_photos,/evernote,5.4k
+Email yourself the iPhone screenshots you take,Email yourself the iPhone screenshots you take,New screenshot,Send me an email,/ios_photos,/email,2.2k
+Upload my iPhone screenshots to Google Drive,Upload my iPhone screenshots to Google Drive,New screenshot,Upload file from URL,/ios_photos,/google_drive,1.5k
+Add your latest iPhone screenshots to a Dropbox folder,A great way for quick separating and syncing screenshots from your iPhone to a Dropbox folder.,New screenshot,Add file from URL,/ios_photos,/dropbox,4.0k
+Save Tumblr likes to Photo Album,Save Tumblr likes to Photo Album,New like,Add photo to album,/tumblr_legacy,/ios_photos,5.0k
+Save photos from Instagram to camera roll,When using Instagram to take photos or if you just want to have Instagram photos separate this recipe adds you Instagram photos to your camera roll,Any new photo by you,Add photo to album,/instagram,/ios_photos,5.0k
+Android to iCloud Photostream,"Owning the best of both worlds, Nexus 5 and an iPad Air sometimes leaves my digital workflow broken.  This recipe will sync any new photos taken on an Android device with iClouds Photostream.",Any new photo,Add photo to album,/android_photos,/ios_photos,2.5k
+store ios photo album to gdrive folder,"just fill the ""album name"", and any photo in that album will appear in ""photos\album name"" folder in the root of your gdrive",New photo added to album,Create a document,/ios_photos,/google_docs,269
+Save photos you take with your iPhone to Amazon Cloud Drive,"Photos will be stored in the folder ""iOS Photos"" on Dropbox.",Any new photo,Add file from URL,/ios_photos,/amazonclouddrive,2.9k
+Change my hue lights to match any new iOS Photo I take,Change my hue lights to match any new iOS Photo I take,Any new photo,Change color from image,/ios_photos,/hue,1.2k
+Get an email with your photo when you snap a pic on your iPhone,New photos added to your iPhone camera roll will be emailed to you with a sharable link for each photo. Try this Applet!,Any new photo,Send me an email,/ios_photos,/email,2.1k
+Upload all your iOS Photos to Evernote,Set it and forget it.,Any new photo,Create image note from URL,/ios_photos,/evernote,1.7k
+Get new iPhone wallpapers sent to your phone,"From /r/iWallpaper straight to your iDevice, this recipe gives you a plethora of daily wallpapers.",Any new post in subreddit,Add photo to album,/reddit,/ios_photos,1.1k
+#iOS screenshots to #OneDrive,#iOS screenshots to #OneDrive,New screenshot,Add file from URL,/ios_photos,/onedrive,329
+Automatically post your iPhone photos to Flickr every time you take a new pic,This Applet posts every photo your iPhone takes. Be careful! Consider setting your Flickr profile from public to private. Flickr recently gave all its users one terabyte of free storage. This Applet takes advantage of all that free storage.,Any new photo,Upload public photo from URL,/ios_photos,/flickr,318
+Send iOS screenshot as Todoist task,I put everything in the Inbox.,New screenshot,Create task,/ios_photos,/todoist,503
+Email me a GIF of Colin Farrell looking really disappointed if I ever take a #selfie,Email me a GIF of Colin Farrell looking really disappointed if I ever take a #selfie,New photo with the front camera,Send me an email,/ios_photos,/email,1.0k
+If a photo is added to a specific album save it to same named folder on One Drive,If a photo is added to a specific album save it to same named folder on One Drive,New photo added to album,Add file from URL,/ios_photos,/onedrive,473
+Save photo from camera to album,Save photo from camera to album,Any new photo,Add photo to album,/ios_photos,/ios_photos,1.8k
+When you take a pic in your home town add it to a specific album,"Center the map on your home. When you take a pic there, it'll automatically be added to an album called ""Home town pics"" — a little slice of home, on your iPhone.",New photo taken in area,Add photo to album,/ios_photos,/ios_photos,4.1k
+Back up photos you're tagged in on Facebook to an iOS Photos album,Automatically download new Facebook photos that you are tagged in to an album on your iPhone or iPad.,You are tagged in a photo,Add photo to album,/facebook,/ios_photos,165.2k
+Give me a week's worth of selfies to choose from for #selfiesaturday,Give me a week's worth of selfies to choose from for #selfiesaturday,New photo with the front camera,Add to weekly email digest,/ios_photos,/email_digest,228
+Save iPhone screenshots to Amazon Cloud Drive,Screenshots will be stored separately in a Screenshots folder on Amazon Cloud Drive.,New screenshot,Add file from URL,/ios_photos,/amazonclouddrive,510
+Bitmark your iOS photos,Automatically convert your iOS photos into digital property.,Any new photo,Issue bitmark,/ios_photos,/bitmark,95
+"When I take a photo near the office, it's probably a receipt. Email it to me.","When I take a photo near the office, it's probably a receipt. Email it to me.",New photo taken in area,Send me an email,/ios_photos,/email,172
+Send selfies to your Gmail,"When you take a photo with your front-facing camera, this Applet will send the selfie to your Gmail inbox. An email...from your own face! 😆",New photo with the front camera,Send yourself an email,/ios_photos,/gmail,227
+"If i put a photo in this iOS album, it's sent to my mom.",Create the album on your iOS device.,New photo added to album,Send an email,/ios_photos,/gmail,203
+Keep track of your selfies!,This recipe will track the timestamps of all the pictures you take with the front camera on your iOS device.,New photo with the front camera,Log a highlight event,/ios_photos,/rescuetime,109

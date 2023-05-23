@@ -1,0 +1,3 @@
+trigger,trigger_description
+Send IFTTT any SMS,This Trigger fires every time you send any SMS to your IFTTT phone number.
+Send IFTTT an SMS tagged,Send IFTTT a tagged SMS by adding a hashtag symbol anywhere in the message (e.g. #IFTTT).

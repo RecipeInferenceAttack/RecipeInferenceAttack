@@ -1,0 +1,52 @@
+trigger,trigger_description
+Darkness is detected,This trigger fires when the darkness is detected.
+Motion is detected and brightness is below,This trigger fires when the motion is detected and brightness is below the specified value.
+Natural gas is detected,This trigger fires when natural gas is detected.
+Plug was turned on/off,This trigger fires when the specified plug is turned on/off.
+Recognize strange faces,This trigger fires when recognize strange faces
+Cube was flipped,This trigger fires when the the cube was flipped
+Vibration is detected,This trigger fires when the vibration is detected.
+Fire is disappeared,This trigger fires when fire is no detected.
+Humidity reaches up to,This trigger fires when the humidity reaches the specified value.
+Door and window sensor is open,This trigger fires when the door and window sensor is open.
+Click (for Wireless Single Rocker / Mini switch),This trigger fires when the specified single rocker switch is single clicked/double clicked/long pressed.
+Leak is detected,This trigger fires when water leak is detected.
+Motion is detected and brightness is above,This trigger fires when the motion is detected and brightness is above the specified value.
+Door and window sensor is closed,This trigger fires when the door and window sensor is closed.
+Cube flip to side 2,This trigger fires when the cube flip to side 2
+Cube was rotated,This trigger fires when the cube was rotated.
+Curtain is fully opened/closed,This trigger fires when the specified curtain is fully opened/closed.
+Cube flip to side 1,This trigger fires when the cube flip to side 1
+Recognize the specified face,This trigger fires when recognize the specified face
+Wall Switch was turned on/off (for Single Rocker / Channel switch or module),This trigger fires when the specified single rocker switch is turned on/off.
+Tilt is detected,This trigger fires when the tilt is detected.
+Bell ringing was detected,This trigger fires when When Bell ringing is detected
+Cube was triggered after one-minute inactivity,This trigger fires when the cube is triggered after one-minute inactivity.
+Cube flip to side 5,This trigger fires when the cube flip to side 5
+Cube flip to side 6,This trigger fires when the cube flip to side 6
+Cube was pushed,This trigger fires when the cube was pushed.
+Water recedes,This trigger fires when the water recedes.
+Cube was tapped twice,This trigger fires when the cube was tapped twice.
+Somebody linger,This trigger fires when somebody is lingering at your doorstep
+TVOC drops to,This trigger fires when the tvoc drops to the specified value.
+Temperature reaches up to,This trigger fires when the temperature reaches the specified value.
+Single press the switch (for Single Rocker switches),This trigger fires when single press the specified switch.
+Click (for Wireless Double Rocker switches),This trigger fires when the specified double rocker switch is single clicked/double clicked/long pressed.
+Motion is detected,This trigger fires when motion is detected.
+Camera detects motion,"This trigger fires when the specified camera detects motion. To use this trigger, camera's motion detection should be turned on."
+Drop is detected,This trigger fires when the drop is detected.
+Cube flip to side 3,This trigger fires when the cube flip to side 3
+TVOC reaches up to,This trigger fires when the tvoc reaches the specified value.
+Natural gas is disappeared,This trigger fires when no natural gas is detected.
+Hub light / bulb was turned on/off,This trigger fires when the specified light is turned on/off.
+Cube flip to side 4,This trigger fires when the cube flip to side 4
+Wireless Relay Controller was turned on/off (for 2 Channels ),This trigger fires when the specified Wireless Relay Controller is turned on/off.
+Temperature drops to,This trigger fires when the temperature drops to the specified value.
+Wall Switch was turned on/off (for Double Rocker / Channel switch or module),This trigger fires when the specified double rocker switch is turned on/off.
+Cube was shaken,This trigger fires when the cube was shaken.
+Humidity drops to,This trigger fires when the humidity drops to the specified value.
+Fire is detected,This trigger fires when fire is detected.
+Low battery,The battery of the device is low
+Forcible demolition alarm detected,This trigger fires when Forcible demolition alarm detected
+Camera detects sound,"This trigger fires when the specified camera detects sounds. To use this trigger, camera's sound detection should be turned on."
+Single press the switch (for Double Rocker switches),This trigger fires when single press the specified switch.

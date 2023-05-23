@@ -1,0 +1,7 @@
+trigger,trigger_description
+New highlight is added,This Trigger fires every time you add a new highlight event in RescueTime.
+FocusTime session starts,This Trigger fires every time a FocusTime session is started.
+New alert delivered,This Trigger fires every time a RescueTime alert goes off.
+FocusTime session finishes,This Trigger fires at the end of a Focus Time session.
+New daily summary is available,This Trigger fires when a new daily summary becomes available (usually at midnight in your local timezone).
+New weekly summary is available,This Trigger fires when a new weekly summary becomes available (usually at midnight in your local timezone).

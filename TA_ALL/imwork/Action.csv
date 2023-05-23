@@ -1,0 +1,4 @@
+action,action_description
+Send Message,This action will send text message to chat
+Send Document,This action will send message with document to chat
+Send Image,This action will send message with image to chat

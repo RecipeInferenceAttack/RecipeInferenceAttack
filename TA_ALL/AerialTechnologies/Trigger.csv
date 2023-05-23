@@ -1,0 +1,5 @@
+trigger,trigger_description
+Suspected Stopped,Triggers when a Suspected Motion event has stopped.
+Motion Stopped,This trigger fires when Human Motion is not detected anymore.
+Suspected Motion,Triggers when there is a lower confidence of detecting movement.
+Motion Detected,This trigger fires when Human Motion is detected.

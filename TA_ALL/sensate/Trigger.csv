@@ -1,0 +1,4 @@
+trigger,trigger_description
+Sensor Data below Limit,This event is fired when there is new sensor data that falls below a defined lower limit
+Sensor Timeout,This event is fired when there is no new sensor data for a specified amount of time.
+Sensor Data exceeds Limit,This event is fired when there is new sensor data that exceeds a defined upper limit

@@ -1,0 +1,8 @@
+action,action_description
+Start Cool Mode,This Action will set your AC to Cool Mode.
+Return to tado⁠° automatic control,"This Action will return control of your heating to tado⁠°, using your user-defined settings (e.g. location and Smart Schedule) to automatically determine the right room temperature and settings."
+Start Dry Mode,This Action will set your AC to Dry Mode.
+Start Fan Mode,This Action will set your AC to Fan Mode.
+Start Auto Mode,This Action will set your AC to Auto Mode.
+Turn AC off,This Action will turn your AC off.
+Start Heat Mode,This Action will set your AC to Heat Mode.

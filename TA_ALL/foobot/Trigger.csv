@@ -1,0 +1,9 @@
+trigger,trigger_description
+Humidity threshold is crossed,This Trigger fires every time the humidity sensor value is above or below the threshold.
+New air quality reading,This Trigger fires when a new air quality reading is available.
+VOC threshold is crossed,This Trigger fires every time the VOC (volatile organic compound) sensor value is above or below the threshold.
+CO₂ threshold is crossed,This Trigger fires every time the CO₂ (carbon dioxid) sensor value is above or below the threshold.
+Knock knock,This Trigger fires every time you double tap (knock knock) on your Foobot.
+PM threshold is crossed,This Trigger fires every time the PM (particulate matter) sensor value is above or below the threshold.
+Pollution is high,This Trigger fires when global air pollution is higher than 50.
+Temperature threshold is crossed,This Trigger fires every time the temperature sensor value is above or below the threshold.

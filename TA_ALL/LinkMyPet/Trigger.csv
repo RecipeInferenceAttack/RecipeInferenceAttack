@@ -1,0 +1,6 @@
+trigger,trigger_description
+Generate Pet Activity Report,This trigger fires an activity report for your pet.
+Generate Detail Pet Activity Report,Breaks down pet activity over several days
+Get Collar Information,Get specific information about a collar
+Get Version Updates,Get the latest version updates as they come out
+Get Trigger Updates,Provide updates to new triggers

@@ -1,0 +1,6 @@
+action,action_description
+Turn a dimmer on,This action will turn a dimmer on.
+Run a Trane automation,This action will run a Trane automation.
+Turn a dimmer off,This action will turn a dimmer off.
+Turn a switch off,This action will turn a switch off.
+Turn a switch on,This action will turn on a switch.

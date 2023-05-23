@@ -1,0 +1,2 @@
+trigger,trigger_description
+Input trigger,This trigger fires when an input port switchs to a specific state

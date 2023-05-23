@@ -1,0 +1,2 @@
+trigger,trigger_description
+New record created,This Trigger fires every time a new record is created in a table. You can optionally configure it to only fire when a record appears in a specific view.

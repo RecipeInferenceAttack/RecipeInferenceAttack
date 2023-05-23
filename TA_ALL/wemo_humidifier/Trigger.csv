@@ -1,0 +1,6 @@
+trigger,trigger_description
+Filter life drops below threshold,This Trigger fires every time the filter life of your humidifier drops below your specified filter life percentage.
+Humidity level drops below threshold,This Trigger fires every time the humidity level of the room your humidifier is in drops below your specified humidity level.
+Humidity level rises above threshold,This Trigger fires every time the humidity level of the room your humidifier is in rises above a specified humidity level.
+Current fan mode changes,"This Trigger fires every time your humidifier is changed to your specified fan mode (Max, High, Medium, Low, Min, Off)."
+Water level is low,This Trigger fires every time the water in your humidifier needs to be refilled.

@@ -1,0 +1,4 @@
+action,action_description
+Toggle light on/off,This Action will toggle your Hive light on or off.
+Turn off light for a specific duration,This Action will turn your Hive light off for a specific duration
+Turn on light for a specific duration,This Action will turn your Hive light on for a specific duration

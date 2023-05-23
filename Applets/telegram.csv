@@ -1,0 +1,50 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+"Whenever you are mentioned on Twitter, post a message to Telegram","Feedback, anyone? Get notified of new Twitter mentions right inside Telegram — or share mentions of the company Twitter to a group of colleagues.",New mention of you,Send message,/twitter,/telegram,2.4k
+Send new Feed items to a Telegram chat,"Whenever one of your favorite Feeds has a new item, send a message to a Telegram chat.",New feed item,Send message,/feed,/telegram,5.3k
+Use the Button widget to share your current location with a Telegram chat,"With the press of a button, share your location with a Telegram chat. Includes a map image of your current location and a Google Maps URL.",Button press,Send photo,/do_button,/telegram,2.1k
+Forward twitter feed to telegram,Forwards a specific applet feed to an IFTTT connected telegram channel.,New tweet by a specific user,Send message,/twitter,/telegram,2.6k
+Divert Android sms To Telegram,When you get new sms it  divert it to telegram for you,Any new SMS received,Send message,/android_messages,/telegram,47
+Tweet new text posts from your Telegram channel,"An easy way to share new texts posted in your Telegram channel to Twitter. Your tweet will include a direct link to the post on Telegram, so don't worry too much about the character limit. Note that the @IFTTT bot needs to be an admin in your channel for this to work. P.S. Funny syntax optional STOP",New post in your channel,Post a tweet,/telegram,/twitter,1.6k
+Twitter 2 Telegram Pic,Twitter 2 Telegram Pic,New tweet by a specific user,Send photo,/twitter,/telegram,20
+blogger to telegram @IFTTT Bot,Post new blogger updates on your telegram channel and groups,Any new post,Send message,/blogger,/telegram,696
+Send app notification to Telegram,"When you get a notification from a specific app, the notification will be forwarded to a Telegram chat.",Notification received from a specific app,Send message,/android_device,/telegram,410
+Automatically post a daily reminder to a Telegram chat,"Pick the days of the week and time to send encouraging messages like ""Lunch break, everyone!"" or ""Now back to work, you maggots!"" to your coworkers in a Telegram chat.",Every day of the week at,Send message,/date_and_time,/telegram,3.9k
+"Every time you post a new Instagram photo, share it to a Telegram chat",Spread your photo-sharing tentacles to new regions at no added cost. This will automatically send new photos you post on Instagram to a Telegram group or channel.,Any new photo by you,Send photo,/instagram,/telegram,4.2k
+Use Email to send Telegram message,"Send an email to    trigger@applet.ifttt.com    with  ""  #telegram  ""  in the subject in order to trigger the IFTTT bot, then simply write your message as you would do for a regular email. Target chat needs to be choosen when you turn on the applet.",Send IFTTT an email tagged,Send message,/email,/telegram,1.1k
+Send message when video uploaded,Send message to your Telegram channel when uploaded new public video to YouTube by you,New public video uploaded by you,Send message,/youtube,/telegram,243
+Add your YouTube videos to a Telegram channel or chat,This applet runs command to post your YouTube videos posted on a Telegram chat or channel,New public video uploaded by you,Send video,/youtube,/telegram,180
+Get the daily forecast in Telegram,"Choose a time and get detailed info about today's weather in Telegram, come rain or shine.",Today's weather report,Send message,/weather,/telegram,12.3k
+"When a user you subscribe to uploads a new YouTube video, share it with a Telegram chat","Every time a particular subscriber you follow on YouTube posts a new video, a link to the video will be shared with the Telegram chat you specify.",New public video from subscriptions,Send message,/youtube,/telegram,2.1k
+Instagram video to Telegram chat,"When you upload a video to Instagram, it'll be sent to a Telegram chat",Any new video by you,Send video,/instagram,/telegram,270
+Earthquake in your country ? Receive Telegram notification,Receive Telegram message when an earthquake is registered in your country,New feed item matches,Send message,/feed,/telegram,1.6k
+Auto post from telegram to facebook page,"Write post on telegram channel it will be post into facebook page also. 
+نشر تلقائي من التلجرام الي صفحة فيس بوك",New post in your channel,Create a status message,/telegram,/facebook_pages,45
+Send any new photo to my telegram,send any new photo made by android camera to telegram,Any new photo,Send photo,/android_photos,/telegram,625
+Facebook Pages Post to Telegram,Send a post from your Facebook Page to a Telegram channel or group.,New status message on page,Send message,/facebook_pages,/telegram,289
+liked Tweets to telegram channel,liked Tweets to telegram channel,New liked tweet by you,Send message,/twitter,/telegram,641
+Post Facebook photos to telegram,The posts your new Facebook pages photos to telegram,New photo upload on page,Send photo,/facebook_pages,/telegram,199
+Telegram Find My Phone,"This applet finds your phone using telegram. Just send ""find my phone"" @IFTTT. It uses voip calls so it works also outside of USA and Canada",New message with key phrase to @IFTTT,Call my device,/telegram,/voip_calls,8.7k
+Send me a message on telegram for any call missed,send a message on telegram with ContactName  for any call missed,Any incoming phone call missed,Send message,/android_phone,/telegram,1.8k
+Share the quote of the day via Telegram,This Applet sends the BrainyQuote quote of the day to the Telegram chat of your choosing.,Today's Quote,Send message,/brainyquote,/telegram,1.1k
+Event from search to Telegram,Remind your friends or colleagues of an upcoming event.,Event from search starts,Send message,/google_calendar,/telegram,37
+Its gonna rain,Sends you a telegram message if its going to rain,Current condition changes to,Send message,/weather,/telegram,2.8k
+Upload photos to Google Drive using Telegram,Send a photo to the @IFTTT bot on Telegram to save it on Google Drive. Great for poor network conditions - chances are it'll be much easier to send a pic via Telegram rather than uploading it to GDrive :),New photo to @IFTTT on Telegram,Upload file from URL,/telegram,/google_drive,150
+Automatically share your posts in a Telegram chat,"When you publish something new, the content will be posted in the chat of your choice. Cool Telegram sticker not included 😎",Any new post,Send message,/wordpress,/telegram,233
+Repost photos from Reddit to a Telegram channel.,"This applet reposts only photos. No captions, titles, etc.",Any new post in subreddit,Send photo,/reddit,/telegram,46
+forward SMS to Telegram group chat if it contains a search phrase,"When you receive an SMS with certain phrase or number, forward it through Telegram to a group chat.",New SMS received matches search,Send message,/android_messages,/telegram,427
+Android Notification in Telegram Private Chat @ifttt bot,Send Message to Telegram when Android get a notification,Notification received,Send message,/android_device,/telegram,179
+"When device turns on/off, message me on Telegram","When a 1-channel switch/plug is turned on/off, send me a notification via Telegram.",1-Channel Switch turned on or off,Send message,/ewelink,/telegram,39
+SMS + Telegram at once,Send a SMS + Telegram message at the same time. Great if your recipient is forgetful!,New SMS sent to phone number,Send message,/android_messages,/telegram,18
+Avvisa su telegram quando vai in streaming,Invia un messaggio in automatico con il link della streaming appena inizia su twitch,New stream started by you,Send message,/twitch,/telegram,18
+Create a new task in Todoist by messaging @IFTTT in Telegram,Send a message to @IFTTT starting with 'Create task' to create a new task in Todoist. E.g. 'Create task Call grandma to wish her a happy birthday',New message with key phrase to @IFTTT,Create task,/telegram,/todoist,792
+"Get sms, Send email and telegram","When received a new sms, send to your gmail and telegram",Any new SMS received,Send me an email,/android_messages,/email,1.2k
+"If enter or exit an area, send message through telegram","Whenever you enter or exit an area, send message through telegram to the targeted chat.",You enter or exit an area,Send message,/location,/telegram,288
+Quickly send photos to a Telegram chat with the Camera widget,A great way to quickly share photos with a Telegram chat.,Any new photo,Send photo,/do_camera,/telegram,1.9k
+Bitcoin Chart & Price,Send a Bitcoin chart to a Telegram chat or group. The data is obtained from the @BNC_Markets Twitter account.,New tweet by a specific user,Send photo,/twitter,/telegram,8
+Share tracks you add to a Spotify playlist to a Telegram group or channel,"An easy way to share your favorite tracks on Spotify to the followers of your Telegram channel! Every time you add a track to the playlist you specify, a message will be posted to a Telegram channel that you're an admin of.",New track added to a playlist,Send photo,/spotify,/telegram,412
+Get a message on Telegram when a Rust Smart Alarm is triggered,"Make sure you don't miss any alarms that are triggered in Rust, get a message on Telegram when an alarm is triggered",A smart alarm was triggered,Send message,/rust,/telegram,174
+Notify prayer time on Telegram,Muslim prayer notifications on Telegram chat,Prayer time,Send message,/muslim_prayer_time,/telegram,29
+documentos a telegram,documentos a telegram,New file in your folder,Send message,/google_drive,/telegram,197
+Send a Telegram Message when EZVIZ triggers an Alarm,Send a Telegram Message when EZVIZ triggers an Alarm,An alarm event occurred,Send message,/ezviz,/telegram,51
+Spotify Telegram alerts,Share new playlist tracks to a Telegram chat,New track added to a playlist,Send message,/spotify,/telegram,89
+4/20 my dudes,Remeber to celebrate 4/20,Every year on,Send message,/date_and_time,/telegram,15

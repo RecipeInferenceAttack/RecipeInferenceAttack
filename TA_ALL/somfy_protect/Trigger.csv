@@ -1,0 +1,5 @@
+trigger,trigger_description
+Alarm initiated,"This Trigger fires every time your Myfox security system receives an alarm (detection, intrusion, silent alert, ...)."
+System is armed,This Trigger fires every time your Myfox Security system is armed.
+System is set to night mode,This Trigger fires every time your Myfox Security system is set to night mode.
+System is disarmed,This Trigger fires every time your Myfox Security system is disarmed.

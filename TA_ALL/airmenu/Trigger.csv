@@ -1,0 +1,3 @@
+trigger,trigger_description
+An AirMenu flag was activated,This trigger fires when a flag is activated.
+A new order was done,This trigger fires when a new order is done.

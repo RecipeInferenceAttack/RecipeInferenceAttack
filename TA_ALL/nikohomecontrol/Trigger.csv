@@ -1,0 +1,8 @@
+trigger,trigger_description
+Motor closed,This trigger fires when a motor is closed
+Motor opened,This trigger fires when a motor is opened
+Routine activated,This trigger fires when a Routine is activated.
+Device turned off,Device turned off
+Device turned on,Device turned on
+Virtual Device turned on,Virtual Device turned on
+Virtual Device turned off,Virtual Device turned off

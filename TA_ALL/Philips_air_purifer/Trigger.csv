@@ -1,0 +1,3 @@
+trigger,trigger_description
+Filter life,This trigger fires when filter of Philips air purifier need be replaced
+Air alert,This trigger fires when your Philips Air Purifier detects an air quality change

@@ -1,0 +1,6 @@
+action,action_description
+Mark all articles as read,This Action will mark all articles as read. You can optionally choose to mark only articles older than a given period.
+Mark folder as read,This Action will mark all articles in a specified folder as read. You can optionally choose to mark only articles older than a given period.
+Subscribe to feed,This Action will try to find an RSS feed from the provided URL and subscribe you to it.
+Mark subscription as read,This Action will mark all articles in a subscription as read. You can optionally choose to mark only articles older than a given period.
+Save any web page,"This Action will save any web page into your Inoreader for later. You can access it from ""Saved web pages"" at any time."

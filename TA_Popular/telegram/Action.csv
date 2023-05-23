@@ -1,0 +1,5 @@
+action,action_description
+Send mp3,This action will send an mp3 to a Telegram chat.
+Send message,This action will send a text message to a Telegram chat.
+Send video,This action will send a video to a Telegram chat.
+Send photo,This action will send a photo to a Telegram chat.

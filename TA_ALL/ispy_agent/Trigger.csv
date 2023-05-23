@@ -1,0 +1,4 @@
+trigger,trigger_description
+Sound detected,This trigger fires when sound is detected on the selected microphone
+Alert,This trigger fires when an alert is raised by the selected device.
+Motion detected,This trigger fires when motion is detected on the selected camera.

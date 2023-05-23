@@ -1,0 +1,3 @@
+trigger,trigger_description
+New mail received with criteria,This trigger fires when you receive mail that satisfies the trigger fields
+New Mail Received,This trigger fires on the reception of a new mail

@@ -1,0 +1,12 @@
+action,action_description
+Set Brightness for a Leviton Dimmer,This action will brighten or dim a Decora Smart Wi-Fi Dimmer to a specific value.
+Run a Leviton Scene,This action will run a My Leviton Scene.
+Brighten a Leviton Dimmer,This action will brighten a Decora Smart Wi-Fi Dimmer.
+Turn on a Leviton Room,This action will turn on all devices in a My Leviton Room.
+Run a Leviton Activity,This action will run a My Leviton Activity.
+Set a Leviton Residence's Status,This action will set a Leviton Residence to Home or Away.
+Toggle a Leviton Device,This action will toggle a Decora Smart Wi-Fi device On/Off.
+Set a Fan's Speed,This action will set a Leviton Fan Speed Controller's speed.
+Turn off a Leviton Room,This action will turn off all devices in a My Leviton Room.
+Blink a light,This action will make a light blink.
+Dim a Leviton Dimmer,This action will dim a Decora Smart Wi-Fi Dimmer.

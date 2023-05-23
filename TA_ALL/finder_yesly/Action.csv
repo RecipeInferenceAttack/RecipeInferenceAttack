@@ -1,0 +1,7 @@
+action,action_description
+Pull up,This action will pull up the selected blind.
+Turn on,This action will turn on the selected light
+Set brightness,This action will set brightness on selected device.
+Turn off,This action will turn off the selected light.
+Pull down,This action will pull down the selected blind.
+Scenario,This action will execute the selected scenario.

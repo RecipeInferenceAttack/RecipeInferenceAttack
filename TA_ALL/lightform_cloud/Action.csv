@@ -1,0 +1,12 @@
+action,action_description
+Pause project,This action will pause a currently playing project.
+Stop project,This action will stop a currently playing project and return to the testcard.
+Go to next slide,"This action will advance to the next slide in the project,  or go to the first slide if the final slide is currently playing."
+Set parameter value,This action will update a slide parameter value
+Go to previous slide,"This action will go to the to the previous slide in the project,  or go to the last slide if the first slide is currently playing."
+Turn projector off,"This action will turn off the projector attached to the LF device, if supported."
+Turn projector on,"This action will turn on the projector attached to the LF device, if supported."
+Set projector brightness,This action will change the global brightness of the projection
+Reboot,This action will reboot the device.
+Play project,This action will resume a currently playing project.
+Set slide index,This action will start playing the slide at the given index

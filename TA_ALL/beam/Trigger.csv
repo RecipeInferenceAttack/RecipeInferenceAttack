@@ -1,0 +1,2 @@
+trigger,trigger_description
+Door opened or closed,"This trigger fires when the selected door state (open, closed) for a garage door you have access to is achieved."

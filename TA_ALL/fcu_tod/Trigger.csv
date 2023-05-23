@@ -1,0 +1,6 @@
+trigger,trigger_description
+Time of Day Peak Rates START/END,This trigger fires when time-of-day peak rates start or end.
+BEFORE Time of Day Peak Rates START,This trigger fires before time-of-day peak rates start.
+AFTER Time of Day Peak Rates END,This trigger fires after time-of-day peak rates end.
+BEFORE Time of Day Peak Rates END,This trigger fires before time-of-day peak rates end.
+AFTER Time of Day Peak Rates START,This trigger fires after time-of-day peak rates start.

@@ -1,0 +1,7 @@
+trigger,trigger_description
+Temperature below a specified value,This trigger fires when the temperature for a specific device becomes lower than the specified threshold.
+CO₂ above a specified value,This trigger fires when the CO₂ level for a specific devices exceeded a specified threshold.
+CO₂ below a specified value,This trigger fires when the CO₂ level for a specific devices becomes lower than the specified threshold.
+Humidity above a specified value,This trigger fires when the humidity for a specific device becomes higher than the specified threshold.
+Temperature above a specified value,This trigger fires when the temperature for a specific device exceeds the specified threshold.
+Humidity below a specified value,This trigger fires when the humidity for a specific device becomes lower than the specified threshold.

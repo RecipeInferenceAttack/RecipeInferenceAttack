@@ -1,0 +1,5 @@
+trigger,trigger_description
+New post in Culture category,This trigger fires when a new post in the Culture category is available.
+New post from B9,This trigger fires when a new post is available.
+New post in Tech category,This trigger fires when a new post in the tech category is available.
+New podcast episode available,This trigger fires when any new podcast episode is available.

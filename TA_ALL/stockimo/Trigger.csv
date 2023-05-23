@@ -1,0 +1,7 @@
+trigger,trigger_description
+New photo by you is rejected,This Trigger fires every time a photo uploaded by you is rejected by Stockimo.
+Any live news photo uploaded by you,This Trigger fires every time you upload a live news photo to Stockimo.
+New photo by you is accepted,This Trigger fires every time a photo uploaded by you is accepted by Stockimo.
+Any new photo uploaded by you,This Trigger fires every time you upload a photo to Stockimo.
+Payment is credited to you,This Trigger fires every time a new payment is credited to you on Stockimo
+New photo by you is sold,This Trigger fires every time a photo uploaded by you is sold on Stockimo.

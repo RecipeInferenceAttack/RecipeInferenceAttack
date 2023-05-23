@@ -1,0 +1,14 @@
+trigger,trigger_description
+Louisville Metro Council Videos,Feed of videos from Louisville Metro Council Chambers
+Emergency notification,"This trigger fires when the EMA/Metrosafe city agency in Louisville, KY sends an emergency notification to the surrounding area."
+LouisvilleKy.gov News,Online news published by Louisville Metro Government. Find out what's happening in your local government!
+Louisville Metro Council Agenda,A feed of agendas posted online from Louisville Metro Council meetings
+The Mayor Greg Fischer Podcast,"Louisville, Ky., Mayor Greg Fischer and host Graham Shelby discuss the city's challenges and unique potential in each episode. Produced by Louisville Metro. Intro music credit: The Pass, Sonablast Records."
+New large print item from LFPL,This trigger fires when a new large print item arrives at the Louisville Free Public Library.
+New Books from LFPL,This trigger fires when new book arrive at the Louisville Free Public Library.
+New sound recordings from LFPL,This trigger fires when a new sound recording arrives at the Louisville Free Public Library.
+Jobs from Louisville Metro Government,"This trigger fires when a new job has been posted to GovernmentJobs.com, and is from Louisville Metro Government."
+New Videos from LFPL,This trigger fires when a new video arrives at the Louisville Free Public Library.
+Louisville Metro Council Minutes,Meeting minutes from Louisville Metro Council's recorded meetings.
+Air quality changes,This trigger fires and retrieves air quality from Louisville Metro air sensors.
+LouisvilleKy.gov Events,Online events for the Louisville area published by Louisville Metro Government. Find out what's happening in your city!

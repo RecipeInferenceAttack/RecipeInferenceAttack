@@ -1,0 +1,52 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Automatically sync your Musixmatch favorited tracks to your Soundcloud,"Favorite a track on Musixmatch to automatically add
+it to your liked tracks on Soundcloud",New favorite track,Like a track,/musixmatch,/soundcloud,50
+Automatically sync your Spotify saved tracks to your Soundcloud,Save a track on Spotify to automatically add it to your liked tracks on Soundcloud.,New saved track,Like a track,/spotify,/soundcloud,374
+Upload your tracks to Soundcloud from your Dropbox,Add your track files to a Dropbox folder of your choice to have them automatically uploaded to your Soundcloud profile,New file in your folder,Upload a private track,/dropbox,/soundcloud,48
+Get an email when your fave celeb is featured on a track,"There's approx 1 billon podcasts out there — which one will your favorite author/speaker/actor/celeb end up on next? This Applet will search track titles and if your fave's name is in it, send you an email so you don't miss out.  👊 🎉",New track from search,Send me an email,/soundcloud,/email,127
+Automatically sync your Soundcloud likes to your Spotify,Like a track on Soundcloud to add it to your Spotify My Music collection (subject to track availability; this will add the first search result to your Spotify library).,New public like,Save a track,/soundcloud,/spotify,38.4k
+Save the tracks you like on SoundCloud to a Spotify playlist,"This Applet will search on Spotify for the tracks you like on SoundCloud and add to a ""SoundCloud Likes"" playlist. NOTE: not all songs on SoundCloud are available on Spotify.",New public like,Add track to a playlist,/soundcloud,/spotify,18.6k
+Automatically save public tracks by artists you follow on Soundcloud in Spotify,"Sync your Soundcloud favorites with your Spotify saves. When an artist you follow adds a new public track, this Applet will search the title on Spotify. If it finds it, it'll add it to Your Music.",New public track by anyone you follow,Save a track,/soundcloud,/spotify,1.6k
+Add SoundCloud feed to Spotify playlist,Add tracks from users you follow on SoundCloud to a Spotify playlist.,New public track by anyone you follow,Add track to a playlist,/soundcloud,/spotify,2.6k
+Download new songs you like to Google Drive,Automatically download new songs you like on SoundCloud directly to Google Drive. *Note* this works only on tracks that are publicly available for download.,New public like,Upload file from URL,/soundcloud,/google_drive,5.1k
+Amazon echo sound,Amazon echo,New song played,Upload a public track,/amazon_alexa,/soundcloud,163
+Infinite Music List,#soundcloud #drive #music #favorites,New public like,Add row to spreadsheet,/soundcloud,/google_sheets,164
+"If Uploaded to Youtube, Upload as a Track on Soundcloud.","If Uploaded to Youtube, Upload as a Track on Soundcloud.",New public video uploaded by you,Upload a public track,/youtube,/soundcloud,848
+Download new songs you like to Dropbox,"Automatically download your new favorite songs directly to Dropbox. 
+*Note* this works only on tracks that are publicly available for download.",New public like,Add file from URL,/soundcloud,/dropbox,9.7k
+Share new SoundCloud uploads to Tumblr,Share your new SoundCloud uploads to Tumblr automatically when you post a new public track.,Any new public track,Create an audio post,/soundcloud,/tumblr,18
+Download new songs you like to OneDrive,Automatically download new songs you like on SoundCloud directly to OneDrive. *Note* this works only on tracks that are publicly available for download.,New public like,Add file from URL,/soundcloud,/onedrive,1.2k
+New Podcast Alert,"Create a Soundcloud account, follow podcasts you enjoy, use IFTTT to send a text to the phone number you specify when a new podcast is available!",New public track by anyone you follow,Send an SMS,/soundcloud,/android_messages,9
+DJ Dave Turntable Slave,collection of good tunes,New track from search,Add row to spreadsheet,/soundcloud,/google_sheets,2
+Soundcloud Upload Via Email,Email a track as an attachment to trigger@recipe.ifttt.com and it will be automatically published to your SoundCloud as a public track.,Send IFTTT any email,Upload a public track,/email,/soundcloud,59
+SoundCloud liked songs journal,Create journal entry when like a public song on SoundCloud,New public like,Create Journal Entry,/soundcloud,/day_one,42
+Add Soundcloud Tracks to Pocket,"I follow a few people on soundcloud, but never log in to the service. This is a nice way to keep track of new songs anyway",New public track by anyone you follow,Save for later,/soundcloud,/pocket,31
+Soundcloud Like to Facebook Page,Post your Soundcloud favourite tracks to your Facebook Page.,New public like,Create a link post,/soundcloud,/facebook_pages,13
+New Like From SoundCloud To Diigo,New Like From SoundCloud To Diigo,New public like,Add a public bookmark,/soundcloud,/diigo,4
+Post SoundCloud Feed to Slack Channel,Used to fill our 'Inspiration' slack channel with the best of our industry from SoundCloud. Posts from SoundCloud follows to Sack,New public track by anyone you follow,Post to channel,/soundcloud,/slack,
+Bitmark your public Soundcloud tracks,Automatically convert your Soundcloud tracks into digital property.,Any new public track,Issue bitmark,/soundcloud,/bitmark,26
+New Soundcloud Track >> Adds to Sheet,New Soundcloud Track >> Adds to Sheet,New public track by anyone you follow,Add row to spreadsheet,/soundcloud,/google_sheets,8
+Liked tracks get added to todois list,Whenever you 'like' a public track on soundcloud it gets automatically added to a todoist list of your choice. Use this to remind yourself of what tracks you need to download or play,New public like,Create task,/soundcloud,/todoist,8
+Pryv my favorite music from SoundCloud,Pryv my favorite music from SoundCloud,New public like,Add a note,/soundcloud,/pryv,13
+If sound cloud favorited save to Pocket,If sound cloud favorited save to Pocket,New public like,Save for later,/soundcloud,/pocket,24
+New Like From SoundCloud To Google Drive,New Like From SoundCloud To Google Drive,New public like,Create a document,/soundcloud,/google_docs,21
+New Like From SoundCloud To Twitter Image,New Like From SoundCloud To Twitter Image,New public like,Post a tweet with image,/soundcloud,/twitter,60
+New public SoundCloud favorite → WordPress,New public SoundCloud favorite → WordPress,New public like,Create a photo post,/soundcloud,/wordpress,10
+Notify me of any new tracks on my SoundCloud,Get an IF notification for any new public tracks from people you follow on SoundCloud. Great for keeping up with your favourite up and coming musicians!,New public track by anyone you follow,Send a notification from the IFTTT app,/soundcloud,/if_notifications,406
+Keep track of Soundcloud likes in a notebook,"Keep a notebook full of tunes you want to refer back to — when you like something on Soundcloud, this Applet will send the title and link to Evernote as an audio URL.",New public like,Create an audio note from URL,/soundcloud,/evernote,77
+Keep track of new songs you like in Evernote,Every time you like a new on SoundCloud the details of the song will be automatically saved to a notebook in Evernote that you specify.,New public like,Create a link note,/soundcloud,/evernote,506
+"'Like' song on Soundcloud, send to Wunderlist.","Every time you click the heart on a soundcloud song, you can add it to Wunderlist to listen later or download.",New public like,Send an email,/soundcloud,/gmail,5
+Save your SoundCloud favorites to Verizon Cloud,Note: Must be a downloadable track from SoundCloud,New public like,Add file to my Verizon Cloud,/soundcloud,/verizon_cloud,15
+Favorite on Soundcloud creates a post on Blogger,Reclaim Social Media: Favorit on Soundcloud creates a blog post in my private blog reclaiming my social media.,New public like,Create a post,/soundcloud,/blogger,11
+Share new songs you like on SoundCloud to Tumblr,"Whenever you like a new song, it will be automatically shared to your Tumblr blog. Spread the word and spread good tunes!",New public like,Create an audio post,/soundcloud,/tumblr,19
+Create a list of soundcloud favorites in Evernote,Create a list of soundcloud favorites in Evernote,New public like,Append to note,/soundcloud,/evernote,24
+New Like From Soundcloud To Delicious Public Link,New Like From Soundcloud To Delicious Public Link,New public like,Add a public bookmark,/soundcloud,/delicious,5
+Audio from anyone I follow on soundcloud to dropbox,Audio from anyone I follow on soundcloud to dropbox,New public track by anyone you follow,Add file from URL,/soundcloud,/dropbox,9
+AuPhonic podcast sent to Wordpress (via Soundcloud),Send your Soundcloud,Any new public track,Create a post,/soundcloud,/wordpress,33
+"Like a track at Soundcloud, have it saved at put.io",Self explanatory,New public like,Start a new transfer,/soundcloud,/putio,41
+Sifttter: Soundcloud Favorites to Dropbox #sifttter,Sifttter: Soundcloud Favorites to Dropbox #sifttter,New public like,Append to a text file,/soundcloud,/dropbox,9
+Share SoundCloud tracks that you like with your friends.,Share SoundCloud tracks that you like with your friends.,New public like,Post a message to group,/soundcloud,/groupme,33
+"If new song from followed artists, then send me the link","If new song from followed artists, then send me the link",New public track by anyone you follow,Push a link,/soundcloud,/pushbullet,26
+"New public #favorite at #SoundCloud, add it to my #Buffer","New public #favorite at #SoundCloud, add it to my #Buffer",New public like,Add to Buffer,/soundcloud,/buffer,21
+Song uploaded in SoundCloud to Twitter (link with image),Post your last song uploaded on SoundCloud to Twitter.,Any new public track,Post a tweet with image,/soundcloud,/twitter,45
+Share Your Soundcloud Uploads on Twitter and Facebook Page,Automatically share your new Soundcloud Uploads on Twitter and your Facebook Page.,Any new public track,Create a link post,/soundcloud,/facebook_pages,6

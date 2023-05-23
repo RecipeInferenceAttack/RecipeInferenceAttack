@@ -1,0 +1,11 @@
+action,action_description
+Activate Robolinho® eco-Mode,This action will activate the eco-Mode of your Robolinho®. With an activated eco-Mode the blade-engine rotates slower which makes the Robolinho® even more quiet and reduces the power drain.
+Stop Robolinho® (pause mowing),"This action will stop your AL-KO Robolinho®, as like as you press stop on the device itself."
+Deactivate Robolinho® rain sensor,This action will deactivate the rain sensor of your Robolinho®. With an activated rain sensor the Robolinho® can detect rain and delay its duty until rain has stopped.
+Deactivate Robolinho® eco-Mode,"This action will deactivate the eco-Mode of your Robolinho®. 
+With an activated eco-Mode the blade engine rotates slower which makes the Robolinho® even more quiet and reduces the power drain."
+Skip today's mowing windows,Skips every following mowing window for today
+Send Robolinho® home to base station (stop mowing),This action will send your AL-KO Robolinho® back home to the base station (stop mowing)
+Start Robolinho® (start mowing),This action will start your Robolinho® (start mowing)
+Toggle Robolinho® start / stop (mowing / pause),This action will start your Robolinho® if he is not mowing already. But if your Robolinho® is already mowing he will be stopped. The action is useful for example when you want to just switch between mowing and stop using a buzzer-like button.
+Activate Robolinho® rain sensor,This action will activate the rain sensor of your Robolinho®. With an activated rain sensor the Robolinho® can detect rain and delay its duty until rain has stopped.

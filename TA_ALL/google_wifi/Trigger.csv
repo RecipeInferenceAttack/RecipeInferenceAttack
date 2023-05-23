@@ -1,0 +1,3 @@
+trigger,trigger_description
+Device Connects,This Trigger fires every time a device connects to Google Wifi.
+Device Disconnects,This Trigger fires every time a device disconnects from Google Wifi.

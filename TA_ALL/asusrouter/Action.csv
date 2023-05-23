@@ -1,0 +1,11 @@
+action,action_description
+Guest network on,This action will enable the guest network profile.
+Media first off,This action will turn media first mode off.
+Turn WiFi on,This action will turn your WiFi on.
+Media first on,This action will prioritize video streaming services.
+Game boost on,This action will boost gaming bandwidth.
+Check new firmware and upgrade,"If new firmware version is available, your ASUS ROUTER will do firmware upgrade."
+Turn WiFi off,This action will turn your WiFi off.
+Game boost off,This action will turn game boost off.
+Wake specific LAN device,This action will wake up your specific LAN device.
+Guest network off,This action will disable the guest network profile.

@@ -1,0 +1,12 @@
+trigger,trigger_description
+Daily calorie burn goal achieved,This Trigger fires when you achieve your daily calorie burn goal.
+New weight logged,This Trigger fires every time you log your weight in the Fitbit app or with the Aria scale.
+Daily very active minutes goal achieved,This Trigger fires every time you achieve your daily very active minutes goal.
+Daily goal not achieved by __:__,This Trigger fires every time you do not achieve a daily goal you choose at the time you specify. NOTE: Updated on the first Fitbit tracker sync after the time you specify.
+Daily floors climbed goal achieved,This Trigger fires every time you achieve your daily floors climbed goal. NOTE: only available for Fitbit Ultra and One.
+Sleep duration above,This Trigger fires every time you log sleep above the target hours you specify.
+New sleep logged,This Trigger fires every time your Fitbit logs new sleep.
+Daily distance goal achieved,This Trigger fires every time you achieve your daily distance goal.
+Daily activity summary,This Trigger fires every time your Fitbit tracker syncs for the first time today and your previous day's stats are available.
+Sleep duration below,This Trigger fires every time you log sleep below the target hours you specify.
+Daily step goal achieved,This Trigger fires every time you achieve your daily step goal.

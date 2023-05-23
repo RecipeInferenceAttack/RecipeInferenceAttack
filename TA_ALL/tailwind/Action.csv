@@ -1,0 +1,5 @@
+action,action_description
+Close all garage doors,This action will close your all garage door from selected device
+Close garage door,This action will close your selected garage door
+Open garage door,This action will open your selected garage door
+Partial Open,This action will open your selected garage door partially

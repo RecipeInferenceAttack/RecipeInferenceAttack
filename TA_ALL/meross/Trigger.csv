@@ -1,0 +1,9 @@
+trigger,trigger_description
+Set Humidifier,This trigger fires when the humidifier set the specified  mode.
+Turn on,This trigger fires when turn on a Meross device.
+Open garage,This trigger fires when open garage door by a Meross device.
+Turn off,This trigger fires when turn off a Meross device.
+Sensor Temperature Range,Sensor Temperature Range
+Close garage,This trigger fires when close garage door by a Meross device .
+Sensor Humidity Range,Sensor Humidity Range
+Sensor Water Leak,This trigger fires when the water leak sensor status changes.

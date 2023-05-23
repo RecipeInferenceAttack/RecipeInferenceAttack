@@ -1,0 +1,5 @@
+action,action_description
+Create a new published post,This action will create a new published post.
+Create a new scheduled post,This action will create a new scheduled post.
+Create a new queued post,This action will create a new queued post.
+Retweet a tweet,This action will retweet a tweet with your twitter account.

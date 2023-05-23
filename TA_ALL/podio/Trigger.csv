@@ -1,0 +1,2 @@
+trigger,trigger_description
+New app item,This trigger fires when a new item is created in an app in  Podio.

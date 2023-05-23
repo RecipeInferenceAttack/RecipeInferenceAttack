@@ -1,0 +1,3 @@
+action,action_description
+Disarm system,This Action will set your Blink system to Disarmed.
+Arm system,This Action will set your Blink system to Armed.

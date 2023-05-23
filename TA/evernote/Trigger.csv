@@ -1,0 +1,3 @@
+trigger,trigger_description
+Add a specific tag to note,This Trigger fires every time you add a specific tag to any of your notes.
+New note in a notebook,This Trigger fires every time you create a new note in a specific notebook.

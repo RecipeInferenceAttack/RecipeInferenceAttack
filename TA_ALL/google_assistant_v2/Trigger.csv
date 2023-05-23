@@ -1,0 +1,2 @@
+trigger,trigger_description
+Activate scene,"This Trigger activates a named scene when you say ""Ok Google, activate [Scene Name]""."

@@ -1,0 +1,13 @@
+action,action_description
+Execute scene,This action will execute a scene to control multiple appliances at once.
+Control TV,"This action will control TV though the preset buttons.
+Note: Please use the Control home appliances actions for the button registered by learning mode."
+Control home appliances,This action will send an infrared signal to control your home appliances.
+Control light,"This action will control light though the preset buttons.
+Note: Please use the Control home appliances actions for the button registered by learning mode."
+Turn off air conditioner,"This action will turn off your air conditioner.
+
+Note: Please use the Control home appliances actions for the button registered by learning mode."
+Turn on air conditioner,"This action will turn on your air conditioner and set target temperature, AC operation mode and air volume settings.
+
+Note: Please use the Control Home Appliances actions for the button registered by learning mode."

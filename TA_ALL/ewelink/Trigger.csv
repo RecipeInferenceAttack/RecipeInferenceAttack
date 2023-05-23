@@ -1,0 +1,35 @@
+trigger,trigger_description
+Thermostat turned on or off,This trigger fires when the thermostat turns on or off
+Smart Dimmer turned on or off,This trigger fires when your eWeLink Support Smart Dimmer is turned on or off.
+Brightness is below,This trigger fires when the brightness of selected dimmer is below threshold.
+Leak detected,This trigger fires when leak is detected from water leak sensor.
+Low Water Level of Diffuser,This trigger fires when the water level of a diffuser is low.
+Temperature goes above or below,This trigger fires when the temperature of selected device goes above or below threshold.
+Humidity goes above or below,This trigger fires when the humidity of selected device goes above or below threshold.
+1-Channel Plug turned on or off,This trigger fires when your eWeLink Support 1-Channel Plug is turned on or off.
+Zigbee door sensor is open or closed,This trigger fires when the status of a Zigbee door sensor is open or closed.
+Light  turned on or off,This trigger fires when your light is turned on or off.
+Thermostat Mode changes,This trigger fires when the thermostat mode changes.
+Enabled/disabled Child Lock of Thermostat,This trigger fires when the child lock status changes (enabled/disabled).
+Color temperature(CT) of light appearances warm or cool,"This trigger fires when your light’s color temperature of
+ light apperances warm or cool white."
+4-Channel Switch turned on or off,This trigger fires when your eWeLink Support 4-Channel Switch is turned on or off.
+2-Channel Plug turned on or off,This trigger fires when your eWeLink 2-Channel Plug is turned on or off.
+3-Channel Switch turned on or off,This trigger fires when your eWeLink 3-Channel Switch is turned on or off.
+Light turns to a specified colour,This trigger fires when your lights to a specified colour .
+FanLight turned on or off,This trigger fires when the fan or the light of your FanLight is turned on or off
+Scene Controller pressed,This Trigger fires every time your eWeLink Scene Controller is pressed.
+Light  brightness goes above or below,This trigger fires when your light brightness goes above or below.
+2-Channel Switch turned on or off,This trigger fires when your eWeLink Support 2-Channel Switch is turned on or off.
+Voltage goes above or below,This trigger fires when the voltage of selected device is above or below threshold.
+Zigbee Motion Sensor,This trigger fires when motion is detected or no motion is detected from Zigbee motion sensor.
+1-Channel Switch turned on or off,This trigger fires when your eWeLink Support 1-Channel Switch is turned on or off.
+RF Bridge Alarm activated,This trigger fires when an alarm of your RF Bridge is activated.
+Electric curtain is open or closed,This trigger fires when the selected electric curtain is open or closed.
+Electric current goes above or below,This trigger fires when the electric current of the selected device goes above or below threshold.
+Brightness is above,This trigger fires when the brightness of selected dimmer is above threshold.
+Door sensor is open or closed,This trigger fires when the state of selected door sensor is open or closed.
+When Camera detects a motion event,This Trigger fires every time the camera detects a motion event.
+Zigbee Wireless Switch Pressed,"This trigger fires when Zigbee Wireless Switch is pressed, double pressed, or long pressed."
+3-Channel Plug turned on or off,This trigger fires when your eWeLink Support 3-Channel Plug is turned on or off.
+4-Channel Plug turned on or off,This trigger fires when your eWeLink Support 4-Channel Plug is turned on or off.

@@ -1,0 +1,7 @@
+trigger,trigger_description
+When button is pressed,This trigger fires when you press the button on your Tracker.
+When significant journey alert is triggered,This trigger fires when a significant journey is detected.
+When low battery alert is triggered,"This trigger fires when the battery reaches 20%, and then again when 5% remains."
+When zone alert is triggered,This trigger fires when a zone alert is triggered.
+When new location data is available,This trigger fires every time location data is sent by your Tracker.
+When anti-theft alert is triggered,This trigger fires when anti-theft alert is activated.

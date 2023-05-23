@@ -1,0 +1,3 @@
+action,action_description
+Add datapoint,This Action will add a new datapoint to a Beeminder goal.
+Charge me,"This Action will charge your credit card the specified amount. If you don't have a credit card on file with Beeminder, or if there's a problem trying to charge it, we'll email you to let you know."

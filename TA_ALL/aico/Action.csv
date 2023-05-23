@@ -1,0 +1,4 @@
+action,action_description
+Run a remote key,This action will push a button on any your remotes
+Run a scene,This action will run a scene that created from your mobile phone.
+Run a scene by scene name,This action will run a scene by the name of scene.

@@ -1,0 +1,7 @@
+trigger,trigger_description
+Sector armed,This trigger fires when a sector is armed.
+Panel disarmed,This trigger fires when the panel is disarmed.
+Panel armed,This trigger fires when the panel is armed.
+Device enabled,This trigger fires when a device is enabled
+Device disabled,This trigger fires when a device is disabled.
+Sector disarmed,This trigger fires when a sector is disarmed.

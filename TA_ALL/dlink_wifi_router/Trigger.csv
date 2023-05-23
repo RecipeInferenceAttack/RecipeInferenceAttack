@@ -1,0 +1,5 @@
+trigger,trigger_description
+Host Wi-Fi information is changed,"This trigger fires every time when information related to the host Wi-Fi status, name or password is changed."
+Device disconnected,This trigger fires every time a client device disconnects from the D-Link router.
+Device connected,This trigger fires every time a client device connects to the D-Link router.
+Guest Wi-Fi information is changed,"This trigger fires every time when information related to the guest Wi-Fi status, name or password is changed."

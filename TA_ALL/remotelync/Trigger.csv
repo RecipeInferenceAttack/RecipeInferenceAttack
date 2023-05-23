@@ -1,0 +1,11 @@
+trigger,trigger_description
+Video ready,"This Trigger fires every time a new video is available from a camera at the RemoteLync location you specify. NOTE: includes video captured when the camera detects motion and when you request the camera to ""Capture Now."""
+Carbon Monoxide alarm,This Trigger fires every time a carbon monoxide alarm is detected at your RemoteLync location.
+Camera disarmed,This Trigger fires every time a RemoteLync camera you specify is disarmed.
+Smoke alarm,This Trigger fires every time a smoke alarm is detected at your RemoteLync location.
+Camera armed,This Trigger fires every time the RemoteLync camera you specify is armed.
+Location armed,This Trigger fires every time the RemoteLync location you specify is armed.
+Low battery,This Trigger fires every time any camera has a low battery at the RemoteLync location you specify.
+Lost connection,This Trigger fires every time any camera or monitor loses connection at the RemoteLync place you specify.
+Motion detected at location,This Trigger fires every time any camera detects motion at the RemoteLync place you specify.
+Location disarmed,This Trigger fires every time the RemoteLync location you specify is disarmed.

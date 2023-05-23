@@ -1,0 +1,4 @@
+trigger,trigger_description
+Police calls for service,This trigger fires every time there's a police call for service.
+New job opening,This trigger fires when a new employment opportunity is posted from the City of Tampa.
+City of Tampa event,This trigger fires when a new event is posted from the City of Tampa.

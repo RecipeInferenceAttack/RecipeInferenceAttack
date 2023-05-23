@@ -1,0 +1,4 @@
+trigger,trigger_description
+You export solar at a particular time of day,This trigger fires when you export solar power to the grid within a chosen time period.
+You started exporting solar,This trigger fires when you start exporting solar power to the grid.
+You stopped exporting solar,This trigger fires when you stop exporting solar power to the grid.

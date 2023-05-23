@@ -1,0 +1,3 @@
+trigger,trigger_description
+Total Connect security panel alarm detected,This trigger fires when my Total Connect security panel receives an alarm
+Total Connect security panel arming mode has changed,This trigger fires when my Total Connect security panel has been armed or disarmed.

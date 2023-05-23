@@ -1,0 +1,4 @@
+action,action_description
+Set led status,This Action will toggle the LED status of a Caleo.
+Set temperature,This Action will set the desired temperature for the specified thermostat.
+Set new mode,This Action will set a new mode for all your Caleos.

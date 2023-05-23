@@ -1,0 +1,11 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Speak out the typed text on VoIP call,Write anything you want (including emojis) and have them read out on a VoIP call.,Any new note,Call my device,/do_note,/voip_calls,3.4k
+Find my phone voip,"Waits for the Alexa trigger ""handy"", sets the device ringtone to 100% and then does a voip call to it",Say a specific phrase,Call my device,/amazon_alexa,/voip_calls,9.9k
+google calendar event to call you,call for you google events,Any event starts,Call my device,/google_calendar,/voip_calls,662
+If Arlo detect motion then call me to my mobile phone through IFTTT app,"Never more lose a motion detected notification from Arlo.
+
+If a Arlo camera detect motion you will receive a call on your smartphone, even if you don't have mobile phone signal, of course you need to have WiFi signal or 4G signal. If you answer the call, you will hear the name of the camera and the time when the motion was detected. Is required to install and login IFTTT app on your mobile phone",Motion detected,Call my device,/arlo,/voip_calls,638
+Get loud call if Arlo detects motion,If Arlo detects motion on a specific camera you will get a call. To be sure you will hear the call the ringtone volume can be set high.,Motion detected,Call my device,/arlo,/voip_calls,257
+"Amazon Alexa trigger Hue ""Sexy Time"" (with Music)","Dim your hue lights to 70%, change the Color to a smooth Pink/Red and let ifttt give you a VoipCall to your Phone. 
+Protip: Save the Contact and assign a sexy Ringtone to it (f.ex. ""Let's get it on"" from Marvin Gaye).",Say a specific phrase,Call my device,/amazon_alexa,/voip_calls,437
+If Arlo detect motion then really do something,"If a Arlo camera detect motion then call me, turn on WeMo, send me an email and record from other Arlo camera.",Motion detected,Send yourself an email,/arlo,/gmail,1

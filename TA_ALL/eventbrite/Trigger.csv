@@ -1,0 +1,4 @@
+trigger,trigger_description
+New attendee registered,This trigger fires when a new attendee registers for an event.
+New order,This trigger fires when there is a new order placed for an event.
+New event,This trigger fires when a new event is created.

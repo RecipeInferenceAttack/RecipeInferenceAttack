@@ -1,0 +1,4 @@
+trigger,trigger_description
+App price dropped,This trigger fires every time the price of an app you specify drops.
+App version updated,This trigger fires every time the app you specify releases a new version.
+New app from search,This trigger fires every time a new app is found in the search results for a specific keyword or developer name.

@@ -1,0 +1,5 @@
+trigger,trigger_description
+New row added to spreadsheet,This trigger fires when a new row is added to a spreadsheet you specify.
+New spreadsheet added to folder,This trigger fires when a new spreadsheet is added to a Google Drive folder you specify. Note: only works for spreadsheets created after the Applet turned on.
+Cell updated in spreadsheet,This trigger fires when a particular cell is updated within the spreadsheet you specify.
+New worksheet in spreadsheet,This trigger fires when a new worksheet is added to a spreadsheet you specify.

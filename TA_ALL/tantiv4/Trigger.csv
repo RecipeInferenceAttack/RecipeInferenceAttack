@@ -1,0 +1,5 @@
+trigger,trigger_description
+Whenever Door/Window Opened or Closed,This trigger fires whenever door/window sensor is detected by ThingaOS supported Z-Wave sensor.
+When Motion Detected,This trigger fires when motion detected by ThingaOS supported Z-Wave sensor.
+When Leak Detected,This trigger fires whenever Water Leak is detected by ThingaOS supported Z-Wave sensor.
+When FetchIt Button is Pressed,This trigger fires when fetch-it button is pressed or long pressed.

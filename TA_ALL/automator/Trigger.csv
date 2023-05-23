@@ -1,0 +1,4 @@
+trigger,trigger_description
+Enter Room Locator,This Trigger fires when you enter a room.
+Leave Room Locator,This Trigger fires when you leave a room.
+Scan Smart Tag,This Trigger fires when you scan a Smart Tag.

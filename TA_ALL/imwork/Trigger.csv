@@ -1,0 +1,2 @@
+trigger,trigger_description
+New Chat Message,This trigger fires when a new chat message is received.

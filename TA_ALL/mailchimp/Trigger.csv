@@ -1,0 +1,6 @@
+trigger,trigger_description
+New unsubscribed email,This Trigger fires every time there is a new unsubscribed email address in a list. NOTE: Limited to 50 unsubscribed email addresses per check
+Campaign summary available,This Trigger fires every time there is a new campaign summary available.
+New subscriber,This Trigger fires every time there is a new subscriber added to a list. NOTE: Limited to 50 subscribers per check
+New campaign sent,This Trigger fires every time you send a new campaign on MailChimp.
+New campaign scheduled,This Trigger fires every time there is a new campaign scheduled on MailChimp.

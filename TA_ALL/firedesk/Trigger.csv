@@ -1,0 +1,3 @@
+trigger,trigger_description
+Eingehender Alarm,Dieser Trigger wird abgerufen wenn ein Alarm eingeht.
+Eingehende Zeitverzögerung,Wenn eine eingehende Zeitverzögerung eintrifft

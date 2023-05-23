@@ -1,0 +1,14 @@
+trigger,trigger_description
+Doorbell Answered Rings,This trigger fires when the doorbell’s ring is answerd.
+Baby Crying,This trigger fires when Simbaby hears a Baby’s crying
+Baby  Moving,This trigger fires when Simbaby find your baby moving.
+Vehicle Exiting,This trigger fires when SimCam detects the car exited the specific area.
+Person Detection,"This trigger fires when SimCam detects a person in a specific area.(If you select ""special time"", this trigger will run once in this time period. If you do not fill in this value, the trigger will run normally)"
+Baby Sleeping Soundly,This trigger fires when Simbaby finds your baby falling asleep.
+Object Monitoring,This trigger fires when an object you’ve selected in the camera’s view is removed.
+Doorbell Missed Rings,This trigger fires when the doorbell’s ring is missed.
+Pets Appear,This trigger fires when SimCam detects a pet in a specific area.
+Vehicle Entering,This trigger fires when SimCam detects the car entered the specific area.
+Facial Recognition,This trigger fires when SimCam recognizes a Face ID that set up.
+Doorbell Wandering,This trigger fires when the doorbell detects a person.
+Baby Out Of Fence,This trigger fires when Simbaby finds your baby getting out of the fence.

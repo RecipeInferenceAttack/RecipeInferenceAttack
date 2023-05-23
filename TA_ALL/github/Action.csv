@@ -1,0 +1,4 @@
+action,action_description
+Create new Gist,This Action will create a Gist for you.
+Create an issue/pull request comment,This Action will comment in a specific issue or pull request on Github.
+Create an issue,This Action will create a new issue for the repository you specify.

@@ -1,0 +1,6 @@
+action,action_description
+Turn Wi-Fi on,This action will turn your Wi-Fi on.
+Guest Wi-Fi on,This action will enable the guest Wi-Fi network
+Turn Wi-Fi off,This action will turn your Wi-Fi off.
+Guest Wi-Fi off,This action will disable the guest Wi-Fi network
+Reboot,This action will reboot your D-Link router

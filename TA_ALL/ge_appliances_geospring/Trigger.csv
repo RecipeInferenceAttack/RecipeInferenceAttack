@@ -1,0 +1,7 @@
+trigger,trigger_description
+Hybrid mode selected,This Trigger fires every time the water heater is placed in hybrid mode. Hybrid mode balances energy savings and available hot water convenience.
+Boost mode selected,"This Trigger fires every time the water heater is placed in boost mode. Boost mode increases the amount of hot water available during high use periods, but provides lower savings than hybrid mode."
+Air filter dirty,This Trigger fires when your water heater's air filter is 80% dirty.
+Heat pump mode selected,This Trigger fires every time the water heater is placed in heat pump mode. Heat pump mode provides the greatest energy savings.
+Standard mode selected,This Trigger fires every time the water heater is placed in standard mode. Standard mode provides the least energy savings and stops the heat pump.
+Vacation mode selected,This Trigger fires every time the water heater is placed in vacation mode. Vacation mode minimizes energy use and maximizes savings during periods when users are away.

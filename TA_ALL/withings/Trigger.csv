@@ -1,0 +1,3 @@
+trigger,trigger_description
+When I have a new weight,This trigger fires every time you have a new weight from your Withings scale.
+When my yesterday's activity is logged,This Trigger fires every time your yesterday's activity is logged.

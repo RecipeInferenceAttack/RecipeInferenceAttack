@@ -1,0 +1,4 @@
+trigger,trigger_description
+New call in call log,This trigger fires when a new call is added to a user's call log.
+New voicemail,This trigger fires when there is a new user voicemail.
+New call recording,This trigger fires when there is a new recording.

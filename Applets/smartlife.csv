@@ -1,0 +1,48 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Press the button widget to activate the scene.,This applet will activate the specified scene when you press the button widget.,Button press,Activate Scene,/do_button,/smartlife,5.7k
+turn on SMART LIFT DEVICE,turns on smart life devices with a button click,Button press,Turn on,/do_button,/smartlife,65
+notificação para smart life,notificação para smart life,Notification received from a specific app,Activate Scene,/android_device,/smartlife,73
+Turn on you device when you arrive at home,it will turn on 1 of your device when you arrrive using smart life,You enter an area,Turn on,/location,/smartlife,2.6k
+TurnOFF SmartLife,TurnOFF SmartLife,Device or group is turned on,Turn off,/smartlife,/smartlife,153
+Turn on Smart Life device at sunset,Turns on the configured SmartLife device within 15 minutes of sunset in your location.,Sunset,Turn on,/weather,/smartlife,8.4k
+Automatic stop of a charging process,"With the help of notifications of a third app that tells the battery level, the WLAN switch is turned off. The loading level is set in the third app for automation, which can also send it via e-mail to ifttt as a trigger.",Notification received from a specific app,Turn off,/android_device,/smartlife,40
+Turn off your device when you leave home.,This Applet will turn off your smart home device everytime you leave home.,You exit an area,Turn off,/location,/smartlife,10.0k
+"Execute ""Smart Life or Geeni"" ""Scene or Automation"" on Wifi Connect",Executes a Scene or Automation from the Smart Life or Geeni App when Wifi connection is established.,Connects to a specific WiFi network,Activate Scene,/android_device,/smartlife,66
+OnButton SmartLife,OnButton SmartLife,Device or group is turned off,Turn on,/smartlife,/smartlife,306
+Current weather change? Activate a scene on Smart Life,"Automatically play a Smart Life scene whenever the current weather changes. Choose to be alerted about the weather changing to rain, snow, cloudy or clear then pick a Smart Life scene and you're all set.",Current condition changes to,Activate Scene,/weather,/smartlife,126
+Ring motion turns on a Smart Life Device,Ring Motion Detection Turns on a Smart Life Light Switch,New Motion Detected,Turn on,/ring,/smartlife,10
+Scene activate With Ring doorbell,"when motion is detected, smart life activates a scene",New Motion Detected,Activate Scene,/ring,/smartlife,137
+Activate Smart Life scene,Activate the selected scene when Streamer.bot sends a notification with the configured event name.,IFTTT Notification Sub-Action,Activate Scene,/streamerbot,/smartlife,2
+Woonkamer 19,Trigger that the smart life app sets the temperature to 19,A Flow has been started,Activate Scene,/homey,/smartlife,1
+Activate scene when you get a text.,Activate an LSC scene when you receive a text message,Any new SMS received,Activate Scene,/android_messages,/smartlife,186
+Turn on at sunrise Smart life,Turn on at sunrise Smart life,Sunrise,Turn on,/weather,/smartlife,11
+Nightlight Off,Specified lighting off at sunrise,Sunrise,Turn off,/weather,/smartlife,293
+Doorbell lights,Turn lights blue when the ring doorbell is rang,New Motion Detected,Set light color,/ring,/smartlife,17
+Turn heating off,Turn tado heating off if smart life sensor has status open,Door sensor is open,Turn heating off,/smartlife,/tado_heating,5
+Allume lumière ?,La lumière s'allume en blanc quand tu appuie sur le bouton !,Button press,Set light color,/do_button,/smartlife,68
+Switch on a SmartLife plug according Switchbot humidity sensor status,Created to power on a dehumidifier when the humidity level detected by the Switchbot sensor is greater than a custom value,Temperature or humidity changes,Turn on,/switchbot,/smartlife,34
+Fan turns off at 7am,Fan turns off at 7am,Every day at,Send a notification from the IFTTT app,/date_and_time,/if_notifications,6
+ring bell rings smart home turn on,when ring bell rings turn on smart life devices,New Ring Detected,Turn on,/ring,/smartlife,261
+"If current electricity price in area is above 90 EUR/MWh,\""Boiler\"":Switch 1:OFF","If current electricity price in Estonia(EE) area is above 90 EUR/MWh, then activate \""Boiler\"":Switch 1:OFF",Current price exceeds threshold,Activate Scene,/elektrum,/smartlife,3
+Alexa red lights - timer,Change  lights to red  when  timer goes off (between 8 AM and 10 PM),Your Timer goes off,Set light color,/amazon_alexa,/smartlife,147
+Alexa red lights - alarm,Change  lights to red  when  alarm goes off (between 8 AM and 10 PM),Your Alarm goes off,Set light color,/amazon_alexa,/smartlife,35
+Activate a Smart Life scene,Tap a surface to activate your favorite Smart Life scene.,Gesture with task matching ID occurs,Activate Scene,/knocki,/smartlife,1
+Turn of at sunset  Smart life,Turn of at sunset  Smart life,Sunset,Turn off,/weather,/smartlife,12
+Car is Charged,Applet sends a trigger via Alexa Voice Monkey when my car charger is turned off. I use a scene in Smart life to monitor the power being used and when this drops below a set level my Smart Plug controlling my car charger will switched off.,Device or group is turned off,Trigger Monkey (Routine),/smartlife,/voicemonkey,1
+Blueside yeelight wifi smartlife,Thuiskomen lichten aan,Connects to a specific WiFi network,Set scene,/android_device,/yeelight,
+Set Brightness and Colour of Light,"When Smart Life is scheduled to turn on in the morning, set Colour and Brightness",Every day of the week at,Set light color,/date_and_time,/smartlife,398
+SmartLife - Blue Light Filter (Auto),Auto dims smart lights a few after before bedtime to help with falling asleep,Every day of the week at,Set light color,/date_and_time,/smartlife,370
+Flic Toggle Click,Turn on the light bulb if it is off. Turn off the light bulb if it is on. After pressing the button.,Flic is clicked,Turn off,/flic,/smartlife,2
+Turn your light on everyday at 6:30pm,This Applet will turn on the light everyday at 6:30pm.,Every day at,Turn on,/date_and_time,/smartlife,1.7k
+Log your smart devices on/off activity,See where that electricity bill came from by being able to see when your socket was turned on .,Device or group is turned on,Add row to spreadsheet,/smartlife,/google_sheets,10
+Smart light change color at prayer time,"Change smart light color at prayer time.
+
+Example: Table lamp to green color at prayer time.",Prayer time,Set light color,/muslim_prayer_time,/smartlife,2
+Turn off your device when it's bedtime.,This Applet turns off your device when it's time for you to go sleep.,Every day at,Turn off,/date_and_time,/smartlife,4.0k
+Turn on Smart Life device at prayer time,"Switch ON smart device at prayer time.
+
+Example: Turn on table lamp at prayer time.",Prayer time,Turn on,/muslim_prayer_time,/smartlife,
+Turn on my Smart Life device when too wet,"Use this Applet to turn on a radiator, dehumidifier, fan or whatever you have plugged into a Smart Life Plug when UbiBot device is too wet.",Humidity Rises above or Drops below,Turn on,/ubibot,/smartlife,3
+SmartLife Steckdose über Homey einschalten,Diese Applet dient zum einschalten einer Smart Life Steckdose über Homey durch ausführen eines Flows. Ich habe dazu einen Virtuellen Schalter angelegt und diesen Flow mit Hilfe diesen geschalten.,A Flow has been started,Turn on,/homey,/smartlife,4
+Set light to cyan when it's about to rain.,This applet will set the specified light to a specified color when the weather is about to change.,Current condition changes to,Set light color,/weather,/smartlife,2.0k
+SmartLife Steckdose über Homey ausschalten,Diese Applet dient zum ausschalten einer Smart Life Steckdose über Homey durch ausführen eines Flows. Ich habe dazu einen Virtuellen Schalter angelegt und diesen Flow mit Hilfe diesen geschalten.,A Flow has been started,Turn off,/homey,/smartlife,4

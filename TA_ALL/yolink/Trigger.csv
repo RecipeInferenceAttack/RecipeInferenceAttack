@@ -1,0 +1,10 @@
+trigger,trigger_description
+Smoke & CO Alarm,This trigger fires when CO or Smoke is detected
+Lock Event,This trigger fires when your YoLink Lock's state changed
+Leak Sensor (Special Event Types),This trigger fires when the Leak Sensor detects an event you specify.
+Motion sensor event,This trigger fires when motion sensor state changed
+Temperature & Humidity Sensor,This trigger fires when the temperature or humidity value is in the alert range
+Doorsensor Event,This trigger fires when door sensor state change
+Leak Sensor,This trigger fires when your leak sensor detected water.
+Flex Fob,Fire this trigger by YoLink Flex Fob
+Motion sensor event（Specific Event Types）,This trigger fires when motion sensor state changed

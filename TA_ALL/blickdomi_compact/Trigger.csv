@@ -1,0 +1,12 @@
+trigger,trigger_description
+Window Close State,El disparador es lanzado cuando se produce un cierre de un Cerramiento Blickdomi.
+Window Open Alarm,"El disparador es activado cuando se produce una alerta de apertura, estando el hogar con las alertas activadas."
+Force Alarm,El disparador es activado cuando se produce un Impacto Fuerte sobre el Cerramiento Blickdomi.
+Alarm Disarmed,This trigger fires When de Alarms are Disarmed.
+Humedity,El disparador es lanzado cuando los niveles de Humedad Interior supera el 70%
+Alarm Armed,This trigger fires when a new Alarm was activated.
+Voc,El disparador es lanzado cuando los niveles de Gases VOC son demasiado altos.
+Cold,El disparador es lanzado cuando la temperatura baja de los 10 Grados.
+Co2,El disparador es lanzado cuando los niveles de Co2 son demasiado altos.
+Window Open State,El disparador es lanzado cuando se produce la apertura de un Cerramiento Blickdomi.
+Hot,El disparador es lanzado cuando la Temperatura excede los 27 Grados.

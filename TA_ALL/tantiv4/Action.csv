@@ -1,0 +1,4 @@
+action,action_description
+Activate Night Mode,The action will set Night Mode on ThigaOS devices like Light.
+Turn On/Off Siren,This action will Turn On/Off Siren for the device in ThingaOS.
+Turn On/Off device,This action will Turn On/Off a device that is available on ThingaOS.

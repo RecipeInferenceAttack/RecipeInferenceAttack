@@ -1,0 +1,13 @@
+action,action_description
+Change program start time,This action will change the start time for a specific program.
+Activate a program,This Action will enable a specific program
+Snooze,This Action will skip all watering events for a certain period of time.
+Resume all watering,This action will resume all watering and require beta firmware.
+Pause all watering,This Action will pause all running watering events and require beta firmware.
+Add weather data,This action will save weather data. Make sure you have enabled Local Weather Push from Weather > Developer > Local Weather Push. The units for the data should be metric units.
+Start a zone,This Action will start watering a specific zone for a certain period of time.
+Schedule a program to run in the next minute,This action will schedule a program to start in the next minute. The difference between scheduling a program to start and just starting a program is that scheduled program will take weather into account whereas a started program will always water 100% of the set duration
+Start a program,This Action will run a specific watering program.
+Stop all watering,This Action will cancel all running watering events.
+Change stop program,This action will change the stop time for a specific program.
+Deactivate a program,This Action will disable a specific program

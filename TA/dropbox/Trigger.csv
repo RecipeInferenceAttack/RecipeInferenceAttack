@@ -1,0 +1,5 @@
+trigger,trigger_description
+New photo in your folder,This Trigger fires every time a photo is saved in the folder you specify. NOTE: will process up to 15 photos per polling period.
+New file in your folder,This Trigger fires every time any file is saved in the folder you specify. NOTE: will process up to 15 files per polling period.
+New text file in your folder,This Trigger fires every time any text file is saved in the folder you specify. NOTE: will process up to 15 files per polling period.
+Any new shared file link,This trigger fires every time a shared link for a file is created. Note: doesn't include folders.

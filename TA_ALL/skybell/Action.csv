@@ -1,0 +1,5 @@
+action,action_description
+Turn indoor chime off,This Action will turn the indoor doorbell chime off.
+Change LED color,This Action will change the SkyBell’s LED color.
+Turn indoor chime on,This Action will turn the indoor doorbell chime on.
+Record video,This Action will record 60 seconds of video from your SkyBell.

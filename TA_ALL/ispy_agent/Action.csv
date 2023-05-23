@@ -1,0 +1,13 @@
+action,action_description
+Take a photo,This action will make the selected camera take a photo.
+Disarm server,This action will disarm the master alerts on Agent DVR.
+Enable a device,This action will enable (switch on) the selected device.
+Alert,Trigger an alert on the selected device.
+Arm a device,Arm the selected device (switch alerts on).
+Disarm a device,Disarm the selected device (switch alerts off).
+Run a command,This action will execute a command on the computer running Agent DVR.
+Set profile,"This action will apply the specified profile (home, away or night)."
+Disable detection,This action will disable motion detection on cameras or sound detection on microphones.
+Enable detection,This action will enable motion detection on cameras or sound detection on microphones.
+Arm server,This action will arm the master alerts switch on Agent DVR.
+Disable a device,This action will disable the selected device.

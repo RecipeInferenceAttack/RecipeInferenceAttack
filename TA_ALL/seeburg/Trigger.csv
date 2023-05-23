@@ -1,0 +1,3 @@
+trigger,trigger_description
+New Seeburg Track Streaming,This trigger fires when a new Seeburg track is identified on the livestream.
+Seeburg Record changed,This trigger fires when a Seeburg record is changed.

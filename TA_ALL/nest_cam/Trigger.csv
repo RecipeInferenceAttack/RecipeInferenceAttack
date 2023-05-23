@@ -1,0 +1,4 @@
+trigger,trigger_description
+New sound event,This Trigger fires every time the camera detects a sound event.
+New sound or motion event,This Trigger fires every time the camera detects a sound or motion event.
+New motion event,This Trigger fires every time the camera detects a motion event.

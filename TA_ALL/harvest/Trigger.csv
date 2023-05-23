@@ -1,0 +1,4 @@
+trigger,trigger_description
+Timer stopped,This Trigger fires every time you stop a new timer in Harvest.
+Project created,This Trigger fires every time you create a new project on Harvest.
+Timer started,This Trigger fires every time you start a new timer in Harvest.

@@ -1,0 +1,2 @@
+trigger,trigger_description
+New Row Importing from a CSV or Google Sheet,This trigger fires for each row being imported from a CSV file or Google Sheet.

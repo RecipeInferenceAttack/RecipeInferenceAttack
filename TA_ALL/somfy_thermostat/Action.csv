@@ -1,0 +1,3 @@
+action,action_description
+Set to a mode,This Action will set your thermostat to a certain mode.
+Set temperature,This Action will set your thermostat to manual mode at a specified temperature for a specified duration.

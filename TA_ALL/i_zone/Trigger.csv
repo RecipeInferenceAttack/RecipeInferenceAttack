@@ -1,0 +1,16 @@
+trigger,trigger_description
+iZone system duct temperature falls below,This Trigger fires if the iZone systems supply air temperature falls below a specified threshold.
+iDrate station fault detected,This trigger fires when an iDrate Station detects a fault.
+Light is turned on,This trigger fires when an iLight is turned on.
+iZone System is Off,This Trigger fires if the iZone system is turned off.
+iDrate system is turned on,This trigger fires when your iDrate is turned on.
+Light is turned off,This trigger fires when an iLight is turned off.
+iZone System is On,This Trigger fires if the iZone system is turned on.
+iZone system temperature rises above,This Trigger fires when the AC unit temperature rises above a specified threshold.
+iDrate system is turned off,This trigger fires when your iDrate is turned off.
+iDrate controller fault detected,This trigger fires when an iDrate controller detects a fault.
+Switch battery is low,This trigger fires when one iLight switch battery low alarmed.
+Zone temperature falls below,This Trigger fires when a zone's actual temperature falls below a specified threshold.
+iZone system duct temperature rises above,This Trigger fires if the A/C systems supply air temperature rises above a specified threshold.
+iZone system temperature falls below,This Trigger fires when the AC unit temperature falls below a specified threshold.
+Zone temperature rises above,This Trigger fires when a zone's actual temperature rises above a specified threshold.

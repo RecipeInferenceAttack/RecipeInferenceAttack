@@ -1,0 +1,5 @@
+action,action_description
+Push a note,This Action will push a new note to your Pushbullet inbox.
+Push a file,This Action will push a new file to your Pushbullet inbox.
+Push an address,This Action will push a new address to your Pushbullet inbox that will open in Google Maps.
+Push a link,This Action will push a new link to your Pushbullet inbox.

@@ -1,0 +1,7 @@
+trigger,trigger_description
+When thermostat comes online,This trigger fires when the thermostat comes online.
+Temperature rises above,This trigger fires when the temperature rises above a set threshold.
+Temperature falls below,This trigger fires when the temperature falls below a set threshold.
+Thermostat set to Away,This trigger fires every time the thermostat is set to away.
+When thermostat goes offline,This trigger fires when a thermostat goes offline.
+Thermostat set to Heat,This trigger fires every time the thermostat is set to heat.

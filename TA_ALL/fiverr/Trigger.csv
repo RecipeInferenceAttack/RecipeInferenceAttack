@@ -1,0 +1,10 @@
+trigger,trigger_description
+New message in inbox,This Trigger fires every time you receive a new message in your inbox.
+New positive rating by a buyer,This Trigger fires every time a buyer rates one of your orders positively.
+New gig ordered,This Trigger fires every time you order a new Gig from a seller on Fiverr.
+New order received,This Trigger fires every time a buyer orders one of your Gigs.
+Any new order delivered,This Trigger fires every time a seller delivers one of your orders.
+New order message in inbox,This Trigger fires every time you receive a new message in your inbox about an order.
+New rating by a buyer,This Trigger fires every time a buyer rates one of your orders.
+New video order delivered,This Trigger fires every time a seller delivers one of your video orders.
+New image order delivered,This Trigger fires every time a seller delivers one of your image orders.

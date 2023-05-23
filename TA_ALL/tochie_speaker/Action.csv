@@ -1,0 +1,4 @@
+action,action_description
+Set playback volume,This action will set the playback volume of a Tochie speaker
+Convert text to speech,This action will convert text to speech and play on your Tochie.
+Playback recorded audio,This action will playback audio message recorded in Tochie app.

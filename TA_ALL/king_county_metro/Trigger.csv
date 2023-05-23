@@ -1,0 +1,8 @@
+trigger,trigger_description
+New metro alert from King County Metro,This trigger fires when there is a new announcement about significant disruptions to bus service.
+New service alert on Rapid Ride C line,This trigger fires when there is a new service alert on Rapid Ride C line.
+New service alert on Rapid Ride D line,This trigger fires when there is a new service alert on Rapid Ride D line.
+New service alert on Rapid Ride B line,This trigger fires when there is a new service alert on Rapid Ride B line.
+New service alert on Rapid Ride F line,This trigger fires when there is a new service alert on Rapid Ride F line.
+New service alert on Rapid Ride A line,This trigger fires when there is a new service alert on Rapid Ride A line.
+New service alert on Rapid Ride E line,This trigger fires when there is a new service alert on Rapid Ride E line.

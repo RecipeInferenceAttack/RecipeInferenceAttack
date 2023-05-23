@@ -1,0 +1,4 @@
+trigger,trigger_description
+Device is plugged in,This Trigger fires every time your Android device is plugged in.
+Device is unplugged,This Trigger fires every time your Android device is unplugged.
+Battery drops below 15%,This Trigger fires every time your Android device's battery drops below 15%.

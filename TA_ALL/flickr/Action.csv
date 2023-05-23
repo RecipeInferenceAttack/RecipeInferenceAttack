@@ -1,0 +1,2 @@
+action,action_description
+Upload public photo from URL,"This Action will upload a new public photo, from a given URL to an image, to your Flickr photostream."

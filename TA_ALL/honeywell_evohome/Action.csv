@@ -1,0 +1,6 @@
+action,action_description
+Disable a quick action,This Action will remove any existing quick action at your location and set your heating system to follow the schedule.
+Turn hot water on,This Action will turn the hot water at one of your locations on. This can either be permanent or for a number of hours.
+Turn hot water off,This Action will turn the hot water at one of your locations off. This can either be permanent or for a number of hours.
+Enable a quick action,This Action will enable a quick action at one of your locations. This can either be permanent or for a number of days/hours.
+Set a zone temperature,This Action sets an override on target temperature of one of your zones. This can either be permanently set or just for a number of hours.

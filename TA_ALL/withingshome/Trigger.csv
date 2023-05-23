@@ -1,0 +1,5 @@
+trigger,trigger_description
+An air quality alert has been raised,This Trigger fires every time an air quality alert is raised by your Withings Home.
+Your Withings Home goes offline,This Trigger fires every time your Withings Home gets disconnected from the internet or is unplugged from the power outlet.
+Motion has been detected,This Trigger fires every time your Withings Home detects motion.
+Noise has been detected,This Trigger fires every time your Withings Home detects noise.

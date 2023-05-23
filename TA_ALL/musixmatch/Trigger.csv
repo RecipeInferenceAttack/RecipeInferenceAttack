@@ -1,0 +1,3 @@
+trigger,trigger_description
+New MusicID,This Trigger fires every time you recognize a track on Musixmatch.
+New favorite track,This Trigger fires every time you favorite the lyrics of a song on Musixmatch.

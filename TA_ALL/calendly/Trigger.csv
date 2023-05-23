@@ -1,0 +1,3 @@
+trigger,trigger_description
+Event canceled,This trigger fires when someone cancels a scheduled Calendly event with you.
+New event scheduled,This trigger fires when someone schedules a new Calendly event with you.

@@ -1,0 +1,12 @@
+action,action_description
+Close the garage door,This action will close the garage door
+Turn off a light,This action will turn off a light.
+Lock a door,This action will lock a door.
+Set dimmer level,This action will set the level of a dimmer.
+Set thermostat in Auto mode to a temperature range,This action will set your thermostat to high and low temperature range while in Auto or Dual mode.  This does not set the thermostat to Auto mode.
+Take a snapshot,This action will take a snapshot on a selected camera
+Execute a rule,"This action will execute a rule you have created on your LifeShield account.  To create a new rule, open your Blue By ADT app go to settings, and select Rules."
+Record a video clip,This action will record a video clip on a selected camera
+Set thermostat to heat or cool to a single temperature,This action will set your thermostat to heat or cool mode and set a single temperature.
+Turn on a light,This action will turn on a light.
+Arm system,This action will arm the Blue By ADT security system.

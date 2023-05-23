@@ -1,0 +1,9 @@
+trigger,trigger_description
+Dishwasher turned off,This trigger fires every time your dishwasher is turned off.
+Cycle starts,This trigger fires every time your dishwasher cycle starts.
+Salt supply running low,This trigger fires every time the salt supply is running low.
+Door closed,This trigger fires every time your dishwasher door has been closed.
+Cycle is complete,This trigger fires every time your dishwasher cycle is complete.
+Rinse aid supply running low,This trigger fires every time the rinse aid supply is running low.
+Dishwasher turned on,This trigger fires every time your dishwasher is turned on.
+Door opened,This trigger fires every time your dishwasher door has been opened.

@@ -1,0 +1,4 @@
+trigger,trigger_description
+New File in Folder,This Trigger fires when a new file is created in the folder you specify.
+Modified File in Folder,This Trigger fires when any file is modified in the folder you specify.
+New or Modified File in Folder,This Trigger fires when a new file is created in the folder you specify or an existing file is modified.

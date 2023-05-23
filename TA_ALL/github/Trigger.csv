@@ -1,0 +1,12 @@
+trigger,trigger_description
+Any new notification from a repository,This Trigger fires every time you receive a new notification from a specific repository on Github.
+Any new repository event,This trigger fires every time a new  event occurs in a repository.
+Any new release,This Trigger fires every time a repo release a new version on Github.
+New pull request for a specific repository,This Trigger fires every time a new pull request is opened for a repository you specify.
+New repository by a specific username or organization,This Trigger fires every time a new repository is created by the username or organization you specify.
+Any new commit,This Trigger fires every time a new commit in a repo is created on Github.
+New issue assigned to you,This Trigger fires every time a new issue is assigned to you.
+Any new closed issue,This Trigger fires every time any issue is closed in a repository you own or collaborate on.
+Any new notification,This trigger fires every time you receive a new notification on Github.
+Any new Gist,This Trigger fires every time you create a new Gist on Github.
+Any new issue,This Trigger fires every time any new issue is opened in a repository you own or collaborate on.

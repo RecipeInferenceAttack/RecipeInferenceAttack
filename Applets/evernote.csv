@@ -1,0 +1,47 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Main Site RSS To Evernote,New Feed Item post to Evernote,New feed item,Create a link note,/feed,/evernote,647
+Sync Evernote and Todoist,Two way syncing of Evernote notes and Todoist tasks,Create task,Create a note,/todoist,/evernote,1.7k
+"Add a task to Todoist Inbox for every note tagged with ""Todoist"" in Evernote","Create a task in your Todoist Inbox if you add ""Todoist"" tag to any notes in Evernote. It uses the Todoist formatting syntax to create a hyperlink in the task title to the note, using note's title and PublicUrl of the note.",Add a specific tag to note,Create task,/evernote,/todoist,4.1k
+Save your favorite tweets in an Evernote notebook,"Every time you favorite a tweet this Applet will grab it and collect in an Evernote notebook named ""Favorite tweets""",New liked tweet by you,Create a note,/twitter,/evernote,23.0k
+Automatically add new tasks with a specific label to Evernote,"This Applet will sync any tasks with a specific label (you could use Evernote) to a new note in the Evernote notebook of your choice. Sync it up, and get it done!",New task created with label,Create a note,/todoist,/evernote,317
+New note with a specific tag in Evernote to Notion.,Adds Evernotes note with a specific tag to Notion.,Add a specific tag to note,Create a page,/evernote,/notion_so,15
+Sync Evernote notebook to Google Drive,Every new note created in an Evernote notebook creates a new document in Google Drive,New note in a notebook,Create a document,/evernote,/google_docs,1.2k
+Log completed Todoist Tasks to one Evernote note,Keep track of your completed Todoist tasks in an appended Evernote note.,New completed task,Append to note,/todoist,/evernote,3.1k
+Evernote Note (with a specific tag) saved to Day One,"When you tag an Evernote note with a specific tag, a new Day One journal entry will be created.",Add a specific tag to note,Create Journal Entry,/evernote,/day_one,899
+Save my iOS reminders to an Evernote checklist,This Recipe adds a to-do to a note when you create an iOS reminder.  The Note which the to-do item is saved to will be the same name as the List of the original reminder.,Any new reminder,Append a to-do to note,/ios_reminders,/evernote,14.6k
+Copy new Evernote notes to OneNote,This Applet will copy new notes in an Evernote notebook to OneNote.,New note in a notebook,Create a page,/evernote,/onenote,3.4k
+Evernote To Do from email,Forward an email with #todo in subject and a To Do checklist will be created/appended.,Send IFTTT an email tagged,Append a to-do to note,/email,/evernote,1.8k
+Send Instapaper highlights to Evernote,Send Instapaper highlights to Evernote,New highlight,Create a link note,/instapaper,/evernote,2.0k
+Save your Instagram photos in Evernote,Automatically store the Instagram photos you post to an Evernote notebook,Any new photo by you,Create image note from URL,/instagram,/evernote,29.1k
+When you create a new task in Google Tasks create a Note in Evernote,This Applet will automatically create a note in Evernote with all the details of your task from Google Tasks.,New task added,Create a note,/google_tasks,/evernote,74
+Append Twitter Favorites to Evernote Note.,Append Twitter Favorites to Evernote Note.,New liked tweet by you,Append to note,/twitter,/evernote,417
+Liked YouTube Videos append to a note in Evernote,Just a long awaited function.,New liked video,Append to note,/youtube,/evernote,1.1k
+Create Evernote journal based on Google Calendar events,"Uses Evernote as a journal by creating a new ""entry"" for every event on your calendar.",Any event starts,Create a note,/google_calendar,/evernote,155
+Quickly create a note,"This Applet gives you a distraction-free way to send a quick note to the notebook of your choice. It can be used as a widget — just click it, type your note, and send it off. It'll be waiting in Evernote for you to add to when you have time.",Any new note,Create a note,/do_note,/evernote,2.8k
+Add your Alexa To-Dos to Evernote,Evernote will be updated with new To Dos each time a new Alexa To Do is created.,Item added to your To Do List,Append to note,/amazon_alexa,/evernote,12.2k
+Track new Evernote notes on your Welltory Dashboard,See what impacts the number of your notes,New note in a notebook,Send event,/evernote,/welltory,117
+Save your iPhone screenshots to an Evernote notebook,"This Applet uses Public Photo URLs which creates a unique link for each of your screenshots. For access to all of the links created by your Applets, visit https://ifttt.com/files",New screenshot,Create a note,/ios_photos,/evernote,2.0k
+IOS Screen captures to Evernote,"Whenever a screen is captured on my IOS device, send it to Evernote and tag it as: IFTTT & IOS ScrCap",New screenshot,Create image note from URL,/ios_photos,/evernote,484
+Combines all the highlights of an article in Instapaper in one note in Evernote,Combines all the highlights of an article in Instapaper in one note in Evernote,New highlight,Append a to-do to note,/instapaper,/evernote,484
+Add new Evernote notes to Akiflow as tasks,This Evernote - Akiflow integration makes it easy to create a new task automatically when you add a specific tag to a note.,Add a specific tag to note,Create Task,/evernote,/akiflow,5
+A checklist of completed Todoist tasks in Evernote,Each completed Todoist task is appended to an Evernote note with a checklist,New completed task,Append a to-do to note,/todoist,/evernote,42
+Add to a note in Evernote,"This Applet offers a totally distraction-free way of saving your ideas, todos, or wish list to Evernote.",Any new note,Append to note,/do_note,/evernote,1.4k
+Save your Evernote to Histre,Use this applet to save the note you take on Evernote into your Histre notebook.,New note in a notebook,Create note,/evernote,/histre,8
+"RSS to OneDrive, OneNote, Evernote, Nimbus","RSS to OneDrive, OneNote, Evernote, Nimbus",New feed item,Create note,/feed,/nimbus_note,34
+Speak notes to Evernote using Siri and iOS Reminders,"First, create a reminders list called ""Evernote"" in your iOS Reminders app. Then tell Siri, ""Add Evernote reminder [your note here]"". This will create a new reminder in your Evernote list, which in turn will append the dictated message to a note in Evernote called ""Siri Notes"".",New reminder added to list,Append to note,/ios_reminders,/evernote,364
+Log sent SMS to Evernote,"Logs SMS messages to Evernote, remember to pick your notebook and set your tags!",Any new SMS sent,Append to note,/android_messages,/evernote,16
+Save all your RescueTime reports ot @evernote,Save all your daily reports to Evernote,New daily summary is available,Create a note,/rescuetime,/evernote,17
+Back up your Facebook status updates to Evernote,Back up your Facebook status updates to Evernote,New status message by you,Append to note,/facebook,/evernote,1.8k
+Keep a list of Shazam-ed songs,My Shazam songs added to an Evernote list,New track added to a playlist,Append to note,/spotify,/evernote,247
+Record your weight measurements in an Evernote note,Record your weight measurements in an Evernote note,When I have a new weight,Append to note,/withings,/evernote,31
+Record of any phone call answered,On android record the details of any phone call answered and add it to an Evernote Phone Book,Any incoming phone call ends,Create a note,/android_phone,/evernote,54
+Save post from Telegram to Evernote,Simple applet to save posts to read it later in Evernote.,New post in your channel,Create a note,/telegram,/evernote,7
+Add your Alexa shopping list items to Evernote,Evernote will be updated with new shopping list items each time a new item is added to your Alexa shopping list.,Item added to your Shopping List,Append to note,/amazon_alexa,/evernote,6.6k
+Export Instapaper Highlights to Evernote,Fulfilling my lifelong dream of a digital commonplace book.,New highlight,Create a note,/instapaper,/evernote,375
+When you create a new note in Evernote create a task in Google Tasks,This Applet will automatically create a task in Google Tasks with all the details of your note from Evernote. The Task created in Google Tasks will default to a due date of when the Evernote note was created.,New note in a notebook,Add task to a list,/evernote,/google_tasks,18
+Log works hours in an Evernote note,"This Recipe will track when you enter and leave a specific area on a map — in this case, your office! Keep track of your working hours each day in a single note.",You enter or exit an area,Append to note,/location,/evernote,2.1k
+Append note,Append note,Every day of the week at,Append to note,/date_and_time,/evernote,4
+Add Checkbox,At certain time append checkbox,Every day of the week at,Append a to-do to note,/date_and_time,/evernote,155
+Tweets from TC,Tweets from TC,New tweet by a specific user,Append to note,/twitter,/evernote,1
+Log Receipts In Evernote,Take pictures of your receipts to create a log in Evernote,Any new photo,Create a note,/do_camera,/evernote,402
+Automatically create a Trello card when you add a new note to a specific notebook,Sync your systems: this Applet will transform your new notes to Trello cards on the board and list you specify.,New note in a notebook,Create a card,/evernote,/trello,1.7k

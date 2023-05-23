@@ -1,0 +1,13 @@
+trigger,trigger_description
+Vehicle arrives at a place,This trigger fires every time a vehicle arrives at a specific place such as Home or Work (defined within Zubie).
+Trip ended,"This Trigger fires at the end of every vehicle trip, as indicated by the Ignition being turned off."
+Hard acceleration detected,Triggers when your vehicle has a hard-acceleration event.
+Vehicle driven between hours,This Trigger fires when a vehicle trip ends during a selected time frame.
+Check engine light is on for any vehicle,"This Trigger fires when ANY vehicle's Check Engine light has been activated, caused by a Diagnostic Trouble Code (DTC)."
+Vehicle out of range,This Triggers when your vehicle is further than an allowed distance from a specific location.
+Trip started,"This Trigger fires every time a vehicle starts a trip, indicated by the ignition being turned on."
+Long-distance trip,This Trigger fires when a trip is completed that is longer than a specified distance.
+High speed driving detected,Triggers when your vehicle is driven at speeds above a safe level (configured within Zubie).
+Low battery condition for any vehicle,This Trigger fires when battery levels fall below normal levels for any vehicle in your account. The vehicle ingredient specifies the name of the vehicle with the problem.
+Hard braking detected,Triggers when a vehicle detects a hard brake event.
+Vehicle leaves a place,This Trigger fires every time a vehicle leaves a place.

@@ -1,0 +1,4 @@
+trigger,trigger_description
+New member in a campaign,This trigger fires every time a new member subscribe in your campaign
+New post in a campaign,This trigger fires every time a new public post is published or when you're a patreon from a campaign
+New campaign,This trigger fires every time a campaign is created.

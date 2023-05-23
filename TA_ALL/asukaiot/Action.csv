@@ -1,0 +1,8 @@
+action,action_description
+Turn on timer mode,This action will turn on the timer schedule.
+Turn off timer mode,This action will turn off the timer schedule.
+Turn on pre-set mode,This action will turn on the pre-set mode.
+Turn off pre-set mode,This action will turn off the pre-set mode.
+Switch off device,This action will switch off the device.
+Switch on device,This action will switch on the device
+Switch on key set,This action will switch on a set of key-press combinations.

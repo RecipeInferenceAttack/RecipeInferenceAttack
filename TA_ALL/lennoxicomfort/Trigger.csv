@@ -1,0 +1,5 @@
+trigger,trigger_description
+Indoor temperature rises above,This Trigger fires every time the indoor temperature rises above a threshold that is specified.
+Away mode is entered,This Trigger fires when my thermostat enters Away mode.
+Away mode is cancelled,This Trigger fires when Away mode is canceled on my thermostat.
+Indoor Temperature drops below,This Trigger fires every time the indoor temperature drops below a threshold that is specified.

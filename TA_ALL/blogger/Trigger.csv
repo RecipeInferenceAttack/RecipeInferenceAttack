@@ -1,0 +1,3 @@
+trigger,trigger_description
+Any new post,This Trigger fires every time you publish a new post on your Blogger blog.
+New post labeled,This Trigger fires every time you publish a new post on your Blogger blog with a specific label.

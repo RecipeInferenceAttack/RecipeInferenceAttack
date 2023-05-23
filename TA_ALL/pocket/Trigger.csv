@@ -1,0 +1,5 @@
+trigger,trigger_description
+New item archived,This Trigger fires every time an item is archived in Pocket.
+Any new item,This Trigger fires every time any new item is added to Pocket.
+New favorite item,This Trigger fires every time you favorite an item in Pocket.
+New item tagged,This Trigger fires every time you tag an item with a specific tag in Pocket.

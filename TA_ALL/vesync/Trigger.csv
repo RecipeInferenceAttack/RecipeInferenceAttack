@@ -1,0 +1,2 @@
+trigger,trigger_description
+Device State Changes,This trigger fires  once device state changed.

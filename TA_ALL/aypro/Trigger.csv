@@ -1,0 +1,13 @@
+trigger,trigger_description
+SOS Button is pressed,This trigger works when the SOS button is pressed.
+"Security mode set to ""CUSTOM"".","This trigger fires when your security mode set to ""CUSTOM"""
+The scene runs.,This trigger fires when the selected scene runs.
+Scope A6 TouchPanel disconnected!,This trigger fires when Scope A6 Touch Panel is disconnected from SmartBridge.
+Security mode changed.,This trigger fires when your security mode changed.
+Doorbell Rings,This trigger fires when doorbell rings.
+"Security mode set to ""DISARMED""","This trigger fires when your security mode set to ""DISARMED"""
+"Security mode set to ""SLEEP"".","This trigger fires when your security mode set to ""SLEEP""."
+Alarm triggered,This trigger fires when alarm triggered.
+"Security mode set to ""ARMED"".","This trigger when your security mode set to ""ARMED"""
+Security mode set to your choice.,This trigger fires when your security mode set to your choice.
+Incoming call from intercom.,This trigger fires when there is incoming call from intercom.

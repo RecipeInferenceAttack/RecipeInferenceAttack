@@ -1,0 +1,7 @@
+trigger,trigger_description
+There's is not enough light,Triggered whenever your plant is not receiving sufficient light
+It's too cold,Triggered whenever your plant experiences cold stress
+Soil is too wet,Triggered whenever your plant experiences overwatering stress
+It's too warm,Triggered whenever your plant is experiences heat stress
+Soil is too dry,Triggered whenever your plant dryness stress
+There's too much light,Triggered whenever your plant is overexposed to light

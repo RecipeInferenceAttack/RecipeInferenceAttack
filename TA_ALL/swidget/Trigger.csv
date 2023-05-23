@@ -1,0 +1,11 @@
+trigger,trigger_description
+Air quality declines,This trigger fires when the air quality goes below a given value.
+Humidity goes above,This trigger fires when the humidity goes above a given value.
+Temperature goes above,The trigger fires when the temperature goes above a given threshold.
+Motion begins,The trigger fires when motion sensor detects occupancy.
+Air quality improves,This trigger fires when the air quality goes over a given value.
+Motion ends,The trigger fires when motion sensor reports vacancy.
+Humidity goes below,This trigger fires when the humidity goes below a given value.
+Turned Off,This trigger fires when the specified Swidget device turns off.
+Turned On,This trigger fires when the specified Swidget device turns on.
+Temperature goes below,This trigger fires when the temperature goes below a given value.

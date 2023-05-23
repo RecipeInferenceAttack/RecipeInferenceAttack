@@ -1,0 +1,9 @@
+action,action_description
+"Set security alarm mode to ""DISARMED","This action will set your security alarm mode to ""DISARMED""."
+Set Scope TouchPanel's  ambiance Led Animation,This action will sets your Scope TouchPanel's ambiance led animation.
+"Set security alarm mode to ""CUSTOM""","This action will set your security alarm mode to ""CUSTOM""."
+Run scene,This action will runs your scene.
+Set Scope TouchPanel's ambiance Led Color,This action will sets your Scope Touch Panel ambiance led color.
+"Set security alarm mode to ""ARMED""","This action will set your security alarm mode to ""ARMED""."
+Scope TouchPanel's ambiance Led Customized Color,This action will sets your Scope TouchPanel's ambiance Led to customized color.
+"Set security alarm mode to ""SLEEP""","This action will set your security alarm mode to ""SLEEP""."

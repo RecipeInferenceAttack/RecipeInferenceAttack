@@ -1,0 +1,6 @@
+trigger,trigger_description
+Moodo AIR is switched into Diffuser mode,This trigger fires when Moodo AIR device is switched into Diffuser mode
+Favorite is applied for Moodo device,This triggers fires when favorite is applied for Moodo device.
+Moodo is stopped,This trigger fires when Moodo is stopped
+Moodo is started,This trigger fires when a Moodo device is started
+Moodo AIR is switched into Purifier mode,This trigger fires when Moodo AIR device is switched into Purifier mode

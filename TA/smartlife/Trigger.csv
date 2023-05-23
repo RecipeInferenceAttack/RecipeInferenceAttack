@@ -1,0 +1,14 @@
+trigger,trigger_description
+Input incorrect password repetitiously,This trigger fires when someone input incorrect password repetitiously.
+Camera detects motion,"This trigger fires when the specified camera detects motion. To use this trigger, camera’s motion detection should be turned on."
+Camera detects sound,"This trigger fires when the specified camera detects sound. To use this trigger, camera’s sound detection should be turned on."
+Door sensor is open,This trigger fires when the door sensor is open.
+Shake  detected,This trigger fires when sensor shake detected
+Unlock the lock,"This trigger fires when user  unlocking the lock, his password or fingerprint identification or card  is  confirmed."
+Sound and light detected,This trigger fires when water sound and light detected.
+Leak detected,This trigger fires when water leak detected.
+Device or group is turned on,This trigger fires when the specified device/group is turned on.
+Battery low,This trigger fires when residual electricity in the lock under threshold.
+Device or group is turned off,This trigger fires when the specified device/group is turned off.
+Person is detected,This trigger fires when PIR detects person.
+Door sensor is closed,This trigger fires when the door sensor is closed.

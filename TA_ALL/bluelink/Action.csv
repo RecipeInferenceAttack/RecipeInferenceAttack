@@ -1,0 +1,8 @@
+action,action_description
+Change Room Temperature,"This action will change the current room temperature. Will either HEAT or COOL, based on what temperature is the thermostat is showing."
+Change Hold Mode,This action will change the current hold mode of the device
+Change System Mode,This action will change the current running mode of the device
+Change Fan Mode,This action will change the current fan mode of the device
+Change Heat Setpoint,This action will change the current heat setpoint of the selected device.
+Change Cool Setpoint,This action will change the current cool setpoint of the selected device.
+Change Hold Status,This action will change the current hold status of the device (either ENABLED or DISABLED)

@@ -1,0 +1,4 @@
+trigger,trigger_description
+Switched off,This trigger fires every time your Dimmer is turned off.
+Long press,This trigger fires every time your WeMo Dimmer is turned on or off with a long press over two seconds.
+Switched on,This trigger fires every time your Dimmer is turned on.

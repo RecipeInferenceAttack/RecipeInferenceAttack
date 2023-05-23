@@ -1,0 +1,7 @@
+trigger,trigger_description
+Any incoming phone call missed,This Trigger fires every time you miss a phone call on your Android device.
+Any incoming phone call ends,This Trigger fires every time you answer a phone call on your Android device.
+Incoming phone call from a specific number ends,This Trigger fires every time you answer a phone call on your Android device from a number you specify.
+Incoming phone call from a specific number missed,This Trigger fires every time you miss a phone call on your Android device from a number you specify.
+Outgoing phone call to a specific number ends,This Trigger fires every time you place a phone call on your Android device to a number you specify.
+Any outgoing phone call ends,This Trigger fires every time you place a phone call on your Android device.

@@ -1,0 +1,3 @@
+trigger,trigger_description
+Daily smartphone screen unlocks,This Trigger fires when the number of your smartphone screen unlocks exceeds your specified daily limit.
+Daily smartphone usage time,This Trigger fires when your smartphone usage exceeds your specified daily time limit.

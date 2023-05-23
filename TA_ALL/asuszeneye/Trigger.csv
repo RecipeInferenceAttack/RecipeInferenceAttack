@@ -1,0 +1,4 @@
+trigger,trigger_description
+Sound is detected,This trigger fires when VivoCam detect a sound event
+Night Vision is enabled,This trigger fires when VivoCam changes to night vision model.
+Motion is detected,This trigger fires when VivoCam detect a motion event

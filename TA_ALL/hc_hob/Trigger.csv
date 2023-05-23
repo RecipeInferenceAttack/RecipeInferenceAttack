@@ -1,0 +1,7 @@
+trigger,trigger_description
+Cooktop heating started,This trigger fires every time your cooktop starts heating.
+Cooking sensor battery empty,This trigger fires every time the cooking sensor battery is empty.
+Child lock deactivated,This triggers fires every time the child lock has deactivated.
+Cooktop turned on,This trigger fires every time your cooktop is turned on.
+Cooktop clock timer elapsed,This trigger fires every time the clock timer on your cooktop has elapsed.
+Cooktop turned off,This trigger fires every time your cooktop is turned off.

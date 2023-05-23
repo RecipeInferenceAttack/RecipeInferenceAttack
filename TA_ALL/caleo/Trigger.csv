@@ -1,0 +1,6 @@
+trigger,trigger_description
+Temperature drops below,This Trigger fires every time the temperature drops below a threshold you specify.
+Humidity rises above,This Trigger fires every time the humidity rises above a threshold you specify.
+Mode change detected,"This Trigger fires every time the global mode of the account is changed from either one of the Caleos associated to this account, from the website or from the application."
+Temperature rises above,This Trigger fires every time the temperature rises above a threshold you specify.
+Humidity drops below,This Trigger fires every time the humidity drops below a threshold you specify.

@@ -1,0 +1,9 @@
+trigger,trigger_description
+Switch - Consumption,This trigger fires when Switch has power usage above or below certain threshold.
+Sensor - Motion,This Trigger fires when Motion Sensor detects movement.
+Button Plus - Temperature,IFTTT will react to  temperature alarm set up for selected Button Plus in native myStrom app
+Button Plus - Humidity,IFTTT will react to humidity alarm set up for selected Button Plus in native myStrom app
+Sensor - Temp,This trigger fires when temperature threshold is crossed.
+Sensor - Brightness,This trigger fires when brightness threshold is crossed.
+Button - Pressed,This Trigger fires when Button is pressed.
+Switch - ON/OFF,This Trigger fires when Switch toggles state to ON or OFF.

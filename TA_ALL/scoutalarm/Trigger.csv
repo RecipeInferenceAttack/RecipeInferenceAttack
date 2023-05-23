@@ -1,0 +1,10 @@
+trigger,trigger_description
+Access sensor closed,This Trigger fires when any or a specific access sensor is closed.
+Mode armed,This Trigger fires when a mode is armed.
+Door panel closed,This Trigger fires when any or a specific door panel is closed.
+Mode disarmed,This Trigger fires when a mode is disarmed.
+Alarm dismissed,This Trigger fires when the alarm for a specific mode is dismissed.
+Door panel opened,This Trigger fires when any or a specific door panel is opened.
+Alarm triggered,This Trigger fires when the alarm for a specific mode is triggered.
+Access sensor opened,This Trigger fires when any or a specific access sensor is opened.
+Motion detected,This Trigger fires when any or a specific motion sensor detects motion. Your Scout system must be in an Armed state.

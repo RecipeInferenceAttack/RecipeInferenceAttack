@@ -1,0 +1,5 @@
+action,action_description
+Zero G,Adjust the bed to the Zero G position
+Flat,Adjust the bed to the flat position
+Snore,Adjust the bed to the snore position
+Read,Adjust the bed to the read position

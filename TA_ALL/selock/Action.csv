@@ -1,0 +1,3 @@
+action,action_description
+close lock,Close the lock by id
+open lock,Open the lock by id

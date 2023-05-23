@@ -1,0 +1,49 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Main Site RSS To WordPress,New Feed Item Post To WordPress,New feed item,Create a post,/feed,/wordpress,824
+Automatically share new posts to a Facebook Page,It's easy to keep your community updated: This Applet will share a link to your new Wordpress blog with your Facebook Page.,Any new post,Create a link post,/wordpress,/facebook_pages,34.1k
+Automatically tweet your new blog posts,"Don't let your followers miss an update: When you publish on Wordpress, this Applet will automatically send a tweet from your account with the post title and URL.",Any new post,Post a tweet,/wordpress,/twitter,27.3k
+Wordpress to Twitter with pic.twitter,"Every Wordpress post sends out a tweet with post title, url, and a pic.twitter image from the post.",Any new post,Post a tweet with image,/wordpress,/twitter,30
+Publish your new videos as Wordpress posts,Grow your audience by cross-posting your videos automatically — this Applet will grab the embed code and post it on Wordpress. The title of the blog will be the title of the video.,New public video uploaded by you,Create a post,/youtube,/wordpress,8.6k
+Post new Tumblr blog to Wordpress,Automatically share and post new Tumblr posts you publish to your Wordpress blog.,Any new post,Create a post,/tumblr_legacy,/wordpress,1.2k
+Post your Instagram photos to Wordpress,Keep your Wordpress fresh and up-to-date with your Instagrams. Note: only works for single photo posts.,Any new photo by you,Create a photo post,/instagram,/wordpress,11.9k
+Submit your new WordPress posts to reddit,Submit your new WordPress posts to reddit,Any new post,Submit a new link,/wordpress,/reddit,1.2k
+"When I post a new Wordpress Blog, upload a Facebook Page Image",It helps share the new posts like magic!,Any new post,Upload a photo from URL,/wordpress,/facebook_pages,36
+facebook wordpress,prueba,Any new post,Create a status message,/wordpress,/facebook_pages,13
+Automatically share your posts in a Telegram chat,"When you publish something new, the content will be posted in the chat of your choice. Cool Telegram sticker not included 😎",Any new post,Send message,/wordpress,/telegram,233
+Post from #WordPress to #FacebookPages with an image,Post from #WordPress to #FacebookPages with an image,New post with tag or category,Upload a photo from URL,/wordpress,/facebook_pages,1.2k
+Post your WordPress posts to Tumblr,"When you post on WordPress, the post will automatically be shared on your Tumblr blog.",Any new post,Create a link post,/wordpress,/tumblr,47
+LINKEDIN LION1,LINKEDIN LION1,Every day at,Create a photo post,/date_and_time,/wordpress,12
+Automatically cross-post from Wordpress to Tumblr,Who wants to update 10 different platforms? This Applet will share your new Wordpress blogs as Tumblr text posts — no extra work required.,Any new post,Create a text post,/wordpress,/tumblr_legacy,8.3k
+Facebook Status Updates With Image To New Wordpress Post,"Adds Status Updates, including image to a new post on your wordpress blog",New photo upload on page,Create a post,/facebook_pages,/wordpress,793
+Wordpress Backup to Google Drive,Wordpress Backup to Google Drive,Any new post,Append to a document,/wordpress,/google_docs,8
+WP to Google + via buffer,Don't forget to change the WP tag.,New post with tag or category,Add to Buffer,/wordpress,/buffer,41
+Save your Wordpress posts to Day One,Automatically save your wordpress entries to Day One,Any new post,Create Journal Entry,/wordpress,/day_one,160
+Auto Poster,"When new video gets posted , it re-post to to Facebook,Twitter and WordPress",New public video from subscriptions,Create a post,/youtube,/wordpress,3
+Latest bookmarks,Latest bookmarkings,Any new public bookmark,Create a post,/diigo,/wordpress,5
+I am in a picture,I am in a picture,You are tagged in a photo,Create a post,/facebook,/wordpress,6
+WP to FB & Twitter,Un article => Facebook et Twitter post,Any new post,Create a link post,/wordpress,/facebook_pages,1
+rss then wordpress,rss then wordpress,New feed item matches,Create a post,/feed,/wordpress,179
+Create post on WordPress,This Recipe will publish the post to your Wordpress blog immediately,Any new photo,Create a post,/do_camera,/wordpress,35
+Digital Photography Class,Digital Photography Class,New public photo tagged,Create a photo post,/flickr,/wordpress,27
+Twitter to WP as post image,Twitter to WP as post image,New tweet by you,Create a photo post,/twitter,/wordpress,178
+Youtube Auto Wordpress post,This action Auto Posts a Specific Youtube User  New Youtube Video to Wordpress,New public video from subscriptions,Create a post,/youtube,/wordpress,8
+Add a post to Wordpress.com,Add a post to Wordpress.com,Any new post,Create a post,/wordpress,/wordpress,8
+Post NAACP news to WordPress,Share the latest NAACP news to your WordPress blog,New post in NAACP News,Create a post,/naacp,/wordpress,
+best feedly to wordpress post,best feedly to wordpress post,New article saved for later,Create a post,/feedly,/wordpress,362
+WordPress Post to Google Plus,"If a new post on WorPress, then share it on Google Plus",Any new post,Send an email,/wordpress,/gmail,185
+Share NPR stories to Wordpress,"Pick a category of stories from NPR and automatically share them on WordPress. Posts can be publically or privately published immediately, or select save them as a draft if you'd like to review them before posting.",New story published,Create a post,/npr,/wordpress,4
+Create photo post on WordPress,This Recipe will publish the post immediately.,Any new photo,Create a photo post,/do_camera,/wordpress,337
+Post Instapaper likes to Wordpress,Post Instapaper likes to Wordpress,New liked item,Create a post,/instapaper,/wordpress,86
+WordPress Post to Google Calendar,WordPress Post to Google Calendar,Any new post,Create a detailed event,/wordpress,/google_calendar,11
+Post your Tumblr posts to WordPress,"When you post on Tumblr, the post automatically wil be shared on your WordPress blog.",New Post Created,Create a post,/tumblr,/wordpress,7
+Trello to WordPress content calendar,Automatically add new Trello cards into WordPress as a draft post,Card added to board,Create a post,/trello,/wordpress,17
+Send a note to quickly publish a post,"This Applet makes a widget that you can add to your phone and run whenever you want to dash off a quick post — the text of your note will be the post (customize the title, categories and tags when you set up the Applet).",Any new note,Create a post,/do_note,/wordpress,2.2k
+"Save link to Pocket, post to Wordpress","Save link to Pocket, post to Wordpress",Any new item,Create a post,/pocket,/wordpress,4
+Publish pictures from Facebook to Blog,Publish pictures from Facebook to Blog,New photo post by you,Create a photo post,/facebook,/wordpress,10
+Google Calendar event to Wordpress post,Google Calendar event to Wordpress post,New event added,Create a post,/google_calendar,/wordpress,7
+Post your Instagram videos to Wordpress,Keep your Wordpress fresh and up-to-date with your Instagram videos.,Any new video by you,Create a post,/instagram,/wordpress,26
+New statuts message by you with hashtag,New statuts message by you with hashtag,New status message by you with hashtag,Create a post,/facebook,/wordpress,2
+Push page updates to my WordPress site.,Push Facebook page updates to my WordPress site.,New link post on page,Create a photo post,/facebook_pages,/wordpress,5
+Add your new WordPress posts to Nuelink,"Whenever you publish a post on your WordPress site, there are several social networks you want to update. This IFTTT applet automatically adds those new WordPress posts to Nuelink, making it easy to share them on Twitter, Facebook, LinkedIn, Pinterest, Google Business Profile and more...",Any new post,Add Post To My Collection,/wordpress,/nuelink,
+Post new Eventbrite events on WordPress,This Applet will post your new Eventbrite events to your WordPress blog.,New event,Create a post,/eventbrite,/wordpress,
+Archive new posts to an Evernote notebook,"Live your life out of Evernote? This Applet will send the content of your new posts there, with the URL — so you can keep everything in one place.",Any new post,Create a link note,/wordpress,/evernote,2.9k

@@ -1,0 +1,4 @@
+action,action_description
+Toggle Privacy mode,"This Action will turn Privacy Mode ON or OFF. When Privacy mode is ON, the camera stops monitoring by rolling the lens under a cover for your privacy. Supported model: Mini 360"
+Toggle alarm notification,"This Action will turn the alarm notification ON or OFF. When the notification is turned on, EZVIZ will push alarm notifications to your mobile device. Supported models: all"
+Toggle Sleep mode,"This Action will turn the Sleep Mode ON or OFF. When Sleep mode is on, the camera stops monitoring for your privacy. Supported models: Mini and Mini O"

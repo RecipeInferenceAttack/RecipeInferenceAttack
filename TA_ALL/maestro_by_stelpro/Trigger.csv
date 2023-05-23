@@ -1,0 +1,4 @@
+trigger,trigger_description
+Problem detected,This trigger fires when Maestro detects a problem.
+Temperature exceeds limit,This trigger fires when room temperature exceeds the limits.
+Mode changes,This trigger fires when the mode changes.

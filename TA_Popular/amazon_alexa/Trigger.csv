@@ -1,0 +1,17 @@
+trigger,trigger_description
+Item deleted on your Shopping List,This Trigger fires every time you delete an item on your Shopping List.
+Item edited on your Shopping List,This Trigger fires every time you edit an item on your Shopping List.
+Item added to your Shopping List,This Trigger fires every time you add an item to your Shopping List.
+Item added to your To Do List,This Trigger fires every time you add an item to your To Do List.
+Item completed on your To Do List,This Trigger fires every time you complete an item on your To Do List.
+Ask for a sports team's score,"This Trigger fires every time you ask Alexa for a sports score. For example, ""Alexa, what is the score of the Toronto Blue Jays game?"""
+Ask for a sports team's next game,"This Trigger fires every time you ask Alexa for a team's next game. For example, ""Alexa, when do the Toronto Blue Jays play?"""
+Your Timer goes off,This Trigger fires every time your timer goes off.
+Item completed on your Shopping List,This Trigger fires every time you complete an item on your Shopping List.
+Ask what's on your Shopping List,This Trigger fires every time the you ask Alexa what's on your Shopping List.
+Your Alarm goes off,This Trigger fires every time your alarm goes off.
+New song played,"This Trigger fires every time a song is played on Amazon Prime Music. Note: this Trigger does not apply to songs provided by Spotify, Pandora, podcasts and sample clips."
+Item deleted on your To Do List,This Trigger fires every time you delete an item on your To Do List.
+Say a specific phrase,"This trigger fires every time you say ""Alexa trigger"" + the phrase that you have defined. For instance, if you set ""party time"" as the phrase, you can say ""Alexa trigger party time"" to have your lights loop colors."
+Item edited on your To Do List,This Trigger fires every time you edit an item on your To Do List.
+Ask what's on your To Do List,This Trigger fires every time the you ask Alexa what's on your To Do List.

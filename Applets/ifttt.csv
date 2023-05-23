@@ -1,0 +1,33 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Get an email when Webhooks publishes a new trigger or action,"As we improve our service on IFTTT, we aim to publish new triggers or actions that you won't want to miss out on. Stay tuned!",New trigger or action published by service,Send me an email,/ifttt,/email,24.4k
+Get an email when a new Amazon Alexa Applet is published,"As we improve our service on IFTTT, we plan to publish new Applets that you won't want to miss out on. Stay tuned!",New Applet published by service,Send me an email,/ifttt,/email,3.3k
+IFTTT update » mail,IFTTT update » mail,New IFTTT update,Send an email,/ifttt,/gmail,17
+New IFTTT stuff,Sets one of your lights to color loop if new services become available on IFTTT. You'll need to tweak it to pick the right one.,New IFTTT update,Turn on color loop,/ifttt,/hue,304
+What is new in IFTTT,Push what is new in IFTTT,New IFTTT update,Push a file,/ifttt,/pushbullet,41
+Get a daily recommended recipe to your gmail.,Add your own email as the recipient,Daily recommended Applet for you,Send an email,/ifttt,/gmail,42
+put ifttt updates into a google doc,(can't be blank(hahahahahha)),New IFTTT update,Append to a document,/ifttt,/google_docs,15
+Get notified when Mysa adds a new Action or Trigger,"Be in the know of Mysa's presence on IFTTT. When we add a new Action or Trigger, we'll notify you!",New trigger or action published by service,Send a notification from the IFTTT app,/ifttt,/if_notifications,545
+"Notification of new IFTTT blogs, with URL","Notification of new IFTTT blogs, with URL. Find out every time we publish a new blog, collection, or article.",New IFTTT update,Send a rich notification from the IFTTT app,/ifttt,/if_notifications,20
+Send IFTTT Updates to Pushbullet,Send IFTTT Updates to Pushbullet,New IFTTT update,Push a note,/ifttt,/pushbullet,15
+Create a task in Amplenote when a new Amplenote Applet is published,Create a new task in the specified Amplenote note when Amplenote publishes a new Applet on IFTTT.,New Applet published by service,Add a task,/ifttt,/amplenote,8
+IFTTT Blink,Blink when update from IFTTT,New IFTTT update,Send blink event,/ifttt,/blink1,66
+Notify me when Sonos publishes a new Applet,"Whenever we publish a new Applet, be the first to know! You'll receive a push notification from the IFTTT app.",New Applet published by service,Send a rich notification from the IFTTT app,/ifttt,/if_notifications,3.9k
+هدفنا التميز,"هدفنا التميز في تسويق العقار واعجابكم بصفحتنا نفتخر به
+https://m.facebook.com/Esaudi1389",Daily recommended Applet for you,Create a status message,/ifttt,/facebook_pages,3
+Morning Wake Up,Turn your lights on at a specific time each day,Daily recommended Applet for you,Turn lights on,/ifttt,/lifx,1
+"When IFTTT is updated, send the link through Pushbullet","When IFTTT is updated, send the link through Pushbullet",New IFTTT update,Push a link,/ifttt,/pushbullet,128
+Member perks form,Manage your member perk details.,None,None,None,None,329
+Life of IFTTT Development,Collect the IFTTT update as a timeline,New IFTTT update,Add a note,/ifttt,/pryv,4
+New IFTTT update → Boxcar,New IFTTT update → Boxcar,New IFTTT update,Send a notification,/ifttt,/boxcar_2,12
+Yo there's news from IFTTT,Blink your lights when IFTTT releases a new update! Launch a Scenario with Gideon and get an email so that you don't miss it!,New IFTTT update,Send me an email,/ifttt,/email,1
+New recipes as Todoist tasks!,Simple way to get new recipes as Todoist tasks!,Daily recommended Applet for you,Create task,/ifttt,/todoist,39
+tweet to twitter at 11am every day,nothing,Daily recommended Applet for you,Post a tweet with image,/ifttt,/twitter,64
+Put IFTTT Updates in my Feedly Feed.,This will put the IFTTT Updates into my Feedly feed.,New IFTTT update,Save an article for later,/ifttt,/feedly,422
+Get notified when Mysa publishes a new Applet,Be the first to know when Mysa publishes a new Applet with a notification from IFTTT!,New Applet published by service,Send a notification from the IFTTT app,/ifttt,/if_notifications,424
+Send An SMS When New Trigger Or Action Is Added,Get notified over SMS once a Action or Trigger is added to our service!,New trigger or action published by service,Send SMS,/ifttt,/GatewayAPI,
+"If new IFTTT news, create a task to check it out","When IFTTT updates with any news (new channels, features, etc.), this recipe creates a Todoist task to check out the new features.",New IFTTT update,Create task,/ifttt,/todoist,423
+Get a text message if Liebherr publishes a new IFTTT Applet,"We are improving our services constantly. Therefore, we are publishing new services regularly. Stay up to date and get a text message to your phone if there are news from Liebherr SmartDevice on IFTTT.",New Applet published by service,Send me an SMS,/ifttt,/sms,
+"If Android SMS publishes a new trigger or action, put in Pocket","If Android SMS publishes a new trigger or action, put in Pocket",New trigger or action published by service,Save for later,/ifttt,/pocket,
+Get a notification when Uplink publishes a new trigger or action,"When we publish new triggers or actions, get notified on phone.",New trigger or action published by service,Send a rich notification from the IFTTT app,/ifttt,/if_notifications,
+Adds any IFTTT updates to Evernote,Adds any IFTTT updates to Evernote,New IFTTT update,Create a note,/ifttt,/evernote,10
+Add a task to Amplenote when Amplenote publishes a new trigger or action,Add a new task to a selected note in Amplenote when Amplenote publishes a new trigger or action on IFTTT.,New trigger or action published by service,Add a task,/ifttt,/amplenote,4

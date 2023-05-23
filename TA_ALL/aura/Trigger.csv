@@ -1,0 +1,7 @@
+trigger,trigger_description
+Motion detected while Aura is set to Night,This trigger fires if Aura detects motion when set to Night scene.
+Member left,This trigger fires when a selected member leaves.
+Motion detected by Aura,This trigger fires if Aura detects motion. Note: this trigger only works with the first generation of Aura devices (sold prior to October 2017).
+Member arrived,This trigger fires when a selected member arrives.
+Motion detected while Aura is set to Away,This trigger fires if Aura detects motion when set to the Away scene.
+Scene changed to,This trigger fires when the scene is changed to the selected scene.

@@ -1,0 +1,7 @@
+action,action_description
+Fully lock a light,"This Action will fully lock a light, preventing both the use of physical buttons and radio control of the device."
+Lock light,"This Action will lock a device, preventing use of the physical buttons on the device."
+Turn off light,This Action will switch off your light.
+Turn on light,This Action will switch on your light.
+Dim a light,This Action will set a dim level on your light.
+Unlock a light,"This Action will unlock a light, allowing use of the physical buttons on the device."

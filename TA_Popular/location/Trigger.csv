@@ -1,0 +1,4 @@
+trigger,trigger_description
+You enter or exit an area,This Trigger fires every time you enter or exit an area you specify.
+You exit an area,This Trigger fires every time you exit an area you specify.
+You enter an area,This Trigger fires every time you enter an area you specify.

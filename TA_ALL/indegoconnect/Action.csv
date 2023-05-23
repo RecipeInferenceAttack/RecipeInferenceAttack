@@ -1,0 +1,4 @@
+action,action_description
+Mow,This action will send your Indego Connect to mow.
+Dock,This action will send your Indego Connect to the dock.
+Pause,This action will pause your Indego Connect.

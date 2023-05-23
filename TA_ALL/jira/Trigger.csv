@@ -1,0 +1,3 @@
+trigger,trigger_description
+New issue,This trigger fires when a new issue is created.
+Issue updated,This trigger fires when an issue is updated.

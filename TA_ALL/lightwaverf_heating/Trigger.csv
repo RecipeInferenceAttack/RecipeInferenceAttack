@@ -1,0 +1,5 @@
+trigger,trigger_description
+Heat turned off,This trigger fires when a thermostat device deactivates
+Temperature below target,This trigger fires when the temperature falls below the set target.
+Temperature above target,This trigger fires when the temperature rises above the set target.
+Heat turned on,This trigger fires when a thermostat device activates

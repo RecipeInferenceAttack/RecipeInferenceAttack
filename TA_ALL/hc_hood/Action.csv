@@ -1,0 +1,8 @@
+action,action_description
+Turn off functional light,This action will turn off the functional light of your hood.
+Turn off hood,This action will turn off your hood.
+Turn on ambient light,This action will turn on the ambient light of your hood with the selected color. Please note that this action is not supported by all hoods.
+Turn on functional light,This action will turn on the functional light of your hood with the selected brightness.
+Turn off ambient light,This action will turn off the ambient light of your hood. Please note that this action is not supported by all hoods.
+Start program,This action will start the selected hood program.
+Turn on hood,This action will turn on your hood with the default program.

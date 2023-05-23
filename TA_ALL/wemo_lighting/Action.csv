@@ -1,0 +1,9 @@
+action,action_description
+Dim the Light,Changes the brightness level of the selected WeMo light. If the light is off it will turn on with selected brightness level.
+Set sleep fader for a group of lights,Sets sleep fader time for the selected group of WeMo lights.
+Turn on,Turns on the selected WeMo light. If it is already on it stays on.
+Dim a group of lights,Changes the brightness level of the selected group of WeMo lights. If the group is off it will turn on with selected brightness level.
+Turn off,Turns off the selected WeMo light. If it is already off it stays off.
+Turn off a group of lights,Turns off the selected group of WeMo lights. If the group is already off it will remain off.
+Turn on a group of lights,Turns on the selected group of WeMo lights. If the group is already on it will remain on.
+Start sleep fader,Starts sleep fader for the selected WeMo light.

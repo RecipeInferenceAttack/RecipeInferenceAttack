@@ -1,0 +1,14 @@
+action,action_description
+Hide calendar,This action will hide calendar on your window.
+Show clock,This action will show clock on your window
+Change view,This action will change the view of your window to a randomly selected view.
+Turn on,This action will turn on your window.
+Hide clock,This action will hide clock on your window
+Wake,"This action will turn on your window.  The difference between ""turn_on"" and ""wake"" can be a bit confusing. The ""turn_on"" action turns your window on if it is currently off and turns it off if it is currently on, whereas ""wake"" only switches your window on; ""wake"" does nothing if your window is already turned on."
+Sleep,This action will turn off your window.
+Search view,This action will change the view of your window based on your search query.
+Show calendar,This action will display calendar on your window.
+Hide weather forecast,This action will hide weather forecast on your window
+Show today's events,This action will display today's events on your window.
+Turn off,This action will turn off your window.
+Show weather forecast,This action will show weather forecast on your window

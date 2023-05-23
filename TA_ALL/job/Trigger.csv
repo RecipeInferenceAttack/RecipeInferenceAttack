@@ -1,0 +1,2 @@
+trigger,trigger_description
+Feed,This trigger fires when a new remote job is posted.

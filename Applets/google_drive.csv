@@ -1,0 +1,52 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Google Drive Camera,"Create a camera widget on your phone for snapping photos directly to the folder of your choice. Great for quickly capturing receipts, reminders, and events. This Applet requires the IFTTT app. Learn more about widgets: https://ifttt.com/help/applets-with-widgets",Any new photo,Upload file from URL,/do_camera,/google_drive,18.8k
+Upload photos to Google Drive,Upload photos to Google Drive,Any new photo,Upload file from URL,/android_photos,/google_drive,372
+Remote download to Google Drive,Send an email to trigger@recipe.ifttt.com with an attachment or a file link in the message body. Optionally rename the file by entering the file name in the subject.,Send IFTTT any email,Upload file from URL,/email,/google_drive,1.5k
+[ACCV2] Shutdown computer (Google Drive),function to turn off the pc by google assistant,Activate scene,Upload file from URL,/google_assistant_v2,/google_drive,181
+All new iOS Photos to Google Drive,All new iOS Photos to Google Drive,Any new photo,Upload file from URL,/ios_photos,/google_drive,1.4k
+Save your Instagrams to Google Drive,"Automatically save your photos to a folder. Keep in mind, it only works for new photos you post.",Any new photo by you,Upload file from URL,/instagram,/google_drive,9.2k
+[ACC] Restart computer (Google Drive),"Restart your computer(s) using Amazon Alexa.
+Requires AssistantComputerControl, https://assistantcomputercontrol.com/",Say a specific phrase,Upload file from URL,/amazon_alexa,/google_drive,634
+Automatically upload your Camera Roll to Google Drive,Automatically upload your Camera Roll to Google Drive,New photo added to album,Upload file from URL,/ios_photos,/google_drive,1.1k
+Automatically sync new files added to Dropbox to your Google Drive,Whenever a new file is added to a Dropbox folder you select it will be automatically uploaded to Google Drive. Keep everything in sync!,New file in your folder,Upload file from URL,/dropbox,/google_drive,8.6k
+Download NASA Image of the Day,Download NASA Image of the Day,Image of the day by NASA,Upload file from URL,/space,/google_drive,3.2k
+New file in Google Drive Folder,This app will send you a email every time someone add a file into the folder,New file in your folder,Send an email,/google_drive,/gmail,121
+Upload photos to Google Drive using Telegram,Send a photo to the @IFTTT bot on Telegram to save it on Google Drive. Great for poor network conditions - chances are it'll be much easier to send a pic via Telegram rather than uploading it to GDrive :),New photo to @IFTTT on Telegram,Upload file from URL,/telegram,/google_drive,149
+Works: Pocket to PDF in Google Drive,Save archieved Pocket Articles as PDF in Google Drive,New item archived,Upload file from URL,/pocket,/google_drive,1.6k
+Download a liked file from YouTube to GoogleDrive,Download a liked file from YouTube to GoogleDrive,New liked video,Upload file from URL,/youtube,/google_drive,2.1k
+Facebook Tag to Google Drive,Tagged Photos automatically saved to Google Drive/Photos/Facebook,New photo post by you,Upload file from URL,/facebook,/google_drive,23
+Saved Reddit posts with images get uploaded to Google Drive,This uploads all images from saved posts to a Google drive folder under IFTTT/reddit/saved-images.,New post saved by you,Upload file from URL,/reddit,/google_drive,1.3k
+Email New Google Drive File,Email New Google Drive File,New file in your folder,Send me an email,/google_drive,/email,9
+Sync Google Drive with Dropbox,"Whenever a new file is added to Google Drive, then it will be uploaded to Dropbox.
+Customize the trigger to specify which Google Drive folder you would like to pull files from.",New file in your folder,Add file from URL,/google_drive,/dropbox,64
+Upload Android screenshots to Google Drive,Upload Android screenshots to Google Drive,New screenshot,Upload file from URL,/android_photos,/google_drive,2.4k
+Sync Pocket with Google Drive,Sync Pocket with Google Drive,Any new item,Upload file from URL,/pocket,/google_drive,803
+Download new songs you like to Google Drive,Automatically download new songs you like on SoundCloud directly to Google Drive. *Note* this works only on tracks that are publicly available for download.,New public like,Upload file from URL,/soundcloud,/google_drive,5.1k
+Add each favorite article as PDF to Google Drive,Add each favorite article as PDF to Google Drive,New favorite item,Upload file from URL,/pocket,/google_drive,1.5k
+[Strava] - New sports activity + upload GPX file to Google Drive,Every sport activity recorded in Strava will be saved in .GPX file in a Google Drive folder,New activity by you,Upload file from URL,/strava,/google_drive,57
+Instagram Video to Google Drive,Instagram Video to Google Drive,Any new video by you,Upload file from URL,/instagram,/google_drive,18
+documentos a telegram,documentos a telegram,New file in your folder,Send message,/google_drive,/telegram,197
+Save youtube videos,saved youtube videos to google drive.,New public video from subscriptions,Upload file from URL,/youtube,/google_drive,137
+If phone call answered then upload call to Google drive,If any phone call is answered from an android device then upload the call to google drive,Any incoming phone call ends,Upload file from URL,/android_phone,/google_drive,796
+Backup Flickr to Google Drive,This Applet will save your Flickr photos in one place.,Any new public photo,Upload file from URL,/flickr,/google_drive,2.1k
+Save newly added /r/Wallpapers images to Drive for ChromeCast Backdropping,"Insert a subreddit that you want the images from, and enable the ""Show Drive photos and videos in your photo library"" option in your Google + settings. Set the folder that you've created as the only BackDrop in your ChromeCast settings and you're done!",Any new post in subreddit,Upload file from URL,/reddit,/google_drive,231
+Nest Cam Daily Snapshot (Time Lapse),You will need to find the correct URL for your Nest Cam still image. To do this make the camera public. Navigate to the URL given by Nest. View the source for that page. Find a line that starts.....,Every day at,Upload file from URL,/date_and_time,/google_drive,12
+Sell your stuff,Keep your files up to date with the photos you need for your products that are selling.,New photo taken in area,Add reminder to list,/ios_photos,/ios_reminders,
+Subreddit Analytics,Gives data on subreddit usage,Any new post in subreddit,Upload file from URL,/reddit,/google_drive,
+Stockimo Submission Backup,Back up photos submitted to Stockimo in Google Drive,Any new photo uploaded by you,Upload file from URL,/stockimo,/google_drive,5
+FB page to gdrive share url,FB page to gdrive share url,New link post on page,Upload file from URL,/facebook_pages,/google_drive,92
+Olli & Alli: Image Capture Log,"This applet is designed to help you keep up with the pictures your child takes. Each image that your child captures will automatically be added to your Google Drive so that you can have on-demand access. For your convenience, you will also receive a weekly digest.",Any new photo,Add to weekly email digest,/android_photos,/email_digest,15
+Export my paid members to Drive,"Generates a list of your current paid Youtube members and saves it to Google Drive.
+
+Once you've enabled this connection use this link to export your members to your Drive: https://youtube.ifttt.com/members_export",Query,Upload file from URL,/youtube,/google_drive,171
+BloomSky Timelaps to Google Drive,Saves your Daily Timelaps to Google Drive,Timelapse of the day,Upload file from URL,/bloomsky,/google_drive,207
+Upload YouTube audio to Google Drive,Lots of youtube videos have unimportant visuals and make great podcasts. Use this recipe to fill your Drive with podcasts from Youtube.,New public bookmark tagged,Upload file from URL,/delicious,/google_drive,5
+Call recording saved to Google Drive,Save your Zoom Phone call recordings to Google Drive.,New call recording,Upload file from URL,/zoom_phone,/google_drive,
+Post new Google Drive files to Slack,Used to automatically post files from a specific Google Drive folder into a Slack channel of your choosing.,New file in your folder,Post to channel,/google_drive,/slack,149
+Google ドライブに新しいファイルが追加されたらChatworkに通知,Google ドライブの指定されたフォルダに新しいファイルが追加された場合、グループチャットに通知します。また、キーワードを指定することで、ファイル名にキーワードが含まれる場合だけ通知することも可能です。,New file from search in your folder,Post a message,/google_drive,/chatwork,31
+Flickr favorites sync to Google Drive.,Flickr favorites sync to Google Drive.,New public favorite,Upload file from URL,/flickr,/google_drive,20
+Backup Reddit posts to Email and GDrive,Backup Reddit posts to Email and their image to GDrive.,New post from search,Send me an email,/reddit,/email,9
+Sync your photo uploads to Google Drive,"When you add a new pic to the Dropbox folder specified, it'll be added to your Google Drive. Never lose a shot!",New photo in your folder,Upload file from URL,/dropbox,/google_drive,402
+Save any new Google Drive file to HiDrive,Save any new Google Drive file to HiDrive,New file in your folder,Save to HiDrive,/google_drive,/hidrive,9
+Add Bing Image of the Day to Google Drive,"Add the Bing homepage image of the day to the Drive folder of your choosing. For wallpaper use, only!",New feed item,Upload file from URL,/feed,/google_drive,60
+Automatically add new pics added to Dropbox to Drive and email them to a group,"Don't keep all the great family pics to yourself — when you upload new photos to the Dropbox folder of your choosing, this Applet will sync them to your drive and send them to up to five emails via your Gmail. Set it up before your next family reunion and start snapping away! 📸",New photo in your folder,Send an email,/dropbox,/gmail,9

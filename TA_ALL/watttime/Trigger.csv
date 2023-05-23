@@ -1,0 +1,2 @@
+trigger,trigger_description
+Change switch state,This trigger fires when a switch should be turned on or off.

@@ -1,0 +1,9 @@
+action,action_description
+Set dimmer level,This action will set the dimmer level
+Set target temperature,This Action will set the target temperature for the selected device to the temperature you specify.
+Power off device by name,"This action will power off a Mi|Home device, identified by its name."
+Power off group,This Action will turn off a whole group of Mi|Home devices simultaneously.
+Power on device,This Action will turn on one of your Mi|Home devices.
+Power on group,This Action will turn on a whole group of Mi|Home devices simultaneously.
+Power off device,This Action will turn off one of your Mi|Home devices.
+Power on device by name,"This action will power on a Mi|Home device, identified by its name."

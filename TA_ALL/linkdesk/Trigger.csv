@@ -1,0 +1,3 @@
+trigger,trigger_description
+Leave a room,This Trigger fires when you leave a room.
+Enter a room,This Trigger fires when you enter a room.

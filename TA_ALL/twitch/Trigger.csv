@@ -1,0 +1,8 @@
+trigger,trigger_description
+Stream going live for a channel you follow,This Trigger fires every time a stream is going live for the specified Channel that you follow.
+New stream started by you,This trigger fires every time you start streaming on Twitch.
+New follower on your channel,This trigger fires every time there is a new follower of your channel.
+You follow a new channel,This trigger fires every time you follow a new channel on Twitch.
+New video posted by a channel you follow,This trigger fires every time there is a new video posted by a channel you follow.
+A user followed a channel,This trigger fires every time the specified user starts following a channel on Twitch.
+New video posted by you,This trigger fires every time there is a new video posted by you.

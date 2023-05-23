@@ -1,0 +1,6 @@
+trigger,trigger_description
+Relay off,This Trigger fires every time your WeMo Maker relay is turned off in toggle mode.
+Relay on,This Trigger fires every time your WeMo Maker relay is turned on in toggle mode.
+Sensor not triggered,This Trigger fires every time a signal is not detected from your sensor. NOTE: The sensor must be enabled in your Maker's settings.
+Sensor triggered,This Trigger fires every time a signal is detected from your sensor. NOTE: The sensor must be enabled in your Maker's settings.
+Momentary on,This Trigger fires every time your WeMo Maker relay is turned on in momentary mode.

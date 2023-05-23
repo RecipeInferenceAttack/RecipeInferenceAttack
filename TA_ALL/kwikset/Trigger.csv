@@ -1,0 +1,3 @@
+trigger,trigger_description
+Device Locked,This trigger will be called whenever the device is locked.
+Device Unlocked,This trigger will be called whenever the device is unlocked.

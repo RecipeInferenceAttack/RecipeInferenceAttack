@@ -1,0 +1,5 @@
+trigger,trigger_description
+Waking up is detected,This trigger fires if your waking up is detected.
+Falling asleep is detected,This trigger fires if falling asleep is detected.
+Lying down is detected,This trigger fires if your lying down is detected.
+Sleep score is determined,This trigger fires if your sleep score is determined.

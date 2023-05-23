@@ -1,0 +1,60 @@
+action,action_description
+Pause vacuuming (Pause recharging),The robot will pause vacuuming (pause recharging)
+清掃する,ロボットは清掃を開始します
+モード切替,ロボットは吸引力のモードを切り替えます
+Control home appliances,"This action will ask SwitchBot Hub Plus to send an infrared signal to control any ""Others"" types of appliances set in the SwitchBot App.
+
+Note: Please use other actions if your appliance type is known to the App for a better experience"
+テープライトをオン/オフにする,本ページでテープライトの状態を設定できます
+Delay On/Off,You can set the Plug Mini's action
+電球のプリセット,本ページでSwitchBotアプリに保存されたプリセットを設定できます
+Bot turn on,This action will trigger the specified Bot to turn on the switch.
+LED Strip Light Color,You can set the color of Strip Light on this page.
+Turn Ceiling Light On/Off,You can set your Ceiling Light to be turned on/off.
+トグル（オン/オフ）,プラグミニの実行アクションを設定できます
+電球をオン/オフにする,本ページで電球の状態を設定できます
+Turn Plug on,This action will turn on your Plug.
+Bulb Color Temperature,You can set the color temperature of your Color bulb here.
+Turn A/C on,"This action will ask SwitchBot Hub Plus to turn on or set your paired air conditioner with predefined mode, temperature and fan speed."
+Bulb Presets,You can set the presets saved in your SwitchBot app here.
+Start recharging,The robot will start recharging
+Control Curtain,This Action will control the SwitchBot Curtain.
+扇風機をコントロール,このアクションはSwitchBotスマート扇風機を操作できます。
+Power On/Off,You can set the Plug Mini's action
+Control TV,This action will ask SwitchBot Hub Plus to send an infrared signal to control TV.
+テープライトのカラー,本ページでテープライトのカラーを設定できます
+Control Humidifier,This Action will control the SwitchBot Smart Humidifier.
+Ceiling Light Brightness,You can set the brightness of your Ceiling Light here.
+電球の色温度,本ページで電球のカラーを設定できます
+シーリングライトの明るさ,シーリングライトの明るさを設定できます
+カーテンをコントロール,このアクションは、SwitchBotカーテンを制御します。
+Toggle Ceiling Light On/Off,Toggle Ceiling Light On/Off
+Turn Bulb On/Off,You can set the on/off state of your Color Bulb here.
+Switch Mode,The robot will switch mode
+電球の明るさ,本ページで電球の明るさを設定できます
+Scene,Run the Scene you previously set in the SwitchBot App. Only manual execution types are allowed.
+LED Strip Light On/Off,You can set the on/off state of your Strip Light here.
+電源オン/オフ,プラグミニの実行アクションを設定できます
+清掃/再充電を一時停止,ロボットは清掃/再充電を一時停止します
+Toggle On/Off,You can set the Plug Mini's action
+Open/close Blind Tilt,This action will open/close Blind Tilt up or down and to a specific percentage.
+再充電する,ロボットは充電に帰還します
+Turn off appliance with Hub Plus IR remote,This action will ask SwitchBot Hub Plus to turn off your paired appliance with the IR remote feature.
+シーリングライトをオン/オフ,シーリングライトのオン/オフを設定できます
+Bulb Brightness,You can set the brightness of your Color Bulb here.
+シーン,SwitchBot アプリで作成したシーンを実行します。（ご注意：手動実行するシーンのみ）
+Control Fan,This Action will control the SwitchBot Smart Fan.
+Bot press,This action will trigger the specified Bot to press the switch.
+Bot turn off,This action will trigger the specified Bot to turn off the switch.
+Turn Plug off,This action will turn off your Plug.
+Bulb Color,You can set the color of your Color Bulb here.
+トグルシーリングライト（オン/オフ）,トグルシーリングライト（オン/オフ）
+ブラインドポールの開閉を設定,ブラインドポールを特定の位置まで開ける/閉めるに設定可能です。
+Turn on appliance with Hub Plus IR remote,This action will ask SwitchBot Hub Plus to turn on your paired appliance with the IR remote feature.
+Start vacuuming,The robot will start vacuuming
+Turn A/C off,This action will ask SwitchBot Hub Plus to turn off your paired air conditioner.
+遅延実行（オン/オフ）,プラグミニの実行アクションを設定できます
+加湿器をコントロール,このアクションは、SwitchBotスマート加湿器を制御します。
+Ceiling Light Color Temperature,You can set the color temperature of your Ceiling Light here.
+電球のカラー,本ページで電球のカラーを設定できます
+シーリングライトの色温度,シーリングライトの色温度を設定できます

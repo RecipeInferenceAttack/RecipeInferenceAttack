@@ -1,0 +1,4 @@
+action,action_description
+Add file from URL,This Action will download a file at a given URL and add it to OneDrive at the path you specify. NOTE: 30 MB file size limit.
+Create text file,This action will create a new text file at the path you specify
+Append to a text file,This Action will append to a text file as defined by the file name and folder path you specify

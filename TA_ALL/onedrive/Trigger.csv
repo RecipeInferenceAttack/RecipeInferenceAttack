@@ -1,0 +1,7 @@
+trigger,trigger_description
+New file in folder,This Trigger fires every time a new file is created in the folder you specify.
+New file matching search in folder,This trigger fires every time a new file whose filename or file contents contains the words you specify is added to the folder you specify
+New file or folder shared with me,This trigger fires every time a new file or folder is shared with you
+New photo in folder,This Trigger fires every time a new photo is created in the folder you specify.
+New tagged photo in folder,This Trigger fires every time a new photo with the tag you specify is created in the folder you specify.
+New file matching regex in folder,This trigger fires every time a new file whose filename matches the regular expression you specify is added to the folder you specify

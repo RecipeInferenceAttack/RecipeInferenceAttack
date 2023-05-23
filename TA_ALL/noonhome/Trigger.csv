@@ -1,0 +1,3 @@
+trigger,trigger_description
+Home scene changed,This trigger fires when the home scene is changed.
+Scene changed,This trigger fires when the scene in a room is changed.

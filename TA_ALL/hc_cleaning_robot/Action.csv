@@ -1,0 +1,7 @@
+action,action_description
+Clean map,This action will start your Roxxter using the current map and your preferred settings.
+Stop program,This action will stop the active program.
+Change cleaning mode,This action will change the mode of an active cleaning program.
+Go home,This action will send your Roxxter home. The second action parameter let's you decide if your Roxxter should go home even if it is currently active.
+Resume program,This action will resume the paused program.
+Pause program,This action will pause the active program.

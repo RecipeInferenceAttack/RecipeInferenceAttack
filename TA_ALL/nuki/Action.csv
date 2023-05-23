@@ -1,0 +1,7 @@
+action,action_description
+Unlock door,This action will unlock the door.
+Activate Auto Lock,This action will activate Auto Lock. Auto Lock automatically locks your door a certain time after the last unlock or if it is closed (with door sensor activated).
+Open door,This action will open the door by pulling the latch.
+Lock 'n' Go door,"This action will perform a Lock 'n' Go command, which unlocks your door and locks it again after a certain time."
+Deactivate Auto Lock,This action will deactivate Auto Lock.
+Lock door,This action will lock the door.

@@ -1,0 +1,3 @@
+trigger,trigger_description
+Body induction,This trigger fires when the status of the body induction（PIR Detector） change
+Device turns on or off,This trigger fires when a device turns on or off

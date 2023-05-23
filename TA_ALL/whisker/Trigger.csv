@@ -1,0 +1,3 @@
+trigger,trigger_description
+Litter Robot Events,This trigger fires when an event is triggered from your litter robot. ie. Clean Cycle Completes
+Litter Robot Insights,This trigger fires every week or month with data about your litter robot insights

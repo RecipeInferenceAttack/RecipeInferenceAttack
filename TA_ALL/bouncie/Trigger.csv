@@ -1,0 +1,18 @@
+trigger,trigger_description
+Vehicle had frequent hard brakes,This trigger fires when a vehicle brakes hard frequently
+Vehicle's check engine light comes on,This trigger fires when the vehicles check engine come on.
+Vehicle drove at unusual time,This trigger fires when a vehicle drives outside the time range specified. Time range can be configured on drives alert page in the Bouncie App.
+Bouncie was reconnected,This trigger fires when the Bouncie adapter is plugged back into the vehicle.
+Vehicle drove a long distance,This trigger fires when a vehicle drives a long distance. Distance can be configured on drives alert page in the Bouncie App.
+Trip was completed,This trigger fires when a new trip is completed.
+Vehicle had frequent rapid accelerations,This trigger fires when a vehicle has many rapid accelerations during at trip
+Vehicle was over maximum speed,This trigger fires when a vehicle accelerated above specified maximum speed. Maximum speed can be configured on drives alert page in the Bouncie App.
+Geo-Circle was entered,This trigger fires when a vehicle enters one of its geo-circles.
+Vehicle has low fuel,This trigger fires when a vehicle has low fuel.
+Insurance expiration reminder,This trigger fires when a vehicle's insurance is expiring.
+Vehicle renewal,This trigger fires when a vehicle renewal occurs.
+Vehicle's battery is low or critical,This trigger fires when a vehicle's low/critical battery event occurs.
+Geo-Circle was exited,This trigger fires when a vehicle exits one of its geo-circles
+Vehicle had unusual fuel economy,This trigger fires when a vehicle fuel economy on a trip is out of the defined range.
+Vehicle care event,This trigger fires when a vehicle has a care event.
+Vehicle was idle for a long time,This trigger fires when a vehicle was idle for a long time during a trip.

@@ -1,0 +1,7 @@
+action,action_description
+Create a text post,This action will create a Text Post on Tumblr.
+Create an audio post,This action will create an Audio Post on Tumblr.
+Create a quote post,This action will create a quote post at Tumblr.
+Create a video post,This action will create a Video Post on Tumblr.
+Create a link post,This action will create a Link Post at Tumblr.
+Create a photo post,This action will create a Photo Post on Tumblr.

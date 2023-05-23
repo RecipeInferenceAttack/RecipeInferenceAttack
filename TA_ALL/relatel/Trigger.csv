@@ -1,0 +1,6 @@
+trigger,trigger_description
+New Call,This trigger fires when a new call is started.
+New Voicemail,This trigger fire when a new voicemail is received.
+New Smiley,This trigger fire when a new smiley is rated.
+New Chat,This trigger fires when a new chat is started.
+New Message,This trigger fires when a new sms is sent.

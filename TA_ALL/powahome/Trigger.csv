@@ -1,0 +1,11 @@
+trigger,trigger_description
+Light switched on,This trigger fires when the light you select is switched on.
+Any socket is switched off in a room,This trigger fires when a socket is switched off in the room you select.
+Any roller is moved in a room,This trigger fires every time a roller is crossing the selected percentage in the room you select.
+Socket switched on,This trigger fires when the socket you select is switched on.
+Any light is switched on in a room,This trigger fires when a light is switched on in the room you select.
+Any light is switched off in a room,This trigger fires when a light is switched off in the room you select.
+Socket switched off,This trigger fires when the socket you select is switched off.
+Any socket is switched on in a room,This trigger fires when a socket is switched on in the room you select.
+Light switched off,This trigger fires when the light you select is switched off.
+Roller moved,This trigger fires every time the roller you select is crossing the selected percentage.

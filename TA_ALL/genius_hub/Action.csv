@@ -1,0 +1,5 @@
+action,action_description
+Override a 'hot water' zone,Override a zone's temperature for a given duration.
+Override a 'radiator' zone,Override a zone's temperature for a given duration.
+Override a 'underfloor' zone,Override a zone's temperature for a given duration.
+Override an 'on / off' zone,Override a zone to 'on' or 'off' for a given duration.

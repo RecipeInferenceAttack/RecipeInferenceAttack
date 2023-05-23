@@ -1,0 +1,13 @@
+trigger,trigger_description
+Coffee has finished brewing,This trigger fires when the Smarter Coffee 2.0 has finished brewing.
+FridgeCam detects that the door has been open for too long,The fridge door has been left open for too long.
+FridgeCam detects that an item has been added to the shopping list,This trigger fires when an item is added to the fridge.
+FridgeCam detects that an item was removed from the shopping list,This trigger fires when an item is removed from the fridge.
+Kettle has finished boiling,This trigger fires when the Smarter iKettle 3.0 has finished boiling.
+Coffee has finished keeping warm,This trigger fires when the Smarter Coffee 2.0 has finished keeping warm.
+Kettle has finished keeping warm,This trigger fires when the Smarter iKettle 3.0 has finished keeping warm.
+FridgeCam detects that an item has changed in the fridge,"This trigger fires when an item is added to, or removed from, the fridge."
+FridgeCam detects that the fridge temperature is too low,This trigger fires when the temperature inside the fridge becomes too low.
+FridgeCam detects that the fridge temperature is too high,This trigger fires when the temperature inside the fridge becomes too high.
+Kettle has cooled to temperature,This trigger fires when the Smarter iKettle 3.0 has reached its 'Cool to' temperature.
+FridgeCam has a low battery,This trigger fires when the FridgeCam has a low battery.

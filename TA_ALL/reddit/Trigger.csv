@@ -1,0 +1,10 @@
+trigger,trigger_description
+New comment by you,This Trigger fires every time you save a new comment on reddit.
+New hot post in subreddit,This Trigger fires every time a new post becomes one of the ten hottest posts in the subreddit you specify.
+New post from search,This Trigger fires every time a new post submitted on reddit matches a search query you specify. NOTE: limited to 20 items per check.
+New post by you,This Trigger fires every time you submit a new post on reddit.
+New top post in subreddit,This Trigger fires every time a new post becomes one of the ten top posts in the subreddit you specify.
+New downvoted post by you,This Trigger fires every time you downvote a post on reddit.
+New upvoted post by you,This Trigger fires every time you upvote a post on reddit.
+Any new post in subreddit,This Trigger fires every time there is a new post in the subreddit you specify.
+New post saved by you,This Trigger fires every time you save a post on reddit.

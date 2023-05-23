@@ -1,0 +1,6 @@
+trigger,trigger_description
+Oven timer done,This Trigger fires every time your oven timer reaches zero.
+Oven turned off,This Trigger fires every time your oven is turned off.
+Cooking timer done,This Trigger fires every time your oven turns off after the cooking timer reaches zero.
+Oven turned on,This Trigger fires every time your oven is turned on.
+Preheat temperature achieved,This Trigger fires every time your oven is preheated.

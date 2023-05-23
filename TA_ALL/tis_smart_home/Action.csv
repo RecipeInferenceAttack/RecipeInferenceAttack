@@ -1,0 +1,25 @@
+action,action_description
+Change thermostat mode to cool,This action  will change  your thermostat to cool
+Turn on thermostat,This action  will turn  on your thermostat
+Change thermostat mode to heat,This action  will change  your thermostat to heat
+Turn off switch,This action  will turn  off your switch
+Change thermostat mode to auto,This action  will change  your thermostat to auto
+Turn off floor heater,This action  will turn  off your floor heater
+Turn on rgb,This action  will turn on  your rgb
+Turn off thermostat,This action  will turn  off your thermostat
+Turn off dimmer,This action  will turn off  your dimmer
+Turn on floor heater,This action  will turn  on your floor heater
+Close relay to curtain,This action  will close your TIS relay to curtain
+Set color for rgb light,This action  will set color for selected TIS support rgb light
+Turn on mood,This action  will turn  on your TIS mood
+Turn off rgb,This action  will turn off  your rgb
+Turn on fan,This action  will turn  on your fan
+Turn on switch,This action  will turn  on your switch
+Set brightness for dimmer,This action  will set brightness for selected TIS support dimmer
+Turn off appliance,This action  will turn  off your appliance
+Open relay to curtain,This action  will open your TIS relay to curtain
+Open curtain motor,This action  will open your TIS curtain motor
+Close curtain motor,This action  will close your TIS curtain motor
+Turn on appliance,This action  will turn  on your appliance
+Turn off fan,This action  will turn  off your fan
+Turn on dimmer,This action  will turn on  your dimmer

@@ -1,0 +1,6 @@
+trigger,trigger_description
+Lock is opened,The trigger fires when the lock is opened.
+Device is turned off,The trigger fires when the device is turned off.
+Sensor is triggered on,The trigger fires when sensor is triggered on.
+Sensor is triggered off,The trigger fires when sensor is triggered off.
+Device is turned on,The trigger fires when the device is turned on.

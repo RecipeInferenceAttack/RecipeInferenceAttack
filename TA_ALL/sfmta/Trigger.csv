@@ -1,0 +1,2 @@
+trigger,trigger_description
+New blog post,This trigger fires whenever there is a new blog post from SFMTA.

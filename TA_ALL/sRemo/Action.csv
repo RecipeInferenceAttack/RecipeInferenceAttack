@@ -1,0 +1,4 @@
+action,action_description
+Send signal under set condition,This action send a signal to your sRemo based on a pre-chosen condition in your sCloud.
+Send set number to sRemo,This action will send a chosen Set Number to your sRemo.
+Send Trigger Number to sRemo,This action will send the chosen Trigger Number to your sRemo.

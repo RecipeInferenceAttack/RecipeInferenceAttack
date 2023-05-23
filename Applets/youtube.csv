@@ -1,0 +1,51 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Add songs from videos you like to a Spotify playlist,"This Applet will search the title of the video on Spotify — if it finds the track, it'll add it to a ""YouTube"" playlist. Not all songs on YouTube are available on Spotify. Happy tune hunting!",New liked video,Add track to a playlist,/youtube,/spotify,114.0k
+Automatically Tweet the videos you like,"For every video you 👍 on YouTube, this Applet will post a new Tweet to your Twitter account with the video title and link",New liked video,Post a tweet,/youtube,/twitter,4.2k
+Get a notification when there's a new video from a channel you subscribe to,"""First!"" — this Applet can help you make that comment. It'll let you know when there's a new upload to check out from one of your favorite channels.",New public video from subscriptions,Send a notification from the IFTTT app,/youtube,/if_notifications,5.4k
+Automatically share your new videos to a Facebook Page,Keep your communities in sync — when you upload a new public video the link will be posted on your Facebook Page.,New public video uploaded by you,Create a link post,/youtube,/facebook_pages,36.5k
+Share YouTube video to Discord,Automatically post your latest YouTube video to a Discord channel when it goes live. Customize the message with Rich Message action instead.,New public video uploaded by you,Post a message to a channel,/youtube,/discord,1.5k
+Save liked Youtube video to Raindrop.io,Save liked Youtube video to Raindrop.io,New liked video,Create a new bookmark,/youtube,/raindrop,3.1k
+Post new videos by a specific YouTube channel on Discord,"Sends a message on a Discord channel of your desire with message specified when a new video is uploaded to a specific YouTube channel. Requires you authorized access on both Google and Discord, and that IFTTT bot is added into server you need.",New video by channel,Post a message to a channel,/youtube,/discord,45
+Share your new videos to Blogger,"Get those views! This Applet will grab the embed code from your new public videos and turn them into blog posts. The title on YouTube will be the title on Blogger, too.",New public video uploaded by you,Create a post,/youtube,/blogger,10.0k
+"YouTube ""Like"" videos saved to Day One",Like a video on YouTube creates a Journal Entry with a URL which auto-embeds the YouTube player in Day One.,New liked video,Create Journal Entry,/youtube,/day_one,3.0k
+Publish your new videos as Wordpress posts,Grow your audience by cross-posting your videos automatically — this Applet will grab the embed code and post it on Wordpress. The title of the blog will be the title of the video.,New public video uploaded by you,Create a post,/youtube,/wordpress,8.6k
+Track your liked videos in Sheets,"Add a row to a Google Sheet every time you like a new video. Simple way to track the videos you like, easy to reference and search the file.",New liked video,Add row to spreadsheet,/youtube,/google_sheets,832
+Share your latest YouTube uploads on /r/videos,Share your latest YouTube uploads on /r/videos,New public video uploaded by you,Submit a new link,/youtube,/reddit,4.3k
+Member perks form,Manage your member perk details.,None,None,None,None,333
+Message to Discord when you share a new video on YouTube,Send a Rich message to Discord when you share a new video on YouTube,New public video uploaded by you,Post a rich message to a channel,/youtube,/discord,617
+Send message when video uploaded,Send message to your Telegram channel when uploaded new public video to YouTube by you,New public video uploaded by you,Send message,/youtube,/telegram,243
+Add your YouTube videos to a Telegram channel or chat,This applet runs command to post your YouTube videos posted on a Telegram chat or channel,New public video uploaded by you,Send video,/youtube,/telegram,180
+Publish your new videos on Tumblr,"When you upload a new public video, it'll automatically be published to your Tumblr as a video post. 🙌",New public video uploaded by you,Create a video post,/youtube,/tumblr_legacy,10.1k
+"When a user you subscribe to uploads a new YouTube video, share it with a Telegram chat","Every time a particular subscriber you follow on YouTube posts a new video, a link to the video will be shared with the Telegram chat you specify.",New public video from subscriptions,Send message,/youtube,/telegram,2.1k
+Export my paid members to Drive,"Generates a list of your current paid Youtube members and saves it to Google Drive.
+
+Once you've enabled this connection use this link to export your members to your Drive: https://youtube.ifttt.com/members_export",Query,Upload file from URL,/youtube,/google_drive,171
+"If New video by channel, then Post a tweet to @Vtuitions_com","If New video by channel, then Post a tweet to @Vtuitions_com",New video by channel,Post a tweet,/youtube,/twitter,2
+YT to Buffer (any new upload),YT to Buffer (any new upload),New public video uploaded by you,Add photo to Buffer,/youtube,/buffer,190
+Post new YouTube video uploads to Tumblr,"When you upload a new video to YouTube, create a new post on Tumblr",New public video uploaded by you,Create a video post,/youtube,/tumblr,108
+"If YT like, then FB Fanpage Link Post","If YT like, then FB Fanpage Link Post",New liked video,Create a link post,/youtube,/facebook_pages,2.3k
+Like on Youtube then create a post on Blogger,Nice Na,New liked video,Create a post,/youtube,/blogger,247
+Youtube Uploads to Google Doc,Youtube Uploads to Google Doc,New public video uploaded by you,Add row to spreadsheet,/youtube,/google_sheets,202
+Download a liked file from YouTube to GoogleDrive,Download a liked file from YouTube to GoogleDrive,New liked video,Upload file from URL,/youtube,/google_drive,2.1k
+"If New video from search, then Create a link post on Amélio",U,New video from search,Create a link post,/youtube,/facebook_pages,1
+Save new videos from your favorite channel to Pocket,Catch up on new content from your favorite subscription in your Pocket queue — the link will be waiting there for you when you're ready.,New public video from subscriptions,Save for later,/youtube,/pocket,666
+"If you like a YouTube video, then add a file to Dropbox",Like a youtube video and it will show up on your dropbox,New liked video,Add file from URL,/youtube,/dropbox,788
+Add Spotify song from liked YouTube video,Adds a liked YouTube video to a Spotify Playlist (Filters out special characters from the vide title to get better matches with Spotify songs),New liked video,Add track to a playlist,/youtube,/spotify,7.4k
+Liked YouTube Videos append to a note in Evernote,Just a long awaited function.,New liked video,Append to note,/youtube,/evernote,1.1k
+Youtube video to Twitter,Youtube video to Twitter,New public video uploaded by you,Post a tweet,/youtube,/twitter,6.6k
+"YouTube channel publishes song, add automatically to Spotify playlist","If a new song is published on a particular YouTube channel AND it is available on Spotify, it will add the song automatically to the playlist.",New public video from subscriptions,Add track to a playlist,/youtube,/spotify,169
+A new Video uploaded,Hi we have uploaded a new video on youtube,New public video uploaded by you,Create a photo post,/youtube,/blogger,114
+YT to Diigo via Gmail,YT to Diigo via Gmail,New public video uploaded by you,Send an email,/youtube,/gmail,982
+Automatically share your new videos to a Facebook Page and Twitter,Rack up the views! This Applet automatically shares the link and title of your new public videos to your Facebook Page and Twitter.,New public video uploaded by you,Post a tweet,/youtube,/twitter,1.7k
+Share videos you liked on Youtube to LINE,Send a message to LINE when you liked a YouTube's video. Just choose the LINE group where you want to receive a message.,New liked video,Send message,/youtube,/line,637
+YT like to Google Drive,YT like to Google Drive,New liked video,Create a document,/youtube,/google_docs,39
+Track your members in a Google Sheet,This Applet will add a new row to a Google Sheet called 'YouTube Channel Memberships' every time you receive a new member. Find it in the Drive folder 'YouTube.',New channel membership,Add row to spreadsheet,/youtube,/google_sheets,137
+YouTube video social sharing,Share your latest YouTube video across your social channels.,New public video uploaded by you,Post a message to a channel,/youtube,/discord,89
+Post a Discord message everything you like a YouTube video.,There wasn't anything like it on IFTTT so I decided to make one.,New liked video,Post a message to a channel,/youtube,/discord,15
+internet marketing,online jobs,New public video uploaded by you,Upload a photo from URL,/youtube,/facebook_pages,49
+Save youtube videos,saved youtube videos to google drive.,New public video from subscriptions,Upload file from URL,/youtube,/google_drive,139
+"If Uploaded to Youtube, Upload as a Track on Soundcloud.","If Uploaded to Youtube, Upload as a Track on Soundcloud.",New public video uploaded by you,Upload a public track,/youtube,/soundcloud,848
+"If New video from search, then Create a new bookmark",2,New video from search,Create a new bookmark,/youtube,/raindrop,6
+Uploading youtube videos creates slack posts.,Uploading youtube videos creates slack posts.,New public video uploaded by you,Post to channel,/youtube,/slack,514
+Track your Super Chat messages in a Google Sheet,This Applet will add a new row to a Google Sheet called 'Super Chat Messages' every time you receive any Super Chat message. Find it in the Drive folder 'YouTube.',New Super Chat message,Add row to spreadsheet,/youtube,/google_sheets,173
+Track new YouTube likes on your Welltory Dashboard,Find correlations between your lifestyle and social media performance,New liked video,Send event,/youtube,/welltory,261

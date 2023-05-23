@@ -1,0 +1,8 @@
+trigger,trigger_description
+Low battery,This trigger fires when battery is low
+Contact sensor triggered,This trigger fires when contact sensor triggered
+Turned on/off,This trigger fires when the device is turned on/off
+Armed/DisArmed,This trigger fires when the sensor is  armed or disarmed
+Appliance alert,This trigger fires when the alert is  triggered
+Water leakage detected,This trigger fires when water leakage is detected or stops
+Motion sensor triggered,This trigger fires when motion sensor triggered

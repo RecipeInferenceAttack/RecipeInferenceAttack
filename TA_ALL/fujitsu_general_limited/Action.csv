@@ -1,0 +1,2 @@
+action,action_description
+Set Operation_Mode and Temperature,"Pick an AC of the current user, Set operation_mode to OFF,Auto,Cool,Dry,Fan or Heat, and Set temperature between 18C-30C (64F-88F)."

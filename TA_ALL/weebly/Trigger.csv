@@ -1,0 +1,5 @@
+trigger,trigger_description
+Product sale,This Trigger fires every time a new sale occurs on your website.
+Site publish,This Trigger fires every time you publish your Weebly website.
+Blog comment,This Trigger fires every time someone posts a comment to a specific blog.
+Form submission,This Trigger fires every time you receive a new form submission.

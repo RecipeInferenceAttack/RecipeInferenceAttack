@@ -1,0 +1,6 @@
+action,action_description
+Turn a dimmer on,This action will turn a dimmer on.
+Turn a dimmer off,This action will turn a dimmer off.
+Run a Nexia automation,This action will run a Nexia automation.
+Turn a switch off,This action will turn a switch off.
+Turn a switch on,This action will turn on a switch.

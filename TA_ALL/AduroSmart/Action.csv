@@ -1,0 +1,10 @@
+action,action_description
+Toggle device on/off,This Action will toggle your device on or off.
+Dim device,This action will dim your device.
+Change color,This Action will change the color of your lights. Default to white if no color match is found.
+Turn off device,This action will turn off your device.
+Activate a scene,This Action will activate a scene on your lights. You must make sure your AduroSmart connected.
+Identify device,This action will identify your device.
+Turn on color loop,This Action will turn on a color loop effect for your color lights.
+Turn on device,This action will turn on your device.
+Turn off color loop,This Action will turn off color loop for your lights.

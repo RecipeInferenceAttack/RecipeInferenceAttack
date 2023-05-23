@@ -1,0 +1,10 @@
+trigger,trigger_description
+New blue line alert,This trigger fires when there is a new blue line rail alert from CTA.
+New orange line alert,This trigger fires when there is a new orange line rail alert from CTA.
+New green line alert,This trigger fires when there is a new green line rail alert from CTA.
+New brown line alert,This trigger fires when there is a new brown line rail alert from CTA.
+New yellow line alert,This trigger fires when there is a new yellow line rail alert from CTA.
+New pink line alert,This trigger fires when there is a new pink line rail alert from CTA.
+New red line alert,This trigger fires when there is a new red line rail alert from CTA.
+New purple line alert,This trigger fires when there is a new purple line rail alert from CTA.
+New rail alert,This trigger fires when there is a new rail alert from CTA.

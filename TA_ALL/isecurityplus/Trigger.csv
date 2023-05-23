@@ -1,0 +1,4 @@
+trigger,trigger_description
+Motion detected by camera,This Trigger fires every time the camera detects motion. Requires motion detection to be enabled on your camera.
+Person seen by camera,This Trigger fires every time the camera sees a moving person. (A premium service upgrade is required to enable people detection.)
+Activity seen by camera,"This Trigger fires every time the camera sees something important moving. It will try to ignore shadows, moving tree leaves, and similar 'noise', while still seeing moving cars, pets, and people. (A premium service upgrade is required to enable smart visi"

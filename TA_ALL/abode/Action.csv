@@ -1,0 +1,11 @@
+action,action_description
+Turn off switch,This action will turn off the selected switch.
+Open Garage Door,This action will open the selected garage door.
+Turn on switch,This action will turn on the selected switch.
+Lock device,This action will lock the selected lock.
+Unlock device,This action will unlock the selected lock.
+Toggle switch,This action will toggle the selected switch from On to Off or Off to On.
+Change mode,This action will change your abode system to the selected system mode.
+Close Garage Door,This action will close the selected garage door.
+Quick Action,This action will apply the selected abode Quick Action.
+Change dimmer level,This action will change the dimmer to the selected percentage.

@@ -1,0 +1,2 @@
+trigger,trigger_description
+Device Event,"This trigger fires when device generates event (bed exit, fall asleep etc)"

@@ -1,0 +1,15 @@
+trigger,trigger_description
+Home when scheduled to be in Sleep mode,"This trigger fires when you are scheduled to be in Sleep mode and somebody is at home.
+NOTE: SmartGeo™ needs to be Active"
+Home when scheduled to be Away,"This trigger fires when you are scheduled to be Away but somebody is at home. 
+NOTE: SmartGeo™ needs to be Active"
+Temperature rises above,This trigger fires every time the temperature rises above a specified temperature
+Temperature drops below,This trigger fires every time the temperature drops below a specified temperature
+Away when scheduled to be Away,"This trigger fires when you are scheduled to be Away and nobody is in the house.  
+NOTE: SmartGeo™ needs to be Active"
+Away when scheduled to be Home,"This trigger fires when you are scheduled to be Home but nobody is in the house.  
+NOTE: SmartGeo™ needs to be Active"
+Home when scheduled to be Home,"This trigger fires when you are scheduled to be Home and somebody is at Home.  
+NOTE: SmartGeo™ needs to be Active"
+Away when scheduled to be in Sleep mode,"This trigger fires when you are scheduled to be in Sleep mode but nobody is in the house.  
+NOTE: SmartGeo™ needs to be Active"

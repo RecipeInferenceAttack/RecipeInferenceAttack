@@ -1,0 +1,5 @@
+trigger,trigger_description
+Incoming call from unknown number,This Trigger fires every time you receive an incoming call from a number that is not in your contact list.
+Incoming call from known number,This Trigger fires every time you receive an incoming call from a phone number in your contact list.
+New voicemail,This Trigger fires every time you receive a new voicemail.
+Any incoming call,This Trigger fires every time you receive an incoming call.

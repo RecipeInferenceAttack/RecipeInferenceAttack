@@ -1,0 +1,8 @@
+trigger,trigger_description
+Mode changes,This trigger fires when the air purifier changes mode.
+Air purifiers turns off,This trigger fires when the air purifier is turned off.
+Air purifier turns on,This trigger fires when the air purifier turns on.
+Filter life drops below threshold,This trigger fires when the remaining filter-life drops below a set percentage.
+Air quality changes,"This trigger fires when the air purifier detects a certain air quality (Very Good, Good, Moderate, or Bad)."
+Fan Speed changes,This trigger fires when the air purifier changes fan speed.
+Display turns on/off,This trigger fires when the display turns on or off.

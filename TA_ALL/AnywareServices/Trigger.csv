@@ -1,0 +1,5 @@
+trigger,trigger_description
+Temperature drops below threshold,This trigger fires when temperature drops below the specified value
+Energy Saving Mode is activated,This trigger fires when the Energy Saving Mode Scene is activated
+Temperature rises above threshold,This trigger fires when temperature rises above the specified value
+Intrusion detected,This trigger fires when adaptors detect intrusion

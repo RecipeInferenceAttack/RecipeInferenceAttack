@@ -1,0 +1,13 @@
+trigger,trigger_description
+Thermostat outdoor temperature is greater than,This trigger fires every time your ecobee thermostat senses that the outdoor temperature is greater than a specific value you supply.
+Thermostat indoor temperature is less than,This trigger fires every time your ecobee thermostat senses that the indoor temperature is less than a specific value you supply.
+Thermostat indoor humidity is greater than,This trigger fires every time your ecobee thermostat senses that the indoor humidity is greater than a specific value you supply.
+Thermostat indoor humidity is less than,This trigger fires every time your ecobee thermostat senses that the indoor humidity is less than a specific value you supply.
+Thermostat enters Smart Home/Away,This trigger fires every time your ecobee thermostat and Room Sensors change to Smart Home or Smart Away comfort profiles.
+Thermostat outdoor humidity is greater than,This trigger fires every time your ecobee thermostat senses that the outdoor humidity is greater than a specific value you supply.
+Thermostat outdoor temperature is less than,This trigger fires every time your ecobee thermostat senses that the outdoor temperature is less than a specific value you supply.
+Thermostat outdoor humidity is less than,This trigger fires every time your ecobee thermostat senses that the outdoor humidity is less than a specific value you supply.
+Thermostat schedule override,"This trigger fires every time your ecobee schedule is overridden with a Hold event (including vacations), a Utility Demand Response event, or a Smart Home/Away event."
+Light switch is turned off,This trigger fires every time your ecobee light switch is turned off.
+Light switch is turned on,This trigger fires every time your ecobee light switch is turned on.
+Thermostat indoor temperature is greater than,This trigger fires every time your ecobee thermostat senses that the indoor temperature is greater than a specific value you supply.

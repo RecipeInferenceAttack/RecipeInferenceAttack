@@ -1,0 +1,2 @@
+trigger,trigger_description
+Gesture with task matching ID occurs,This trigger fires if you tap a gesture with a custom IFTTT task matching the ID of this trigger.

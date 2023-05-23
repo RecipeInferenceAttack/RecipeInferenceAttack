@@ -1,0 +1,6 @@
+trigger,trigger_description
+Scene sensor,This Trigger fires for every scene you execute.
+Motion sensor,This Trigger fires when Motion sensor is triggered/ untriggered.
+IPC event,This Trigger fires when ipc event is reported.
+Door sensor,This Trigger fires when door sensor is opened/closed.
+Water leak sensor,This Trigger fires when the water leak sensor triggered/untriggered.

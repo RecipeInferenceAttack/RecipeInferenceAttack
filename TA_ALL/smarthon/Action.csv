@@ -1,0 +1,5 @@
+action,action_description
+Control Command,"You can use control command to control the IoT device.
+(e.g. turn on/off the light, control light intensity, control 180 servo, change variable for settings, set custom function)"
+Control Command (with value),"You can use control command (with value) to control the IoT device.
+(e.g. turn on/off the light, control light intensity, control 180 servo, change variable for settings, set custom function)"

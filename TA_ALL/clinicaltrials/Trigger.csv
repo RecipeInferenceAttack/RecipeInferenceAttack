@@ -1,0 +1,4 @@
+trigger,trigger_description
+New diabetes clinical trial,This trigger fires each time a diabetes clinical trial has been added or modified in the last 14 days.
+New cancer clinical trial,This trigger fires every time there is a new clinical trial on cancer.
+New asthma clinical trial,This trigger fires every time a clinical trial on asthma is added or modified in the last 14 days.

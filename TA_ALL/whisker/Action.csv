@@ -1,0 +1,4 @@
+action,action_description
+Litter Robot Actions,Actions that can be performed by your Litter Robot
+Disable Sleep Mode,This action will remove your litter robot's sleep schedule
+Set Sleep Mode,This action will set the sleep mode on your Litter Robot.

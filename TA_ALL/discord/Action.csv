@@ -1,0 +1,3 @@
+action,action_description
+Post a message to a channel,This action will send a message from the IFTTT Bot to the channel you specify.
+Post a rich message to a channel,"This action will send a rich message from the IFTTT Bot to the channel you specify. Although most fields are optional, running the action requires content in the message body or content in at least one of the embed attributes."

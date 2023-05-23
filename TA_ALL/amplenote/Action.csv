@@ -1,0 +1,3 @@
+action,action_description
+Add a bullet,This action will add a bullet list item to the specified note.
+Add a task,This action will add a task to the specified note.

@@ -1,0 +1,6 @@
+action,action_description
+Deactivate Continuous Mode,This action will deactivate the Continuous Mode for Ring to Open.
+Deactivate Ring to Open,This action will deactivate Ring to Open.
+Activate Continuous Mode,"This action will activate Ring to Open in Continuous Mode, i.e. permanently until it is deactivated again."
+Activate Ring to Open,This action will activate Ring to Open which will open the door automatically when somebody rings the doorbell in a preset timeframe.
+Open door,This action will open the door with the Nuki Opener.

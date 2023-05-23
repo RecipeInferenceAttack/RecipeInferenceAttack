@@ -1,0 +1,7 @@
+action,action_description
+Execute a HomeKit scene,This action will execute a HomeKit scene on the Automation Server.
+Send a notification,This action will send a smart notification to your devices.
+Send a notification with JSON,This action will send a smart notification with JSON configuration.
+Update a widget,This action will update the configuration of a widget.
+Execute a shortcut,This action will execute a shortcut on the Automation Server.
+Update a widget (to open a URL when tapped),"This action will update the configuration of a widget and set the ""on tap"" action to open a URL."

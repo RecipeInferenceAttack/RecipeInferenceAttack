@@ -1,0 +1,6 @@
+trigger,trigger_description
+Doorbell Ring,This trigger fires every time someone unknown rings the doorbell connected to the Opener.
+Arrive home,This trigger fires every time someone unlocks the door with Auto Unlock.
+Battery warning,"This trigger fires every week, if the battery state of the Nuki Opener is critical."
+Ring to Open,This trigger fires every time someone opens a door using Ring to Open.
+Door opened,This trigger fires every time someone directly opens a door with the Nuki Opener.

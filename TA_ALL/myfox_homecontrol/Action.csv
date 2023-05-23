@@ -1,0 +1,5 @@
+action,action_description
+Play a scenario,This Action will play the selected scenario from your Myfox security system.
+Disable your system,This Action will disable your Myfox security system.
+Partially arm your system,This Action will partially arm your Myfox security system.
+Arm your system,This Action will arm your Myfox security system.

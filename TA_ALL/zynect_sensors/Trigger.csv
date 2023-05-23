@@ -1,0 +1,7 @@
+trigger,trigger_description
+Sensor reads below,This trigger fires when a sensor's value is below a specified value.
+Sensor is activated,This trigger fires when a threshold sensor detects an active condition (e.g. a leak sensor detects water).
+Sensor is deactivated,This trigger fires when a threhsold sensor no longer detects an active condition (e.g. a leak sensor no longer detects water).
+Sensor reads above,This trigger fires when a sensor's value is above a specified value.
+Sensor is out of range,This trigger fires when a sensor's value is out of bounds.
+Sensor battery is low,This trigger fires when the sensor battery is low.

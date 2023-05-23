@@ -1,0 +1,13 @@
+action,action_description
+POWER: switch on,This action will switch your smart power socket on.
+POWER: switch on for some time,This action will switch your smart power socket on for some limited time.
+Pause schedule,This action will put the automatic operation of your device on hold. GARDENA smart water Control and GARDENA smart Power will also cancel their current activity when they receive this command.
+VALVE: stop watering,This action will close a valve until its next scheduled watering.
+MOWER: park until further notice,This action will send your SILENO back to the charging station where it will await further commands.
+MOWER: resume automatic operation,The action will cause your SILENO to continue according to the schedule.
+POWER: switch off,This action will switch your smart power socket off until the next scheduled action.
+Unpause schedule,This action will resume the automatic operation of a paused device.
+VALVE: start watering,This action will open a valve for some time.
+MOWER: start mowing,This action will start your SILENO and then park it again once it's done.
+ALL VALVES: stop watering,This action will close all valves of your irrigation control until the next scheduled irrigation.
+MOWER: skip this mowing cycle,This action will send your SILENO to the charging station until the next scheduled mowing.

@@ -1,0 +1,5 @@
+trigger,trigger_description
+Room temperature changed,This trigger fires every time the room temperature changes by a pre-selected amount.
+Temperature rises above,This Trigger fires when your local room temperature exceeds a given threshold.
+Temperature drops below,This Trigger fires when your local room temperature drops below a given threshold.
+Notification,This trigger fires whenever a notification is created by your heating system. This could be a low pressure warning or error message.

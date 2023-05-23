@@ -1,0 +1,4 @@
+trigger,trigger_description
+Watering time starts,This Trigger fires every time a watering time starts for the device your specify.
+Watering time stops,This Trigger fires every time a watering time stops for the device your specify.
+Event registered,This Trigger fires every time an event is registered for the device you specify.

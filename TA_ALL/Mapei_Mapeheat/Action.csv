@@ -1,0 +1,7 @@
+action,action_description
+Set group mode,This action will set a thermostat group mode.
+Set temperature,This action will set the thermostat temperature.
+Increase setpoint temperature,This action will increase the setpoint temperature.
+Set thermostat mode,This action will set the thermostat mode.
+Decrease setpoint temperature,This action will decrease the setpoint temperature.
+Set schedule mode,This action will set the schedule mode for the thermostat.

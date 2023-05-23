@@ -1,0 +1,51 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Update your Android wallpaper with NASA's image of the day,Your device can now contain the amazing vastness & beauty of space! Basically.,Image of the day by NASA,Update device wallpaper,/space,/android_device,392.4k
+Get a notification when the International Space Station passes over your house,It's a bird? It's a plane? No — it's the ISS!,ISS passes over a specific location,Send a notification from the IFTTT app,/space,/if_notifications,195.1k
+Update your Android wallpaper with new NASA photos,Set your Android's wallpaper to NASA's image of the day.,Astronomy picture of the day by NASA,Update device wallpaper,/space,/android_device,163.9k
+Get a notification every time an astronaut enters space,"It's awesome to be reminded that humans can travel beyond the atmosphere, don't you think?",Astronaut enters space,Send a notification from the IFTTT app,/space,/if_notifications,118.4k
+Subscribe to a weekly status report from the International Space Station,What are they up to up there? Stop wondering — every Monday evening you can kick back and relax with a report in your inbox from the ISS.,ISS on-orbit status report,Add to weekly email digest,/space,/email_digest,17.8k
+Add Astronomy picture of the day to your iOS Reading List,Add Astronomy picture of the day to your iOS Reading List,Astronomy picture of the day by NASA,Add item to Reading List,/space,/ios_reading_list,3.5k
+Download NASA Image of the Day,Download NASA Image of the Day,Image of the day by NASA,Upload file from URL,/space,/google_drive,3.2k
+Track every time the ISS passes over your house,Keep track of every time the ISS flys above your home in outer space!,ISS passes over a specific location,Add row to spreadsheet,/space,/google_sheets,5.3k
+Send the NASA Image of the Day to your Discord channel,Get the latest NASA Image of the Day sent to your Discord channel automatically.,Image of the day by NASA,Post a rich message to a channel,/space,/discord,58
+Add NASA's image of the day to an iOS album,"Add NASA's cool image of the day to iOS, automatically. Then you can set your wallpaper to something cool!",Image of the day by NASA,Add photo to album,/space,/ios_photos,16.8k
+Get an email when there's breaking NASA news,Be the first to know important and exciting space-related news with this Applet that sends it straight to your inbox.,Breaking news by NASA,Send me an email,/space,/email,117.3k
+Automatically save NASA's astronomy picture of the day to an iOS album,Unimaginable cosmic beauty! The unfathomable vastness of the universe! All saved to your lil' phone. Mind. Blown.,Astronomy picture of the day by NASA,Add photo to album,/space,/ios_photos,31.5k
+Get a notification when there's breaking NASA news,New planet? New mission? New neighbors?! 👽 This Applet will make sure you're one of the first to know.,Breaking news by NASA,Send a notification from the IFTTT app,/space,/if_notifications,29.4k
+Send the NASA Astronomy Picture of the Day to your Discord channel,Get a daily dose of NASA by sending the Astronomy Picture of the Day to your Discord channel.,Astronomy picture of the day by NASA,Post a rich message to a channel,/space,/discord,90
+Get an email with NASA's astronomy pic of the day,"Every day, NASA shares an image of the universe and an explanation from a professional astronomer. Subscribe with this Applet and get ready to have your mind blown on the daily!",Astronomy picture of the day by NASA,Send me an email,/space,/email,32.5k
+Automatically post NASA image of the day to a Slack Channel,Post NASA's image of the day to a Slack channel,Image of the day by NASA,Post to channel,/space,/slack,1.4k
+Receive NASA's image of the day in your email,"Space! Science! Astronauts! Explorers! And more cool stuff in your inbox, every day.",Image of the day by NASA,Send me an email,/space,/email,66.7k
+Save breaking news by NASA on Instapaper,Save breaking news by NASA on Instapaper,Breaking news by NASA,Save item,/space,/instapaper,18
+Image of the day from NASA → iOS Reading List,From space to your reading list!,Image of the day by NASA,Add item to Reading List,/space,/ios_reading_list,29.4k
+Space report,A report from space,ISS on-orbit status report,Send a notification from the IFTTT app,/space,/if_notifications,2.3k
+Play a spoken notification when an astronaut enters space,Note: only works with Oticon Opn hearing aids and the iOS app.,Astronaut enters space,Play the text to speech (iPhone),/space,/oticon,358
+Get a notification when the ISS passes over your house but only if it is clear skies and after dark,It's a bird? It's a plane? No — it's the ISS!,ISS passes over a specific location,Send a notification from the IFTTT app,/space,/if_notifications,2.8k
+NASA photo of the day to Teams,Does your team love space? Send them a daily photo from NASA.,Image of the day by NASA,Post to channel,/space,/microsoft_teams,15
+Tweet NASA's picture of the day,Post the photo of the day from NASA automatically to your Twitter timeline.,Image of the day by NASA,Post a tweet with image,/space,/twitter,5.3k
+Hue in Space,Change lights to match NASA's picture of the day.,Image of the day by NASA,Change color from image,/space,/hue,8
+Get a notification when an astronaut exits space,Keep track of off-planet arrivals with this handy Applet.,Astronaut exits space,Send a notification from the IFTTT app,/space,/if_notifications,18.5k
+Send breaking news from NASA to your Discord channel,"Whenever NASA has breaking news, send a rich message to your Discord channel. 
+
+Make the Applet your own to configure all fields and add filter code.",Breaking news by NASA,Post a rich message to a channel,/space,/discord,24
+Homey will tell you when the ISS passes over your home,Let Homey speak when the International Space Station passes over a specified location.,ISS passes over a specific location,Let Homey speak,/space,/homey,83
+Automatically save NASA's picture of the day to Pocket,Marvel at the daily beauty of space from your Pocket queue.,Image of the day by NASA,Save for later,/space,/pocket,21.7k
+NASA photo of day to Gmail!,Just insert your email address.,Image of the day by NASA,Send an email,/space,/gmail,211
+NASA Breaking News to Slack,Send NASA Breaking News to Slack channel,Breaking news by NASA,Post to channel,/space,/slack,39
+Weekly NASA Pictures,Weekly NASA Pictures,Image of the day by NASA,Add to weekly email digest,/space,/email_digest,136
+Astronaut colour loop,Astronaut enters space = colour loop all hue lights,Astronaut enters space,Turn on color loop,/space,/hue,4
+astronaut enters space,"If astronaut enters space, then blink all lights",Astronaut enters space,Blink lights,/space,/hue,4
+Season changes on Mars :D,Season changes on Mars :D,Season changes on Mars,Mute ringtone,/space,/android_device,6
+Google Drive Time Capsule,"If you love space, you'll love this recipe! Save every single photo from space. Notification included",Image of the day by NASA,Create a document,/space,/google_docs,104
+Save NASA Photos to Drive,NASA's daily astronomy photo will be added to a doc in your google drive.,Astronomy picture of the day by NASA,Append to a document,/space,/google_docs,1.1k
+Save NASA AOPD to Evernote,Save NASA AOPD to Evernote,Astronomy picture of the day by NASA,Create a note,/space,/evernote,9
+Tuitear fotos de astronomía,Tuitear fotos de astronomía,Astronomy picture of the day by NASA,Post a tweet,/space,/twitter,43
+[Slack]Seasonal changes in Mars,[Slack]Seasonal changes in Mars,Season changes on Mars,Post to channel,/space,/slack,33
+An Astronaut has entered Space!,This recipe will create an entry in a spreadsheet each time an Astronaut enters Space!,Astronaut enters space,Append to a document,/space,/google_docs,13
+NASA Breaking News -> Pushbullet,NASA Breaking News -> Pushbullet,Breaking news by NASA,Push a note,/space,/pushbullet,57
+NASA Breaking news to your wrist,"Every time NASA has breaking news, it will show up on your android wear device with a space photo.",Breaking news by NASA,Send a notification,/space,/android_wear,65
+NASA image of the day to Twitter,NASA image of the day to Twitter,Image of the day by NASA,Post a tweet,/space,/twitter,504
+Breaking NASA News to Pushbullet,Breaking NASA News to Pushbullet,Breaking news by NASA,Push a link,/space,/pushbullet,1
+Tweet the new ISS On-Orbit report,This will automatically tweet whenever NASA publishes a new ISS On-Orbit report.,ISS on-orbit status report,Post a tweet,/space,/twitter,13
+Send news from NASA to my mailbox,Recieve news from NASA,Breaking news by NASA,Send an email,/space,/gmail,6
+NASAs image of the day into OneNote,"You want to have the cool new image, but not have your favourite picture changed or your mail spammed? Just go with OneNote, like I do! ;)",Image of the day by NASA,Create a page with an image,/space,/onenote,21

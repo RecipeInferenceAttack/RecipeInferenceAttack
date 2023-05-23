@@ -1,0 +1,25 @@
+action,action_description
+Set brightness for Smart Dimmer,This action will set brightness for selected eWeLink Support smart dimmer .
+Turn on or turn off diffuser,This action will turn your diffuser on or off.
+Turn on or off light,This action will turn your light on or off.
+Turn 3-Channel Plug on or off,This action will turn your eWeLink Support 3-Channel Plug on or off.
+Turn 4-Channel Switch on or off,This action will turn your eWeLink 4-Channel Switch on or off.
+Set color temperature for light,This action will set a color temperature for selected light.
+Enable/disable the Child Lock of Thermostat,This action will enable or disable the child lock.
+Press Remote Button on RF Bridge,This action will press selected remote button on your RF Bridge.
+Turn 2-Channel Plug on or off,This action will turn your eWeLink 2-Channel Plug on or off.
+Open or close electric curtain,This action will open or close your electric curtain.
+Turn 1-Channel Switch on or off,This action will turn your eWeLink Support 1-Channel Switch on or off.
+Turn 3-Channel Switch on or off,This action will turn your eWeLink Support 3-Channel Switch on or off.
+Set brightness for light,This action will set the brightness for selected light .
+Turn 4-Channel Plug on or off,This action will turn your eWeLink Support 4-Channel Plug on or off.
+Set color for light,This action will set a color for selected light.
+Change Thermostat Mode,This action will change the thermostat mode (Manual/Program).
+Camera makes alarm,This Action will makes the camera sound an alarm.
+Turn Smart Dimmer on or off,This action will turn your eWeLink Support smart dimmer on or off.
+Turn 2-Channel Switch on or off,This action will turn your eWeLink Support 2-Channel Switch on or off.
+Turn 1-Channel Plug on or off,This action will turn your eWeLink Support 1-Channel Plug on or off.
+Turn on or off Thermostat,This action will turn your eWeLink Thermostat on or off.
+Control FanLight,This action will turn on or turn off the fan or the light of your fanlight.
+Fanlight on-off and speed setting,This action will set the light on/off or the fan speed of fanlight.
+Set percentage of electric curtain,This action will open selected curtain to the percentage you set.

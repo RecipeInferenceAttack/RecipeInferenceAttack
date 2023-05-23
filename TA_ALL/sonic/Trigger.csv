@@ -1,0 +1,8 @@
+trigger,trigger_description
+Connection is established,This Trigger fires when the Bluetooth connection between the Hearing Aid and Mobile is re-established.
+Connection is lost,This Trigger fires when the Bluetooth connection between the Hearing Aid and Mobile Phone is lost.
+Volume has changed,This Trigger fires when the volume is changed on the Hearing Aid.
+Battery is low,This Trigger fires when the battery gets low on the Hearing Aid.
+Hearing aid turned On,This Trigger fires when the Hearing Aid is turned On.
+Mute state is changed,This Trigger fires when the Hearing Aid is muted or unmuted.
+Program has changed,This Trigger fires when a program changes on the Hearing Aid.

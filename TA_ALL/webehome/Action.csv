@@ -1,0 +1,5 @@
+action,action_description
+Switch,Turn on/off a switch
+Dim,Dim a dimmer
+Copenhagen Blind,This action will move and tilt a Copenhagen Blind
+Start Scenario Action Set,Start a Scenario Action Set. Define in WeBeHome what it should do.

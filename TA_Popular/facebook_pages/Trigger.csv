@@ -1,0 +1,7 @@
+trigger,trigger_description
+New status message on page,This Trigger fires every time you create a new status message on your Facebook Page.
+New link post on page,This Trigger fires every time you create a new link post on your Facebook Page.
+New photo upload on page,This Trigger fires every time you upload a new photo on your Facebook Page.
+New status message with hashtag on page,This Trigger fires every time you create a new status message with a specific hashtag on your Facebook Page.
+New photo upload with hashtag on page,This Trigger fires every time you upload a new photo with a specific hashtag on your Facebook Page.
+New link post with hashtag on page,This Trigger fires every time you create a new link post with a specific hashtag on your Facebook Page.

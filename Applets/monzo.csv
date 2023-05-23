@@ -1,0 +1,66 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Get an email when Monzo publishes a new trigger or action,Be the first to know when Monzo publishes a new trigger or action. We'll send you an email.,New trigger or action published by service,Send me an email,/ifttt,/email,3.4k
+Take on the 1p Savings Challenge,"Gradually increase the amount you're saving each day to a pot of your choice. On 1st January, you'll save 1p. On 2nd January, you'll save 2p. This goes right up to £3.65 (or £3.66 😁) on the last day of the year!
+
+Feel free to jump in part way through the year, and see how far you get!
+
+The challenge resets automatically on January 1st every year.",Every day at,Move money into a pot,/date_and_time,/monzo,21.7k
+Get an email when Monzo publishes a new Applet,Keep up to date with our latest IFTTT Applets. We'll send you an email whenever we publish a new one.,New Applet published by service,Send me an email,/ifttt,/email,2.7k
+Save £1 every day challenge.,"Every day transfer £#, into a pot of your choice. A challenge aimed at saving you money every day without getting more or less expensive throughout the year.",Every day at,Move money into a pot,/date_and_time,/monzo,926
+Save for a holiday whenever it rains,"Whenever it rains at a place of your choice, this Applet will move some money into one of your Monzo pots",Current condition changes to,Move money into a pot,/weather,/monzo,2.5k
+Reverse 1p Savings Challenge,"Runs every day. Save £3.65 on January 1st, £3.64 on January 2nd and so on - until 1p on December 31st.
+
+It resets automatically on January 1st every year.
+
+This is the reverse of our popular 1p Savings Challenge.",Every day at,Move money into a pot,/date_and_time,/monzo,2.8k
+Take on the £1 Weekly Savings Challenge,"Runs every Monday. Save £1 in Week 1 of the year, £2 in Week 2 of the year,... . Feel free to jump in part way though the year, and see how far you can get!",Every day of the week at,Move money into a pot,/date_and_time,/monzo,4.0k
+"Every time you spend, you save £1","Every time you spend using your Monzo card, IFTTT will transfer £1 from your account into a pot of your choice.
+You can use this in conjunction with any savings challenges and roundups to boost your savings.
+
+(This also works with purchases made using a Monzo Plus/Premium virtual card, but does not work with Bank Transfers, Direct Debits or Standing Orders)",Any card purchase,Move money into a pot,/monzo,/monzo,561
+Log my card purchases to a spreadsheet,Keep a handy record of all your spending in a Google Sheet.,Any card purchase,Add row to spreadsheet,/monzo,/google_sheets,2.7k
+Winter Savings Challenge,"The great British winter is coming! So take on our Winter Savings Challenge. Whenever the temperature drops below 10 degrees, you'll save £2 into a pot of your choice. You can customise the amount too, if you like!",Current temperature drops below,Move money into a pot,/weather,/monzo,1.2k
+Fast Food Tax,Transfer a set amount into a pot when you spend at a specified merchant e.g. Transfer £5 into my Fast Food Tax pot when I spend at KFC,Any card purchase at a merchant,Move money into a pot,/monzo,/monzo,1.1k
+Round up my card purchases to the nearest £1,"Save as you spend. Round up each purchase you make to the nearest £1, and add the difference to a pot of your choice!",Any card purchase,Move money into a pot,/monzo,/monzo,2.9k
+Take on the Weekly Saving Challenge,On Monday save £1. On Tuesday £2. This goes up to £7 on Sunday and then starts again on Monday.  Save £1500 a year!,Every day at,Move money into a pot,/date_and_time,/monzo,686
+Take on the Reverse 1p Savings Challenge,"A savings challenge that gets easier every day!
+
+Gradually decrease the amount you're saving each day to a pot of your choice. On 1st January, you'll save £3.65. On 2nd January, you'll save £3.64. This goes right down to £0.01 on the last day of the year! Feel free to jump in part way through the year, and see how far you get!",Every day at,Move money into a pot,/date_and_time,/monzo,1.8k
+Save the Date,"A savings challenge that takes today's date, adds up the numbers, and saves the total in a Pot. For example, 24th May 2019 would be 24 + 5 + 19 = 48p. This will move the money into your Pot at 8am every day.",Every day at,Move money into a pot,/date_and_time,/monzo,1.4k
+Pay as you go Transport for London,"Everytime Transport For London takes money out of your main Monzo pot, it's backfilled by a separate TFL savings POT. At the start of the month fill your Transport pot to the top.",Any card purchase at a merchant,Move money out of a pot,/monzo,/monzo,292
+Summer Savings Challenge,"The UK's version of summer is approaching! Take on our Summer Savings Challenge. Whenever the temperature goes above 20 degrees, you'll save £2 into a pot of your choice. You can customise the temperature and amount, if you like!",Current temperature rises above,Move money into a pot,/weather,/monzo,1.4k
+Redeem grocery purchases from a pot,"When purchasing groceries, take the amount from a Pot of your choosing",Any card purchase,Move money out of a pot,/monzo,/monzo,347
+Pay me a weekly allowance every Monday morning,"Schedule a weekly allowance from a savings pot, moved every Monday at 6am",Every day of the week at,Move money out of a pot,/date_and_time,/monzo,287
+Redeem Transport spending from a pot,"When paying for your Bus Fare or an Uber, take the amount from a Pot of your choosing. Works with anything that is categorised as ""Transport"" by Monzo.",Any card purchase,Move money out of a pot,/monzo,/monzo,607
+Save as you run or cycle with Strava,This applet will save 1p for every 10 metres you cycle or run using Strava.,New activity by you,Move money into a pot,/strava,/monzo,928
+Reward me every time I visit the gym,Need some motivation to get fit? We'll move some money into your account from a pot of your choice every time you visit the gym!,You enter an area,Move money out of a pot,/location,/monzo,263
+Send me a weekly spending digest,"Sunday is a perfect day for combing through your expenditure. Said nobody, ever. We'll send you a summary of your spending at 3PM to make it easy.",Any card purchase,Add to weekly email digest,/monzo,/email_digest,2.5k
+Round up my card purchases to the nearest 50p,"Save as you spend. Round up each purchase you make to the nearest 50p, and add the difference to a pot of your choice!",Any card purchase,Move money into a pot,/monzo,/monzo,565
+Save 💰 when you hit your step goal,Connect Fitbit to Monzo and save money in the pot of your choice for every day that you hit your step goals.,Daily step goal achieved,Move money into a pot,/fitbit,/monzo,250
+Reverse £1 Weekly Savings Challenge,"Runs every Monday. Save £52 in Week 1 of the year, £51 in Week 2 of the year, and so on!",Every day of the week at,Move money into a pot,/date_and_time,/monzo,397
+Move money into a Pot every time you tweet,Put all that tweeting to good use! Save money each time you send a tweet.,New tweet by you,Move money into a pot,/twitter,/monzo,399
+Start saving! Choose an amount to save each month with Monzo,Make savings easy by setting an amount to automatically save each month,Every month on the,Move money into a pot,/date_and_time,/monzo,128
+Redeem Eating Out spending from a pot,"When spending on Eating Out, take the amount from a Pot of your choosing",Any card purchase,Move money out of a pot,/monzo,/monzo,124
+Add Monzo Card Purchases to Google Calendar,"When I make a card purchase with my Monzo card, then add details of the transaction into a Google Calendar.",Any card purchase,Create a detailed event,/monzo,/google_calendar,485
+Pay me a daily allowance from a pot,Use this applet to withdraw a fixed amount from a pot each day.,Every day at,Move money out of a pot,/date_and_time,/monzo,100
+Redeem entertainment spending from a pot,"When spending on entertainment, take the amount from a Pot of your choosing",Any card purchase,Move money out of a pot,/monzo,/monzo,108
+Each day add to a pot the number of pence equal to the day's highest forecast temperature,At 8am this checks the maximum forecast temperature in Celsius and moves that number of pence into the selected pot. Will only run if the maximum forecast temperature is above 0 degrees.,Today's weather report,Move money into a pot,/weather,/monzo,31
+"If I spend in a foreign currency, withdraw the amount in Pounds from a pot","After you have made a purchase in a foreign currency, this Applet will top up your main account from a pot. Please note that, since the pot movement happens after the purchase, you'll need to have enough money in your account to make the purchase.",Any card purchase,Move money out of a pot,/monzo,/monzo,215
+Celebrate New Monzo (iOS),"An Applet to inform you when Monzo has released a new iOS version, and move a pre-defined amount from a pot so you can buy a treat to celebrate.",App version updated,Move money out of a pot,/app_store,/monzo,2
+Save my receipts to Dropbox,"Keep all your receipts safe in Dropbox. Whenever you attach a receipt to a transaction, we'll save it safely in a Dropbox folder of your choice.",Any new attachment added,Add file from URL,/monzo,/dropbox,195
+Redeem #TravelMoney from Pot,"If I withdraw from an ATM in a currency other than GBP, then move 💰 out of a pot (other foreign currency card payments and all GBP payments are ignored).
+
+Note: You must have sufficient funds in your account at the time of the transaction and must have the equivalent funds in your pot to withdraw.",Any card purchase,Move money out of a pot,/monzo,/monzo,15
+Send my receipts to Expensify,"Send receipts that you attach to your Monzo transactions to Expensify. Select the ""expenses"" category to only consider transactions tagged as Expenses in Monzo.",Any new attachment added,Send an email,/monzo,/gmail,15
+Instant Top Up,Instantly top up your account with a custom amount from any savings pot at the tap of a button. Useful for when you're at the till and you're a little short! Accessible via the IFTTT widget on iOS and Android.,Button press,Move money out of a pot,/do_button,/monzo,267
+"When I spend at Amazon, blink my lights","When you spend at Amazon, blink your lights as a confirmation of your spend.",Any card purchase at a merchant,Blink lights,/monzo,/hue,8
+Don't buy your lunch demotivator (daily),"Sends you a message if it looks like you bought your lunch from a particular merchant, and tells you how much you might have wasted compared to if you had invested the money instead, assuming you buy your lunch every weekday.",Any card purchase at a merchant,Send a rich notification from the IFTTT app,/monzo,/if_notifications,327
+Move my Octopus Energy saving to a Monzo Pot,"Whenever Octopus Energy prices drop below your set threshold for a set number of 30-minute periods, move some money to your Octopus Energy saving pot.",Energy price threshold change for duration,Move money into a pot,/agile_octopus,/monzo,6
+Get rewarded as you run or cycle with Strava,"This applet will reward you 1p for every 10 metres you cycle or run, from a pot of your choice, using Strava.",New activity by you,Move money out of a pot,/strava,/monzo,103
+Round up my card purchases to the nearest 10p,"Save as you spend. Round up each purchase you make to the nearest 10p, and add the difference to a pot of your choice!",Any card purchase,Move money into a pot,/monzo,/monzo,163
+"When I buy a coffee, log calories to iOS Health",Keep track of your coffee consumption with this handy applet.,Any card purchase at a merchant,Log calories consumed,/monzo,/ios_health,191
+Get SMS alerts whenever I spend money somewhere,We'll send you an SMS via IFTTT. Please note that there's a maximum limit of 10 SMS messages per month for your IFTTT account.,Any card purchase at a merchant,Send me an SMS,/monzo,/sms,
+"If it rains, take some money out of my Rainy Day pot","Whenever it rains, this applet will move some money to your main account from a pot of your choice.",Current condition changes to,Move money out of a pot,/weather,/monzo,9
+Gym and earn spending money,"Whenever you enter and exit the gym, Select a set amount to go towards your spending pot",You enter or exit an area,Move money into a pot,/location,/monzo,39
+Automatically save using Monzo every time you sell a Cryptocurrency,Pair Coinbase with Monzo to help you save towards your goals. Every time you sell a Cryptocurrency this Applet will help you to save automatically.,Cryptocurrency sold,Move money into a pot,/coinbase,/monzo,
+Send me an iOS reminder to drink water two hours after I buy coffee,This applet will add an iOS reminder to drink water whenever you buy a coffee. You'll get a notification two hours after you make the transaction.,Any card purchase at a merchant,Add reminder to list,/monzo,/ios_reminders,135

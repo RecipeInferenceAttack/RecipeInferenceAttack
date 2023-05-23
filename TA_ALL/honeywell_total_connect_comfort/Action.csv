@@ -1,0 +1,5 @@
+action,action_description
+Set temperature to a permanent hold,This Action will set your Honeywell thermostat to permanently hold the specified temperature until you change it.
+Resume programmed schedule,This Action will set your Honeywell thermostat to resume the currently defined thermostat programmed schedule.
+Set fan to on or auto,This Action will set the Honeywell thermostat fan to On where the fan is always on or Auto where the fan runs only when the heating or cooling system is on.
+Set temperature for a period of time,This Action will set your Honeywell thermostat to hold a temperature for a specified period of time. The schedule will resume when the time expires.

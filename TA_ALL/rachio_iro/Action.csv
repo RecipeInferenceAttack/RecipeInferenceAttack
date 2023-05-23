@@ -1,0 +1,7 @@
+action,action_description
+Rain delay,This Action will put the Rachio in rain delay mode for a certain period of time.
+Skip watering time,This Action will skip a watering time.
+Start a zone,This Action will start a zone you specify.
+Seasonal adjustment,This Action will adjust the overall run time of the selected schedule while overriding any current adjustments.
+Stop watering,This Action will stop all watering on a device.
+Start watering time,This Action will start a watering time.

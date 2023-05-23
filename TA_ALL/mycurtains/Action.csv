@@ -1,0 +1,4 @@
+action,action_description
+Run a scene,This action will run a preset scene move on devices and groups set up in the MyCurtains app.
+Move a curtain,This action will move a Current Products automated drapery system linked to your account in the MyCurtains app.
+Move a drapery group,This action will move one of your drapery Current Products device groups set up in the MyCurtains app.

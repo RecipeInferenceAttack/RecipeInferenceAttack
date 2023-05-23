@@ -1,0 +1,3 @@
+trigger,trigger_description
+Cook timer finished,This Trigger fires every time your cook timer has finished.
+Cooking mode changed,"This Trigger fires every time your Slow Cooker cooking mode changes (High, Low, Keep Warm, Off)."

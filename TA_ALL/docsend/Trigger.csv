@@ -1,0 +1,8 @@
+trigger,trigger_description
+New 100% completion visit to document,This Trigger fires every time you get a new visit where the visitor reads through the entirety of a specific document.
+New Space created,This trigger fires when you create a new Space in DocSend.
+New visit to a specific document,This Trigger fires every time you get a new visit to a specific document.
+Any new visit,This Trigger fires every time you get a new visit to any document.
+Any new 100% completion visit,This Trigger fires every time you get a new visit where the visitor reads through the entirety of any document.
+Space Download,This trigger fires when a visitor downloads a space
+New Link created,This trigger fires when you create a new link in DocSend.

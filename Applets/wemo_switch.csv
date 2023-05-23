@@ -1,0 +1,26 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Turn on your WeMo Switch when the sun sets,Turn on your WeMo Switch when the sun sets,Sunset,Turn on,/weather,/wemo_switch,4.3k
+Good Night,Turning off Devices & On Devices at Night,Say a specific phrase,Turn off,/amazon_alexa,/wemo_light_switch,1
+Wemo Motion,When Your Wemo Motion Detects Motion It Will Send A Notification To Your Apple Or Android Device. If You Do not Have Your Apple Or Android Device With You It Will Also Turn Your Wemo Smart Plug On Then Off 2 Times.,Any new motion,Turn off,/wemo_motion,/wemo_switch,5
+Rain outside,Rain outside,Current condition changes to,Turn on then off,/weather,/wemo_switch,10
+On  back off,On  back off,Any new motion,Turn on then off,/wemo_motion,/wemo_switch,17
+Turn off WeMo Smart Plug when #OhmHour starts,This will turn off a WeMo Smart Plug and leave it off it is already off.  The notification to turn off will happen 0-15 minutes before the #OhmHour.,An #OhmHour starts,Turn off,/ohmconnect,/wemo_switch,146
+Door deterrent,Lights will flash on then off then on,New Motion Detected,Turn off then on,/ring,/wemo_switch,59
+Someone is coming,Someone is ringing,New Ring Detected,Turn on,/ring,/wemo_switch,23
+Light Off Schedule,"Create new Google calendar, and make schedule.",Event from search starts,Turn off,/google_calendar,/wemo_switch,9
+Turn on hue and wemo,Turn on two different lights,Every day of the week at,Turn on,/date_and_time,/wemo_switch,1
+Turn off hue and wemo,Turn off two different lights,Every day of the week at,Turn off,/date_and_time,/wemo_switch,2
+Temp drops below 3°C,Temp drops below 3°C,Current temperature drops below,Turn on,/weather,/wemo_switch,5
+Master turn off button,Shut off all light switches at once using the front button of the WeMo Maker,Relay on,Turn off,/wemo_maker,/wemo_switch,6
+Alexa LED tv light off,Alexa LED tv light off,Say a specific phrase,Turn off,/amazon_alexa,/wemo_switch,7
+Bedroom Air Circulation,When the bedroom CO2 rises then turn on the bedside fan,Carbon dioxide rises above,Turn on,/netatmo,/wemo_switch,1
+Turn on WeMo smart plug,Turn on a WeMo smart plug.,Gesture with task matching ID occurs,Turn on,/knocki,/wemo_switch,38
+Turn off WeMo smart plug,Turn off a WeMo smart plug.,Gesture with task matching ID occurs,Turn off,/knocki,/wemo_switch,31
+Too hot! Turn on the fan,There's no need for an AC unit. Plug your fan in and let it do the work.,Temperature rises above,Turn on,/netatmo,/wemo_switch,12
+Ring New Motion Detection,When Ring new motion is detected Wemo Smart Plug toggles lights on/off,New Motion Detected,Toggle on/off,/ring,/wemo_switch,31
+Turn on light at sunrise.,Turn on light at sunrise.,Sunrise,Turn on,/weather,/wemo_switch,9
+Turn on lamp when raining.,Turn on lamp when raining.,Current condition changes to,Turn on,/weather,/wemo_switch,69
+Wemo Smart Plug Integration,Allows Wemo Smart Plugs to appear along side the tags to be controlled from Wireless Tag apps and KumoApps.,Query,Turn off,/wemo_switch,/wemo_switch,59
+Toggle WeMo smart plug on/off,Toggle WeMo smart plug on/off.,Gesture with task matching ID occurs,Toggle on/off,/knocki,/wemo_switch,123
+If Motion Turn on Lamp Switch,If Motion Turn on Lamp Switch,Any new motion,Turn on,/wemo_motion,/wemo_switch,4
+Turn on wemo switch with a Flic,turn on TV Set from your door,Flic is clicked,Turn on,/flic,/wemo_switch,5

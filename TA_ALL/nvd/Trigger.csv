@@ -1,0 +1,2 @@
+trigger,trigger_description
+New vulnerability published,This trigger fires when a new vulnerability is published on the National Vulnerability Database. Please note that several vulnerabilities are published at once.

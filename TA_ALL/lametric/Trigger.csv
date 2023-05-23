@@ -1,0 +1,5 @@
+trigger,trigger_description
+Timer Finished,This trigger fires an event when countdown is finished.
+Timer Started,This trigger fires when timer app starts countdown on your LaMetric device.
+Action Button Pressed,This Trigger fires every time you press the action button on LaMetric Time.
+Alarm Went Off,This trigger fires an event when the LaMetric Clock app fires an alarm.

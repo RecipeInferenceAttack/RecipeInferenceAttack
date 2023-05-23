@@ -1,0 +1,8 @@
+trigger,trigger_description
+Night light turns off,This trigger fires when the specified product's night light turns off.
+Night light turns on,This trigger fires when the specified product's night light turns on.
+Thermostat mode changed,This trigger fires when the target thermostat mode changes to the configured mode (or on any change if 'any' is selected).
+Ambient temperature reached,This trigger fires when the ambient temperature read on your device is above or below the configured value.
+Thermostat temperature set,This trigger fires when your thermostat target temperature is set above or below the specified value.
+Turns off,This trigger fires when the specified product turns off.
+Turns on,This trigger fires when the specified product turns on.

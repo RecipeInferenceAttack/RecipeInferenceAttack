@@ -1,0 +1,3 @@
+action,action_description
+Adjust cooking mode,"This Action will adjust your Slow Cooker to your specified cooking mode (High, Low, Keep Warm, Off)."
+Set cook timer and mode,"This Action will adjust your Slow Cooker to your specified cooking mode (High, Low, Keep Warm, Off) for a selected time period."

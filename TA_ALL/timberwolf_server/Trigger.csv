@@ -1,0 +1,4 @@
+trigger,trigger_description
+Switched on,This trigger is fired when the value of a boolean Timberwolf object changes to true.
+Object value has changed,This trigger fires when a Timberwolf Server object has changed.
+Switched off,This trigger is fired when the value of a boolean Timberwolf object changes to false.

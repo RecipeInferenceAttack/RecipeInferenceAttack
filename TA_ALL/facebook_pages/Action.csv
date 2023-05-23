@@ -1,0 +1,4 @@
+action,action_description
+Create a status message,This Action will create a new plain text status message on your Facebook Page.
+Create a link post,This Action will create a new link post on your Facebook Page wall.
+Upload a photo from URL,"This Action will upload a new photo, from the given URL, to a Facebook Page album you specify."

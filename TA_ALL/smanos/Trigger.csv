@@ -1,0 +1,5 @@
+trigger,trigger_description
+System alarm,This Trigger fires when your smanos system receives an alarm.
+System in home mode,This Triggers fires when your smanos system is armed to stay (home) mode with you and/or your family in the house.
+System armed,This Trigger fires when your smanos system is armed to away mode with no one in the house.
+System disarmed,This Trigger fires when your smanos system is disarmed for anyone to enter or exit the house.

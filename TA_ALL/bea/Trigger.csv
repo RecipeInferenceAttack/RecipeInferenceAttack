@@ -1,0 +1,2 @@
+trigger,trigger_description
+New analysis,This trigger fires when new analysis is published by the Bureau of Economic Analysis.

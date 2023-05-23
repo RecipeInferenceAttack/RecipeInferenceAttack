@@ -1,0 +1,10 @@
+trigger,trigger_description
+Low Temperature Alert,This Trigger fires when the temperature measured from your Huma-i drops below the threshold you specified.
+AQI Levels Detect Alert,"This Trigger fires if the AQI measured from your Huma-i device rises above the specified threshold, which is the average for 5 minutes."
+Carbon Dioxide(CO₂) Alert,"This Trigger fires if the concentration of Carbon Dioxide (CO₂) measured from your Huma-i device rises above the specified threshold, which is the average for 5 minutes."
+High Humidity Alert,This Trigger fires when the humidity measured from your Huma-i device rises above the threshold you specified.
+Low Humidity Alert,"This Trigger fires when the humidity measured from your Huma-i device dropped below the specified threshold, which is the average for 5 minutes."
+PM2.5 Alert,"This Trigger fires if the level of PM2.5 concentration measured from your Huma-i device rises above the specified threshold, which is the average for 5 minutes."
+Huma-i Device Data Trigger,This trigger fires when your Huma-i device data update.
+High Temperature Alert,This Trigger fires when the temperature measured from your Huma-i device rises above the threshold you specified.
+VOCs Alert,"This Trigger fires if VOC (Volatile Organic Compounds) level measured from your Huma-i device rises above the specified threshold, which is the average for 5 minutes."

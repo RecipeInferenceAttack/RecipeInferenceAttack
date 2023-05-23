@@ -1,0 +1,10 @@
+trigger,trigger_description
+Door closed,This trigger fires every time your oven door has been closed.
+Child lock deactivated,This triggers fires every time the child lock has been deactivated.
+Oven clock timer elapsed,This trigger fires every time the clock timer on your oven has elapsed.
+Oven turned on,This trigger fires every time your oven is turned on.
+Oven turned off,This trigger fires every time your oven is turned off.
+Oven finished,This trigger fires every time your oven has finished successfully.
+Preheat temperature reached,This trigger fires every time the preheating phase has finished. Please note that you have to start the heating program with enabled fast preheat.
+Oven started,This trigger fires every time your oven has started.
+Door opened,This trigger fires every time your oven door has been opened.

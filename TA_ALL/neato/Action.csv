@@ -1,0 +1,6 @@
+action,action_description
+Resume cleaning,This action will resume cleaning with your Neato connected robot vacuum.
+Stop cleaning,This action will stop cleaning with your Neato connected robot vacuum.
+Start cleaning,This action will start cleaning with your Neato connected robot vacuum.
+Dock,This action will send your Neato connected robot vacuum back to base.
+Pause cleaning,This action will pause cleaning with your Neato connected robot vacuum.

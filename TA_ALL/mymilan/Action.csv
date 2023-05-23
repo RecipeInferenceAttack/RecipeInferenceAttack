@@ -1,0 +1,4 @@
+action,action_description
+Lighting,This action will control the lights.
+Door Lock,This action will perform the door lock state change.
+MyMilan Scenes,This action will execute the scenes created in the MyMilan Application.

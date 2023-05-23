@@ -1,0 +1,7 @@
+trigger,trigger_description
+New liked item,This Trigger fires every time you like a new item in Instapaper.
+New comment,This Trigger fires every time you create a comment on Instapaper.
+New highlight,This Trigger fires every time you highlight an item on Instapaper.
+New archived item,This Trigger fires every time you archive an item on Instapaper.
+New item saved,This Trigger fires every time you save a new item to Instapaper.
+Item moved to folder,This Trigger fires every time you move an item to the folder you specify.

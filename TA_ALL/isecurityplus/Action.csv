@@ -1,0 +1,4 @@
+action,action_description
+Aim your camera,"If your camera supports pan and tilt, you can use this Action to control where the camera is pointing."
+Disable camera motion detection,This Action will disable motion detection on one of your iSecurity+ cameras.
+Enable camera motion detection,This Action will enable motion detection on one of your iSecurity+ cameras.

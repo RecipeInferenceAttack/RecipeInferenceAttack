@@ -1,0 +1,3 @@
+trigger,trigger_description
+Receive an event from Apilio,This trigger fires every time IFTTT receives a specific event from Apilio.
+Receive an actionable notification from Apilio,This trigger fires every time IFTTT receives an actionable notification from Apilio.

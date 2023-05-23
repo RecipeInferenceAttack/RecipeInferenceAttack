@@ -1,0 +1,3 @@
+trigger,trigger_description
+New feed item,This Trigger fires every time a new item is added to the feed you specify.
+New feed item matches,This Trigger fires every time a new item in the feed you specify contains a particular keyword or simple phrase.

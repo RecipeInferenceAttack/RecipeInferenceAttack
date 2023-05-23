@@ -1,0 +1,5 @@
+trigger,trigger_description
+Alarm armed,This trigger fires when alarm is armed.
+Door closed,This trigger fires when the garage door is closed.
+Door opened,This trigger fires when a garage door is opened.
+Alarm disarmed,This trigger will fires when alarm is disarmed.

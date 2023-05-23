@@ -1,0 +1,2 @@
+trigger,trigger_description
+New group decision or direct action taken,This trigger fires every time a group decision or direct action has been taken

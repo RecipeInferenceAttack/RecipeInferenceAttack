@@ -1,0 +1,3 @@
+action,action_description
+Set mode,This action will set the heating mode of the thermostat.
+Set temperature,This action will set the temperature on the thermostat.

@@ -1,0 +1,4 @@
+trigger,trigger_description
+Recent free games,This trigger fires when a free game is published
+Latest featured games,Latest games featured on the homepage
+Recent games on sale,This trigger fires when a game is on sale

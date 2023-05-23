@@ -1,0 +1,3 @@
+trigger,trigger_description
+Any new public bookmark,This Trigger fires every time you create a new public bookmark.
+New public bookmark tagged,This Trigger fires every time you create a new public bookmark with a tag you specify.

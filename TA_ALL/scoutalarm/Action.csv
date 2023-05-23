@@ -1,0 +1,9 @@
+action,action_description
+Enable key fob,This Action will enable a key fob at your location of choice.
+Start arming a mode,"This Action will arm a mode at your location of choice (home, vacation home, etc)."
+Turn off siren,This Action will turn off the siren in the Scout Hub and Scout Door Panels (if you have any).
+Disarm a mode,"This Action will disarm a mode at your location of choice (home, vacation home, etc)."
+Disable key fob,This Action will disable a key fob at your location of choice.
+Chirp,This Action will make the hub chirp.
+Disarm all modes,This Action will disarm any mode at your location that is in arming or armed mode.
+Turn on siren,This Action will turn on the siren in the Scout Hub and Scout Door Panels (if you have any).

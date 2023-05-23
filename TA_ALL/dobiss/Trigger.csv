@@ -1,0 +1,3 @@
+trigger,trigger_description
+Scenario is launched,This trigger fires when a Dobiss scenario is launched.
+Flag has changed,This trigger fires when the status of a Dobiss flag was changed.

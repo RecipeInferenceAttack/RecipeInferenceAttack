@@ -1,0 +1,7 @@
+trigger,trigger_description
+Out of water,This trigger fires every time the water tank is empty.
+Coffee machine turned on,This trigger fires every time your coffee machine is turned on.
+Coffee machine turned off,This trigger fires every time your coffee machine is turned off.
+Out of beans,This trigger fires every time the bean container is empty.
+Child lock deactivated,This triggers fires every time the child lock has been deactivated.
+Coffee machine started,This trigger fires every time your coffee machine has started.

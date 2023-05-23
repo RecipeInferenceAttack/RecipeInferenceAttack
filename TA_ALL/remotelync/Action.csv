@@ -1,0 +1,7 @@
+action,action_description
+Record Video,This Action will tell the RemoteLync camera you specify to record a video ASAP.
+Disarm location,This Action will disarm the RemoteLync location you specify. NOTE: if the RemoteLync location is already disarmed it will remain disarmed.
+Arm location,This Action will arm the RemoteLync location you specify. NOTE: if the RemoteLync location is already armed it will remain armed.
+Disarm camera,This Action will disarm the RemoteLync camera you specify. NOTE: if the RemoteLync camera is already disarmed it will remain disarmed.
+Notify crew,This Action will create a new entry on the RemoteLync location timeline you specify and notify the RemoteLync crew.
+Arm camera,This Action will arm the RemoteLync camera you specify. NOTE: if the RemoteLync camera is already armed it will remain armed.

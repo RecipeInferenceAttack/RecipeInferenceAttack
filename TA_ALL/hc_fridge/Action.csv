@@ -1,0 +1,13 @@
+action,action_description
+Deactivate Vacation Mode,This action will deactivate Vacation mode on your appliance.
+Activate refrigerator Super Cooling mode,This action will temporarily cool the refrigerator at maximum power.
+Activate Sabbath mode,"This action will activate Sabbath mode (Rest mode) on your appliance. Note that this will disable most other actions for your appliance, including remote temperature control."
+Activate Vacation mode,This action will activate Vacation mode (Holiday mode) on your appliance. Note that this will change set point temperature and manually changing it will disable the Vacation mode (Holiday mode).
+Deactivate Eco mode,This action will deactivate Eco mode on your appliance.
+Activate Fresh mode,This action will activate Fresh mode on your appliance. Note that this will change set point temperature and manually changing it will disable the Fresh mode.
+Deactivate Sabbath mode,This action will deactivate Sabbath mode on your appliance.
+Set freezer temperature,This action will set the freezer temperature.
+Activate Eco mode,This action will activate Eco mode on your appliance. Note that this will change set point temperature and manually changing it will disable the Eco mode.
+Set refrigerator temperature,This action will set the refrigerator temperature.
+Deactivate Fresh mode,This action will deactivate Fresh mode on your appliance.
+Activate freezer Super Freezing mode,This action will temporarily cool the freezer at maximum power.

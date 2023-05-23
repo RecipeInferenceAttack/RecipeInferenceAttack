@@ -1,0 +1,17 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+"If humidity is too high, turn on dry mode",Keeps the humidity at a comfortable level.,Humidity rises above threshold,Start Dry Mode,/tado_air_conditioning,/tado_air_conditioning,72
+Turn off tadoº AC,With this applet you can configure to turn off specific tadoº AC from your specified room when your specified device on our Kwikset cloud will be locked.,Device Locked,Turn AC off,/kwikset,/tado_air_conditioning,
+Turn ON your Tado A/C,"If the room temperature reaches a certain temperature, turn ON your Tado A/C.",Temperature rises above threshold,Start Auto Mode,/AnywareServices,/tado_air_conditioning,
+Return to tado° Auto mode,"When set to Auto, tado° controls your AC based on residents' locations and schedules you've set.",Button press,Return to tado⁠° automatic control,/do_button,/tado_air_conditioning,97
+Start your AC's auto mode,This will activate your AC's auto mode. Enjoy!,Button press,Start Auto Mode,/do_button,/tado_air_conditioning,15
+Turn air conditioning off,Feeling too cold? Switch off the air conditioning now!,Button press,Turn AC off,/do_button,/tado_air_conditioning,83
+Colorful inside temperature,Match the lighting of any room to the current inside temperature.,Temperature falls below threshold,Send a notification from the IFTTT app,/tado_air_conditioning,/if_notifications,9
+Boost air conditioning to ___ °,Want to give your air conditioning a quick boost? Now it's just a bttn push away.,Button press,Start Cool Mode,/do_button,/tado_air_conditioning,41
+Keep the heat outside when it gets too hot,"If the temperature rises above a certain threshold, close the shades to keep the heat outside.",Temperature rises above threshold,Close shade,/tado_air_conditioning,/LinkShades,
+"If smanos is set to away mode, then turn Tado AC off",Turn AC off automatically when smanos security system is armed away.,System armed,Turn AC off,/smanos,/tado_air_conditioning,1
+"If tado° switches to Home mode, then send a notification",Get a notification on your phone if tado° switched to Home mode.,tado⁠° switches to Home Mode,Send a notification from the IFTTT app,/tado_air_conditioning,/if_notifications,37
+"If tado° switches to Away mode, then send a notification",Get a Notification on your phone if tado° switched to Away mode.,tado⁠° switches to Away Mode,Send a notification from the IFTTT app,/tado_air_conditioning,/if_notifications,51
+"If tado° switches to Away mode, then send a notification to my watch",Get a notification on your watch if tado° switched to Away mode.,tado⁠° switches to Away Mode,Send a notification,/tado_air_conditioning,/android_wear,6
+Frostsikring,Frostsikring,Temperature falls below threshold,Start Heat Mode,/tado_air_conditioning,/tado_air_conditioning,
+Get an email when a new tadoº Air Conditioning Applet is published,"As we improve our service on IFTTT, we plan to publish new Applets that you won't want to miss out on. Stay tuned!",New Applet published by service,Send me an email,/ifttt,/email,28
+Get an email when tadoº Air Conditioning publishes a new trigger or action,"As we improve our service on IFTTT, we aim to publish new triggers or actions that you won't want to miss out on. Stay tuned!",New trigger or action published by service,Send me an email,/ifttt,/email,47

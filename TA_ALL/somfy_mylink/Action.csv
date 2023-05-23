@@ -1,0 +1,3 @@
+action,action_description
+Move connected product,Send a movement command to a connected product
+Play a scene,This action will trigger a scene on a myLink device.

@@ -1,0 +1,49 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Arlo Low Battery Alert,"When Arlo Has A Low Battery It Will Send You A Notification From The IFTTT App.   Hope You Enjoy!, Chromeuser1",Low battery reported,Send a notification from the IFTTT app,/arlo,/if_notifications,900
+"If you exit an area, arm Arlo","If you exit an area, then arm Arlo.",You exit an area,Arm,/location,/arlo,5.4k
+Tell Alexa to arm your Arlo,"Just say ""Alexa, trigger Arlo"" to arm your device.",Say a specific phrase,Arm,/amazon_alexa,/arlo,4.7k
+"If you enter an area, disarm Arlo","If you enter an area, disarm Arlo.",You enter an area,Disarm,/location,/arlo,4.6k
+"If Arlo detects motion, turn on Phillips Hue lights","If Arlo camera detects motion, then turn on all Phillips Hue lights",Motion detected,Turn on lights,/arlo,/hue,4.3k
+arm arlo camera at night,This will arm your Arlo camera at 9 PM,Every day at,Arm,/date_and_time,/arlo,1.1k
+Disarm Arlo using Alexa Echo,Disarm Arlo using Alexa Echo using a key phrase,Say a specific phrase,Disarm,/amazon_alexa,/arlo,3.2k
+Arlo record at the top of every hour,For those who want time lapse video of a construction site,Every hour at,Start recording,/date_and_time,/arlo,253
+Arm Arlo Button Widget,When You Press The Button Called Arm Arlo In The IFTTT Widget On iOS It Will Arm Your Arlo And Also Send You A Notification Telling You Your Arlo Is Successfully Armed. You. Can Also Get The Disarm Arlo Applet On IFTTT By Chromeuser1 So You Can Do Both On The Button Widget.,Button press,Send a notification from the IFTTT app,/do_button,/if_notifications,3.2k
+Tell Google Assistant to arm your Arlo,"Ensure that your Google Assistant/Home Routine is using ""Activate, [Scene Name]""",Activate scene,Arm,/google_assistant_v2,/arlo,176
+Turn on your lights when Arlo detects motion,"When Arlo detects motion, turn on your lights.",Motion detected,Turn on,/arlo,/kasa,335
+If Arlo detect motion then call me to my mobile phone through IFTTT app,"Never more lose a motion detected notification from Arlo.
+
+If a Arlo camera detect motion you will receive a call on your smartphone, even if you don't have mobile phone signal, of course you need to have WiFi signal or 4G signal. If you answer the call, you will hear the name of the camera and the time when the motion was detected. Is required to install and login IFTTT app on your mobile phone",Motion detected,Call my device,/arlo,/voip_calls,636
+Automatically start recording via Arlo when it detects motion,When your Arlo device detects motion the selected camera will automatically start recording.,Motion detected,Start recording,/arlo,/arlo,808
+Tell Google Assistant to disarm your Arlo,"Ensure that your Google Assistant/Home Routine is using ""Activate, [Scene Name]""",Activate scene,Disarm,/google_assistant_v2,/arlo,164
+Arlo Disarm Button Widget,"When You Press Disarm In The IFTTT Widget On iOS IFTTT Will Disarm Your Arlo And Send You A Notification Saying It Is Disarmed.
+                You Can Also Get The Arm Arlo Applet By Chromeuser1. It Will Also Do The Same Thing But Arm Your Arlo Instead.",Button press,Send a notification from the IFTTT app,/do_button,/if_notifications,2.9k
+Add an iOS Reminder when Arlo reports low battery level,"If Arlo reports low battery level, then add an iOS Reminder",Low battery reported,Add reminder to list,/arlo,/ios_reminders,5.5k
+Turn Arlo Off - Day,Turns off the Arlo cameras during the day.,Every day at,Disarm,/date_and_time,/arlo,145
+At sunset arm Arlo,Arm Arlo cams at sunset,Sunset,Arm,/weather,/arlo,274
+"If new Motion detected at Front Door, then Arlo Starts Recording","If new Motion detected at Front Door, then Arlo Starts Recording",New Motion Detected,Start recording,/ring,/arlo,284
+"If Abode set to away, Arm Arlo",When abode is set to away set Arlo to arm mode,Mode changed,Arm,/abode,/arlo,21
+Ring arms Arlo,"Motion detected by Ring, will arm Arlo.",New Motion Detected,Arm,/ring,/arlo,50
+Arlo Smart Object Detection Notification,"This applet sends a rich notification anytime an object (person, animal, package, vehicle) are detected by a Arlo Smart-enabled Arlo camera.",Detects Object,Send a rich notification from the IFTTT app,/arlo,/if_notifications,17
+Arm Somfy and Arlo together,"If Somfy is armed, also arm Arlo",System is armed,Arm,/somfy_protect,/arlo,43
+Arlo Low Battery,Detect Arlo Low Battery,Low battery reported,Send me an email,/arlo,/email,643
+ALARME ARLO,ALARME ARLO,Motion detected,Call my device,/arlo,/voip_calls,59
+Arlo Red Alert,Changes all Hue lights red and blinks them when motion detected on Arlo,Motion detected,Blink lights,/arlo,/hue,158
+"If Arlo detects motion, then Play a specific audio message through a specified camera","Turn your Arlo cameras into speakers to play a pre-recorded message to potential intruders (or friends). When motion is detected, the Arlo speaker will trigger playing your pre-recorded message. Duplicate this and add it for every camera you have and make up a story as the intruder walks by each camera (eg. hey is that you Bob? No - who are you? I've called the cops and have my shotgun ready...).",Motion detected,Play a specific song,/arlo,/android_device,3
+August Arm Arlo,Arm arlo when August locked,Lock locked,Send me an email,/augusthome,/email,16
+Daily Arlo Reset,Reset your Arlo System every day,Every day at,Arm,/date_and_time,/arlo,42
+Blink Light Arlo,If Arlo detect movement  from 9pm to 7am blink light,Motion detected,Blink lights,/arlo,/hue,44
+Arlo Notification,When your Arlo Detects Motion IFTTT Will Send A Notification To The Device That Has IFTTT Installed And Logged In.,Motion detected,Send a notification from the IFTTT app,/arlo,/if_notifications,701
+August disarm Arlo,When August is unlocked then disarm Arlo,Lock unlocked,Send me an email,/augusthome,/email,15
+Arlo turns on lights,Have Arlo motion detection turn on your lights while you are away from the house.,Motion detected,Activate shortcut,/arlo,/wink_shortcuts,36
+Security Alert (Arlo),This applet runs when Arlo detects motion and shows a notification on your TV via Caavo.,Motion detected,Show notification on Caavo,/arlo,/caavo,13
+At sunrise disarm Arlo,Disarm Arlo cams at sunrise,Sunrise,Disarm,/weather,/arlo,143
+arlo turns on hue lights,arlo turns on hue lights,Motion detected,Change color,/arlo,/hue,98
+Arm Arlo on Specific Days,Choose which days and time to arm Arlo,Every day of the week at,Arm,/date_and_time,/arlo,63
+Arm Arlo Now,Widget to arm Arlo and get notified by telegram group.,Button press,Send message,/do_button,/telegram,12
+Record Arlo video on alarms,"Make Arlo camera record video automatically when smoke, heat, burglary or water flood is detected. Does not make a video recording on entry delay (the time you have to disarm the burglar alarm before it triggers)",Alarm,Start recording,/works_with_cavius,/arlo,1
+Disarm Somfy and Arlo together,"If Somfy is disarmed, also disarm Arlo",System is disarmed,Disarm,/somfy_protect,/arlo,51
+Flash Wemo Light on Arlo Motion,Flash Wemo Light on Arlo Motion after 7PM at night.,Motion detected,Turn off then on,/arlo,/wemo_light_switch,23
+Tweet peeps that visit my house,Tweet peeps that visit my house,Motion detected,Post a tweet with image,/arlo,/twitter,
+Livy Protect Connection for Arlo,The Livy Protect and Arlo connection is a powerful combination that let you get the most security of both systems.,Arm,Disarm,/arlo,/arlo,1
+Trigger homey on motion detected,This applet triggers a flow on homey when arlo detects motion,Motion detected,Start a Flow with Tags,/arlo,/homey,38
+Disarm Arlo Now,Widget to disarm Arlo and get notified by telegram group.,Button press,Send message,/do_button,/telegram,8

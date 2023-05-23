@@ -1,0 +1,3 @@
+trigger,trigger_description
+The price of electricity changes,This trigger fires hourly when electricity price changes
+Current price exceeds threshold,This trigger fires when current electricity price exceeds threshold

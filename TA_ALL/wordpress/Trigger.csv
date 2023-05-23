@@ -1,0 +1,3 @@
+trigger,trigger_description
+Any new post,This Trigger fires every time you publish a new post on your public WordPress blog.
+New post with tag or category,This Trigger fires every time you publish a new post on your public WordPress blog with a specific tag or category.

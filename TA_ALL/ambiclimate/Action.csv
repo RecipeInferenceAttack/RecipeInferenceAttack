@@ -1,0 +1,6 @@
+action,action_description
+Run your A/C in temperature mode,"This Action will turn on your A/C in the specified room, and run it in Temperature mode."
+Provide Comfort Feedback,This Action will provide Comfort feedback for the device that you specified.
+Turn off your A/C,This Action will turn off your A/C in the specified room.
+Run your A/C in away mode,"This Action will turn on your A/C in the specified room, and run it in Away mode."
+Run your A/C in comfort mode,"This Action will turn on your A/C in the specified room, and run it in Comfort mode."

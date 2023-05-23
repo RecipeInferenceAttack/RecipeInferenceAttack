@@ -1,0 +1,4 @@
+action,action_description
+Update a Switchboard Counter,"Use this action to set, increment, or decrement a Switchboard Counter."
+Update a Switchboard Switch,"Use this action to turn on, turn off, or toggle a Switchboard Switch."
+Update a Switchboard Keyword,Use this action to assign a word or short sentence to a Switchboard Keyword.

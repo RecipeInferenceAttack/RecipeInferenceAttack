@@ -1,0 +1,6 @@
+trigger,trigger_description
+Zone temperature falls below a threshold,This trigger fires every time the zone temperature drops below a threshold. Only zones which display a measured temperature on the app can be selected.
+Zone is being occupied,This trigger fires every time occupancy is detected in a zone. Only zones with a Room Sensor assigned can be selected.
+An assigned device has a low battery,This trigger fires every time an assigned device on your system gets a low battery.
+Zone temperature exceeds a threshold,This trigger fires every time the zone temperature exceeds a threshold. Only zones which display a measured temperature on the app can be selected.
+Zone is being heated,The Trigger fires every time the zone heating turns on.

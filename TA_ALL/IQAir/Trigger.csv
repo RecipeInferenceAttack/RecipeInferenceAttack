@@ -1,0 +1,11 @@
+trigger,trigger_description
+Device's CO2 is above,This trigger fires when your AirVisual device's CO2 level is above a value you provide.
+Device's temperature is above,This trigger fires when your AirVisual device's temperature is above a value you provide.
+Device's CO2 is below,This trigger fires when your AirVisual device's CO2 level is below a value you provide.
+Device's AQI is above,This trigger fires when your AirVisual device's AQI is above a value you provide.
+Device's temperature is below,This trigger fires when your AirVisual device's temperature is below a value you provide
+Device's PM2.5 is above,This trigger fires when your AirVisual device's PM2.5 concentration is above a value you provide.
+Device's humidity is above,This trigger fires when your AirVisual device's relative humidity level is above a value you provide
+Device's humidity is below,This trigger fires when your AirVisual device's relative humidity level is below a value you provide.
+Device's AQI is below,This trigger fires when your AirVisual device's AQI is below a value you provide.
+Device's PM2.5 is below,This trigger fires when your AirVisual device's PM2.5 concentration is below a value you provide.

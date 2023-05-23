@@ -1,0 +1,3 @@
+trigger,trigger_description
+When AC is ON,When Fujitsu Air Conditioner is ON
+When AC is OFF,When Fujitsu Air Conditioner is OFF

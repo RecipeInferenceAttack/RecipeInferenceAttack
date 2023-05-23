@@ -1,0 +1,10 @@
+trigger,trigger_description
+Smart Home Security night mode activated,This trigger fires when the home security device enters Night mode.
+Smart Home Security Outdoor Motion Viewer activated,This trigger fires when a Honeywell Homes Outdoor Motion Viewer is activated.
+Smart Home Security away mode activated,This trigger fires when the home security device enters Away mode.
+Smart Home Security home mode activated,This trigger fires when the home security device enters Home mode
+Water leak detected,This trigger fires when the system detects a water leak.
+Smart Home Security Alarm activated,This trigger fires when the home security device alarm has been activated
+Camera sound detected,This trigger fires when the system detects a sound camera event.
+Smart Home Security off mode activated,This trigger fires when the home security device enters Off mode.
+Camera motion detected,This trigger fires when the system detects a motion camera event.

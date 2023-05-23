@@ -1,0 +1,5 @@
+action,action_description
+End current FocusTime session,"This Action will cancel an active FocusTime session in RescueTime. If there is not an active FocusTime session, it will do nothing."
+Log offline time,This Action will log offline time to your RescueTime account.
+Start a FocusTime session,This Action will start a FocusTime session in RescueTime.
+Log a highlight event,"This Action will create a new highlight or action log entry. Highlight events show up as a list of accomplishments in your reports. Action events are similar, but they can be grouped and categorized as well."

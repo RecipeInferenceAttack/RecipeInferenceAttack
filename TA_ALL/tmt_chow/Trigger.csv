@@ -1,0 +1,12 @@
+trigger,trigger_description
+ChowHub Sensor 4,This trigger fires when ChowHub sensor 4 triggered
+Closed,This trigger fires when the gate complete closed
+ChowHub Sensor 1,This trigger fires when ChowHub sensor 1 triggered
+Hall Sensor Abnormal,This trigger fires when the gate motor hall sensor broken
+Overcurrent,This trigger fires when the gate stopped by overcurrent protection
+ChowHub Sensor 3,This trigger fires when ChowHub sensor 3 triggered
+Opening,This trigger fires when the gate start opening
+Closing,This trigger fires when the gate start closing
+Photocell,This trigger fires when the gate stopped by safety device activated
+ChowHub Sensor 2,This trigger fires when ChowHub sensor 2 triggered
+Opened,This trigger fires when the gate complete opened

@@ -1,0 +1,4 @@
+trigger,trigger_description
+Item state drops below,This Trigger fires every time an item's state drops below a value you specify and works with any number item.
+Item state changes,This Trigger fires every time an item changes its state to a value you specify.
+Item state raises above,This Trigger fires every time an item's state raises above a value you specify and works with any number item.

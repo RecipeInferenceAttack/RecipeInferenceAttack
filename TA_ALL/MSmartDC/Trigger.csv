@@ -1,0 +1,3 @@
+trigger,trigger_description
+Dryer cycle finishes,This trigger fires when a dryer cycle is finished.
+Dryer error,This trigger fires when the dryer has an error.

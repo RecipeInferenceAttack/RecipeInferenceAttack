@@ -1,0 +1,4 @@
+trigger,trigger_description
+door sensor closed,This trigger fires every time your Sengled Door Sensor is closed.
+door sensor opened,This trigger fires every time your Sengled Door Sensor is opened.
+Motion Detected,This Trigger fires when your Snap device detects motion.

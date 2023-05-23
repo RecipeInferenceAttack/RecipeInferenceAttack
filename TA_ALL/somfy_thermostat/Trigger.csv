@@ -1,0 +1,5 @@
+trigger,trigger_description
+Temperature rises above,This Trigger fires every time the temperature rises above a threshold you specify.
+Temperature drops below,This Trigger fires every time the temperature drops below a threshold you specify.
+Low battery alert,This Trigger fires every time your thermostat is nearly out of battery.
+Thermostat set to a mode,This Trigger fires every time the thermostat you specify is set to a certain heating mode.

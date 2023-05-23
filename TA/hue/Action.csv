@@ -1,0 +1,11 @@
+action,action_description
+Turn on color loop,This Action will turn on a slow color loop effect for your hue lights. NOTE: not compatible with hue lux bulbs.
+Turn off lights,This Action will turn off your hue lights.
+Change to random color,This Action will change your hue lights to a randomly selected color. NOTE: not compatible with hue lux bulbs.
+Set a scene in a room,"This Action well set a scene on your hue lights. NOTE: in order to add lights to a room, you must be using the newest version of the Hue app"
+Dim lights,This Action will dim or brighten your hue lights to a value between 0-100.
+Change color,This Action will change the color of your hue lights. NOTE: Accepts color names and CSS hex color values. Defaults to white if no color match is found. NOTE: not compatible with hue lux bulbs.
+Blink lights,This Action will briefly turn your hue lights off then back on.
+Toggle lights on/off,This Action will toggle your hue lights on or off.
+Change color from image,This Action will change the color of your hue lights to match the dominant colors found in an image you specify. NOTE: not compatible with hue lux bulbs.
+Turn on lights,This Action will turn on your hue lights.

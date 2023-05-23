@@ -1,0 +1,52 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Get yourself out of an awkward situation (US Only),"Run into someone that you really don't want to talk to? In a meeting that's dragging on far too long? This Applet offers a simple, discreet way to trigger a phone call (US Only) to yourself so that you can politely excuse yourself from the situation.",Button press,Call my phone,/do_button,/phone_call,82.9k
+Ask Alexa to call your phone,"Lost your phone? Say ""Alexa, call my phone"" and follow the ringtone. 🙌",Say a specific phrase,Call my phone,/amazon_alexa,/phone_call,2.0k
+Call your phone when your Amazon Alexa alarm goes off,"Use Alexa as your alarm, but don't have your Echo or Tap in the bedroom? This Applet will make sure you rise and shine. ☀️",Your Alarm goes off,Call my phone,/amazon_alexa,/phone_call,59
+Avoid People,"This applet will place a call to your phone upon the press of a button widget. In order to ensure that you will be interrupted by the important phone call, it also sets your ringer volume to 100%. Just remember to turn it back down afterwards so you aren't interrupted for real during something important.",Button press,Set ringtone volume,/do_button,/android_device,9
+Send a SMS to Get Called,"This is a perfect way to escape conversations. Text ""#HELP"" to IFTTT and you will receive a short call you can take out of the room.",Send IFTTT an SMS tagged,Call my phone,/sms,/phone_call,1
+Get a phone call when your Blink Camera detects motions,"When motion is detected on your blink camera,you will get a phone call automatically.",Motion detected,Call my phone,/blink,/phone_call,85
+Call phone when doorbell rings,Calls your phone when the doorbell rings. Choose the message.,New Ring Detected,Call my phone,/ring,/phone_call,
+Call me when a water leak is detected,Expand your Notion notifications with a phone call,Water Leak detected,Call my phone,/notion,/phone_call,
+Holler Back!,IFTTT echo imitation,Leave IFTTT any voicemail,Call my phone,/phone_call,/phone_call,4
+Find my phone,On a click of a button call a number,Thinga was clicked,Call my phone,/thinga,/phone_call,10
+Find my phone,"Say ""Find my phone""",Ask for a sports team's score,Call my phone,/amazon_alexa,/phone_call,525
+#sunrise #phone,"Daily inspirational message to start the day. Include breath work, mental visualization, and poem by berton braley.",Sunrise,Call my phone,/weather,/phone_call,11
+Call your phone,Call your phone (USA only).,Gesture with task matching ID occurs,Call my phone,/knocki,/phone_call,7
+Automatically receive a motivating wake up call each morning,Use IFTTT to automatically schedule a free wake-up call.,Every day at,Call my phone,/date_and_time,/phone_call,5.0k
+Hotel Wakeup Call,Hotel Wakeup Call,Today's weather report,Call my phone,/weather,/phone_call,545
+Weekly phone diary,Call IFTTT throughout the week and get a digest of your thoughts each weekend,Leave IFTTT any voicemail,Add to weekly email digest,/phone_call,/email_digest,21
+#phonecall #sunset,"Message to self for end of day. At the end put the poem ""The Dash Between The Years"" found at the link provided...it serves as a good reminder of what's important in life.",Sunset,Call my phone,/weather,/phone_call,7
+"Alexa, Find my phone",Sets android phone to full volume and makes a call.,Say a specific phrase,Call my phone,/amazon_alexa,/phone_call,88
+Call Me When Too Wet,Call my phone when sensor tag is too wet. Please enable humidity or soil moisture monitoring from inside the Wireless Tag app beforehand for this to work.,Humidity or moisture is too high,Call my phone,/wirelesstag,/phone_call,
+Call Me When Too Dry,Call me on my phone when sensor tag is too dry. Please enable humidity or soil moisture monitoring from inside the Wireless Tag app beforehand for this to work.,Humidity or moisture is too low,Call my phone,/wirelesstag,/phone_call,
+iHome - Call My Phone,"Press the iH button on your iHome device to call your phone. Please note, phone must be within range.",iHome Enhance button is pressed,Call my phone,/ihome_enhance,/phone_call,
+"When Too Hot, Call Me",Get notified by phone call when temperature exceeds configured upper limit.,Temperature is too high,Call my phone,/wirelesstag,/phone_call,
+"When Too Cold, Call Me",Useful if you want to get notified of freezing pipe,Temperature is too low,Call my phone,/wirelesstag,/phone_call,7
+Text to add to Spotify,Text to add to Spotify,Send IFTTT an SMS tagged,Add track to a playlist,/sms,/spotify,12
+Free basic alarm system,"This is a quick tool that can give you a basic alarm system. It calls the contact you provide, and is great for vacations.",Thermostat enters Smart Home/Away,Call my phone,/ecobee,/phone_call,25
+Hurricane Warning System,Calls your phone should wind speeds in your area rise above sixty miles per hour.,Wind speed rises above,Call my phone,/weather,/phone_call,5
+Call Me When Door Is Open,"When tag in door mode or Reed sensor detects open, receive a phone call",Door or window is opened,Call my phone,/wirelesstag,/phone_call,
+Call Me When Tag Is Moved,"When tag itself moves, receive a phone call",Tag is moved,Call my phone,/wirelesstag,/phone_call,
+Rescue me from the dating,Double press my Flash button and rescue me from an uncomfortable personal interaction by calling me~,Flash button double pressed,Call my phone,/misfit,/phone_call,4
+Call Me When Motion Stops,"When infra-red sensor detects no movement or motion sensor tag stops moving after configured time-out, receive a phone call.",Motion sensor has timed out,Call my phone,/wirelesstag,/phone_call,
+Find your phone with Triby,Ring your phone when you've lost it by pressing a button on Triby (US numbers only),On button pressed,Call my phone,/invoxia_triby,/phone_call,
+Add iOS Reminders by phone,Add iOS Reminders by phone,Leave IFTTT any voicemail,Add reminder to list,/phone_call,/ios_reminders,47
+Call me when pressure rises,Receive a phone call when the pressure rises above a value threshold you set. Great for those who suffer from pressure related migraines.,Pressure rises above,Call my phone,/weatherflow,/phone_call,2
+WWDC page update phone call,Have IFTTT call you when Apple's WWDC page updates.,New feed item,Call my phone,/feed,/phone_call,16
+"If door alarm, then call me",Sometimes we forget things. Don't let a forgetful moment damage the contents of your fridge! Use this recipe to get called in the event your GE fridge door alarm triggers.,Open door alarm,Call my phone,/ge_appliances_refrigerator,/phone_call,3
+Call me with my pet's status,Calls phone with status of the pet,Generate Pet Activity Report,Call my phone,/LinkMyPet,/phone_call,
+Press Pop to find your phone!,"Press your POP switch to trigger a phone call to your phone. You can customize the message below, too. How about ""You found me!""?",Double Press,Call my phone,/logitech_pop,/phone_call,6
+Call to end a Harmony activity,Call to end a Harmony activity,Leave IFTTT any voicemail,End activity,/phone_call,/harmony,30
+Leave a voice memo on Evernote,"Ever had your hands full and couldn't quickly launch Evernote...then open the proper notebook...then leave a voice memo when you needed it?  Use this recipe to use Siri or similar service to call IFTT and leave a ""voicemail"" which then drops an mp3 file in the appropriate Evernote notebook of your choosing!  Like this idea?  Drop by WeLeadWorship.com and tell us!",Leave IFTTT any voicemail,Create an audio note from URL,/phone_call,/evernote,103
+Find your phone by asking Alexa,"Just ask ""What's on my todo list"" and Alexa will ring your phone helping you locate it.
+
+UPDATE: IFTTT Triggers introduced by Amazon recently and this might be a better recipe:
+
+https://ifttt.com/recipes/341784-alexa-trigger-find-my-phone",Ask what's on your To Do List,Call my phone,/amazon_alexa,/phone_call,1.9k
+Phone call when abode triggered,"If abode alarm is triggered, set ring volume to 100% and call my phone.",Alarm activated,Call my phone,/abode,/phone_call,
+Call me if there's a water leak,"If a water leak is detected, then this Applet will call your US phone and send you a push notification.",A sensor turned on or off,Send a notification from the IFTTT app,/mobilinc,/if_notifications,2
+Call Me When Detected Water Leak,Use IFTTT phone call service (US only) to call you when your specified water leak sensor (either the new quad leak sensor or the old type soil moisture sensor) detects water leak.,Sensor detects water,Call my phone,/wirelesstag,/phone_call,
+Make a phone call to save a note,Make a phone call to save a note,Leave IFTTT any voicemail,Create a page,/phone_call,/onenote,41
+Call to start a Harmony activity,Call to start a Harmony activity,Leave IFTTT any voicemail,Start activity,/phone_call,/harmony,71
+Call me when my lock is unlocked,When my locked is unlocked call my phone and tell me the lock was unlocked.,Lock is unlocked,Call my phone,/nexia,/phone_call,3
+Get a call with tomorrows report,Get a call with tomorrows report,Tomorrow's weather report,Call my phone,/weather,/phone_call,10

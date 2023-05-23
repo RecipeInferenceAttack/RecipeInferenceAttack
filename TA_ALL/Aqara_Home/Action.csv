@@ -1,0 +1,24 @@
+action,action_description
+Turn on/off switch (for Double Rocker switches),This action will turn on/off the double rocker switches of your choosing.
+Enable motion detection,This action will enable motion detection of the specified camera.
+Disable sound detection,This action will disable sound detection of the specified camera.
+Turn on/off switch (for Triple Rocker switches),This action will turn on/off the triple rocker switches of your choosing.
+Turns on/off the light,This action will turn on/off the light of your choosing.
+Open/close the curtain,This action will open/close the curtain of your choosing.
+Turns on/off plug,This action will turn on/off the plug of your choosing.
+Turn on/off Wireless Relay Controller (for 2 Channels),This action will turn on/off the wireless relay controller of your choosing.
+Open the curtain to the designated position,This action will open the curtain of your choosing to the designated position.
+Wake up camera,This action will wake up the specified camera.
+Close the curtain,This action will close the curtain of your choosing.
+Sleep camera,This action will sleep the specified camera.
+Turn on/off switch (for Single Rocker switches),This action will turn on/off the single rocker switches of your choosing.
+Feeding for once,This action will make feeder feed once
+Enable / Disable sound detection,This action will enable / disable sound detection of the specified camera.
+Wake up / sleep camera,This action will wake up / sleep of the specified camera.
+Set brightness,This action will Set the light of brightness
+Enable / Disable motion detection,This action will enable / disable motion detection of the specified camera.
+Open the curtain,This action will open the curtain of your choosing.
+Disable motion detection,This action will disable motion detection of the specified camera.
+Set color temperature,This action will set the color temperature of lamp
+Stop the curtain,This action will stop the curtain of your choosing.
+Enable sound detection,This action will enable sound detection of the specified camera.

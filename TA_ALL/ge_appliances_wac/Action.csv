@@ -1,0 +1,6 @@
+action,action_description
+Turn on AC,This Action will turn on the air conditioner unit.
+Set target temperature,This Action will set a target temperature on your window ac unit.
+Set fan mode,This Action will set the fan mode on the air conditioner unit.
+Turn off AC,This Action will turn off the air conditioner unit.
+Set AC mode,This Action will set the mode of the air conditioner unit.

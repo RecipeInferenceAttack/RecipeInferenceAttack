@@ -1,0 +1,54 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Change the color of your lights when it starts raining,"If it's raining outside, you'll want some nice warm colors inside!",Current condition changes to,Change color of lights,/weather,/lifx,9.6k
+Turn your lights on at sunset,Have your LIFX lights automatically turn on at sunset.,Sunset,Turn lights on,/weather,/lifx,11.4k
+Turn on the lights when you arrive home,Enter your home address on the map and when you enter the radius your LIFX lights will turn on! This Applet uses the IFTTT mobile app's location service.,You enter an area,Turn lights on,/location,/lifx,17.2k
+Toggle LIFX lights on/off,"Perfect for fast, simple control of your lights.",Button press,Toggle lights on/off,/do_button,/lifx,9.3k
+Turn off the lights when you leave home,"Center the map on your home and when you leave, your lights will slowly go off. Must have the IFTTT app installed.",You exit an area,Turn lights off,/location,/lifx,10.0k
+Flash lights when your Ring doorbell rings,Get alerted of new visitors by flashing LIFX lights if your Ring doorbell is pressed.,New Ring Detected,Blink lights,/ring,/lifx,1.9k
+Turn off your lights at 2am,Don't waste electricity! Have your lights automatically turn off at 2am everyday.,Every day at,Turn lights off,/date_and_time,/lifx,1.4k
+Switch off LIFX lights,"You've just left the house. But you forgot to turn off the lights! All good, this will save you. Hint: Try setting a Fade Out Duration for a lovely gradual transition.",Button press,Turn lights off,/do_button,/lifx,1.5k
+Xbox Achievement,Let your Lifx bulbs celebrate the achievement with you by blinking 4 times,Notification received from a specific app,Blink lights,/android_device,/lifx,259
+Wake up gently by having your LIFX lights fade on every morning,Your lights will fade on across 30 minutes. Choose the time of day and days of the week below to customize.,Every day of the week at,Turn lights on,/date_and_time,/lifx,3.8k
+Press a button to activate your LIFX scene,This Applet makes a widget that you can use from IFTTT app or your phone screen. Press the button and the LIFX scene you choose will activate. Magic!,Button press,Activate scene,/do_button,/lifx,1.4k
+Hour breathe,"Light breathes every :00 of an hour.
+Nice time reminder",Every hour at,Breathe lights,/date_and_time,/lifx,74
+Blink the hour,Blink the hour.,Every hour at,Blink lights,/date_and_time,/lifx,211
+Switch ON a LIFX bulb when Apilio triggers an action,Switches on the LIFX light you select when Apilio triggers the action you specify.,Receive an event from Apilio,Turn lights on,/apilio,/lifx,4
+"Make your LIFX lights ""breathe""!",This recipe makes your lights slowly pulse to the color of your choice.,Button press,Breathe lights,/do_button,/lifx,688
+Blink your LIFX lights when you get a new Twitch follower,"Whenever you get a new follower on Twitch, your LIFX lights will blink!",New follower on your channel,Blink lights,/twitch,/lifx,248
+Lifx Change Color,Change Color of Lifx Lights,Say a specific phrase,Change color of lights,/amazon_alexa,/lifx,1.5k
+Change color and brightness of LIFX lights,"Choose a color and which lights to change. For some extra fun, try choosing ""Random""!",Button press,Change color of lights,/do_button,/lifx,4.2k
+Turn Lights Off at Sunrise,This lets natural light take over in the morning and helps save energy.,Sunrise,Turn lights off,/weather,/lifx,635
+Blink alarm,Yep.,Every day at,Blink lights,/date_and_time,/lifx,116
+Turn LiFx on,Turns LiFx lights on when alarm is activated,Alarm activated,Turn lights on,/abode,/lifx,4
+Flash your LIFX lights when you receive a text,Never miss an important text on your Android phone with this Applet.,Any new SMS received,Blink lights,/android_messages,/lifx,3.1k
+wifie dan flip,wifie dan flip,Connects to any WiFi network,Toggle lights on/off,/android_device,/lifx,
+Real life Flux,"Similar to the Flux app that adjusts your monitor brightness and color as it gets darker outside this Applet adjusts your LIFX lights.
+
+PS.: Don't worry about changing the color or transition settings. Just choose the lights you want to be affected.",Every hour at,Change color of lights,/date_and_time,/lifx,64
+Christmas Time,"Flash lights green when it is Christmas, in case one forgets.",Is It Christmas?,Breathe lights,/isitchristmas,/lifx,13
+Morning Wake Up,Turn your lights on at a specific time each day,Daily recommended Applet for you,Turn lights on,/ifttt,/lifx,1
+Boss is calling,Blink lights when call comes from 2142899383,Incoming phone call from a specific number ends,Blink lights,/android_phone,/lifx,14
+LIFX Weekday Off,Simple recipe to switch lights back off at a set time and day of the week.,Every day of the week at,Turn lights off,/date_and_time,/lifx,328
+Breathe the hour,Breathe the hour.,Every hour at,Breathe lights,/date_and_time,/lifx,188
+Get ready for bed,Turn off your LIFX lights and WeMo Insight switch by pressing the pusher on your Kronaby watch.,Pusher pressed,Turn lights off,/kronaby,/lifx,
+Get ready for bed,Turn off your LIFX lights and WeMo Insight switch by pressing the pusher on your Lotus watch.,Pusher pressed,Turn lights off,/lotus_watches,/lifx,
+Get ready for bed,Turn off your LIFX lights and WeMo Insight switch by pressing the pusher on your Festina watch.,Pusher pressed,Turn lights off,/festina_watches,/lifx,
+Get ready for bed,Turn off your LIFX lights and WeMo Insight switch by pressing the pusher on your Jaguar watch.,Pusher pressed,Turn lights off,/jaguar_watches,/lifx,
+Green Light Signal,The Green Light Signal is a UK service that you connect your smart bulb to. It will make your bulb turn green every time the electricity in your area is generated with lowest possible CO2 levels. Simply put: when it turns green you can plug-in!,If CO2 Level Is Low,Change color of lights,/green_light_signal,/lifx,130
+Blink your lights!,Choose the number of blinks and the color to get this party started!,Button press,Blink lights,/do_button,/lifx,1.2k
+Switch LIFX on/off,Switches LIFX on/off to make it look like you are at home.,Every day at,Turn lights off,/date_and_time,/lifx,85
+Connect LIFX Lights,Allows Hue Lights to be turned on/off dimmed from Wireless Tag and KumoApp scripts.,Turn lights on,Turn lights off,/lifx,/lifx,9
+Alexa timer with hue,If your Alexa timer goes off your hue starts blinking,Your Timer goes off,Blink lights,/amazon_alexa,/lifx,3
+Switch on LIFX lights,"Turn your lights on to their default color and brightness. Add a Fade in Duration to keep things nice and gentle, or choose ""instant"" if you're in a hurry!",Button press,Turn lights on,/do_button,/lifx,597
+Alexa toggle LIFX  bulb,"Ask Alexa ""what's on my shopping list""  to toggle lights on / off.",Ask what's on your Shopping List,Toggle lights on/off,/amazon_alexa,/lifx,40
+iHome - Begin Lifx Scene,Press the iH button on your iHome device to begin Lifx scene.,iHome Enhance button is pressed,Activate scene,/ihome_enhance,/lifx,
+"Alexa, turn on my lights","I use this recipe to toggle my LIFX video set scene using Alexa. The command I use is: ""Alexa, trigger video lights."" It sets the lamp in my video set to violet.
+
+Using multiple recipes with same phrase, you can trigger several actions while only speaking one command to Alexa.",Say a specific phrase,Activate scene,/amazon_alexa,/lifx,11
+It's Almost 420 Alarm ;),Reminder just for fun ;). You can choose to change to just Green but I have found that Pastel Green transitions better.,Every day at,Breathe lights,/date_and_time,/lifx,7
+Voice activate LIFX bulb,Turn on your LIFX through Alexa voice command,Ask what's on your To Do List,Toggle lights on/off,/amazon_alexa,/lifx,194
+Toggle LIFX lights on/off,Toggle your LIFX lights on and off by pressing the pusher on your Festina watch.,Pusher pressed,Toggle lights on/off,/festina_watches,/lifx,
+Toggle LIFX lights on/off,Toggle your LIFX lights on and off by pressing the pusher on your Kronaby watch.,Pusher pressed,Toggle lights on/off,/kronaby,/lifx,52
+Toggle LIFX lights on/off,Toggle your LIFX lights on and off by pressing the pusher on your Lotus watch.,Pusher pressed,Toggle lights on/off,/lotus_watches,/lifx,
+Turn on your lights with August Smart Lock,Turn on a LIFX light when a specific person comes home and unlocks a designated August Smart Lock.,Lock unlocked by specific person,Turn lights on,/augusthome,/lifx,278

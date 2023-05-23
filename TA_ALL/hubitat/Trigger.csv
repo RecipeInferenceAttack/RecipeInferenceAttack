@@ -1,0 +1,14 @@
+trigger,trigger_description
+Temperature rises above,This trigger fires every time the temperature rises above the specified threshold.
+Water is detected,This trigger fires every time your Hubitat device detects water.
+Water is no longer detected,This trigger fires every time your Hubitat device no longer detects water.
+Device turns on,This trigger fires when your Hubitat device turns on.
+Device opens,This trigger fires when your Hubitat device opens.
+Presence is detected,This trigger fires every time your Hubitat device's presence is detected.
+Motion is no longer detected,This trigger fires when motion is no longer detected.
+Presence is no longer detected,This trigger fires every time your Hubitat device's presence is no longer detected.
+Mode changes,This trigger fires when the Hubitat mode changes.
+Device closes,This trigger fires when your Hubitat device closes.
+Device turns off,This trigger fires when your Hubitat device turns off.
+Temperature drops below,This trigger fires every time the temperature drops below the specified threshold.
+Motion is detected,This trigger fires when new motion is detected.

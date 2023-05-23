@@ -1,0 +1,2 @@
+trigger,trigger_description
+Action Executed,This trigger fires when a server action is executed in Pushcut.

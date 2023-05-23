@@ -1,0 +1,3 @@
+action,action_description
+Adjust fan mode,"This Action will adjust your humidifier to your specified fan mode (Max, High, Medium, Low, Min, Off)."
+Set humidity level,"This Action will set your humidifier’s humidity target level to the percentage you specify. (45%, 50%, 55%, 60%, Max%)."

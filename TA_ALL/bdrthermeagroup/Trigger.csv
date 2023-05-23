@@ -1,0 +1,6 @@
+trigger,trigger_description
+Current measured temperature changes,This Trigger monitors changes in your thermostat's measured temperature and fires if it exceeds a certain threshold.
+An error occured,This Trigger fires if the thermostat encounters an error.
+Current set temperature exceeds a threshold,This Trigger monitors changes in your thermostat's set temperature and fires if it exceeds a certain threshold.
+Current heating mode changes,This Trigger monitors changes in your thermostat's heating mode and fires if it is set to a certain mode.
+Current set temperature changes,This Trigger monitors changes in your thermostat's set temperature and fires whenever it changes.

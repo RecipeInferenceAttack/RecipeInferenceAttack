@@ -1,0 +1,4 @@
+action,action_description
+Set lighting brightness to 0%,This action will set the brightness of the active lighting profile to 0%.
+Set lighting brightness to 100%,This action will set the brightness of the active lighting profile to 100%.
+Change profile,This action will change the active master profile.

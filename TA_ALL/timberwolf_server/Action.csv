@@ -1,0 +1,4 @@
+action,action_description
+Set value,"Set a Timberwolf Server object to a specified value. The selected Timberwolf Server will convert the textual value to the datatype of the target object. You can connect the target object to another subsystem like KNX, 1-Wire, Modbus, MQTT, HTTP or Timeseries"
+Switch on,"This action will set a boolean Timberwolf object true. You may connect the object on your Timberwolf Server to other services like KNX, 1Wire, Modbus oder MQTT."
+Switch off,This action will set a boolean Timberwolf object false.

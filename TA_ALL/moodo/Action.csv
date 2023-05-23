@@ -1,0 +1,6 @@
+action,action_description
+Kick-start Moodo,This action will start your Moodo with TOP fan power for selected period of time.
+Start Moodo,This action will start your Moodo.
+Switch Moodo AIR into Purifier mode,This action will make Moodo AIR device to purify air instead of blowing out fragrance.
+Stop Moodo,This action will stop your Moodo.
+Switch Moodo AIR into Diffuser mode,This action will make Moodo AIR device to blow out fragrance instead of air purifying.

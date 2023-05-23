@@ -1,0 +1,11 @@
+action,action_description
+Play animation,This action will play gif on Pixoo-64.
+Display message,This action will display message on device.
+Switch clock interface,This action will choose clock on Pixoo-64.
+Start stopwatch,This action will start timer on pixoo-64.
+Display Amazon Music,This action is associated with Amazon Music and triggers the display of play information when Amazon music is played.
+Turn off screen,This action will close screen on device.
+Play cloud channel,This action will play cloud channel on Pixoo-64.
+Start countdown meter,This action will start down clock on pixoo-64.
+Play custom channel,This action will play custom channel on pixoo-64.
+Turn on screen,This action will open screen on device.

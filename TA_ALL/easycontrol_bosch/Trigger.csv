@@ -1,0 +1,10 @@
+trigger,trigger_description
+Away Mode,This trigger fires when away mode is on.
+Room temperature changed,This trigger fires every time the room temperature changes by a pre-selected amount.
+Humidity rises above,This Trigger fires when your indoor humidity rises above a given threshold.
+Low System Pressure,This Trigger fires when your system pressure drops below a given threshold.
+Home Mode,This trigger fires when home mode is on.
+Temperature drops below,This Trigger fires when your local room temperature drops below a given threshold.
+Temperature rises above,This Trigger fires when your local room temperature exceeds a given threshold.
+Notification,This trigger fires whenever a notification is created by your heating system. This could be a low pressure warning or error message.
+Humidity drops below,This Trigger fires when your local humidity drops below a given threshold.

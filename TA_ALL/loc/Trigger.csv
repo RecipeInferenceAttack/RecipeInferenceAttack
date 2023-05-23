@@ -1,0 +1,5 @@
+trigger,trigger_description
+Picture This: Library of Congress Prints,This trigger fires every time there's a new highlight from the Library of Congress print collections as well as peeks behind-the-scenes in the Prints Photographs Division.
+New blog post,This trigger fires every time there is a new blog post released by the Library of Congress.
+Latest news,This trigger fires every time there is news released by the Library of Congress.
+Today in history,"This trigger fires every time there is a new ""Today in history"" post from the Library of Congress."

@@ -1,0 +1,12 @@
+trigger,trigger_description
+Photocell,This trigger fires when the gate stopped by safety device activated
+Sensor 1 - Biitween,This trigger fires when Biitween sensor 1 triggered
+Sensor 2 - Biitween,This trigger fires when Biitween sensor 2 triggered
+Overcurrent,This trigger fires when the gate stopped by overcurrent protection
+Closed,This trigger fires when the gate complete closed
+Opened,This trigger fires when the gate complete opened
+Hall Sensor Abnormal,This trigger fires when the gate motor hall sensor broken
+Sensor 4 - Biitween,This trigger fires when Biitween sensor 4 triggered
+Opening,This trigger fires when the gate start opening
+Sensor 3 - Biitween,This trigger fires when Biitween sensor 3 triggered
+Closing,This trigger fires when the gate start closing

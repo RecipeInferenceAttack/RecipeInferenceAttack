@@ -1,0 +1,5 @@
+trigger,trigger_description
+Total Giving Page added,This Trigger fires when a new Total Giving page is setup in Donation Manager.
+Donation added,This Trigger fires when a new donation is made and added in Donation Manager.
+Supporter added,This Trigger fires when a new supporter is added in Donation Manager.
+Appeal added,This Trigger fires when a new appeal is added in Donation Manager.

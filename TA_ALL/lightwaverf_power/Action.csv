@@ -1,0 +1,9 @@
+action,action_description
+Switch on a socket,This Action will switch on your socket.
+Open a relay,This Action will open a relay.
+Close a relay,This Action will close a relay.
+Lock device,"This Action will lock a device, preventing use of the physical buttons on the device."
+Stop a relay,This Action will stop a relay.
+Switch off a socket,This Action will switch off a socket.
+Fully lock a device,"This Action will fully lock a device, preventing both the use of physical buttons and radio control of the device."
+Unlock a device,"This Action will unlock a device, allowing use of the physical buttons on the device."

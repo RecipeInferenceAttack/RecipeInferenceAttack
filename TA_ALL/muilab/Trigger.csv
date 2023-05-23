@@ -1,0 +1,4 @@
+trigger,trigger_description
+Display turns on,This trigger fires when mui's display turned on.
+Night mode turn off,This trigger fires when your mui board turned off night mode.
+Night mode turn on,This trigger fires when your mui board turned on night mode.

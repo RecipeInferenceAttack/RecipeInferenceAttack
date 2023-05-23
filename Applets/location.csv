@@ -1,0 +1,38 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Automatically unmute your Android when you get back home,"Center the map on your home. When you get there your phone will be taken off of mute and the volume set to 80%. Ring, ring! Keep in mind this Applet requires the IFTTT Android app.",You enter an area,Set ringtone volume,/location,/android_device,225.2k
+Play Sonos when arriving home.,"This recipe requires Hazel, SoCo Python library (https://github.com/rahims/SoCo) and a shell script to provide an integrated solution",You enter an area,Create a text file,/location,/dropbox,37
+Make a grand entrance with Philips Hue,"When you arrive home, this Applet will make the Hue lights rotate colors. Your kids and friends will think it's magic! To turn off the color loop, you'll need to use the Hue app.",You enter an area,Turn on color loop,/location,/hue,3.9k
+"When I go to the gym, log it in my Google Calendar","When you go to the gym, log it in your Google Calendar",You enter an area,Quick add event,/location,/google_calendar,320
+Phone track your mileage TGG,Phone track your mileage TGG,You enter an area,Append to a document,/location,/google_docs,42
+Track your work hours in Google Calendar,"All you have to do is set your work location and any time you arrive or leave the area, it will be automatically added to a calendar for easy tracking.",You enter or exit an area,Quick add event,/location,/google_calendar,218.7k
+"If you exit an area, arm Arlo","If you exit an area, then arm Arlo.",You exit an area,Arm,/location,/arlo,5.4k
+"If you enter an area, disarm Arlo","If you enter an area, disarm Arlo.",You enter an area,Disarm,/location,/arlo,4.6k
+Track your work hours in iOS Calendar,"Simply enter your work location on the map and every time you arrive or leave the area, it will be added to the iOS Calendar you select! Great for easily tracking hours spent at the office.",You enter or exit an area,Create a calendar event,/location,/ios_calendar,69.1k
+Automatically mute your Android phone when you leave home,Center the map on your home. This will automatically put your Android phone into vibrate mode when you exit the area.,You exit an area,Mute ringtone,/location,/android_device,2.9k
+Turn on the lights when you arrive home,Enter your home address on the map and when you enter the radius your LIFX lights will turn on! This Applet uses the IFTTT mobile app's location service.,You enter an area,Turn lights on,/location,/lifx,17.2k
+Log how much time you spend at specific locations like the office or home in a spreadsheet,Set the map on an area that you want to track and this Applet will add a row of info to a Google Drive spreadsheet each time you arrive at or leave the area.,You enter or exit an area,Add row to spreadsheet,/location,/google_sheets,218.3k
+Pause Sonos when leaving home.,"This recipe requires Hazel, SoCo Python library (https://github.com/rahims/SoCo) and a shell script to provide an integrated solution",You exit an area,Create a text file,/location,/dropbox,631
+Mute your Android phone when you arrive at work,"Locate your workplace and when you arrive, your device will mute and be set to vibrate.",You enter an area,Mute ringtone,/location,/android_device,153.7k
+"When iPhone senses you're home, turn on lights","When your iPhone senses you are home, trigger Wink to turn on your lights. 
+Tips: 
+1) Use Wink compatible lights. 
+2) Use the Wink HUB to allow your smart products to work together. 
+3) Create a Shortcut in the Wink App to turn on lights, then use IFTTT to trigger this shortcut when your iPhone senses you are home.",You enter an area,Activate shortcut,/location,/wink_shortcuts,1.3k
+If you exit an area then turn your heating off,If you exit an area then turn your heating off,You exit an area,Enable a quick action,/location,/honeywell_evohome,716
+Turn your lights on automatically as you arrive home,"Center the map on your home's location, and you'll always walk in to a bright home.",You enter an area,Turn on lights,/location,/hue,67.3k
+Turn off your A/C unit when you leave home (iOS),"Your smartphone makes use of your location information to automatically turn off your AC unit when you leave a certain area. To minimise the battery drain of your phone, your location is only periodically checked.",You exit an area,Turn AC unit off,/location,/daikin_online_controller,248
+Turn on Sleep mode when I arrive home (for iOS),Turn on the Sleep mode when you arrive home to protect your privacy. Note: Must have IF app for iOS installed,You enter an area,Toggle Sleep mode,/location,/ezviz,442
+Turn off my light when I leave the house,Make sure you don't unintentionally leave the light on when you're not at home. This Applet turns your Hive Active Light™ off when you leave your house.,You exit an area,Turn off light for a specific duration,/location,/hive_active_light,415
+Android Wear : welcome home greeting,"Welcomes you home on your Android Wear device. Doesn't show you a map,just a greeting.",You enter an area,Send a notification,/location,/android_wear,3.2k
+Turn on my light when I'm on my way home,Make sure you don't come home to a dark house. This Applet turns on your chosen Hive Active Light™ when you are on your way home.,You enter an area,Turn on light for a specific duration,/location,/hive_active_light,841
+"If you arrive close to your home, then disable your Myfox system","If you arrive close to your home, then disable your Myfox system",You enter an area,Disable your system,/location,/myfox_homecontrol,102
+Save toward a Goal every time you visit a location of your choice,Need extra motivation to hit the gym? Or maybe you’d like to save every time you spend at your favourite coffee spot? You decide the place and we’ll take care of the rest.,You enter or exit an area,Save toward a goal,/location,/qapital,1.5k
+"When my Android leaves Home, open Waze by pushing a Geocoordinate link","When your Android leaves Home, send a pushbullet with a waze://?ll= link to open Waze",You exit an area,Push a link,/location,/pushbullet,12
+Lifx lights breathe to announce you are almost home,Easier than calling,You enter an area,Breathe lights,/location,/lifx,727
+Turn your camera on when you leave home,Turn off the Sleep mode when you leave home. For Android phones.,You exit an area,Toggle Sleep mode,/location,/ezviz,1.1k
+"Send an email when you leave home, work, or a place/area regularly visited.","This will send an email to your wife, husband, or friend when you leave a place.  This can let them know you are on your way home (from work for example), on your way to work (from home), just left the gym, or left your child's school (confirm that you picked up your child after school for example).  This can also be used with other rules to trigger home automation tasks when you leave.",You exit an area,Send me an email,/location,/email,55
+"When I leave my house, close my garage door",This Recipe is for iOS devices. Remote Access must be enabled on your gogogate 2.,You exit an area,Close door,/location,/gogogate,1.6k
+"When I arrive at my house, open my garage door",This Recipe is for iOS devices. Remote Access must be enabled in your gogogate 2.,You enter an area,Open door,/location,/gogogate,2.4k
+Turn camera off when you come home,Turn camera off when you come home (Android),You enter an area,Turn camera off,/location,/ivideon,142
+Turn on your WeMo bulbs when you arrive home,Turn your lights on when you arrive at the specified location,You enter an area,Turn on,/location,/wemo_lighting,1.0k
+Use your location to start a Harmony activity,Use your location to start a Harmony activity,You enter an area,Start activity,/location,/harmony,120

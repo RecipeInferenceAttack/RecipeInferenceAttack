@@ -1,0 +1,10 @@
+trigger,trigger_description
+Sleep duration below,This Trigger fires every time your Misfit Shine logs sleep with a duration below the target hours you specify.
+Flash button single pressed,This Trigger fires every time you single press your Misfit Flash button.
+Daily goal not achieved by __:__,This Trigger fires every time you do not achieve a daily goal you choose at the time you specify. NOTE: Updated on the first Misfit Shine sync after the time you specify.
+Daily activity summary,This Trigger fires every time your Misfit Shine syncs for the first time today and your previous day's stats are available.
+Flash button long pressed,This Trigger fires every time you long press your Misfit Flash button.
+Flash button double pressed,This Trigger fires every time you double press your Misfit Flash button.
+Flash button triple pressed,This Trigger fires every time you triple press your Misfit Flash button.
+Sleep duration above,This Trigger fires every time your Misfit Shine logs sleep with a duration above the target hours you specify.
+Daily goal achieved,This Trigger fires every time you achieve your daily point goal.

@@ -1,0 +1,3 @@
+trigger,trigger_description
+IFTTT Notification Sub-Action,This trigger fires when an `IFTTT Notification` sub-action is executed from Streamer.bot.
+IFTTT Advanced Notification Sub-Action,This trigger fires when an `IFTTT Advanced Notification` sub-action is executed from Streamer.bot.

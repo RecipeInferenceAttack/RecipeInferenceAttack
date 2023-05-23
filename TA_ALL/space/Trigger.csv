@@ -1,0 +1,9 @@
+trigger,trigger_description
+Season changes on Mars,This Trigger fires every time the season changes on Mars according to the Curiosity Rover's location.
+Astronaut exits space,This Trigger fires every time an astronaut exits space.
+Astronaut enters space,This Trigger fires every time an astronaut enters space.
+Astronomy picture of the day by NASA,This Trigger fires every time NASA posts a new Astronomy Picture of the Day.
+Breaking news by NASA,This Trigger fires every time breaking news is released by NASA.
+ISS passes over a specific location,This Trigger fires every time the International Space Station passes over a location you specify. NOTE: the ISS completes 15.5 orbits per day.
+Image of the day by NASA,This Trigger fires every time NASA posts to the Image of the Day Gallery.
+ISS on-orbit status report,This Trigger fires every time the International Space Station posts a new On-Orbit Status Report.

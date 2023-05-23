@@ -1,0 +1,4 @@
+action,action_description
+Sound the siren,This Action will immediately sound the 110 db siren of your Myfox Security system.
+Security mode,This Action will change the security mode of your Myfox Security system.
+Control camera shutter,This Action will open or close the shutter of your Myfox Security Camera.

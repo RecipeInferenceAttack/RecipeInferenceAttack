@@ -1,0 +1,6 @@
+action,action_description
+Turn off,"This Action will turn a WeMo Switch off. If the WeMo Switch is already off, it will remain off."
+Turn on then off,This Action will turn a WeMo Switch on then immediately back off.
+Turn on,"This Action will turn a WeMo Switch on. If the WeMo Switch is already on, it will remain on."
+Turn off then on,This Action will turn a WeMo Switch off then immediately back on.
+Toggle on/off,This Action will toggle a WeMo Switch on or off.

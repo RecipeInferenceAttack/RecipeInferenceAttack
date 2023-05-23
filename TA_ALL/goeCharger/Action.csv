@@ -1,0 +1,17 @@
+action,action_description
+Reboot Charger,This action will reboot the charger.
+Set Friendly Name,This action will set the friendly name.
+Pause charging,This action will pause the charging process.
+Set charging state,"This action will set the charging state to Neutral, Force-Off or Force-On."
+Set energy save mode,This action will set the led energy save mode.
+Set flexible energy tariff price limit,This action will set the flexible energy tariff price limit.
+Start charging,This action will start the charging process.
+Set Energy Limit,This action will set the energy limit for the current charging session.
+Set automatic stop energy,This action will set the automatic stop energy.
+Set Mode,This action will set the mode of the charger.
+Set transaction,This action will set the transaction setting.
+Set access control,This action will set the access control setting.
+Set ledring brightness,This action will set the ledring brightness.
+Set Requested Current,This action will set the charging current.
+Set unlock mode,This action will set the unlock mode.
+Set colors,"This action will set the colors for Idle, Charging and Done."

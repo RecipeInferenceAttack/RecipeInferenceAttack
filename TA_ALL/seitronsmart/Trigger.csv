@@ -1,0 +1,3 @@
+trigger,trigger_description
+Temperature rises above,This trigger fires when the temperature detected by the thermostat rises above a given threshold.
+Temperature falls below,This trigger fires when the temperature detected by the thermostat falls below a given threshold.

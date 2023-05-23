@@ -1,0 +1,7 @@
+numpy
+scikit-learn-intelex
+requests
+BeautifulSoup4
+scikit-learn
+
+

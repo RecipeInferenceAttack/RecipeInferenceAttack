@@ -1,0 +1,3 @@
+action,action_description
+Add file to my Verizon Cloud and add to Album,This action will upload a file to your Verizon Cloud account and add it to an album.  (If the album does not exist it will be created)
+Add file to my Verizon Cloud,This will add the new file to the designated folder or album in your Verizon Cloud.

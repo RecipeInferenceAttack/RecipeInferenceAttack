@@ -1,0 +1,8 @@
+trigger,trigger_description
+New Show HN story,This trigger fires every time a new Show Hacker News story is posted.
+New story by user,This trigger fires every time a new story is posted by the user you specify.
+New best story,This trigger fires every time a Hacker News story becomes a best story.
+New comment by user,This trigger fires every time a new comment is posted by the user you specify.
+New Ask HN story,This trigger fires every time a new Ask Hacker News story is posted.
+New top story,This trigger fires every time a Hacker News story becomes a top story.
+New job posted,This trigger fires every time a new job is posted to Hacker News.

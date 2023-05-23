@@ -1,0 +1,4 @@
+action,action_description
+Set Microwave Mode,This acttion will set the microwave oven to the designated work mode.
+Set Defrost Mode,This acttion will set the microwave oven to the defrost work mode.
+Set Cooking Status,This acttion will set the microwave oven to the designated work status.

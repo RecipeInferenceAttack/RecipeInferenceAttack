@@ -1,0 +1,9 @@
+trigger,trigger_description
+Someone rings your doorbell,This trigger fires when someone rings your doorbell.
+Detects door-breaking,This trigger fires when a lock detects a door-breaking event.
+Smart button is pressed,This trigger fires when a smart button is pressed.
+Door sensor opens,This trigger fires when a door sensor opens.
+Package theft,This trigger fires when the camera detects someone is trying to steal a package.
+Package delivery,This trigger fires when the camera detects that a package has been delivered.
+Detects loitering,This trigger fires when the camera detects an unknown person stays within the camera's view for a period of time.
+Lock blocked,This trigger fires when a door lock is blocked.

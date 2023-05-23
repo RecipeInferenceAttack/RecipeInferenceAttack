@@ -1,0 +1,8 @@
+action,action_description
+Toggle lights on/off,"This Action will turn on, turn off or toggle your lights."
+Blink lights,This Action will blink your lights.
+Set brightness,This action will set the brightness of the selected lights to the specified value.
+Set color,This Action will change your lights to a specified color.
+Dim lights,"This action will dim the selected lights, the decreased brightness value is defined by you."
+Set dynamic effect,This Action will change your lights to a specified dynamic effect.
+Brighten lights,"This action will increase the brightness of your selected device, the increased brightness value is defined by you."

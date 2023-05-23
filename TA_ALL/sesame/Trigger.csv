@@ -1,0 +1,3 @@
+trigger,trigger_description
+Sesame locked,This trigger fires when your Sesame is locked.
+Sesame unlocked,This trigger fires when your Sesame is unlocked.

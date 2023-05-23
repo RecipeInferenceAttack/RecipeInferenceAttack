@@ -1,0 +1,6 @@
+trigger,trigger_description
+Daily recommended Applet for you,This trigger recommends a new Applet every day at the time you specify.
+New Applet published by service,This trigger fires whenever a service has published a new Applet on IFTTT.
+New trigger or action published by service,This trigger fires whenever a service has published a new trigger or action on IFTTT.
+New IFTTT update,"This trigger fires every time the IFTTT blog posts something tagged ""Updates."" It's an easy way to stay on top of new services or features."
+New service published on IFTTT,This trigger fires whenever a new service has been published on IFTTT.

@@ -1,0 +1,12 @@
+trigger,trigger_description
+Total Power Consumption three phases,This trigger fires when the consumed power satisfies a condition with a treshold
+Temperature Sensor,This trigger fires when the temperature satisfies a condition with a threshold
+Contact Interface Status,This trigger fires based on the state (on/off/changing)
+Produced Power single phase,This trigger fires when the produced power satisfies a condition with a threshold
+Room HVAC Mode,This trigger fires when occurs a variation of HVAC mode if the state satisfies a condition
+Total Power Consumption single phase,This trigger fires when the consumed power satisfies a condition with a threshold
+Rain Amount,This trigger fires when rain amount satisfies a condition with a threshold
+Exchanged Power single phase,This trigger fires when the exchanged power satisfies a condition with a threshold
+Room Temperature,This trigger fires when the room temperature satisfies a condition with a threshold
+Room Temperature Setpoint,This trigger fires when the setpoint temperature satisfies a condition with a threshold
+Wind Speed,This trigger fires when wind speed satisfies a condition with a threshold

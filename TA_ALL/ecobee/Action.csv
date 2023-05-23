@@ -1,0 +1,10 @@
+action,action_description
+Set thermostat hold for X hours,This action will set the thermostat into a hold with the specified temperature for the specified number of hours.
+Turn light switch off,This action turns off one of your light switches.
+Create vacation on thermostat,This Action will create a vacation event on the selected thermostat with the specified setpoint. The vacation event will begin immediately and last the number of specified days.
+Turn light switch on,This action turns on one of your light switches.
+Set thermostat indefinite hold,This action will set the thermostat into an indefinite hold with the specified temperature.
+Set thermostat comfort profile until next transition,This Action will set the thermostat into a hold using the settings from the specified comfort profile. This comfort profile hold will remain in effect until the next next comfort profile transition in the program.
+Set thermostat hold until next transition,This action will set the thermostat into a hold with the specified temperature and the end date/time will be set to the next climate transition in the program.
+Set thermostat comfort profile for X hours,This Action will set the thermostat into a hold using the settings from the specified comfort profile. This comfort profile hold will remain in effect for the specified number of hours.
+Resume thermostat program,This Action removes the currently running event on the selected thermostat providing the event is not a mandatory demand response event.

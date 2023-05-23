@@ -1,0 +1,2 @@
+trigger,trigger_description
+Alarm occurs on system,This Trigger fires every time an alarm is triggered on your system.

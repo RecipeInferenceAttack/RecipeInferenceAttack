@@ -1,0 +1,5 @@
+action,action_description
+Change brightness,This action will change the brightness of a Dimmer to a specified level/percentage.
+Turn off,This action will turn off a device.
+Turn on,This action will turn on a device.
+Toggle,This action will toggle a device.

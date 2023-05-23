@@ -1,0 +1,6 @@
+action,action_description
+Run a American Standard Home automation,This action will run an American Standard Home automation.
+Turn a dimmer on,This action will turn a dimmer on.
+Turn a dimmer off,This action will turn a dimmer off.
+Turn a switch on,This action will turn on a switch.
+Turn a switch off,This action will turn a switch off.

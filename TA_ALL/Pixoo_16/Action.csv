@@ -1,0 +1,11 @@
+action,action_description
+Play animation,This action will play gif on Pixoo-16.
+Display message,This action will display message on device.
+Start countdown meter,This action will start down clock on pixoo-16.
+Play custom channel,This action will play custom channel on pixoo-16.
+Turn off screen,This action will close screen on device.
+Play cloud channel,This action will play cloud channel on Pixoo-16.
+Turn on screen,This action will open screen on device.
+Display Amazon Music,This action is associated with Amazon Music and triggers the display of play information when Amazon music is played.
+Start stopwatch,This action will start timer on pixoo-16.
+Switch clock interface,This action will choose clock on Pixoo-16.

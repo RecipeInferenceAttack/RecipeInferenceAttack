@@ -1,0 +1,5 @@
+action,action_description
+Control your Shutter or Venetian,This action will move up/down or stop a shutter/venetian in your home
+Switch On or Off a Light,This action will switch On or Off a light in your home
+Execute Any Command,Execute any command in your Gewiss smart home
+Execute a Scenario,This action will execute a scenario available at your home

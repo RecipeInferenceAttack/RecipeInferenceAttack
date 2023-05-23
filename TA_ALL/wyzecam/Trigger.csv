@@ -1,0 +1,22 @@
+trigger,trigger_description
+Wyze Lock locked,This Trigger fires when your Wyze Lock is locked.
+Bulb Turns off,This trigger fires when a Wyze Bulb is turned off.
+Contact Sensor closes,This trigger fires when a Contact Sensor closes.
+Smoke alarm is detected,This trigger fires when a Wyze Cam detects a smoke alarm. The minimum firmware version required is v3.9.3.62 for v1 and v4.9.1.60 for v2.
+Low battery is detected,This trigger fires when a Wyze Cam Outdoor detects a low battery status.
+Wyze Lock unlocked,This Trigger fires when your Wyze Lock is unlocked.
+Switch is triple pressed,This trigger fires when your Wyze Switch is triple pressed.
+Contact Sensor opens,This trigger fires when a Contact Sensor opens.
+Motion Sensor becomes clear,This trigger fires when a Motion Sensor becomes clear.
+Switch is hold pressed,This trigger fires when your Wyze Switch is hold pressed.
+Motion is detected,This trigger fires when a Wyze Cam detects motion. The minimum firmware version required is v3.9.3.62 for v1 and v4.9.1.60 for v2.
+CO alarm is detected,This trigger fires when a Wyze Cam detects a CO alarm. The minimum firmware version required is v3.9.3.62 for v1 and v4.9.1.60 for v2.
+Switch turns off,This trigger fires when your Wyze Switch is turned off.
+Sound is detected,This trigger fires when a Wyze Cam detects sound. The minimum firmware version required is v3.9.3.62 for v1 and v4.9.1.60 for v2.
+Plug Turns off,This trigger fires when a Wyze Plug is turned off.
+Motion Sensor detects motion,This trigger fires when a Motion Sensor detects motion.
+Bulb Turns on,This trigger fires when a Wyze Bulb is turned on.
+Switch is double pressed,This trigger fires when your Wyze Switch is pressed.
+Doorbell is pressed,This trigger fires when your Wyze Doorbell is pressed.
+Switch turns on,This trigger fires when your Wyze Switch is turned on.
+Plug Turns on,This trigger fires when a Wyze Plug is turned on.

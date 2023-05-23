@@ -1,0 +1,5 @@
+action,action_description
+Dim device,This action will dim a device.
+Run scenario,This action will run a scenario.
+Turn device off,This action will turn off a device.
+Turn device on,This action will turn on a device.

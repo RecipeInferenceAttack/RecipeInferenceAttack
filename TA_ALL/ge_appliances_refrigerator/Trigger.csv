@@ -1,0 +1,5 @@
+trigger,trigger_description
+Refrigerator door open,This Trigger fires every time your refrigerator door is opened.
+Open door alarm,This Trigger fires after any door is left open for 18 minutes.
+Any door open,This Trigger fires every time your refrigerator or freezer doors are open.
+Freezer door open,This Trigger fires every time your refrigerator freezer door is opened.

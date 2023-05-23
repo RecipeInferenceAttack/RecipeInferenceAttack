@@ -1,0 +1,3 @@
+trigger,trigger_description
+Low battery,This Trigger fires when your mirror has low battery.
+Fully charged,This Trigger fires when your mirror is fully charged.

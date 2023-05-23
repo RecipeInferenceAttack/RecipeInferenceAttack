@@ -1,0 +1,2 @@
+trigger,trigger_description
+Device connects,This trigger fires every time a specific device connects to ASUS Router.

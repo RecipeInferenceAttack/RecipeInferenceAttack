@@ -1,0 +1,15 @@
+action,action_description
+Open garage,This action will open garage door by a Meross device.
+Set Thermostat Temperature For V3 Or Above,This action will set the temperature of your thermostat v3 or above
+Set Thermostat Mode,This action will set the mode of your thermostat
+Set Curtain,This action will change the position of your curtain
+Set Humidifier,This action will set the mode of your humidifier
+Set Thermostat Temperature,This action will set the temperature of your thermostat
+Turn off,This action will turn off a Meross device.
+Set Thermostat Mode For V3 Or Above,This action will set the temperature of your thermostat v3 or above
+Close garage,This action will close garage door by a Meross device.
+Change color,This action will change the color of your bulb
+Change brightness,This action will change the brightness of your bulb
+Activate a scene,This action will activate a selected scene from you account.
+Change color temperature,This action will change the color temperature of your bulb
+Turn on,This action will turn on a Meross device.

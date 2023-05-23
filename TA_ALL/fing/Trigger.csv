@@ -1,0 +1,14 @@
+trigger,trigger_description
+Someone arrived,This trigger fires when someone of a user group is detected in or nearby your network.
+Device is ON,This trigger fires when a device is detected ON in your network.
+A Fingbox is back online,This trigger fires when a fingbox get re-connected to the network. This is usually an indication that the network connectivity came back online
+Internet IP changed,This trigger fires when your public Internet IP changes.
+A Fingbox goes offline,This trigger fires when a fingbox get disconnected from the network. This is usually an indication that the network connectivity is not working
+Internet Outage event happened,"Trigger requires you only to have a free Fing Account, you don't need a Fingbox to use this!
+Trigger fires when there is an Internet outage event on your ISP impacting your location, both when it starts and it is resolved."
+Device is OFF,This trigger fires when a device is detected OFF (offline) in your network.
+Internet Speed dropped,"This trigger fires when an Internet speed drop or slow down is detected, on download or upload channel."
+A user left,This trigger fires when a user is no more detected nearby.
+A user arrived,This trigger fires when a user is detected in or nearby your network.
+Everyone left,This trigger fires when no one of a user group is detected in or nearby your network.
+New device found,This trigger fires when a new device is detected in your network.

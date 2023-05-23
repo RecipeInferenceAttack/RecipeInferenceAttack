@@ -1,0 +1,6 @@
+action,action_description
+Turn on camera,This action will turn the camera on.
+Start recording,This action will start a new recording.
+Enable recording,This action will enable recording.
+Disable recording,This action will disable recording [live view will still be accessible].
+Turn off camera,This action will turn the camera off.

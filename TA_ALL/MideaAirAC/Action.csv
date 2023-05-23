@@ -1,0 +1,8 @@
+action,action_description
+Set Fan speed,"This ACTION sets the fan to the desired speed (Auto,Low, Medium, High)."
+Turn on/off Horizontal S,This ACTION will turn on or off the up and down wind of the air conditioner
+Set Temperature,This ACTION will change the air conditioner temperature setpoint.
+Turn on/off the ECO mode,This ACTION will turn on/off the ECO mode
+Turn on/off the  air conditioner,This ACTION will turn on/off the air conditioner.
+set operating mode,This ACTION will set the air conditioner to the designated operating mode.
+Turn on/off Vertical S,This ACTION will turn on/off the left/right wind of the air conditioner

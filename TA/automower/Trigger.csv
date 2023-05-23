@@ -1,0 +1,10 @@
+trigger,trigger_description
+Automower® status has changed,This trigger fires when your mower's status changes.
+Automower® has an error,This trigger fires when an error has occurred.
+Automower® is leaving charging station,This trigger fires when your mower is leaving the charging station.
+Automover® has parked,This trigger fires when your mower has parked.
+Automower® is going home,This triggers when your mower starts to go home to the charging station.
+Automower® starts mowing,This trigger fires when your mower starts to mow.
+Automower® has stopped,This trigger fires when your mower has stopped.
+Automower® has paused,This trigger fires when your mower has paused.
+Automower® starts charging,This trigger fires when your mower starts to charge.

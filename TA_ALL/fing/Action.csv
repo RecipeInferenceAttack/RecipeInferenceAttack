@@ -1,0 +1,4 @@
+action,action_description
+Turn on Internet access,Resume the access to internet for a given user or category.
+Play LED effect,This action will play a light effect on Fingbox LED.
+Pause Internet access,Suspend the access to internet for a given user or category.

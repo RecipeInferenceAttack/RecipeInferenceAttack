@@ -1,0 +1,9 @@
+trigger,trigger_description
+Room Finished,This trigger fires when your robot finishes cleaning a room.
+Robot Started,This trigger fires when your robot starts a job.
+Job Complete,This trigger fires when your robot completes a job.
+Room Traversal,This trigger fires when your robot starts driving through one room to reach another room.
+Room Traversal Complete,This trigger fires when your robot has finished driving through one room to reach another room.
+Bin full,This trigger fires when Roomba's bin is full.
+Robot Stuck,This trigger fires when your robot is stuck.
+Room Started,This trigger fires when your robot starts cleaning a room.

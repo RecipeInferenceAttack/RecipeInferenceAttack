@@ -1,0 +1,17 @@
+trigger,trigger_description
+Energy export price change,Use this trigger to fire something when your electricity export price falls or rises past your set threshold and between your preferred time settings.
+Energy export,Use this trigger to fire something when you have exported a set amount of electricity (measured in kWh) in a period.
+Energy price lowest for duration,Use this trigger to fire something when your electricity price is at the lowest and for a set duration (such as an hour) and between your preferred time settings.
+Energy price threshold change for duration,Use this trigger to fire something when your electricity price stays above (or below) your set threshold for a minimum length of time in 30-minute blocks.
+Energy half hour price published,Use this trigger to fire something when electricity price for each half hour period  for the day ahead is published.
+Energy prices published,Use this trigger to fire something when your electricity prices for the day ahead are published.
+Carbon intensity change,Use this trigger to fire something when carbon intensity falls or rises past your set threshold and between your preferred time settings.
+Energy export price highest for duration,Use this trigger to fire something when your electricity export price is at the highest and for a set duration (such as an hour) and between your preferred time settings.
+Energy consumption,Use this trigger to fire something when you have consumed a set amount of electricity (measured in kWh) in a period.
+Energy export prices published,Use this trigger to fire something when your electricity export prices for the day ahead are published.
+Carbon intensity threshold change for duration,Use this trigger to fire something when carbon intensity stays above (or below) your set threshold for a minimum length of time in 30-minute blocks.
+Energy price change,Use this trigger to fire something when your electricity price falls or rises past your set threshold and between your preferred time settings.
+Carbon intensity highest,Use this Trigger to do something when the carbon intensity is at its highest and between your preferred time settings.
+Carbon intensity lowest,Use this Trigger to do something when the carbon intensity is at its lowest and between your preferred time settings.
+Energy export half hour price published,Use this trigger to fire something when electricity export price for each half hour period  for the day ahead is published.
+Energy prices published threshold,Use this trigger to fire something when your electricity prices for the day ahead are published and are below your set threshold.

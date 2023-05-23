@@ -1,0 +1,3 @@
+action,action_description
+Submit a new text post,This Action will submit a new text post on reddit. NOTE: reddit karma is required.
+Submit a new link,This Action will submit a new link on reddit. NOTE: reddit karma is required.

@@ -1,0 +1,6 @@
+action,action_description
+Turn notifications on,This Action will turn on the motion and sound triggered notifications from the camera you specify.
+Turn notifications off,This Action will turn off the motion and sound triggered notifications from the camera you specify.
+Turn camera off,This Action will turn off the camera you specify.
+Start recording,This Action will tell a camera you specify to start recording.
+Turn camera on,This Action will turn on the camera you specify.

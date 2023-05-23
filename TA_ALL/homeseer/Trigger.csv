@@ -1,0 +1,3 @@
+trigger,trigger_description
+A device is turned on,This Trigger fires when a device attached to your HomeSeer system is turned on.
+A device is turned off,This Trigger fires when a device attached to your HomeSeer system is turned off.

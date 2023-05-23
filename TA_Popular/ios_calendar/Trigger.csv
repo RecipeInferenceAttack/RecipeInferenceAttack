@@ -1,0 +1,4 @@
+trigger,trigger_description
+New event added to specific calendar,This trigger fires every time a new event is added to the calendar that you specify.
+New event added to any calendar,This trigger fires every time a new event is added to any of your calendars.
+New event added from search,"This trigger fires every time a new event is added to any of your calendars that contains a specific keyword or phrase. The search looks at all of the attributes associated with an event, including title, location, notes, and invitees."

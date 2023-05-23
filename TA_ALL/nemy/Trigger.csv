@@ -1,0 +1,7 @@
+trigger,trigger_description
+The amount of renewable generation in the grid changes,This trigger fires when the amount of renewable generation in the grid changes.
+Electricity becomes cheap,This trigger fires when the price of electricity goes below a user-defined price threshold.
+Grid is being powered by lots of fossil fuels,This trigger fires when the amount of renewable generation in the grid goes below a user-defined percentage threshold.
+Grid is being powered by lots of renewables,This trigger fires when the amount of renewable generation in the grid goes above a user-defined percentage threshold.
+Electricity price changes,This trigger fires when the price of electricity changes.
+Electricity becomes expensive,This trigger fires when the price of electricity goes above a user-defined price threshold.

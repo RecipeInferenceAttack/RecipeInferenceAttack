@@ -1,0 +1,6 @@
+trigger,trigger_description
+Button pressed,This trigger fires when a button is pressed.
+Device dimmed,This trigger fires when a device changes brightness.
+Device turned off,This trigger fires when a device is turned off.
+Device turned on,This trigger fires when a device is turned on.
+Scenario executed,This trigger fires when a scenario is being run.

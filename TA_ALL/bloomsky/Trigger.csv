@@ -1,0 +1,8 @@
+trigger,trigger_description
+Device detects rain,This Trigger fires every time it is raining in the location of the specified device.
+Device uploads new data,This Trigger fires every time your specified device uploads data to the server.
+Device detects low temperature,This Trigger fires every time the temperature is below a level set by you.
+Device uploads new image,This Trigger fires every time the device you chose uploads new image. Note that this Trigger won't fire at night when the camera is off.
+Picture of the day,This Trigger fires at the specific time set by you each day with a picture at that time from your selected device.
+Device detects high temperature,This Trigger fires every time the temperature exceeds a level set by you.
+Timelapse of the day,"This Trigger fires when your specified device's time-lapse is ready, with a url of the time-lapse."

@@ -1,0 +1,7 @@
+trigger,trigger_description
+Price rises above,This trigger fires every day after the markets close and a stock’s closing price rises above an amount you specify.
+Price drops below,This trigger fires every day after the markets close and a stock’s closing price drops below an amount you specify.
+Today's price drops by percentage,This trigger fires every day after the markets close and a stock's price drops from the previous closing price by at least the percentage you specify.
+Today's price rises by percentage,This trigger fires every day after the markets close and a stock's price rises from the previous closing price by at least the percentage you specify.
+Price at close,This Trigger retrieves the closing price of a stock you specify every time the market closes.
+Today's exchange rate report,This Trigger retrieves today's current exchange rate for any two currencies at the time you specify.

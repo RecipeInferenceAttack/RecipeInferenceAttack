@@ -1,0 +1,3 @@
+action,action_description
+Send a rich notification from the IFTTT app,"This action will send a rich notification to your devices from the IFTTT app. Rich notifications may include a title, image, and link that opens in a browser or installed app."
+Send a notification from the IFTTT app,This action will send a notification to your devices from the IFTTT app.

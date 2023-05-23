@@ -1,0 +1,4 @@
+action,action_description
+Close shade,This action will close your shade.
+Open shade,This action will open your shade.
+Go to percent,This action will move shade to specified percent.

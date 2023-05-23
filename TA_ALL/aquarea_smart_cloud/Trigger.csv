@@ -1,0 +1,2 @@
+trigger,trigger_description
+Error notification,This Trigger fires when error is occurred in one of your registered devices.

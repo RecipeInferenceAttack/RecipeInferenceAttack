@@ -1,0 +1,5 @@
+trigger,trigger_description
+New shared story,This Trigger fires every time you or another user shares a new story.
+New saved story,This Trigger fires every time you save a new story on NewsBlur.
+New unread story,This Trigger fires every time a feed or folder has a new unread story.
+New unread focus story,This Trigger fires every time a feed or folder has a new unread focus story.

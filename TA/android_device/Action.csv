@@ -1,0 +1,7 @@
+action,action_description
+Play a specific song,"This Action will play a song you specify on your Android device. The music played depends on your device and setup. Depending on your version of Android, playback may not start automatically."
+Mute ringtone,"This action will mute your Android device's ringtone. If your device is already muted, it will remain muted."
+Update device wallpaper,This Action will update the wallpaper on your Android device from the image URL you specify.
+Set ringtone volume,This Action will set the ringtone volume of your Android device.
+Play music,"This Action will play music on your Android device. The music played depends on your device and setup. Depending on your version of Android, playback may not start automatically."
+Launch Google Maps Navigation,This Action will launch Google Maps Navigation on your Android device and begin turn-by-turn guidance to the destination you specify.

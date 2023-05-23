@@ -1,0 +1,2 @@
+trigger,trigger_description
+A new NFT transaction happened,This trigger fires when a new NFT transaction involving your wallet is executed

@@ -1,0 +1,2 @@
+trigger,trigger_description
+Device turned On/Off,This trigger fires every time a device in your house turns on or off.

@@ -1,0 +1,3 @@
+action,action_description
+Select the humidity setpoint,This Action sets the dehumidifier to a designated humidity level between 35-85%.
+Turn on/off the dehumidifier,This Action will turn on/off the dehumidifier.

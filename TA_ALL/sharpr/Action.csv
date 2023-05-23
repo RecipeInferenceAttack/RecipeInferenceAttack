@@ -1,0 +1,5 @@
+action,action_description
+Create post from URL,This Action will fetch a post from a URL and add it to Sharpr.
+Add file from URL,This Action will save a file to Sharpr.
+Create post from file,This Action will create a new post with a file attachment.
+Create post with title and description,This Action will add a post to Sharpr with the given title and description.

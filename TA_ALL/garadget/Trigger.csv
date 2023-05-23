@@ -1,0 +1,4 @@
+trigger,trigger_description
+Door closes,This trigger fires when the garage door fully closes.
+Door event,This trigger fires on every door event.
+Door opens,This trigger fires when the garage door starts to open.

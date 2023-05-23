@@ -1,0 +1,49 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Trello in your Calendar,This will put your trello tasks in your calendar,Card assigned to me,Quick add event,/trello,/google_calendar,5.2k
+Quickly add a new card to a Trello board,"Running around and adding to your task lists as you go? Make a note widget with this Applet — open it, type in your task, and it'll show up as a card on the Trello board you specify.",Any new note,Create a card,/do_note,/trello,6.4k
+Trello Cards to Google Sheet,Adds any cards that have been added to a particular board in Trello to your Google Spreadsheet,Card added to board,Add row to spreadsheet,/trello,/google_sheets,603
+Trello tasks assigned to me go into Todoist,You can add your tasks from Trello to Todoist easily.,Card assigned to me,Create task,/trello,/todoist,4.0k
+Create iOS reminder from Trello Card,Can also use this to sync with 2Do,Card added to list,Add reminder to list,/trello,/ios_reminders,1.9k
+Create cards for events,Every time you make an event on gCalendar you make a card in Trello,New event added,Create a card,/google_calendar,/trello,454
+Create Trello cards from new Google Forms responses,Save time by automating the creation of tasks that you have once someone fills out a form. This Applet will automatically create Trello cards for your new Google Forms responses.,New form response,Create a card,/google_forms,/trello,6
+RSS to Trello,RSS to Trello: IFTTT DIRECT RSS SYNDICATION SYSTEM,New feed item,Create a card,/feed,/trello,938
+Get Sh*t Done,Trello To-Do List,Card added to list,Add to daily email digest,/trello,/email_digest,18
+Create a Todoist task when a card is added to a list,"Just pick the board and the list, and when a card is added in Trello, a corresponding task will be created in Todoist automatically. Get. More. Done!",Card added to list,Create task,/trello,/todoist,926
+Create Trello cards for new Calendly events,This Applet will create new Trello cards for events scheduled on your Calendly.,New event scheduled,Create a card,/calendly,/trello,4
+Add photos directly to Trello,Take a photo to share it directly on Trello.,Any new photo,Create a card,/do_camera,/trello,1.5k
+Trello Notification,Get notified on your iOS device as soon as someone assigns a Trello card to you!,Card assigned to me,Send a notification from the IFTTT app,/trello,/if_notifications,913
+New Trello Cards to OneNote,"Copies Trello cards into a OneNote section as a new note. I use this for expanding on quick ideas I jot down in trello. (Use the ""edit"" function to choose destination in OneNote)",Card added to list,Create a page,/trello,/onenote,34
+Automatically create a Trello card when you make a new task,"Sync your to-dos with your Trello — when you add a task, it'll make a new card with the details on the board and list you specify.",New task created,Create a card,/todoist,/trello,1.2k
+Keep a log of every Trello task you complete in Google Drive,"When you set up the Applet just pick the board and your ""Done"" list, and whenever you move a card there it'll be logged in a Google Drive spreadsheet (An IFTTT folder will be created in your drive). Then you can gaze back at your accomplishments with awe, at your leisure. You did it!",Card added to list,Add row to spreadsheet,/trello,/google_sheets,1.5k
+When you create a new Trello card add an event to Google Calendar,When you create a new Trello card add an event to Google Calendar,Card added to list,Quick add event,/trello,/google_calendar,6.9k
+Automate Google Calendar to Trello,Automatically create cards in Trello using Google Calendar,Event from search starts,Create a card,/google_calendar,/trello,10
+Keep Amazon and Trello Shopping Lists in Sync,"When adding an item to Amazon Shopping List via Alexa, add the same card in Trello",Item added to your Shopping List,Create a card,/amazon_alexa,/trello,454
+Create a Trello card when a new email matches the search criteria,A Trello card can be created when you receive an email matching the given search criteria.,New mail received with criteria,Create a card,/zoho_mail,/trello,1
+Push My Trello Tasks,Want to know what's on your plate? Get a notification anytime someone assigns a card to you.,Card assigned to me,Push a note,/trello,/pushbullet,51
+Trello contacts board,Adds any new google contact to a dedicated trello board,New contact added,Create a card,/google_contacts,/trello,110
+If SMS Then Trello Card,Creates a custom card when you receive an Android SMS message on a list you can specify with other options.,Any new SMS received,Create a card,/android_messages,/trello,6
+Sync toodledo and trello,"If any new tasks are added in toodledo, then also add them in trello",Any new task,Create a card,/toodledo,/trello,64
+New iOS Contacts to Trello,Save your iOS contacts to trello.,Any new contact,Create a card,/ios_contacts,/trello,56
+Create notes for each task,Trello comments are insufficient for keeping detailed notes around all tasks. This recipe creates an Evernote for each card created to allow for more detailed note taking for your tasks.,Card added to board,Create a note,/trello,/evernote,50
+Trello cards assigned to me,Recive SMS anytime someone assign a card to you on trello,Card assigned to me,Send an SMS,/trello,/android_messages,6
+Create a weekly Trello card,Choose options below.,Every day of the week at,Create a card,/date_and_time,/trello,258
+trello card to toodledo task,If a card is added to a trello list then add a task to toodledo,Card added to list,Add a task,/trello,/toodledo,44
+Create a monthly Trello card,Select options below.,Every month on the,Create a card,/date_and_time,/trello,756
+Trello to Evernote to Swipes,"You can use this in conjunction with the Moni.ai to trello recipe. This recipe will take items from your Trello Board in the To Do list and add them as to do's in Evernote, which if synced with Swipes will automatically appear in swipes because the Swipes tag is used.",Card added to board,Append a to-do to note,/trello,/evernote,39
+Save Medium stories to Trello,"This is a great way to keep track of Medium posts that inspire you for whatever reason. Once in a Trello board, you can then organize them into lists in any way you find useful. It's bookmarking on steroids.",Post recommended by you,Create a card,/medium,/trello,46
+Save Instagram Photo to Trello,"Your Instagram photos will be recorded in Trello board. List name is ""Created date"" by default. You can change as you like.",Any new photo by you,Create a card,/instagram,/trello,56
+Add Dropbox Photos To Trello.,"If you upload the photo to #Dropbox, then create the card in #Trello with that photo attachment. Your folder name would be the name of the list. You can create  your own photos collection by this.",New photo in your folder,Create a card,/dropbox,/trello,6
+trello cards 2 todoist tasks v3,Creates a task in todotist whenever you add a card to a specific trello board,Card added to board,Create task,/trello,/todoist,14
+Add new Twitter followers to Trello,Thos applet creates a card in Trello everytime you have a new Twitter follower,New follower,Create a card,/twitter,/trello,4
+Manage your Fiverr gigs with Trello,When you order a new gig on Fiverr it will be automatically posted into a Trello Board to help you manage your schedule.,New gig ordered,Create a card,/fiverr,/trello,93
+Send new Trello cards to Imwork chat,Get Imwork message when new Trello card created on specific board.,Card added to board,Send Message,/trello,/imwork,1
+Trello card to Diigo public bookmark,Trello card to Diigo public bookmark,Card added to board,Add a public bookmark,/trello,/diigo,168
+Trello to WordPress content calendar,Automatically add new Trello cards into WordPress as a draft post,Card added to board,Create a post,/trello,/wordpress,17
+cards assigned to me goes to reminders,I'm using this recipe to send tasks to 2Do since I use Trello as a collaborative Task Manager and 2Do as my personal Task Manager.,Card assigned to me,Add reminder to list,/trello,/ios_reminders,157
+Add new Trello cards to a Slack channel,Add new Trello cards to a Slack channel,Card added to board,Post to channel,/trello,/slack,2.1k
+Get email notifications of board updates,Receive an email whenever a new card is added to one of your Trello boards.,Card added to board,Send me an email,/trello,/email,206
+"At the end of the year, send a reminder.",Reminder sent as a card to your Reminders trello board a few days before the end of the year.,Every year on,Create a card,/date_and_time,/trello,9
+Use Trello to buffer articles for Buffer,"Create a trello board with a to-buffer list and a ""Buffer"" list. When you are ready to buffer more posts, move an item from to-buffer to the ""Buffer"" list",Card added to list,Add to Buffer,/trello,/buffer,31
+Daily Trello Update,Choose the board and time for your update.,Card added to board,Add to daily email digest,/trello,/email_digest,26
+Send An SMS when New Trello Card Is Added,This applet will send an SMS once a new Trello card is added to a board of choice. Never lose track of new tasks!,Card added to board,Send SMS,/trello,/GatewayAPI,
+iOS Calendar event added to a Trello list,A new iOS Calendar event is added to a Trello list,New event added to any calendar,Create a card,/ios_calendar,/trello,112

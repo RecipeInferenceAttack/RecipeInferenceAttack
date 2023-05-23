@@ -1,0 +1,4 @@
+trigger,trigger_description
+Meeting created,This trigger fires when a meeting is created.
+Any scheduled meeting ends,This trigger fires when a scheduled meeting ends.
+Any scheduled meeting starts,This trigger fires when a scheduled meeting starts.

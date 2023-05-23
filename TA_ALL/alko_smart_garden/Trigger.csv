@@ -1,0 +1,10 @@
+trigger,trigger_description
+Robolinho has detected rain,Your Robolinho device has detected rain with its built-in rain sensor
+Robolinho® has lost WiFi connection (is offline),This trigger fires when your Robolinho® has lost WiFi connection (is offline)
+Robolinho® reports an error,The trigger fires when your AL-KO Robolinho® reports an error
+Smart lawnmower button press thrice,when the smart button of the lawnmower has pressed thrice
+Robolinho® has reached full battery level (100%),This trigger fires when the Robolinho® has reached full battery level (battery level 100%)
+Robolinho® has started mowing,This trigger fires when your AL-KO Robolinho® has start mowing
+Smart lawnmower button press twice,when the smart button of the lawnmower has pressed twice
+Robolinho® has arrived at the base station,This trigger fires when your AL-KO Robolinho® has arrived at the base station
+Smart lawnmower button press once,when the smart button of the lawnmower has pressed once

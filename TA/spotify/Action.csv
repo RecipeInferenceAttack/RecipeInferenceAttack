@@ -1,0 +1,9 @@
+action,action_description
+Skip track,This action will skip to next track in the current playback queue on Spotify. Only available for Spotify premium accounts.
+Pause playback,This action will pause current playback on Spotify. Only available for Spotify premium accounts.
+Add track to a playlist,This Action will search for a track and add the first result to a playlist you specify.
+Add track to playback queue,This action will add a track you specify to the end of current playback queue on Spotify. Only available for Spotify premium accounts.
+Add track to a playlist by TrackID,This Action will add a track to a playlist given a TrackID
+Save a track,This Action will search for a track you specify and save the first matching result to Your Music on Spotify.
+Follow a playlist,This action will follow a playlist you specify. It accepts Spotify Playlist IDs.
+Start playback,Start a new context or resume current playback on the user’s active device. Only available for Spotify premium accounts.

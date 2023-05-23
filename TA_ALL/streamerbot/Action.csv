@@ -1,0 +1,3 @@
+action,action_description
+Execute Action (JSON),This action will remotely execute a Streamer.bot action with multiple arguments provided by JSON input.
+Execute Action,This action will remotely execute a Streamer.bot action.

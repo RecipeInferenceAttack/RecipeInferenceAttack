@@ -1,0 +1,23 @@
+trigger,trigger_description
+Temperature is too high,This Trigger fires when a specified tag senses that its ambient temperature exceeds an upper threshold configured at temperature options screen inside the WirelessTag app.
+Humidity or moisture is too high,"This Trigger fires when a specified tag with humidity or moisture monitoring enabled, detects ""too wet"" state. Adjust the threshold from the humidity/moisture options screen inside the WirelessTag app."
+Tag Manager Online,This Trigger fires when specified tag manager is back online.
+New KumoApp message,This Trigger fires every time a specific KumoApp produces a log message with KumoApp.Log call with a specific type.
+Tag Manager Offline,This Trigger fires when the server detects that specified tag manager lost Internet connection due to power outage or Internet connection problems.
+Sensor no longer detects water,"This trigger fires when specified water sensor tag transitions from detected water state to not detected water state, or when you open circuit its tip."
+Tag is moved,"This Trigger fires when specified motion sensor tag(s) armed in motion detection mode, have moved."
+Out of range,"This Trigger fires when a specified tag goes out of range. Note that the system can only determine whether a tag is out of range, if the ""auto-update"" is enabled."
+Temperature returns to normal,This Trigger fires when a specified tag senses that its ambient temperature returns between the upper and lower thresholds configured at temperature options screen inside the WirelessTag app.
+Motion sensor has timed out,This Trigger fires when specified PIR KumoSensor or regular motion sensor tag detects no movement for a time-out period.
+Update received,This Trigger fires every time a temperature/humidity/lux update is received from specified sensor/tag(s).
+Door or window is opened,This Trigger fires when a specified motion sensor tag(s) or reed sensor(s) detect that a door or window is open.
+Temperature is too low,This Trigger fires when a specified tag senses that its ambient temperature falls below an lower threshold configured at temperature options screen inside the WirelessTag app.
+Too bright,"This Trigger fires when a specified tag senses that its ambient light exceeds an upper threshold configured at light options screen inside the WirelessTag app. For example, this can be used to detect fridge door open."
+Door or window is closed,This Trigger fires when a specified motion sensor tag(s) or reed sensor(s) detect that a door or window is closed.
+Brightness returns to normal,This Trigger fires when a specified tag senses that its ambient light intensity returns between the upper and lower thresholds configured at light options screen inside the WirelessTag app.
+Back in range,"This Trigger fires when a specified tag comes out of ""out of range"" state. Only tags with auto-update is enabled can come out of ""out of range"" state."
+Too dark,"This Trigger fires when a specified tag senses that its ambient light exceeds an lower threshold configured at light options screen inside the WirelessTag app. For example, this can be used to turn on a light in a room."
+Sensor detects water,"This Trigger fires when specified water sensor tag detects water with its resistive sensor, or when you short circuit its tip."
+Humidity or moisture is too low,"This Trigger fires when a specified tag with humidity or moisture monitoring enabled, detects ""too dry"" state. Adjust the threshold from the humidity/moisture options screen inside the WirelessTag app."
+Humidity or moisture returns to normal,"This Trigger fires when a specified tag with humidity or moisture monitoring enabled, returns within normal humidity range. Adjust the upper/lower thresholds from the humidity/moisture options screen inside the WirelessTag app."
+Movement is detected,This Trigger fires when specified PIR KumoSensor detects movement.

@@ -1,0 +1,4 @@
+action,action_description
+Set Dimmer Level,This action will set your Swidget dimmer device to the specified level.
+Turn Off,This action will turn your selected Swidget device Off.
+Turn On,This action will turn your selected Swidget device on.

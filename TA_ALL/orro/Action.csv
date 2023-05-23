@@ -1,0 +1,8 @@
+action,action_description
+Turn OFF All Lights,This action will turn OFF all switches.
+Turn ON,This action will turn the specified switch or group of switches on.
+DISABLE Away Mode,This action will DISABLE Away Mode for your Orro Home.
+Turn ON All Lights,This action will turn ON all switches.
+SET Dimmer,This action will set the dimmer for the specified switch or group of switches.
+Turn OFF,This action will turn the specified switch or group of switches off.
+ENABLE Away Mode,This action will ENABLE Away Mode for your Orro Home.

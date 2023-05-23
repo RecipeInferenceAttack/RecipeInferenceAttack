@@ -1,0 +1,6 @@
+trigger,trigger_description
+Zone turned off,This trigger fires when a Mitsubishi Electric zone turns off.
+Zone turned on,This trigger fires when a Mitsubishi Electric zone turns on.
+Temperature too low,This trigger fires when a Mitsubishi Electric zone reports a room temperature below a specified threshold.
+Mode changed,This trigger fires when a Mitsubishi Electric zone changes mode.
+Temperature too high,This trigger fires when a Mitsubishi Electric zone reports a room temperature above a specific threshold.

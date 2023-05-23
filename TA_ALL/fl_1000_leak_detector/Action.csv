@@ -1,0 +1,5 @@
+action,action_description
+Change Schedule Mode,This action will allow you to change the schedule mode on the leak detector.
+Reset Alarms,This action will reset the alarm state on the controller
+Trip Leak Alarm,This action will trip the leak alarm on the leak detector.
+Set Valve State,This action will allow you to manually open and close the valve on the leak detector.

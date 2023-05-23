@@ -1,0 +1,7 @@
+trigger,trigger_description
+Lock unlocked by specific person,This Trigger fires every time your lock is unlocked by a specific person.
+Lock locked,This Trigger fires every time the specified lock is locked.
+Lock unlocked,This Trigger fires every time the specified lock is unlocked.
+Doorbell motion detected,This trigger fires every time your doorbell detects motion.
+Lock locked by specific person,This Trigger fires every time your lock is locked by a specific person.
+Doorbell button pressed,This trigger fires every time someone rings your doorbell.

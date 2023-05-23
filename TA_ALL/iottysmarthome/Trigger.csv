@@ -1,0 +1,4 @@
+trigger,trigger_description
+Smart Outlet turned on or off,This trigger fires when one of your iotty Smart Outlet devices is turned on or off.
+Smart Switch turned on/off/pressed,"This trigger fires when one of your iotty Smart Switch devices is turned on or off, or it is pressed (when its Gang Type on the iotty app is set as 'Gate')."
+Smart Shades Switch open or closed,This trigger fires when one of your iotty Smart Shades Switch devices is completely opened or closed.

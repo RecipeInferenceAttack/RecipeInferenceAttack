@@ -1,0 +1,3 @@
+trigger,trigger_description
+Opened/Closed,This trigger fires when an MCONNECT device opened or closed.
+Turned ON/OFF,This trigger fires when an MCONNECT device is turned ON or OFF.

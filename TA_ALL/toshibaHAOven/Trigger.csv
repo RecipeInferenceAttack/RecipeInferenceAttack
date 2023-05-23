@@ -1,0 +1,3 @@
+trigger,trigger_description
+Cooking Complete,This Trigger fires when the timer reaches zero.
+Preheat Complete,Preheat Complete

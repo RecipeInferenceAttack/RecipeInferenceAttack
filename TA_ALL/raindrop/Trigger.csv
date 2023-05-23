@@ -1,0 +1,10 @@
+trigger,trigger_description
+New item tagged,This trigger fires when you tag an item with a specific tag in Raindrop.io
+Item moved to collection,This trigger fires when you move an item to the collection you specify
+New item,This trigger fires when any new item is added to Raindrop.io
+New permanent copy,This trigger fires when an item has a permanent copy in Raindrop.io
+New item by type,"This trigger fires when article, image, video or document (you specify) has been added to Raindrop.io"
+New favorite item,This trigger fires when you favorite an item in Raindrop.io
+New highlight,This trigger fires when any new highlight is added to Raindrop.io
+New broken link,This trigger fires when a link becomes broken in Raindrop.io
+New file,This trigger fires when you upload a file to Raindrop.io

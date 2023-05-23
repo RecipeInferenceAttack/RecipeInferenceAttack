@@ -1,0 +1,3 @@
+trigger,trigger_description
+New coronavirus alert,This trigger fires when the CDC releases news about the 2019/2020 Novel Coronavirus. Stay safe out there!
+New food safety update,This trigger fires when the CDC has news about a food safety issue such as a recall. Stay safe out there!

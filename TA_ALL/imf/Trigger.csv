@@ -1,0 +1,4 @@
+trigger,trigger_description
+New Fiscal Monitor report,This trigger fires a few times each year when the International Monetary Fund publishes new Fiscal Monitor reports.
+New World Economic Outlook,This trigger fires a few times each year when the International Monetary Fund publishes a new World Economic Outlook.
+New country report,This trigger fires when the IMF publishes new country reports.

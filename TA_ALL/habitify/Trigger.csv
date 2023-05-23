@@ -1,0 +1,5 @@
+trigger,trigger_description
+New habit note,This trigger fires when you create a new habit note.
+New habit status,This trigger fires when a habit is updated with a new status.
+New mood logged,This trigger fires when a new mood is logged.
+New habit log,This trigger fires when a new log is added to your habit.

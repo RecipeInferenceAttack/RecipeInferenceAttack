@@ -1,0 +1,5 @@
+action,action_description
+Turn AC unit on,"This Action will turn on your Daikin AC unit, or change its settings. It will be executed within 1 minute."
+Turn AC unit off,This Action will turn off your Daikin AC unit. It will be executed within 1 minute.
+Enable/Disable Econo mode,"This Action will enable/disable Econo mode on your Daikin AC unit. It will be executed within 1 minute and will only work in combination with the new R32 outdoor (RXM or MXM) units. If your unit does not support this function, then it will not show up in the device dropdown list."
+Enable/Disable Holiday mode,This Action will enable/disable Holiday mode on all your Daikin AC units. It will be executed within 1 minute.

@@ -1,0 +1,10 @@
+action,action_description
+Turn relay off then on,"This Action will turn a Wemo Maker off then on. If the WeMo Maker is already off, it will remain off."
+Turn relay on momentarily multiple times,This Action will turn a WeMo Maker on for 300 milliseconds as many times as you set. Note: The WeMo Maker must be in 'Momentary' mode for this Action to work.
+Turn relay off,"This Action will turn a WeMo Maker off. If the WeMo Maker is already off, it will remain off."
+Turn relay on momentarily,This Action will turn a WeMo Maker on for 300 milliseconds. Note: WeMo Maker must be in 'Momentary' mode for this action to work.
+Turn relay off then on multiple times,This Action will turn relay off then on as many times as you set. Note: The WeMo Maker must be in 'Toggle' mode for this Action to work.
+Turn relay on then off,"This Action will turn a WeMo Maker on then off. If the WeMo Maker is already on, it will be turned off after 2 seconds."
+Turn relay on,"This Action will turn your WeMo Maker on. If the WeMo Maker is already on, it will remain on."
+Turn relay on then off multiple times,This Action will turn relay on then off as many times as you set. Note: The WeMo Maker must be in 'Toggle' mode for this Action to work.
+Toggle relay,"This Action will toggle a Wemo Maker if it is in toggle mode. If the relay is on, it will be turned off and vice versa."

@@ -1,0 +1,7 @@
+trigger,trigger_description
+New Producer Price Index monthly release,This trigger fires when the monthly Producer Price Index (PPI) report is published by the Department of Labor.
+New video uploaded,This trigger fires when a new video is uploaded to YouTube by the Department of Labor.
+News releases,This trigger fires when a news release is published by the Department of Labor.
+New Consumer Price Index monthly release,This trigger fires when the Consumer Price Index (CPI) is released monthly by the Department of Labor.
+News releases (en Español),This trigger fires when a news release is published by the Department of Labor (en Español).
+New Employment Situation published,This trigger fires when the Employment Situation report is released by the Bureau of Labor Statistics.

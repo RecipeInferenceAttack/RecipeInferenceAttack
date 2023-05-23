@@ -1,0 +1,2 @@
+trigger,trigger_description
+Sensor Measurement,This trigger will only start when a specific value of a specific sensor of your Aura Air device is reached

@@ -1,0 +1,7 @@
+trigger,trigger_description
+Shutter position is above or below a target,This trigger fires every time the position of a Chacon / DiO shutter is above or below a target.
+Thermostat switched mode,This trigger fires every time a Chacon / DiO  thermostat mode change to the desired one.
+Shutter is opened / closed,This trigger fires every time a Chacon / DiO  shutter is opened or closed.
+Thermostat switched status,This trigger fires every time a Chacon / DiO  thermostat change to the desired status.
+Thermostat temperature is above or below a target,This trigger fires every time the temperature of a Chacon / DiO  thermostat is above or below a target.
+Plug switched On / Off,This Trigger fires every time a Chacon / DiO  plug is switched to the desired state.

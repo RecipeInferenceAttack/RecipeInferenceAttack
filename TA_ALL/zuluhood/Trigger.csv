@@ -1,0 +1,3 @@
+trigger,trigger_description
+Alarm raised,This trigger fires when an alarm is raised in Zuluhood for one of your homes
+Zuluchat started,This trigger fires when an issue is raised in Zuluchat for one of your homes

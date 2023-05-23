@@ -1,0 +1,6 @@
+trigger,trigger_description
+Radio preset selected,This Trigger fires whenever an internet radio preset is recalled on a Musaic player.
+Home control scene selected,This Trigger fires whenever a home control scene is selected on a Musaic player. Trigger fields for the room (i.e. Musaic player) and scene identify which scene number it was and where it was selected.
+Sleep timer finished,This Trigger fires when a sleep timer finishes on a Musaic player.
+Timer activated,This Trigger fires when a timer fires on a Musaic player (such as a wakeup/alarm timer).
+New liked song,This Trigger fires if you press the 'Like' (Heart) button on a Musaic player whilst listening to a music source that the Musaic player can get song information from.

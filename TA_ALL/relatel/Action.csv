@@ -1,0 +1,7 @@
+action,action_description
+Do not disturb,"This action will toggle the ""Do not disturb"" status."
+Send Message,This action will send a text message
+Create Contact,create a new contact
+Leave group,This action will remove the employee from a group.
+Cloak Reception,This action will change the outgoing number for calls.
+Join group,This action will join the employee to a group.

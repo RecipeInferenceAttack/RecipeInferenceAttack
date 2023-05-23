@@ -1,0 +1,7 @@
+trigger,trigger_description
+Any new attachment added,"This trigger fires when you add an attachment (like a receipt, or photo) to a transaction."
+Any new blog post from Monzo,This trigger fires whenever Monzo publishes a new blog post.
+Any card purchase,"This trigger fires whenever you spend money with your Monzo card, and the transaction goes through."
+Any card purchase below an amount,"This trigger fires whenever you spend less than the specified amount with your Monzo card, and the transaction goes through."
+Any card purchase at a merchant,"This trigger fires whenever you spend money at a particular merchant, and the transaction goes through."
+Any card purchase above an amount,"This trigger fires whenever you spend more than the specified amount with your Monzo card, and the transaction goes through."

@@ -1,0 +1,12 @@
+trigger,trigger_description
+Status online,This trigger fires when the device comes online.
+Set specific value for digital and string sensors,This trigger fires when the value of the selected string or numeric sensor is changed to specific
+Set any value for string or numeric sensor,This trigger fires when value of the selected sensor is changed.
+Enum value changed,This trigger fires when the value of the selected enum sensor is changed.
+Color value changed,This trigger fires when the color value of the selected sensor is changed.
+Turned on,This trigger fires when the selected sensor is enabled.
+Turned off,This trigger fires when the selected sensor is disabled.
+Status changed,This trigger fires when the device status changes.
+Status offline,This trigger fires when the device goes offline.
+Switched,This trigger fires when the state of the selected sensor is reversed.
+Set conditional value,This trigger fires when numeric sensor is changed to conditional value.

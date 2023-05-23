@@ -1,0 +1,4 @@
+trigger,trigger_description
+Card added to board,This Trigger fires every time a card is added to a specific board.
+Card assigned to me,This Trigger fires every time a card is assigned to you.
+Card added to list,This Trigger fires every time a card is added to a specified list.

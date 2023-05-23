@@ -1,0 +1,5 @@
+action,action_description
+Dimming,This action will change the brightness of the specified device.
+Scene,This action will call a scene.
+Blinds,This action will change the position of your selected shading device
+Switch,This action will switch the state of a device.

@@ -1,0 +1,2 @@
+action,action_description
+Send a command,This Action will send a command to one of your openHAB items.

@@ -1,0 +1,53 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Automatically turn your lights on at sunset,"Never be left in the dark. Whenever the sun starts to set, your Philips Hue bulbs will automatically turn on.",Sunset,Turn on lights,/weather,/hue,141.2k
+Turn on/off your lights with one tap on your phone,"Explore more great ways to automate
+    
+      Button widget and Philips Hue",Button press,Toggle lights on/off,/do_button,/hue,153.7k
+Blink your lights when your doorbell rings,Your Hue lights will blink whenever somebody rings your doorbell.,New Ring Detected,Blink lights,/ring,/hue,7.3k
+Turn your lights on automatically as you arrive home,"Center the map on your home's location, and you'll always walk in to a bright home.",You enter an area,Turn on lights,/location,/hue,67.3k
+Automatically turn off your Hue lights at midnight every day,Good night! Turn off your lights at midnight (or any time you choose) every day.,Every day at,Turn off lights,/date_and_time,/hue,6.8k
+Turn off your Hue lights when you leave home,"If you want your lights to turn on when you're near home, turn this on too http://ift.tt/hue-on",You exit an area,Turn off lights,/location,/hue,21.4k
+Press a button to make your Hue lights color loop,This makes a widget you can add to the home screen on your phone. Then you can press the button to make your Hue lights dance as they do a color loop of rainbow colors. Party time!,Button press,Turn on color loop,/do_button,/hue,49.1k
+Blink your lights,"This is a fun way to show off what the Hue lights can do - there's all sorts of ways to use this Applet, but our favorite is signaling to the family that it's dinner-time or almost time for bed.",Button press,Blink lights,/do_button,/hue,20.1k
+Blink your Hue lights when your Amazon Alexa timer hits 0,Add some visual flair to your countdown. Tip: this is a great Applet if you or someone else in the home is hearing impaired.,Your Timer goes off,Blink lights,/amazon_alexa,/hue,43.5k
+Blink Your Hue Lights When You Receive A Notification From A Specific App,"Make it easier to never miss a notification by blinking your Hue Lights anytime you get a notification from a specific app. Enter the name of the app under the ""Which App"" field then choose which Hue lights you'd like to blink.",Notification received from a specific app,Blink lights,/android_device,/hue,466
+If it begins to rain then change the light colors to blue,If it begins to rain then change the light colors to blue,Current condition changes to,Change color,/weather,/hue,9.5k
+Turn on your Hue light when Ring detects motion at your door,Deter burglars and welcome guests automatically by lighting up your house when the Ring video doorbell detects motion.,New Motion Detected,Turn on lights,/ring,/hue,2.3k
+Turn off my Hue light when I get into bed,This applet turns off your Hue light when Withings Sleep detects that you get into bed.,When I get into bed,Turn off lights,/WithingsSleep,/hue,1.1k
+Turn off the lights,"If you're going to bed or leaving the house, use this Applet for a one-button way to turn the lights off. Simple, easy, and direct. This Applet requires special hardware, a Philips Hue light bulb.",Button press,Turn off lights,/do_button,/hue,11.4k
+Tell Alexa to set the scene,Set your phrase and pick your scene — this Applet will let you control the lighting with your voice.,Say a specific phrase,Set a scene in a room,/amazon_alexa,/hue,6.5k
+Tell Alexa to start the party with a Hue light color show,"When you say ""Alexa, trigger party time"" your lights will be set to color loop.",Say a specific phrase,Turn on color loop,/amazon_alexa,/hue,33.2k
+Use hue as a clock,Use hue as a clock,Every hour at,Blink lights,/date_and_time,/hue,2.5k
+Alarm turns Hue Lights on,Turns selected lights on when android alarm rings,Notification received from a specific app,Turn on lights,/android_device,/hue,1.2k
+Wake up with hue,Set the time and which days of the week you would like to wake up and then select your hue lights to turn on at the same time. It's like waking up with the sunrise every day.,Every day of the week at,Turn on lights,/date_and_time,/hue,1.9k
+"If Arlo detects motion, turn on Phillips Hue lights","If Arlo camera detects motion, then turn on all Phillips Hue lights",Motion detected,Turn on lights,/arlo,/hue,4.3k
+Rain turns hue light blue,Rain turns hue light blue,Tomorrow's forecast calls for,Change color,/weather,/hue,2.1k
+Hue SMS notification,makes jour lights blink when receiving an SMS on thé phone. It is juste amazzzziiiinng,Any new SMS received,Blink lights,/android_messages,/hue,1.0k
+Toggle Philips Hue lights on/off,Toggle your Philip Hue lights on and off by pressing the pusher on your Kronaby watch.,Pusher pressed,Toggle lights on/off,/kronaby,/hue,573
+Turn on my Hue light when I get out of bed,This applet turns on your Hue light when Withings Sleep detects that you get out of bed.,When I get out of bed,Turn on lights,/WithingsSleep,/hue,404
+Turn on your light when your MyQ garage opens,"Automatically turn on your Phillips Hue light when your garage door is opened.
+
+This applet requires an active account linking subscription.",Door opened,Turn on lights,/myq_devices,/hue,356
+Dim your Hue lights with your voice,"This Applet will dim your Philips Hue lights to your desired brightness setting when you say ""Okay Google, activate dim lights!""",Activate scene,Dim lights,/google_assistant_v2,/hue,106
+"When your robot start cleaning, turn on the Hue lights.",Let there be light! This applet turns on your Hue lights when your robot starts a cleaning job.,Robot Started,Turn on lights,/irobot,/hue,430
+"Visual Warning if your Ring doorbell detects motion, Hue Edition",This recipe alerts you by flashing a Hue bulb if your Ring doorbell detects any motion.,New Motion Detected,Blink lights,/ring,/hue,880
+Blink Hue when air gets bad,Blink Hue when air gets bad,Carbon dioxide rises above,Blink lights,/netatmo,/hue,986
+Phillips Hue Party Time Widget,When You The Push Phillips Hue Party Time Widget Button In The IFTTT Widget On iOS It Will Set Your Phillips Hue Lightbulbs Or Lightstrip In A Color Loop.,Button press,Send a notification from the IFTTT app,/do_button,/if_notifications,12.6k
+Simulated sunrise alarm clock for hue,Turn your hue and/or via hue bridge connected Living Color lights into a simulated sunrise wake up light (alarm clock),Every day of the week at,Change color,/date_and_time,/hue,3.3k
+New Email Alert,New Email Alert,Send IFTTT any email,Blink lights,/email,/hue,1.1k
+Have your Hue lights turn off automatically at sunrise,"Let mother nature do the work. Whenever the sun rises, your Philips Hue bulbs will automatically turn off.",Sunrise,Turn off lights,/weather,/hue,6.0k
+Turn on your Hue lights whenever your lock is unlocked,"Whenever anyone unlocks your lock, the selected Hue lights will turn on.",Lock unlocked,Turn on lights,/augusthome,/hue,805
+Toggle lights,Turn Hue lights on/off,Flic is clicked,Toggle lights on/off,/flic,/hue,123
+New IFTTT stuff,Sets one of your lights to color loop if new services become available on IFTTT. You'll need to tweak it to pick the right one.,New IFTTT update,Turn on color loop,/ifttt,/hue,304
+Blink your Philips Hue lights when your dishwasher cycle is complete,Have your Philips Hue lights blink to let you know that your dishwasher cycle is complete.,Cycle is complete,Blink lights,/hc_dishwasher,/hue,321
+If Someone Rings Doorbell Change Hue Lights to Ring Blue,If Someone Rings Doorbell Change Hue Lights to Ring Blue (0f94d4),New Ring Detected,Change color,/ring,/hue,816
+Blink your Hue lights every night when it's time for bed,Whatever it takes to get you into bed — turn on this Applet for extra motivation.,Every day at,Blink lights,/date_and_time,/hue,4.3k
+Hue Sexy Time,"Say ""Alexa, trigger Sexy Time."" to turn on some nice red or pink lights.",Say a specific phrase,Change color from image,/amazon_alexa,/hue,2.1k
+"Enable ""Sexy Time"" Hue Lights With Amazon Alexa",Lights will set to Hot Pink @ 75% brightness,Say a specific phrase,Dim lights,/amazon_alexa,/hue,7.6k
+Ring motion controlled Hue lights at night only,Turns on selected Hue lights when the Ring doorbell senses motion only at night hours,New Motion Detected,Turn on lights,/ring,/hue,1.7k
+I'm feeling blue - change the color of my lights,"This Recipe changes the color of your Philips Hue lights to be blue. This Recipe requires special hardware, the Philips Hue light bulb.",Button press,Change color,/do_button,/hue,1.0k
+Toggle Philips Hue lights on/off,Toggle your Philip Hue lights on and off by pressing the pusher on your Jaguar watch.,Pusher pressed,Toggle lights on/off,/jaguar_watches,/hue,67
+Turn off Hue lights if tado is in away mode,Just turn off all Hue lights if tado switches to away mode,tado⁠° switches to Away Mode,Turn off lights,/tado_heating,/hue,665
+Turn off your Hue lights when you leave home,"As soon as you leave your home via Lock 'n' Go, your lights will automatically be turned off.",Leave home,Turn off lights,/nuki,/hue,175
+Automatically turn on your Philips Hue lights when your Android connects to your home Wi-Fi,"Enter your home network. When you get home, your phone will connect, your lights will turn on, and you will be happy.",Connects to a specific WiFi network,Turn on lights,/android_device,/hue,2.3k
+If my character is killed in Rust blink my Hue lights,Make sure you know when your character is killed by flashing your Hue lights anytime your character is killed in-game,You were killed,Blink lights,/rust,/hue,53

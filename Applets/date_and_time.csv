@@ -1,0 +1,66 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Rent is due! Get a notification every month,At 8 AM on the last day of the month you'll get a push notification reminding you to pay up. Sad wallet...happy landlord!,Every month on the,Send a notification from the IFTTT app,/date_and_time,/if_notifications,7.8k
+Recurring Tweets,Recurring Tweets,Every day at,Post a tweet,/date_and_time,/twitter,5.1k
+Send a message to LINE every day,Send a message to a LINE recipient every day at the time you specify.,Every day at,Send message,/date_and_time,/line,1.4k
+Take on the 1p Savings Challenge,"Gradually increase the amount you're saving each day to a pot of your choice. On 1st January, you'll save 1p. On 2nd January, you'll save 2p. This goes right up to £3.65 (or £3.66 😁) on the last day of the year!
+
+Feel free to jump in part way through the year, and see how far you get!
+
+The challenge resets automatically on January 1st every year.",Every day at,Move money into a pot,/date_and_time,/monzo,21.7k
+Drink water every hour,Drink water every hour,Every hour at,Send a notification from the IFTTT app,/date_and_time,/if_notifications,1.0k
+Remind yourself to meditate every day,Slow down for 5 minutes! Pick a time and remind yourself to sit quietly and meditate.,Every day at,Send a notification from the IFTTT app,/date_and_time,/if_notifications,13.0k
+A reminder to drink water,"This applet sends you a notification ""Drink a glass of water!"" every 2 hours between 8 am and 8 pm :)",Every hour at,Send a notification from the IFTTT app,/date_and_time,/if_notifications,43.6k
+Spotify Alarm Clock,I wanted to use Spotify as an alarm clock. Here's how I made that happen. https://gist.github.com/784de37358b27f5c7071,Every day at,Send me an email,/date_and_time,/email,11.2k
+Mute your Android phone at bedtime,Mute your Android phone at bedtime,Every day at,Mute ringtone,/date_and_time,/android_device,102.7k
+Timed Daily Tweet,auto tweet everyday at a certain time,Every day at,Post a tweet with image,/date_and_time,/twitter,8.0k
+Send a special message to your followers on Twitter,Send a special message to your followers on Twitter,Every day of the week at,Post a tweet,/date_and_time,/twitter,7.5k
+4pm I Love You Text,Every day at 4pm your phone will text your love to the person of your choice.,Every day at,Send an SMS,/date_and_time,/android_messages,1.4k
+Close your MyQ garage nightly,"Every day, at 9 PM, close the garage door.
+
+This applet requires an active account linking subscription.",Every day at,Close door,/date_and_time,/myq_devices,4.1k
+Unmute your Android phone's ringer every morning,Unmute your Android phone's ringer every morning,Every day at,Set ringtone volume,/date_and_time,/android_device,42.9k
+Save £1 every day challenge.,"Every day transfer £#, into a pot of your choice. A challenge aimed at saving you money every day without getting more or less expensive throughout the year.",Every day at,Move money into a pot,/date_and_time,/monzo,926
+Automatically turn off your Hue lights at midnight every day,Good night! Turn off your lights at midnight (or any time you choose) every day.,Every day at,Turn off lights,/date_and_time,/hue,6.8k
+Automatically post a daily reminder to a Telegram chat,"Pick the days of the week and time to send encouraging messages like ""Lunch break, everyone!"" or ""Now back to work, you maggots!"" to your coworkers in a Telegram chat.",Every day of the week at,Send message,/date_and_time,/telegram,3.9k
+Play a Spotify song when the clock hits a certain hour,Start and end your day with Spotify. Play your favorite song when the clock hits a certain hour.,Every day at,Start playback,/date_and_time,/spotify,472
+Turn off your lights at midnight,Turn off your lights when it is time for bed,Every day at,Turn off,/date_and_time,/kasa,1.1k
+Automatically mute your Android phone at bedtime,"Each day at the time that you choose below, this Applet will mute your Android device. Don't forget to unmute it in the morning!",Every day of the week at,Mute ringtone,/date_and_time,/android_device,205.0k
+Power up socket at set time,Power up socket at set time,Every day at,Turn on,/date_and_time,/kasa,68
+Make sure MyQ Garage Door is closed every hour,"At the top of every hour, your Chamberlain/MyQ garage door will automatically close if it is open. A simple way to make sure that your garage door is never left open.",Every hour at,Close door,/date_and_time,/myq_devices,574
+Let Automower sing Happy Birthday,"Set date and time and your mower will sing Happy birthday for you and your loved ones.
+Applicable for Automower® 405X, 415X and 435X AWD with latest firmware installed.",Play Happy Birthday,Play Happy Birthday,/automower,/automower,2.7k
+half hour tweet,half hour tweet,Every hour at,Post a tweet,/date_and_time,/twitter,2.5k
+Wake up to music every day!,Just set a default music player on your Android phone and it shuffles the whole library. I tested it on Google music and  it's working great.,Every day at,Play music,/date_and_time,/android_device,16.8k
+Reverse 1p Savings Challenge,"Runs every day. Save £3.65 on January 1st, £3.64 on January 2nd and so on - until 1p on December 31st.
+
+It resets automatically on January 1st every year.
+
+This is the reverse of our popular 1p Savings Challenge.",Every day at,Move money into a pot,/date_and_time,/monzo,2.8k
+Automatically unmute your Android phone at a specific time on weekdays,Choose the time of day and the days of the week when you'd like your Android phone's ringtone volume automatically to 100%.,Every day of the week at,Set ringtone volume,/date_and_time,/android_device,4.8k
+Take on the £1 Weekly Savings Challenge,"Runs every Monday. Save £1 in Week 1 of the year, £2 in Week 2 of the year,... . Feel free to jump in part way though the year, and see how far you can get!",Every day of the week at,Move money into a pot,/date_and_time,/monzo,4.0k
+Arm Blink at Time,Set a time to arm a Blink system,Every day at,Arm system,/date_and_time,/blink,1.4k
+5 Minute Journal Entry Template at 6am everyday,Creates a Day One journal entry using the 5 minute journal template,Every day at,Create Journal Entry,/date_and_time,/day_one,332
+Set tado to auto at 1 am,Just in case you forgot to set it to auto,Every day at,Return to tado⁠° automatic control,/date_and_time,/tado_heating,166
+Scheduled Slack Messages,Schedule a recurring message in Slack!,Every day of the week at,Post to channel,/date_and_time,/slack,1.1k
+Launch a TaHoma (Somfy) scenario each day,"This applet can be used to launch a TaHoma scenario daily at a specific time in intervals of 15 minutes. It is compatible with the Somfy Connectivity Kit.
+
+Example use case: close your Somfy RTS motorised sunscreen automatically before you go to bed.",Every day at,Launch a TaHoma scenario,/date_and_time,/somfy_tahoma,9
+Use hue as a clock,Use hue as a clock,Every hour at,Blink lights,/date_and_time,/hue,2.5k
+Wake up gently by using Yeelight sunrise,Simulate a natural and gentle sunrise. The brightness gradually increases within 15 minutes from dim yellow until your room is filled with bright yellow light.,Every day of the week at,Change color,/date_and_time,/yeelight,5.7k
+Get an email reminder a week before your wedding anniversary,"Customize this Applet with the date and time you want to be reminded, and you'll get a note so you don't forget to celebrate.",Every year on,Send me an email,/date_and_time,/email,7.2k
+Wake up with hue,Set the time and which days of the week you would like to wake up and then select your hue lights to turn on at the same time. It's like waking up with the sunrise every day.,Every day of the week at,Turn on lights,/date_and_time,/hue,1.9k
+arm arlo camera at night,This will arm your Arlo camera at 9 PM,Every day at,Arm,/date_and_time,/arlo,1.1k
+Lock the Ultraloq everyday at a specific time,"Everyday at 10:00pm for example, the lock will be locked automatically",Every day at,Lock,/date_and_time,/u_tec_ultraloq,130
+Take on the Weekly Saving Challenge,On Monday save £1. On Tuesday £2. This goes up to £7 on Sunday and then starts again on Monday.  Save £1500 a year!,Every day at,Move money into a pot,/date_and_time,/monzo,686
+Take on the Reverse 1p Savings Challenge,"A savings challenge that gets easier every day!
+
+Gradually decrease the amount you're saving each day to a pot of your choice. On 1st January, you'll save £3.65. On 2nd January, you'll save £3.64. This goes right down to £0.01 on the last day of the year! Feel free to jump in part way through the year, and see how far you get!",Every day at,Move money into a pot,/date_and_time,/monzo,1.8k
+Hive Landlord Control to return to Schedule at 15 minutes past the hour.,"Hive Landlord Control to return to Schedule at 15 minutes past the hour. If your tenants change the temperature up and down it will return to your schedule. Alternatively, a friendlier way to give your tenants the benefit of the doubt is set up 2 for every 30 minutes or 1 for every hour. 
+For multiple houses set up an individual ifttt login to match your Hive email addresses.
+Beware: savvy tenants can change the schedule from the stat - so check online periodically to check it is your schedule.",Every hour at,Set the thermostat to schedule,/date_and_time,/hive_active_heating,155
+Time controlled on/off ewelink,Turn on ewelink wall plug at set time.,Every day at,Turn 1-Channel Plug on or off,/date_and_time,/ewelink,85
+Save the Date,"A savings challenge that takes today's date, adds up the numbers, and saves the total in a Pot. For example, 24th May 2019 would be 24 + 5 + 19 = 48p. This will move the money into your Pot at 8am every day.",Every day at,Move money into a pot,/date_and_time,/monzo,1.4k
+If [time] change ezviz alarm notification,Enable or disable ezviz alarm notifications at certain times of the day.,Every day at,Toggle alarm notification,/date_and_time,/ezviz,18
+Wakes you up telling you you're beautiful everyday.,Calls your phone to wake you up everyday telling you that you're beautiful.,Every day at,Call my device,/date_and_time,/voip_calls,1.4k
+Congratulate my birthday!,Congratulate my birthday!,Every year on,Send a notification from the IFTTT app,/date_and_time,/if_notifications,20.9k
+Disarm Blink at Time,Set a time to disable a Blink system,Every day at,Disarm system,/date_and_time,/blink,703

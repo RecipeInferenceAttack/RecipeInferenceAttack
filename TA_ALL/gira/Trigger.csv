@@ -1,0 +1,6 @@
+trigger,trigger_description
+Value rises above,This trigger fires when the current value of a KNX device rises above a threshold you specified.
+Switched off,This trigger fires when a KNX device or binary switch is turned off.
+Value falls below,This trigger fires when the current value of a KNX device falls below a threshold you specified.
+Scene started,This trigger fires when a KNX scene is started.
+Switched on,This trigger fires when a KNX device or binary switch is turned on.

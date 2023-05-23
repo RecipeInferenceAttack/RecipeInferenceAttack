@@ -1,0 +1,8 @@
+action,action_description
+"Set fan to on, auto or circulate",This Action will set the Honeywell thermostat fan to On where the fan is always on or Auto where the fan runs only when the heating or cooling system is on.
+Arm my Honeywell Home Smart Home Security,This action will arm my Honeywell Home Smart Home Security in Night or Away Mode.
+Set thermostat room priority to active rooms,"This will set your T9 or T10 Smart Thermostat room priority to ‘active.’ Active Rooms lets your thermostat detect motion in the rooms that people are in, using your smart room sensors."
+Set thermostat room priority,"This action will let you select one of your sensors to prioritize, so that your T9 or T10 Smart Thermostat senses the temperature from that room."
+Control my Z-Wave light or outlet,"This action will set my Z-Wave light or outlet on or off, and control brightness (if available)."
+Change my thermostat setpoint temperature,This action will set a heat or cool setpoint temperature for my thermostat.
+Set temperature to a permanent hold,This Action will set your Honeywell thermostat to permanently hold the specified temperature until you change it.

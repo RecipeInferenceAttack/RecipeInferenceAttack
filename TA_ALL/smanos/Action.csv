@@ -1,0 +1,4 @@
+action,action_description
+Arm away,This Action will arm your smanos system to away mode when no one is in the house.
+Disarm,This Action will disarm your smanos system for anyone to enter or exit the house.
+Arm stay,This Action will arm your smanos system with you and/or your family in the house.

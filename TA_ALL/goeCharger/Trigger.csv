@@ -1,0 +1,8 @@
+trigger,trigger_description
+Charging Started,This trigger fires when charging has started.
+Car connected,This trigger fires when the car is plugged in.
+Charging Paused,This trigger fires when charging is paused.
+Charging End,This trigger fires when the charging process has finished.
+Model Status,This trigger fires when the model status changes.
+Error,This trigger fires when an Error occurs.
+Transaction,This trigger fires when a transaction happened.

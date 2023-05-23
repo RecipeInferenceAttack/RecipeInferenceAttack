@@ -1,0 +1,21 @@
+trigger,trigger_description
+We detect that everyone has gone to sleep,This trigger fires when everyone has gone to sleep.
+Alarm breached,"This trigger fires when the alarm in the house is breached, requires a subscription with alarm functionality."
+Door locked,This trigger fires when a specific door is locked.
+Color changed on bulb,This trigger fires when a specific light bulb changes color.
+Device turned off,This trigger fires when a specific device is turned off.
+Battery report received,This trigger fires when a specific device reports its battery level.
+We detect that someone has woken up,This trigger fires when everyone has woken up.
+Door closed,This trigger fires when a specific door closes.
+At least one person arrives home,This trigger fires when at least one family member has come home.
+Glass breakage detected,This trigger fires when glass breakage is detected.
+Smoke detected,This trigger fires when smoke is detected.
+Luminance report received,This trigger fires when a specific sensor measures the luminance.
+Water leak detected,This trigger fires when a water leak is detected.
+We detect that the home is empty,This trigger fires when every family member has left.
+Motion detected,This trigger fires when motion is detected.
+Door unlocked,This trigger fires when a specific door is unlocked
+Brightness changed on bulb,This trigger fires when a specific light bulb changes brightness.
+Door opened,This trigger fires when a specific door opens.
+Temperature reading received,This trigger fires when a specific sensor reads the temperature.
+Device turned on,This trigger fires when a specific device is turned on.

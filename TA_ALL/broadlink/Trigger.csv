@@ -1,0 +1,9 @@
+trigger,trigger_description
+Body induction,This trigger fires when the status of the body induction change
+Device turns on or off,This trigger fires when a device turns on or off
+Button trigger,Make buttons and control other services with a single tap.
+Tamper proof,This trigger fires when the status of the tamper proof changed
+Door sensor,This trigger fires when the status of the door sensor changed
+The current temperature is？,This trigger fires when the current temperature is within a certain range
+The current humidity is?,This trigger fires when the current humidity is within a certain range
+Light sensor,This trigger fires when the light intensity is within a certain range

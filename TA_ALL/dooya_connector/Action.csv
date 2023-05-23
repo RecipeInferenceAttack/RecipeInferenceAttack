@@ -1,0 +1,7 @@
+action,action_description
+Close blind,This action will close the blind.
+Switch Control,This action will be used to turn on/turn off the switch.
+Activate scene,The action will activate a scene.
+Open the blind to a certain position,This action will open the blind to a certain position.
+Open the blind to a certain position (Lift+tilt),This action will open the blind to a certain position.
+Open blind,This action will open the blind.

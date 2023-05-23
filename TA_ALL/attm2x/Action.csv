@@ -1,0 +1,4 @@
+action,action_description
+Send command to device,This Action will send a command to a specific device.
+Write datapoint,This Action will write a new datapoint to a specific device.
+Update device location,This Action will update the location of a specific device.

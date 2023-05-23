@@ -1,0 +1,5 @@
+action,action_description
+Set color,This action will control the color of your device
+Turns device on or off,This action will turn a device on or off
+Set brightness,This action will control the brightness of your device
+Set color temperature,This action will control the color temperature of your device

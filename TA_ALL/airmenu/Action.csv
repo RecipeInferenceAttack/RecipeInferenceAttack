@@ -1,0 +1,4 @@
+action,action_description
+Activate an AirMenu flag,This action will activate an AirMenu flag.
+Trigger an AirMenu promotion,This action will trigger an AirMenu promotion.
+Create a new order,This action will create a new order.

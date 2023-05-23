@@ -1,0 +1,10 @@
+action,action_description
+Run a project,This action will run a project saved in your GraspIO Studio account.
+Control Servo Motor,This action will control the Servo Motor angle and speed.
+Speak the entered text,This action will make the board speak using the interfaced Speaker.
+Control RGB LED,This action will turn on the RGB LED with the selected color.
+Capture a photo or GIF,This action will capture a photo or GIF using the interfaced camera.
+Beep Buzzer,This action will beep the buzzer by turning it on and off at the desired frequency.
+Flash RGB LED,This action will alternately display two colors for the selected duration/delay on the LED .
+Display text on OLED screen,This action will display text on the OLED.
+Control Digital tmp ports,This action will control the Digital tmp ports on the board.

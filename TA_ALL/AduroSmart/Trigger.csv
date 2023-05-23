@@ -1,0 +1,4 @@
+trigger,trigger_description
+Contact switch sensor closed,This trigger fires contact switch sensor closed.
+Motion sensor detected,This trigger fires motion sensor detected
+Contact switch sensor opened,This trigger fires contact switch sensor opened.

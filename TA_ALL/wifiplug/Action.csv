@@ -1,0 +1,4 @@
+action,action_description
+Blink,This Action will flicker a WIFIPLUG. i.e. turn off and back on (if on) or turn on and back off (if off).
+Turn off,"This Action will turn a WIFIPLUG off. If the WIFIPLUG is already off, it will remain off."
+Turn on,"This Action will turn a WIFIPLUG on. If the WIFIPLUG is already on, it will remain on."

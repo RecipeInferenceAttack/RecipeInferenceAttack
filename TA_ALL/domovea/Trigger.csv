@@ -1,0 +1,22 @@
+trigger,trigger_description
+Outdoor temperature is __°C,This Trigger fires every time when the outdoor temperature is equal to the value you specified.
+CO2 is __ ppm,This Trigger fires every time when the CO2 is equal to the ppm you specified.
+Security System is disarmed,This Trigger fires every time your security system is disarmed.
+Shades are opened,This Trigger fires every time your shades are opened.
+Indoor temperature drops below,This Trigger fires every time your device detects indoor temperature below the value you specified.
+Thermostat temperature is equal to __°C,This Trigger fires every time your thermostat reaches the temperature you specified.
+Indoor humidity is __%,This Trigger fires every time when the indoor humidity is equal to the percentage you specified.
+Brightness is __%,This Trigger fires every time when the brightness is equal to the value you specified.
+Security System is armed,This Trigger fires every time your Security system is armed.
+Indoor temperature rises above,This Trigger fires every time your device detects room temperature above the value you specified.
+Wind speed is __km/h,This Trigger fires every time the wind speed is equal to the value you specified.
+Indoor temperature is __°C,This Trigger fires every time when the indoor temperature is equal to the value you specified.
+Scene is launched,This Trigger fires every time a scene is launched.
+Device is switched off,This Trigger fires every time your device is switched off.
+Intrusion is detected,This Trigger fires every time an intrusion is detected by your security system.
+Shades are closed,This Trigger fires every time your shades are closed.
+Outdoor humidity is __%,This Trigger fires every time when the outdoor humidity is equal to the percentage you specified.
+Smoke alarm rings,This Trigger fires every time when the smoke alarm goes off.
+Device is switched on,This Trigger fires every time your device is switched on.
+It is raining,This Trigger fires every time when it is raining.
+Luminosity is __lux,This Trigger fires every time when the luminosity is equal to the value you specified.

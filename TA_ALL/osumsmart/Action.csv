@@ -1,0 +1,8 @@
+action,action_description
+Set Level to,Sets Level of a SL-BUS Device to specific value
+Close,Close  the SL-BUS Curtain
+Open,Open the SL-BUS Curtain
+Door Open,Open the SL-BUS Door
+Switch Off,This action will switch off SL-BUS Device.
+Execute Scene,Execute preconfigured SL-BUS scene
+Switch On,This action will switch on SL-BUS Device.

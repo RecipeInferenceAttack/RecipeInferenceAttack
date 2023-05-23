@@ -1,0 +1,6 @@
+trigger,trigger_description
+New video from search,This Trigger fires every time a new video is uploaded to dailymotion that matches a search query you specify
+New favorite video,This Trigger fires every time you favorite a video on Dailymotion.
+New video added in a playlist,This Trigger fires every time a new video is added in the playlist you specify.
+New video uploaded,This Trigger fires every time you upload a new public video to Dailymotion.
+New video added in one of my playlists,This Trigger fires every time you add a new video to the playlist you specify.

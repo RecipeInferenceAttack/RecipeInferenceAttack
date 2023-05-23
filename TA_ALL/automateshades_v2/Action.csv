@@ -1,0 +1,4 @@
+action,action_description
+Move or tilt shade,This action will move a shade to a destination position.
+Activate room,This action will activate a room created in the Rollease Acmeda app.
+Activate scene,Activate a scene created in the Rollease Acmeda app

@@ -1,0 +1,2 @@
+trigger,trigger_description
+New grant opportunity,This trigger fires every time a new grant opportunity is posted to Grants.gov.

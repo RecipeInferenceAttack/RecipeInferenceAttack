@@ -1,0 +1,13 @@
+action,action_description
+Set Wifi MAC address filter,This action will set a Wifi MAC address filter request with the specified list and specify a state to enable or disable it at will.
+Set WiFi state,This action will enable or disable WiFi on your Bbox gateway.
+Display the name of the TV program,This action will display a message and the name of the TV program you are currently watching on your Bbox Miami.
+Change the volume on your Bbox Miami,This action will change the volume on your Bbox Miami.
+Dial a phone number,This action will dial a phone number of your choosing.
+Set Bbox gateway LED state,This action turns the LEDs at the front of your Bbox on or off.
+Watch TV channel,This action will launch a TV channel on your Bbox Miami.
+Send a message to your Bbox Miami,This action will send a message to your Bbox Miami.
+Launch an application,This action will launch an application on your Bbox Miami.
+Reboot Bbox gateway,This action will reboot the Internet on your Bbox.
+Wake Up your Bbox,This action will wake up your Bbox Miami / Brooklyn.
+Stop current application,This action will stop the current application on your Bbox Miami.

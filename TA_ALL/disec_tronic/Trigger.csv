@@ -1,0 +1,3 @@
+trigger,trigger_description
+Unlocked,The trigger fires when the lock you selected is opened
+Locked,The trigger fires when the lock you selected is closed

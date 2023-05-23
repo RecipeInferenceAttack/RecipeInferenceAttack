@@ -1,0 +1,3 @@
+trigger,trigger_description
+Balance rises above,This Trigger fires every time your Porkfolio's balance rises above an amount you specify.
+Money added,This Trigger fires every time you add money to your Porkfolio.

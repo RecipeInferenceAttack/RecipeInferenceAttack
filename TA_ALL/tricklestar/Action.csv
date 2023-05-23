@@ -1,0 +1,9 @@
+action,action_description
+Set thermostat fan to run once,"This action turns on the HVAC fan for one run cycle, with a configurable fan run duration."
+Turn device off,This action turns off your TrickleStar Connected Product.
+Schedule vacation event,"This action will schedule a vacation event on all devices of the selected site. It can be used with triggers like Google Calendar ""Any event starts""."
+Turn device on,This action turns on your TrickleStar Connected Product.
+Set thermostat fan on,This action sets the HVAC fan on on your TrickleStar Thermostat.
+Set thermostat temporary hold,This action will set temporary hold on your TrickleStar thermostat using the specified system mode and setpoint. The temporary hold will last until the next schedule event.
+Set thermostat fan to auto,"This action sets the HVAC fan to Auto on your TrickleStar Thermostat. The Auto fan state means the fan will turn on when the HVAC system is on, and the fan will turn off when the HVAC system is off."
+Resume thermostat schedule,This action will resume schedule on your TrickleStar thermostat.

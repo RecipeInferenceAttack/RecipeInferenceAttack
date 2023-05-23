@@ -1,0 +1,4 @@
+trigger,trigger_description
+Leak Detected,This trigger fires whenever a leak is detected
+Dry Pipe Detected,This trigger fires whenever the controller detects the pipe is dry.
+Freeze Detected,This trigger fires whenever the freeze setpoint is hit.

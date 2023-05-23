@@ -1,0 +1,3 @@
+action,action_description
+Update weight,This Action will update your weight on Strava.
+Create an activity,This Action will create a new activity in Strava.

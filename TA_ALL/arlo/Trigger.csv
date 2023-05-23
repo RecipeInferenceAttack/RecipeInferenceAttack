@@ -1,0 +1,6 @@
+trigger,trigger_description
+Detects Object,This trigger fires when your Arlo device detects motion for a specific object type. This requires an Arlo Smart subscription for each device that is configured in the trigger.
+Low battery reported,This Trigger fires every time Arlo reports low battery level on the selected Arlo device.
+Audio detected,This Trigger fires every time when audio is detected on your Arlo device.
+Motion detected,This Trigger fires when your Arlo device detects motion.
+Detects Button Press,This trigger fires when your Arlo video doorbell button is pressed.

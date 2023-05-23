@@ -1,0 +1,8 @@
+trigger,trigger_description
+Lighting,This trigger fires if the light status is changed.
+Siren,This trigger fires if siren status is changed.
+Door Lock,This trigger fires if door lock status is changed.
+Curtains,This trigger fires if curtain status is changed.
+Motion Sensor,This trigger fires if motion sensor status is changed.
+MyMilan Trigger,This trigger fires when MyMilan trigger activated.
+Door Sensor,This trigger fires if door sensor status is changed.

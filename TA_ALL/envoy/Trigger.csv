@@ -1,0 +1,4 @@
+trigger,trigger_description
+Visitor is pre-registered,This Trigger fires every time a visitor is pre-registered.
+Visitor signs out,This Trigger fires every time a visitor signs out.
+Visitor finishes signing in,This Trigger fires every time a visitor finishes signing in.

@@ -1,0 +1,5 @@
+trigger,trigger_description
+VOC threshold is crossed,This Trigger fires whenever the measured Volatile Organic Compounds (VOCs) is above or below the threshold.
+Temperature threshold is crossed,This Trigger fires whenever the measured temperature is above or below the threshold.
+Relative Humidity threshold is crossed,This Trigger fires whenever the measured Relative Humidity (RH) is above or below the threshold.
+PM2.5 threshold is crossed,This Trigger fires whenever the measured Particulate Matter of 2.5 microns in size (PM2.5) is above or below the threshold.

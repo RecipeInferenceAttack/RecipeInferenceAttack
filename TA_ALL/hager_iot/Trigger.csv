@@ -1,0 +1,27 @@
+trigger,trigger_description
+Alarm turns on,This Trigger fires every time your device's alarm is turned on.
+Battery below,This Trigger fires every time your device's battery level falls below the value you specified.
+Wind speed drops below,This Trigger fires every time your device detects wind speed lower than the value you specified.
+Binary switch turns off,This Trigger fires every time your device's binary switch is turned off.
+Brightness level rises above,This Trigger fires every time your device detects a brightness level above the value you specified.
+Alarm turns off,This Trigger fires every time your device's alarm is turned off.
+Player state changes,This Trigger fires every time your device player's state changes to the value you specified.
+Volume level drops below,This Trigger fires every time your device volume level is below the value you specified.
+CO2 level rises above,This Trigger fires every time your device detects a CO2 level above the value you specified.
+Weather Station reports night,This trigger fires when the Weather Station reports night.
+Brightness level drops below,This Trigger fires every time your device brightness level is below the value you specified.
+Humidity level drops below,This Trigger fires every time your device detects humidity levels lower than the threshold you specified.
+Luminescence level drops below,This Trigger fires every time your device detects a luminescence level below the value you specified.
+Temperature drops below,This Trigger fires every time your device detects a temperature below the value you specified.
+CO2 level drops below,This Trigger fires every time your device detects a CO2 level below the value you specified.
+Weather Station reports day,This trigger fires when the Weather Station reports day.
+Humidity level rises above,This Trigger fires every time your device detects humidity levels higher than the threshold you specified.
+Volume level rises above,This Trigger fires every time your device detects a volume level above the value you specified.
+Binary switch turns on,This Trigger fires every time your device's binary switch is turned on.
+Temperature rises above,This Trigger fires every time your device detects temperatures above the value you specified.
+Device switched off,This Trigger fires every time your device is switched off.
+Luminescence level rises above,This Trigger fires every time your device detects luminescence levels higher than the value you specified.
+Rain indicator turns off,This Trigger fires every time your device's rain indicator turns off.
+Rain indicator turns on,This Trigger fires every time your device's rain indicator turns on.
+Device switched on,This Trigger fires every time your device is switched on.
+Wind speed rises above,This Trigger fires every time your device detects wind speed higher than the value you specified.

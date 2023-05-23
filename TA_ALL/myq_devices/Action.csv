@@ -1,0 +1,4 @@
+action,action_description
+Turn off light,This action will turn off a light
+Turn on light,This action will turn on a light
+Close door,This action will close a garage door.

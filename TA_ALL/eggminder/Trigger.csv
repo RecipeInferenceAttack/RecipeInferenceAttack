@@ -1,0 +1,2 @@
+trigger,trigger_description
+Egg count drops below,This Trigger fires every time the egg count drops below a number you specify.

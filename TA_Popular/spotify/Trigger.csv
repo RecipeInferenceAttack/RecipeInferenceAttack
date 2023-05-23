@@ -1,0 +1,10 @@
+trigger,trigger_description
+New followed show,This trigger fires every time you follow a new show on Spotify.
+New saved episode,This Trigger fires every time you save a new episode to your library on Spotify.
+New saved track,This Trigger fires every time you save a new track to Your Music on Spotify.
+New show from search,This trigger fires every time a new show appears in your search
+New recently played track,This trigger fires every time you have played a new track on Spotify.
+New saved album,This trigger fires every time you save a new album to Your Music on Spotify.
+New episode from a followed show,This Trigger fires every time a followed show releases a new episode on Spotify.
+New track added to a playlist,This Trigger fires every time a new track is added to a playlist you specify.
+New episode from search,This trigger fires every time a new episode is released that matches your search

@@ -1,0 +1,3 @@
+trigger,trigger_description
+App button pressed,This trigger fires when an IF button is pressed on the tecla app remote.
+Switch action on tecla-e,This trigger fires when a configured switch action is activated on a tecla-e.

@@ -1,0 +1,12 @@
+action,action_description
+Start Automower®,"This action will run your mower for a specified duration after which it will go back to its regular schedule. Automower® will start when the battery is fully loaded.For AIM-capable mowers, you can also start in a specific area that you have created."
+Toggle Headlights On,"This action will set the headlights on your Automower® robotic mower to ""Always ON""."
+Disable stay out zone,"This action will disable a stay-out zone for your mower, based on the AIM map created in the Automower® Connect application."
+Enable stay out zone,"This action will enable a stay-out zone for your robotic mower, based on the AIM map created in the Automower® Connect application."
+Play Happy Birthday,This action will make Automower® play Happy Birthday.
+Pause Automower®,This action will pause your mower.
+Resume automatic operation,This action will set Automower® to run according to its schedule.
+Toggle Headlights Off,"This action will set the headlights on your Automower® robotic mower to ""Always OFF""."
+Park Automower® for a while,"This action will park your mower for a specified duration, after which it will resume according to its set schedule."
+Park Automower® until further notice,This action will send your mower back to the charging station where it will remain parked until manually started.
+Park Automower® until next scheduled start,"This action will send your mower back to its charging station, skipping the current mowing session."

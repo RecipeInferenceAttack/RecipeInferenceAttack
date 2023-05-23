@@ -1,0 +1,4 @@
+trigger,trigger_description
+Motion detected,This Trigger fires when motion is detected (based on the specified criteria).
+Advanced motion detected,This Trigger fires when advanced motion is detected (based on the specified criteria).
+Power disconnected,"This Trigger fires every time power is disconnected for any of your cameras that use the Camio App (or for a specific camera only). It only fires if you've been recording for at least 10 minutes, and you only get one notification per camera for every 24 h"

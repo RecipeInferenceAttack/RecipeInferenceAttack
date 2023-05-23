@@ -1,0 +1,50 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Currency price IF notification,"Get notified by your currency price everyday at a specific time through your IF notifications.
+you can simply change the currency using edit function",Today's exchange rate report,Send a notification from the IFTTT app,/finance,/if_notifications,551
+Log the exchange rate every day,What's your money worth? Compare any two currencies — every day the new rate will be logged to a Google spreadsheet. Great for trip planning!,Today's exchange rate report,Append to a document,/finance,/google_docs,13.3k
+Get notified of stock price decreases,Get notified of stock price decreases,Today's price drops by percentage,Send a notification from the IFTTT app,/finance,/if_notifications,6.0k
+Ping me when the stock I'm watching drops below a certain point.,Ping me when the stock I'm watching drops below a certain point.,Price drops below,Send a notification from the IFTTT app,/finance,/if_notifications,3.7k
+% stock increase → push notification,% stock increase → push notification,Today's price rises by percentage,Send a notification from the IFTTT app,/finance,/if_notifications,4.2k
+Get an email when a particular stock drops below a certain price,Get an email when a particular stock drops below a certain price,Price drops below,Send me an email,/finance,/email,1.6k
+Get a daily email with the closing price of a certain stock,Get a daily email with the closing price of a certain stock,Price at close,Send me an email,/finance,/email,1.0k
+Daily exchange rate report between any two currencies via email,Daily exchange rate report between any two currencies via email,Today's exchange rate report,Send me an email,/finance,/email,1.0k
+dollar change,dollar change,Today's exchange rate report,Send an email,/finance,/gmail,21
+Get alerts when a stock drops by a certain percentage,"Put in the ticker you want to track and the percentage drop to watch for — if the price drops that much, you'll get an email and a notification. Sell! Or buy?!",Today's price drops by percentage,Send a notification from the IFTTT app,/finance,/if_notifications,3.4k
+Keep track of a stock's price at close in a Google spreadsheet,"This Applet will add the closing price for the stock of your choice to a spreadsheet in your Google Drive. Remember: if you analyze the data, crack the code and figure out how to make big $$$ — we get a cut! 🤑",Price at close,Append to a document,/finance,/google_docs,7.2k
+Get alerts when a stock drops below a price,"Put in the ticker you want to track and the minimum price to watch for — if the price drops below that price, you'll get an email and a notification. Sell! Or buy?!",Price drops below,Send me an email,/finance,/email,337
+Weekly Stock Tracker,Get an email on Saturday with the daily performance of a particular stock,Price at close,Add to weekly email digest,/finance,/email_digest,361
+BTC rises 1%,Tweet every time BTC rises 1%,Today's price rises by percentage,Post a tweet,/finance,/twitter,4
+Check it out,Check it out,Price drops below,Send an SMS,/finance,/android_messages,
+Get alerts when a stock rises above a price,"Put in the ticker you want to track and the maximum price to watch for — if the price increases above that price, you'll get an email and a notification. What a rush! 📈",Price rises above,Send me an email,/finance,/email,200
+Add Stocks Closing Price to Daily Digest Email,"Currently only support NYSE, NASDAQ, and AMEX. Run @ 5PM only when market is open on that day.",Price at close,Add to daily email digest,/finance,/email_digest,22
+Pushmeldung mit Aktienwert Apple nach Börsenschluss,Pushmeldung mit Aktienwert Apple nach Börsenschluss,Price at close,Send a notification from the IFTTT app,/finance,/if_notifications,17
+Stock rise pushover.,Stock rise pushover.,Today's price rises by percentage,Send a Pushover notification,/finance,/pushover,37
+Stock fall pushover.,Stock fall pushover.,Today's price drops by percentage,Send a Pushover notification,/finance,/pushover,27
+Todoist Sell Stock Task,Set a price alert for a stock symbol and have it create a task in Todoist.,Price rises above,Create task,/finance,/todoist,4
+Weekly USD/Euro exchange,Weekly email for the exchange rate,Today's exchange rate report,Add to weekly email digest,/finance,/email_digest,24
+Stock price drop to Slack,Choose a ticker symbol and price level you want the alert.,Price drops below,Post to channel,/finance,/slack,10
+Stock tracker for Evernote,Simply put in your symbol and it will be appended to an Evernote note!,Price at close,Append to note,/finance,/evernote,29
+EUR to USD rate every morning,"Checks EUR to USD rate every morning at 9am, and sends Pushbullet notification",Today's exchange rate report,Push a note,/finance,/pushbullet,5
+Log JPY daily to Google Drive,Log JPY daily to Google Drive,Today's exchange rate report,Add row to spreadsheet,/finance,/google_sheets,1
+"If a stock rises by 5%, sell it!","If a stock rises by 5%, sell it!",Today's price rises by percentage,Place Market Order,/finance,/alpaca,6
+Send email if stock suddenly drops,Send email if stock suddenly drops,Today's price drops by percentage,Send an email,/finance,/gmail,4
+MS Closing Price,sends the closing price of MS,Price at close,Send an SMS,/finance,/android_messages,3
+Add stock prices to my business blog,Add stock prices to my business blog,Price at close,Create a post,/finance,/blogger,4
+GLOB on the Rise!,Blink lights whet GLOB stock rises.,Today's price rises by percentage,Blink lights,/finance,/hue,2
+Track your Portfolio in a Spreadsheet,Turn this recipe on to track a stock's rise (and hopefully not fall!) in Google Drive,Price at close,Add row to spreadsheet,/finance,/google_sheets,86
+Monitor stock prices with Das Keyboard,Get a signal on your Das Keyboard at the end of the day indicating the market closing price of a specified stock.,Price at close,Create a Signal for Q Device (one zone),/finance,/daskeyboardq,14
+Stock Price Increase Sends Custom Sound,Track your securities' bullish performance with personalized notification sounds that you choose or record.,Today's price rises by percentage,Send Vyb,/finance,/vybit,1
+Stock Price Decrease Sends Custom Sound,"Track your securities' bearish performance with customized sound notifications, e.g., a crying baby means Telsa had a bad day and a howling wolf means Amazon tanked. You choose or record the sounds!",Today's price drops by percentage,Send Vyb,/finance,/vybit,
+If $UA pops 15% ... mark date on Calendar,If $UA pops 15% ... mark date on Calendar,Today's price rises by percentage,Quick add event,/finance,/google_calendar,
+Display Apple stock price on LaMetric TIME,Display Apple stock price on LaMetric TIME,Price at close,Update Indicator App,/finance,/lametric,8
+Let a friend know when to buy a certain stock,Let a friend know when to buy a certain stock,Price drops below,Send an email,/finance,/gmail,4
+"If the price is right, remind me to buy stock","If the price is right, remind me to buy stock",Price drops below,Add a task,/finance,/toodledo,11
+Save if your investments are bringing you down,Stocks not doing so hot? Put a little cash in the bank! Make a transfer if your stocks drop by a certain percentage.,Today's price drops by percentage,Save toward a goal,/finance,/qapital,60
+Daily USD-PHP exchange rate notification+tweet,Simply change Input Currency and tmp Currency in the settings to receive customized daily exchange rates through notification and a post to your Twitter timeline.,Today's exchange rate report,Post a tweet,/finance,/twitter,6
+Get notified if currency rate rises above price,"You can get notified by email, if the currency rate rises above a point",Price rises above,Send me an email,/finance,/email,62
+Share a stock's closing price to a Telegram chat,Automatically post updates about the closing price of your selected stock to a Telegram group or channel.,Price at close,Send message,/finance,/telegram,
+Get a stocks closing price pushed to Flapz Board,"Every time the market closes, you get the closing price for a stock ticker pushed to your Flapz Board",Price at close,Update All Flapz Board Rows,/finance,/flapz_board,5
+"If a stock drops below a set price, buy or sell it.","If a stock drops below a set price, buy or sell it!",Price drops below,Place Market Order,/finance,/alpaca,13
+"If a particular stock is down 5%, send me an email!","If a particular stock is down 5%, send me an email!",Today's price drops by percentage,Send me an email,/finance,/email,366
+Change the light to green if stock price rises enough,This will automatically change the WiZ light(s) of your choice to green if the price of the stock you selected rises by more than a certain percentage compared to the last closing price. (Only for WiZ Colors lights),Today's price rises by percentage,Turn on / change light mode,/finance,/wiz,44
+Change the light to red if stock price drops too much,This will automatically change the WiZ light(s) of your choice to red whenever the price of the stock you have selected falls by more than a certain percentage compared to the previous closing price. (Only for WiZ Colors lights),Today's price drops by percentage,Turn on / change light mode,/finance,/wiz,24

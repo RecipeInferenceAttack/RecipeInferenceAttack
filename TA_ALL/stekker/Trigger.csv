@@ -1,0 +1,4 @@
+trigger,trigger_description
+A high electricity price occurs,This trigger fires when a the electricity price goes above a certain value.
+The hour(s) with cheapest electricity start(s),This trigger fires as soon as we enter the hour(s) with the lowest electricity rates.
+A low electricity price occurs,This trigger fires when a the electricity price goes below a certain value.

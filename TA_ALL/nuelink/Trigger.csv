@@ -1,0 +1,2 @@
+trigger,trigger_description
+New post was added.,This trigger fires when a new post is added to a collection.

@@ -1,0 +1,5 @@
+trigger,trigger_description
+Change in Average Price,This trigger fires for an account that is on a dynamic pricing plan such as the Residential Hourly Pricing program or other real time market rates whenever the average price changes.
+Carbon Quality,Indicates whether the carbon is clean or dirty
+Peak Time Savings - Savings Hours Announced,This trigger activates whenever Peak Time Savings Hours are announced and during various stages of an event.
+Manage your Carbon Footprint - Change in carbon intensity,"This trigger fires whenever the carbon intensity changes for the ComEd service territory, use this trigger to help lower your carbon footprint by reducing your energy during high carbon times"

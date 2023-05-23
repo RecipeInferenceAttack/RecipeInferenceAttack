@@ -1,0 +1,3 @@
+trigger,trigger_description
+When a Switch is Turned On,This trigger fires when the switch selected by the user is turned on
+When a Switch is Turned Off,This trigger fires when the switch selected by the user is turned off

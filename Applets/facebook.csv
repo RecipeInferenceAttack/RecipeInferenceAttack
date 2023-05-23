@@ -1,0 +1,50 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Tweet your Facebook status updates,Tweet your Facebook status updates,New status message by you,Post a tweet,/facebook,/twitter,55.9k
+"Facebook ""Status Update"" saved to Day One",Post a new status message creates a new Journal Entry in Day One.,New status message by you,Create Journal Entry,/facebook,/day_one,3.8k
+Back up photos you're tagged in on Facebook to an iOS Photos album,Automatically download new Facebook photos that you are tagged in to an album on your iPhone or iPad.,You are tagged in a photo,Add photo to album,/facebook,/ios_photos,165.2k
+Automatically change your Twitter profile pic when you update your Facebook photo,Keep your social accounts in sync by updating your Twitter profile pic when your Facebook profile picture is changed.,Your profile changes,Update profile picture,/facebook,/twitter,178.3k
+"Facebook ""Photo Posts"" saved to Day One",Posting new photos posts on Facebook will create a new Journal Entry in Day One.,New photo post by you,Create Journal Entry,/facebook,/day_one,2.7k
+If shared on Facebook Then share on Twitter,"If you share a link to your Facebook, then it will be shared to your Twitter as well",New link post by you,Post a tweet,/facebook,/twitter,362
+Automatically share new Facebook status updates to a Facebook Page,"When you share a new Facebook post, it will be automatically posted to a Facebook Page you manage.",New status message by you,Create a status message,/facebook,/facebook_pages,6.7k
+Facebook Tag to Google Drive,Tagged Photos automatically saved to Google Drive/Photos/Facebook,New photo post by you,Upload file from URL,/facebook,/google_drive,23
+Save new photos you're tagged in on Facebook to Dropbox,"An easy way to download and save pictures that you're tagged in on Facebook. Every time that you're tagged, a copy of the photo will be saved in a Dropbox folder.",You are tagged in a photo,Add file from URL,/facebook,/dropbox,157.9k
+Save tagged Facebook photos to your Verizon Cloud,Saves any photo in Facebook which is tagged as you in your Verizon cloud,You are tagged in a photo,Add file to my Verizon Cloud,/facebook,/verizon_cloud,157
+Save new photos you post on Facebook to Dropbox,"A great way to automatically backup your Facebook photos. For any new photo uploaded by you, a copy will be saved in a Dropbox folder.",New photo post by you,Add file from URL,/facebook,/dropbox,42.0k
+"Facebook ""Tagged Photos"" saved to Day One",When you are tagged in a photo post on Facebook this Applet will create a new Journal Entry in Day One.,You are tagged in a photo,Create Journal Entry,/facebook,/day_one,1.5k
+Track new Facebook posts on your Welltory Dashboard,See what impacts your ability to write great posts,New link post by you,Send event,/facebook,/welltory,280
+Add posted facebook photo tot your page,Reduce work as photographer,New photo post by you,Create a link post,/facebook,/facebook_pages,71
+"Facebook ""Link Post"" saved to Day One",Posting a new link creates a new Journal Entry in Day One.,New link post by you,Create Journal Entry,/facebook,/day_one,1.4k
+Share Face book post on tweeter,Share Face book post on tweeter,New status message by you,Post a tweet with image,/facebook,/twitter,4.8k
+Track new Facebook photos on your Welltory Dashboard,Find out how your photos correlate with other lifestyle events,New photo post by you,Send event,/facebook,/welltory,35
+Bio Synchronization,Please use this Applet instead: https://ifttt.com/applets/f7eKjJin,Your profile changes,Update bio,/facebook,/twitter,32
+No surprises from FB friends,"Help control your ""image"" as your friends pass around _that_ pic from last night.",You are tagged in a photo,Send a notification from the IFTTT app,/facebook,/if_notifications,378
+Back up your Facebook status updates to Evernote,Back up your Facebook status updates to Evernote,New status message by you,Append to note,/facebook,/evernote,1.8k
+Save photos posted on Facebook,"When there is a photo posted on Facebook, it is automatically saved to photo album.",New photo post by you,Add photo to album,/facebook,/ios_photos,16
+Your Facebook shared links saved,Always have those songs and news links backed up for future,New link post by you,Create a text file,/facebook,/dropbox,108
+Save the photos you're tagged in on Facebook to OneDrive,Save the photos you're tagged in on Facebook to OneDrive,You are tagged in a photo,Add file from URL,/facebook,/onedrive,1.5k
+Log your Facebook status updates in Google Drive spreadsheet,Log your Facebook status updates in Google Drive spreadsheet,New status message by you,Add row to spreadsheet,/facebook,/google_sheets,1.5k
+From Facebook Profile (new photo post) To Facebook Page (Photo + Description),From Facebook Profile (new photo post) To Facebook Page (Photo + Description),New photo post by you,Upload a photo from URL,/facebook,/facebook_pages,38
+Save the photos you upload on Facebook to OneDrive,Save the photos you upload on Facebook to OneDrive,New photo post by you,Add file from URL,/facebook,/onedrive,2.1k
+Make money online from home,Click the link below.,New link post by you,Create a photo post,/facebook,/blogger,7
+#음식물쓰레기제로 성공2,활동코스 6교시에서 활용하세요.,New photo post by you with hashtag,Send a message to EveryKit,/facebook,/everykit,
+Healthy Recipes,Healthy Recipes,New link post by you,Upload a photo from URL,/facebook,/facebook_pages,7
+I am in a picture,I am in a picture,You are tagged in a photo,Create a post,/facebook,/wordpress,5
+Pryv my FB status,Pryv my FB status,New status message by you,Add a note,/facebook,/pryv,55
+You've Been Tagged!,This applet is triggered whenever someone tags you in a Facebook photo and shows a notification your TV via Caavo.,You are tagged in a photo,Show notification on Caavo,/facebook,/caavo,7
+Popularity saving tax,Save every time someone tags you in a photo on Facebook,You are tagged in a photo,Save,/facebook,/dozens,12
+Project Life Facebook,Use the hashtag #PL to track the Facebook updates you want to remember in your Project Life Journaling.,New status message by you with hashtag,Add row to spreadsheet,/facebook,/google_sheets,4
+"Waooowww, Amazing app",Chizi ke vaghan modat ha bood donbalesh boodam !!!,Your profile changes,Create a page,/facebook,/onenote,1
+Record Facebook Shares,Record new Facebook shares made by you to your Unforgettable Me account,New link post by you,Upload to Unforgettable Me,/facebook,/unforgettable_me,42
+Cool your #blessed jets,"Whenever you use the #blessed hashtag, make a $5 penalty savings deposit toward a reality check or a charity deposit",New status message by you with hashtag,Save toward a goal,/facebook,/qapital,8
+They're talking about you!,You've missed a tag on Facebook? Create a scenario on Gideon Smart Home and let the lights blink when someone tags you on Facebook.,You are tagged in a photo,Launch Scenario,/facebook,/gideon,
+Android App Free Downloads,"Hi, friends I tell you one best place for downloading latest games and apps for android phones and tablets and that is Android App Free Downloads. You will surely find it amazing place where downloading apps is as easy as apk apps download.",New link post by you with hashtag,Create a link post,/facebook,/facebook_pages,10
+De PS4 a Telegram y Twitter,Publica una imagen en Facebook y se añadirá a Telegram y Twitter,New photo post by you,Post a tweet with image,/facebook,/twitter,1
+โพสข้อความจากFBไปLINE กลุ่ม,"ส่งข้อความ status จากFaceBook ส่งไปยังกลุ่มLINE 
+By เอฟ-Bot",New status message by you with hashtag,Send message,/facebook,/line,29
+Bitmark your Facebook photos,Automatically convert your Facebook photo into digital property.,New photo post by you,Issue bitmark,/facebook,/bitmark,56
+Push me photos I'm tagged in,Simply sends a file to your phone via Pushbullet containing the picture you were tagged in.,You are tagged in a photo,Push a file,/facebook,/pushbullet,12
+Add Facebook links to Feedly,I use this recipe to shortcut the process of subscribing to new blogs I share links from. This subscribes to blogs whose links I share using Feedly.,New link post by you,Add a new source,/facebook,/feedly,9
+"Post to Facebook, Pay a Buck!",Every new post that you make to Facebook triggers a transfer toward a specified Goal.,New link post by you,Save toward a goal,/facebook,/qapital,11
+Log Tagged FB Photos - clgBOY,Keep track of tagged photos.,You are tagged in a photo,Add row to spreadsheet,/facebook,/google_sheets,4
+Facebook #background wallpaper,"I wanted an easy way to make my Facebook cover photos my background so, whenever I post a cover photo I hashtag it #background. You may want to make it #wallpaper. Or something of your choice.",New photo post by you with hashtag,Update device wallpaper,/facebook,/android_device,7
+Breathe lights on tagged photo,"If you are tagged in a photo on Facebook, the connected lights will breath blue five times.",You are tagged in a photo,Breathe lights,/facebook,/lifx,10

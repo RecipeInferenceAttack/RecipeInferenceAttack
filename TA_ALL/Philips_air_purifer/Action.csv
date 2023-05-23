@@ -1,0 +1,7 @@
+action,action_description
+Light off,This action will switch off the air quality light
+Power on,This action will turn on Philips Air Purifier
+Set mode,This action will set your Philips Air Purifier mode to available
+Light on,This action will switch on the light of air purifier
+Set speed,This action will set your Philips air purifer fan speed
+Power off,This action will turn off Philips Air Purifier

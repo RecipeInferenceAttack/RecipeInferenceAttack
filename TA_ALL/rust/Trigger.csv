@@ -1,0 +1,6 @@
+trigger,trigger_description
+A smart alarm was triggered,This trigger fires when one of your Smart Alarms is triggered in Rust.
+You were killed,This trigger fires when you were killed in Rust while you were not playing the game.
+A smart alarm was triggered with a specific keyword,This trigger fires when a Smart Alarm is triggered in Rust and has a specific keyword in either its title or body text.
+You were killed by another player,This trigger fires when you were killed by another player while you were not playing the game.
+A teammate comes online,This trigger fires when one of your teammates comes online on one of your Rust servers.

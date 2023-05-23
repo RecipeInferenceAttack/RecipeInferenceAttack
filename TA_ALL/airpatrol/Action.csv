@@ -1,0 +1,3 @@
+action,action_description
+Turn heat pump on,This action will turn your heat pump on at the set temperature and mode.
+Turn heat pump off,This action will turn your heat pump off.

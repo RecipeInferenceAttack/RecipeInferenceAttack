@@ -1,0 +1,21 @@
+action,action_description
+Pause,This action can control your TV/STB to pause
+Next,This action can control your TV/STB to next
+Adjust brightness,This will adjust the brightness of the plug
+Button control,This action will make your button be pressed
+Mute adjustment,This action adjust your device to mute or unmute
+Play,This action can control your TV/STB to play
+Change mode,This action will control the mode of your device
+Set temperature,This action control the temperature of your device
+Adjust channel,This action can adjust your TV/STB to the previous or next
+Turn device on or off,This action will turn a device on or off
+Set channel,This action will control the channel of your TV
+Adjust volume,This action adjust the volume of your device
+Stop,This action can control your curtain to stop
+FastForward,This action can control your TV/STB to fast forward
+Previous,This action can control your TV/STB to previous
+Set brightness,This action will control the brightness of your device
+Resume,This action can control your TV/STB to resume
+Scene control,This action will control your scene
+Rewind,This action can control your TV/STB to rewind
+Set windspeed,This action will control the windspeed of your device

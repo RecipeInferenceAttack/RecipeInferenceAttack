@@ -1,0 +1,3 @@
+action,action_description
+Upload File,"This action will upload a file to a FTP, FTPS, or SFTP server."
+Upload data,"This action will upload data to a file on an FTP, FTPS or SFTP server."

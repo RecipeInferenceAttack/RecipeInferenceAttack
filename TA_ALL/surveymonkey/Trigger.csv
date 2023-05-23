@@ -1,0 +1,4 @@
+trigger,trigger_description
+New contact added,This Trigger fires every time a new contact is added to the specified list.
+New survey response,This Trigger fires every time there is a new survey response for the survey you specify.
+New survey created,This Trigger fires every time you create a new survey in SurveyMonkey.

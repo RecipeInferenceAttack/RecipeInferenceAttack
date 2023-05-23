@@ -1,0 +1,3 @@
+trigger,trigger_description
+Door is Unlocked,Trigger an Applet when the door is unlocked
+Door is Locked,Trigger an Applet when the door is locked

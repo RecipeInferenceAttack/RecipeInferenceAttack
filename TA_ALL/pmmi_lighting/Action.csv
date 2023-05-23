@@ -1,0 +1,4 @@
+action,action_description
+Trigger A Scene,This action will trigger a scene.
+"Toggle ""Any"" Area ON or OFF","This action will toggle an area ON of OFF. All areas (dimmable, toggle only, and daylight harvesting) are applicable to this action."
+"Set ""Dimmable"" Area Light Level","This action will set a ""dimmable"" Area/Zone light level between 0 and 100% using a specified transition time."

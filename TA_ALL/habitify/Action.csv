@@ -1,0 +1,5 @@
+action,action_description
+Create a new mood,This action will create a new mood
+Create a new note,This action will create a new note
+Update status of habit,This action will update the status of habit
+Create a new log,This action will create a new log.

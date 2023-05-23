@@ -1,0 +1,3 @@
+action,action_description
+Send Voice,"This action will convert a given text to voice, call a given number and read the text out loud."
+Send SMS,This action will send a new SMS.

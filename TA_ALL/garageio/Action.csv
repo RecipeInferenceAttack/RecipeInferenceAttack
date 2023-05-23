@@ -1,0 +1,3 @@
+action,action_description
+Close garage door,"This Action will close the garage door you specify. If the garage door is already closed, the door will remain closed."
+Open garage door,"This Action will open the garage door you specify. If the garage door is already open, the door will remain open."

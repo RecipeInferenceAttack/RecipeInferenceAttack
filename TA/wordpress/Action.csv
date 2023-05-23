@@ -1,0 +1,3 @@
+action,action_description
+Create a post,This Action will create a normal post on your WordPress blog.
+Create a photo post,This Action will create a photo post on your WordPress blog from the given URL to an image.

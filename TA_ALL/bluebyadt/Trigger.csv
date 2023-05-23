@@ -1,0 +1,12 @@
+trigger,trigger_description
+A thermostat event,This trigger fires whenever the thermostat settings have changed.
+A device or network issue,"This trigger fires when an issue occurs, such as Low Battery, Device Offline, etc."
+A garage door event,This trigger fires whenever a garage door is opened or closed
+A camera motion event,This trigger fires when a Blue By ADT camera detects motion
+An alarm event,This trigger fires when a Blue By ADT alarm event occurs.
+A doorbell camera event,This triggers fires when your Blue by ADT doorbell camera is rang or detects motion.
+A sensor event,This trigger fires when a Blue By ADT sensor notices activity in the home.
+A change in arm state,This trigger fires whenever the Blue By ADT system arm state changes.
+A change in the lights,"This trigger fires whenever a light is turned on, turned off, or a dimmer level is changed"
+A door lock event,This trigger fires when a door is locked or unlocked
+A person detection event,This trigger fires when your camera detects a person.

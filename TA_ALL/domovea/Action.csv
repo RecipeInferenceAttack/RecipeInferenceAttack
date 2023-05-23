@@ -1,0 +1,14 @@
+action,action_description
+Set intensity to __%,This Action will set intensity to the percentage you specified.
+Set shade position to __ %,This Action will set the shade to the position you specify.
+Run scene,This Action will run a scene.
+Switch off,This Action will turn off your devices that support switching off.
+Open Shade,This action will open the shade
+Pause an audio tune,This action will pause an audio tune.
+Play an audio tune,This Action will play an audio tune.
+Override hot water,This action will override the hot water.
+Set the thermostat mode,This Action will set the thermostat to the mode you specified.
+Set the thermostat temperature setpoint,This Action will set the thermostat temperature setpoint to the value you specified.
+Close Shade,This action will close the shade
+Switch on,This Action will turn on your devices that support switching on.
+Exempt hot water,This action will exempt hot water.

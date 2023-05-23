@@ -1,0 +1,5 @@
+trigger,trigger_description
+Your device has disconnected,"This trigger fires when your device goes offline, meaning it is no longer able to reach the cloud."
+Your device has connected,This trigger fires when your device comes online and successfully connects to the cloud.
+A leak was detected,This trigger fires when a leak is detected by the specified device.
+Your water heater has exceeded its energy use threshold,This trigger fires when your water heater exceeds its energy use threshold.

@@ -1,0 +1,2 @@
+action,action_description
+sendAlexaActionByMkzense,This service from mkZense will send an action to run a routine on your Alexa device. Use it to add Voice to your Applet.

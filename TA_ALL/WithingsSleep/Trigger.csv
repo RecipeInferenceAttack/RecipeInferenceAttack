@@ -1,0 +1,4 @@
+trigger,trigger_description
+When I get into bed,"This trigger fires every time your Withings Sleep detects that you get into bed, within the start and end time parameters that you specify."
+Export my last sleep data,This trigger fires once your last sleep data is ready for exportation.
+When I get out of bed,"This trigger fires every time your Withings Sleep detects that you get out of bed, within the start and end time parameters that you specify."

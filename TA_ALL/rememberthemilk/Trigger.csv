@@ -1,0 +1,10 @@
+trigger,trigger_description
+New task added with tag,This trigger fires when a new task is added with the specified tag.
+Task completed,This trigger fires when a task is completed.
+New task added given to contact,This trigger fires when a new task given to the specified contact is added.
+New task added given to me,This trigger fires when a new task is given to me.
+New task added with location,This trigger fires when a new task is added with the specified location.
+Task tagged,This trigger fires when a task is tagged with the specified tag.
+New task added in list,This trigger fires when a new task is added to the specified list.
+New task added to the Inbox,This trigger fires when a new task is added to the Inbox.
+New task added,This trigger fires when a new task is added.

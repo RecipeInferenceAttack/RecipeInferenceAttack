@@ -1,0 +1,3 @@
+trigger,trigger_description
+Ring Was Detected,This trigger fires when someone rings the doorbell.
+Motion Was Detected,This trigger fires when motion was detected.

@@ -1,0 +1,7 @@
+trigger,trigger_description
+Power drops below,This Trigger fires every time the power drops below the specified value in watts.
+Solar power rises above,This Trigger fires every time the solar power rises above the specified value in watts.
+Solar power drops below,This trigger fires when the solar power drops below the specified value in watts.
+Appliance turns off,This Trigger fires when the selected appliance is turned off.
+Appliance turns on,This Trigger fires when the selected appliance is turned on.
+Power rises above,This Trigger fires every time the power rises above the specified value in watts.

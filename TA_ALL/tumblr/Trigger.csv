@@ -1,0 +1,10 @@
+trigger,trigger_description
+New Audio Post Created,This trigger fires when a new audio post belonging to the specified Tumblelog is created.
+New Quote Post Created,This trigger fires when a new quote post belonging to the specified Tumblelog is created.
+New Link Post Created,This trigger fires when a new link post belonging to the specified Tumblelog is created.
+New Post On Blog I Follow,This trigger fires when a new post is made on a blog I follow.
+New Post Created,This trigger fires when a new post belonging to the specified Tumblelog is created
+New Post Created With Tag,This trigger fires when a new post belonging to the specified Tumblelog is created with a specific tag.
+New Video Post Created,This trigger fires when a new video post belonging to the specified Tumblelog is created.
+New Like,This trigger fires when the user likes a post
+New Photo Post Created,This trigger fires when a new photo post belonging to the specified Tumblelog is created.

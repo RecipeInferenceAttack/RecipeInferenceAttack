@@ -1,0 +1,9 @@
+action,action_description
+Toggle lights on/off,"This action will turn your lights off if they are on, and turn them on if they are off."
+Turn lights on,This action will turn your lights on.
+Blink lights,This action will make your lights quickly blink the color of your choice.
+Change brightness,This action will change your light's brightness to the specified level.
+Change color,This action will change your lights to a specified color.
+Switch to dynamic mode for your Lights,"This action will change your lights to the requested dynamic mode such as light flashing, jumping, gradual change and strobe."
+Turn lights off,This action will turn your lights off.
+Activate Scene,This action will activate your scene.

@@ -1,0 +1,19 @@
+action,action_description
+Trigger Monkey (Routine),"This action will trigger the Monkey you specify including any parameters you set.
+
+Use it to trigger Alexa routines!"
+Display video,"This action will send a video to your screen enabled Alexa/Echo device. 
+
+Ensure you open the Voice Monkey Skill as the final action in your routine.
+
+Your videos must be in MP4 format, hosted on a publicly accessible host with an https URL."
+Display image,"This action will send an image to your screen enabled Alexa/Echo device. 
+
+Ensure you open the Voice Monkey Skill as the final action in your routine.
+
+Images must be hosted on a publicly accessible host with an https URL."
+Make announcement,"This action will make an announcement on your Alexa/Echo device using the text you supply. 
+
+Ensure you open the Voice Monkey Skill as the final action in your routine.
+
+Text can be dynamic e.g. an ingredient from another IFTTT event or applet."

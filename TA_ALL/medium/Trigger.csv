@@ -1,0 +1,4 @@
+trigger,trigger_description
+Post published by you,This Trigger fires every time you publish a post on Medium.
+Post recommended by you,This Trigger fires every time you recommend a post on Medium.
+Post bookmarked by you,This Trigger fires every time you bookmark a post on Medium.

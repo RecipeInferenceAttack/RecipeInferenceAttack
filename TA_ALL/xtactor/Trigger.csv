@@ -1,0 +1,3 @@
+trigger,trigger_description
+Xtactor command,This trigger fires when you send an IFTTT-command from your Xtactor wristband.
+Xtactor extended command,This trigger fires when you send an IFTTT-command from your Xtactor wristband with a matching shortname. The extended command also allows for additional ingredients to be sent after the shortname.

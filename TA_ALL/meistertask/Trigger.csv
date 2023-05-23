@@ -1,0 +1,4 @@
+trigger,trigger_description
+Task created in project,This Trigger fires when a new task is created in the specified project. Please note that this Trigger does not fire when a task is moved from a different project.
+Task created in section,This Trigger fires when a new task is created in the specified section. Please note that this Trigger does not fire when a task is moved from a different section.
+Task assigned to me,This Trigger fires when a task is assigned to you.

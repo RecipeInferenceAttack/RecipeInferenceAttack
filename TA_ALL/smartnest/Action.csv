@@ -1,0 +1,4 @@
+action,action_description
+Ring a doorbell,Make a doorbell ring
+Turn on/off a device,This action will turn on or off a device
+Lock/Unlock door,This action will lock or unlock a door

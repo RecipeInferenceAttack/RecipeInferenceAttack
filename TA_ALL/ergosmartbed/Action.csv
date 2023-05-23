@@ -1,0 +1,5 @@
+action,action_description
+User Presets,This action will make the bed run to the position set by the user
+Zero G,The bed raise to Zero G mode
+Flat,The bed flat
+TV,The bed raise to TV mode

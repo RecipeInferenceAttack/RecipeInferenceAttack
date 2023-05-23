@@ -1,0 +1,7 @@
+action,action_description
+Turn plug On / Off,This action will set the Chacon / DiO plug to the desired state.
+Enable / Disable thermostat,This action will set enable or disable the Chacon / DiO thermostat.
+Set shutter position,This action will set the Chacon / DiO shutter position.
+Set thermostat temperature,This action will set the Chacon / DiO thermostat to temperature.
+Toggle plug,This action will toggle the Chacon / DiO plug switch state.
+Set thermostat mode,This action will set the Chacon / DiO thermostat to the desired mode.

@@ -1,0 +1,4 @@
+action,action_description
+Pause,This Action will pause your ThermoSmart.
+Set temperature,This Action will set your ThermoSmart to the temperature you specify.
+Unpause,"This Action will unpause your ThermoSmart, i.e. set it to either a scheduled program or an exception if there is one for the current time."

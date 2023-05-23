@@ -1,0 +1,10 @@
+action,action_description
+Turn off,This action will turn off your myHue lights.
+Turn on,This Action will turn on your myHue lights.
+Party,This action will enable the party mode of your myHue lights.
+Wakeup,This action will enable the wakeup mode.
+Change effect,This action will change the effect of your myHue lights.
+Change temperature,This action will change the temperature of your myHue lights.
+Change color,This action will change the color of your myHue lights.
+Change brightness,This action will change the brightness of your myHue lights.
+Bedtime,This action will enable the bedtime mode.

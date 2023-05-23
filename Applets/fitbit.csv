@@ -1,0 +1,49 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+Fitbit and iOS Health Sync,Fitbit will now be able to submit your data to iOS Health.,Daily activity summary,Log workout,/fitbit,/ios_health,12.8k
+Track your daily Fitbit activity in a Google spreadsheet,Automatically track all of your daily Fitbit activity into a simple Google spreadsheet.,Daily activity summary,Add row to spreadsheet,/fitbit,/google_sheets,29.6k
+Sync your Fitbit Aria weigh-ins to Health,"When you turn this Applet on, every weight logged on your Fitbit Aria will automatically get added to the Health app on iOS.",New weight logged,Log weight,/fitbit,/ios_health,5.2k
+Automatically sync your sleep readings from Fitbit,How'd you sleep? This Applet will sync your Fitbit readings to Health so you can easily track your Zzzs.,New sleep logged,Log sleep,/fitbit,/ios_health,9.9k
+Sync weight measurements to Fitbit,Sync your Withings scale weight readings to your Fitbit account.,When I have a new weight,Log your weight,/withings,/fitbit,1.1k
+Save your Fitbit sleep logs to a Google Spreadsheet,Keep a record of your sleep patterns by automatically saving your Fitbit sleep logs into a Google spreadsheet.,New sleep logged,Add row to spreadsheet,/fitbit,/google_sheets,13.1k
+Track your nightly sleep in Google Calendar,Automatically track your Fitbit sleep information into a Google Calendar.,New sleep logged,Quick add event,/fitbit,/google_calendar,11.4k
+Log your Fitbit weight to Strava,"When your Fitbit weight is updated, it'll automatically sync with Strava",New weight logged,Update weight,/fitbit,/strava,1.7k
+Fitbit daily activity summary saved to Day One,A new Day One journal entry will be created when your daily activity summary is available from Fitbit.,Daily activity summary,Create Journal Entry,/fitbit,/day_one,959
+Automatically track your Fitbit weight logs in a Google spreadsheet,Automatically track your Fitbit weight logs in a Google spreadsheet,New weight logged,Add row to spreadsheet,/fitbit,/google_sheets,9.2k
+Daily Fitbit summary,Daily Fitbit summary,Daily activity summary,Send an email,/fitbit,/gmail,87
+Add Fitbit sleep logs to your calendar,"Every time you log sleep with Fitbit, it will be added to your calendar. The event will be scheduled from the time you start sleeping until you wake up.",New sleep logged,Create a calendar event,/fitbit,/ios_calendar,937
+Log daily Fitbit activity summary as daily event in Google Calendar,Creates an all day event in Google Calendar for the previous day with your daily Fitbit statistics.,Daily activity summary,Quick add event,/fitbit,/google_calendar,1.9k
+When you reach your Fitbit daily step goal log it as workout in iOS health,This Applet will sync your Fitbit to iOS Health so you can easily track how often you're reaching your step goal.,Daily step goal achieved,Log workout,/fitbit,/ios_health,530
+"When you sleep less the desired amount, add a reminder on your calendar to go to bed early tomorrow","When you don't hit your target hours of sleep in an evening with Fitbit, your Google Calendar will remind you to head to bed at a reasonable time. You can adjust your target sleep duration and bedtime reminder below.",Sleep duration below,Quick add event,/fitbit,/google_calendar,4.6k
+Hey. Wake Up.,Hey. Wake Up.,Sleep duration above,Send a notification from the IFTTT app,/fitbit,/if_notifications,97
+Receive a notification with your daily Fitbit sleep record,Receive a notification on your phone of your recorded sleep from the previous night.,New sleep logged,Send a notification from the IFTTT app,/fitbit,/if_notifications,4.6k
+Fitbit stats to your Opn devices,This Applet will give you stats on the previous day's activities recorded by your fitbit.,Daily activity summary,Play the text to speech (iPhone),/fitbit,/oticon,149
+Save 💰 when you hit your step goal,Connect Fitbit to Monzo and save money in the pot of your choice for every day that you hit your step goals.,Daily step goal achieved,Move money into a pot,/fitbit,/monzo,250
+Get your Fitbit sleep logs as a weekly email digest,How'd you sleep? Get an email every Sunday with your weekly stats.,New sleep logged,Add to weekly email digest,/fitbit,/email_digest,3.5k
+Keep track of your daily activity in Airtable,Automatically track all of your daily Fitbit activity into Airtable.,Daily activity summary,Create a new record,/fitbit,/airtable,49
+fitbit tweets,fitbit tweets,Daily distance goal achieved,Post a tweet,/fitbit,/twitter,5
+Text my Weight,Text your weight to...,New weight logged,Send an SMS,/fitbit,/android_messages,5
+Receive a weekly email summary of your Fitbit activity,Read over your week's physical activity with this helpful performance summary. You can't manage what you don't measure!,Daily activity summary,Add to weekly email digest,/fitbit,/email_digest,5.8k
+Weight Reminders,Three guys walk into a bar... I'm not sure why this needs a story.,New weight logged,Send a notification,/fitbit,/android_wear,4
+Steps from Fitbit,Record daily steps from fitbit device,Daily activity summary,Upload to Unforgettable Me,/fitbit,/unforgettable_me,31
+Goal daily fitbit,Shows all days youve achieved daily goals in minutes,Daily very active minutes goal achieved,Add row to spreadsheet,/fitbit,/google_sheets,10
+Fitbit celebration,Fitbit celebration,Daily step goal achieved,Turn on color loop,/fitbit,/hue,34
+Weight Loss Savings,Every time you log a new weight you trigger savings.,New weight logged,Save toward a goal,/fitbit,/qapital,39
+Tweet Fitbit Weight,Tweet Fitbit Weight,New weight logged,Post a tweet,/fitbit,/twitter,4
+160 pound log wehgt,abab,Say a specific phrase,Log your weight,/amazon_alexa,/fitbit,10
+Pryv my Aria weight,Pryv my Aria weight,New weight logged,Add a numerical value,/fitbit,/pryv,11
+Fitbit weight logged,"If new sleep logged, then Create a note in Evernote.",New weight logged,Create a note,/fitbit,/evernote,4
+Automatically turn on your Hue lights when your Fitbit senses you're awake,"Good morning! When your Fitbit notices you've woken up, your Hue lights will come on.",New sleep logged,Turn on lights,/fitbit,/hue,2.3k
+Fibit goal achievement,"Posts a tweet when you reach your goal, showing off your fitness to all of your followers!",Daily step goal achieved,Post a tweet,/fitbit,/twitter,14
+Log weight from Fitbit,Log Weight from Fitbit Scales to Unforgettable,New weight logged,Upload to Unforgettable Me,/fitbit,/unforgettable_me,7
+Email me my FitBit Sleep,Email me my FitBit sleep record when it's logged.,New sleep logged,Send me an email,/fitbit,/email,31
+Log Daily Steps to Dropbox,Log Daily Steps to Dropbox,Daily activity summary,Append to a text file,/fitbit,/dropbox,42
+Log your sleep as offline time in RescueTime.,You can see how your sleep compares to the rest of your logged time in RescueTime by importing your sleep records from FitBit.,New sleep logged,Log offline time,/fitbit,/rescuetime,260
+Fitbit Sleep data to DayOne,"I use this to save my FitBit sleep data in DayOne. This just creates a basic text file in dropbox, and then I have a bash shell script that runs on my mac and creates the day one entry.",New sleep logged,Create a text file,/fitbit,/dropbox,21
+Automatically create an iOS reminder to go to bed early when your Fitbit tracks low sleep levels,"Customize the sleep duration. If you fall below it, you'll automatically have an iOS reminder telling you to plan for an early bedtime.",Sleep duration below,Add reminder to list,/fitbit,/ios_reminders,3.6k
+Pryv my walking performances,Pryv my walking performances,Daily activity summary,Add a numerical value,/fitbit,/pryv,18
+New sleep log posts to Slack,"When fitbit has a new sleep log, post it to slack.",New sleep logged,Post to channel,/fitbit,/slack,9
+Log Achieved FitBit Step Goal,Log Achieved FitBit Step Goal,Daily step goal achieved,Quick add event,/fitbit,/google_calendar,11
+Email Me My Latest Aria Weight,Use this recipe with Fitbit's Aria. Recipe will send an email of latest weight.,New weight logged,Send me an email,/fitbit,/email,10
+Turn on lights after I wake up,"Instead of setting the LIFX bulbs to a schedule, have them turn on only after you wake up using Fitbit.",New sleep logged,Turn lights on,/fitbit,/lifx,14
+Turn on lights after waking up,"Ensure that you have Fitbit and Wink added to IFTTT. Select a shortcut that activates one or many of your lights, or other actions you wish to have performed when you wake up.",New sleep logged,Activate shortcut,/fitbit,/wink_shortcuts,10
+FitBit Daily Summary to DayOne,"I use this to save my FitBit daily summary in DayOne. This just creates a basic text file in dropbox, and then I have a bash shell script that runs on my mac and creates the day one entry.",Daily activity summary,Create a text file,/fitbit,/dropbox,36

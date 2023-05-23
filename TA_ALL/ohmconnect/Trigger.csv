@@ -1,0 +1,3 @@
+trigger,trigger_description
+An #OhmHour starts,This trigger fires when an OhmHour starts
+An #OhmHour ends,This trigger fires when an OhmHour ends.

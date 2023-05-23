@@ -1,0 +1,3 @@
+action,action_description
+Start irrigation in zone,Starts an Irrigation in a given Zone.
+Stop irrigation in zone,Stops a running irrigation in a specified Zone.

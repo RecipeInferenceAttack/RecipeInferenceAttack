@@ -1,0 +1,5 @@
+action,action_description
+Change home scene,This action will change the home scene.
+Turn on room,This action will turn on lights in a room.
+Change scene,This action will change the scene in a room.
+Turn off room,This action will turn off lights in a room.

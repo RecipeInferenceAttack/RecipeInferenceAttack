@@ -1,0 +1,6 @@
+trigger,trigger_description
+New task created in section,This Trigger fires every time you create a new task in a Todoist section.
+New completed task with label,This Trigger fires every time a task is marked as completed with a label you specify.
+New task created with label,This Trigger fires every time you create a new task with a label you specify.
+New task created,This Trigger fires every time you create a new task in Todoist.
+New completed task,This Trigger​ ​fires every time a task is marked as​ ​completed in Todoist.

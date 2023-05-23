@@ -1,0 +1,3 @@
+trigger,trigger_description
+Temperature rises above,This Trigger fires every time the temperature measured by your Spotter rises above the value you specify.
+Temperature drops below,This Trigger fires every time the temperature measured by your Spotter drops below the value you specify.

@@ -1,0 +1,8 @@
+trigger,trigger_description
+Camera detects motion,This trigger fires when a camera detects motion.
+Trane automation runs,This trigger fires when a Trane automation runs.
+Lock is locked,This trigger fires when your lock is locked.
+Door closes,This trigger fires when your door closes.
+Lock is unlocked,This trigger fires when your lock is unlocked.
+Motion sensor detects motion,This trigger fires when your motion sensor detects motion.
+Door opens,This trigger fires when your door opens.

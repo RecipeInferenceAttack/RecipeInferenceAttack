@@ -1,0 +1,6 @@
+action,action_description
+Create a text file,This Action will create a new text file at the path you specify.
+Append to a text file,This Action will append to a text file as determined by the file name and folder path you specify. Once a file’s size reaches 2MB a new file will be created.
+Revoke shared link,This action will revoke the direct link to the file. Note: the file may still be accessible if there are shared links leading to any of the file parent folders.
+Add file from URL,This Action will download a file at a given URL and add it to Dropbox at the path you specify. NOTE: 30 MB file size limit.
+Move file or folder,This action will move a file or a folder to new location.

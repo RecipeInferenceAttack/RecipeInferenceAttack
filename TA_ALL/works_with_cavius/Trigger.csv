@@ -1,0 +1,3 @@
+trigger,trigger_description
+Alarm,This trigger fires during alarms
+Mode changed,"This trigger fires when the alarm has changed mode. I.e. armed, disarmed or set to home shield mode."

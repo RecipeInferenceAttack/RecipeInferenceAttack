@@ -1,0 +1,38 @@
+index	ID	名称		    设备		            状态
+1	    lc	Lock	    nuki
+2	    li	LED		    Hue
+3	    ti	Time		Date&Time
+4	    sw	Sweep		wemo smart plug
+5	    cu	Curtain		mycurtains
+6	    li2	Night light	Hue
+7	    mv	Move		arlo
+8	    te	Temperature	weather underground
+9	    fa	fans		tado airconditioning
+10	    sm	smoke		Nest Protect
+11	    so	sound		arlo
+12      lo  location    location
+
+Rules
+1:lc<nuki:Door opened> --> li<hue:Turn on lights>					开门-->开灯
+2:lo<location:you exit an area> --> cu<mycurtains:move a curtain>		离开家-->关窗帘
+3:lo<location:you exit an area> --> li<hue:turn off lights>		离开家-->关灯
+4:lo<location:you exit an area> --> sw<wemo smart plug:turn off>		离开家-->关扫地机
+5:mv<arlo:Motion detected> --> li2<hue:Turn on lights>				有人移动-->开灯
+6:te<weather underground:current temperature rises above> -->fa <tado airconditioning:Start fan mode>	温度大于27-->开风扇
+7:sm<Nest Protect:Smoke alarm warning> -->so <arlo:Ssiren>			漏水-->响警报
+8：ti<Date&Time:Every day at> --> li2<hue:Turn of lights>			晚上-->关灯
+
+nuki
+hue
+date_and_time
+wemo_switch
+mycurtains
+hue
+arlo
+weather
+tado_air_conditioning
+nest_protect
+arlo
+location
+
+

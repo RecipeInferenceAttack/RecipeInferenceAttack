@@ -1,0 +1,6 @@
+trigger,trigger_description
+Humidity rises above a threshold,This trigger fires when your device detects the humidity is above the threshold you specified.
+Temperature drops below a threshold,This Trigger fires when your device detects the temperature is below the threshold you specified.
+Temperature rises above a threshold,This Trigger fires when your device detects the temperature is above the threshold you specified.
+Humidity drops below a threshold,This Trigger fires when your device detects the humidity is below the threshold you specified.
+A/C turned on or off,This Trigger fires when the air conditioner has been turned on or off.

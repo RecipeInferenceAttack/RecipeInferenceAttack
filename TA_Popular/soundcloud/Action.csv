@@ -1,0 +1,6 @@
+action,action_description
+Upload a public track,This Action will upload a new public track from the URL you specify.
+Upload a private track,This Action will upload a new private track from the URL you specify.
+Like a track,This action will like a track with the ID you specify.
+Repost a track,This action will repost a track by ID.
+Follow an artist,This action will follow an artist with the ID you specify.

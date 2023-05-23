@@ -1,0 +1,48 @@
+applet_name,applet_description,applet_Trigger,applet_Action,applet_TD,applet_AD,applet_number
+"Forward all SMS messages to my GMail account, for when I don;t have the cell phone handy","Forward all SMS messages to my GMail account, for when I don;t have the cell phone handy",Any new SMS received,Send an email,/android_messages,/gmail,567
+Let someone know you're heading home,"The easiest way to let your spouse, parent, or friend know that you're on your way home. A nifty trick with this Applet: Most carriers have a way to send a text message to someone by emailing a specific email address, which you can use to send them an SMS instead of an email using this same Applet!",Button press,Send an email,/do_button,/gmail,33.6k
+Send a love quote to someone every day from your Gmail,"💞   This Applet will take BrainyQuote's love quote of the day and send it the email of your choice. You can customize the subject line. Actually, you could send it to up to 5 emails — but you didn't hear that from us...! 💕",Love Quotes,Send an email,/brainyquote,/gmail,325
+Automatically forward important app notifications you receive to some one else,"If you receive important notifications on your device and want to share them with some one else, then this Applet is for you. Enter an app name and a keyword for a specific type of notification you want to forward.",Notification received from a specific app,Send an email,/android_device,/gmail,272
+Notify your neighbour when your mower needs attention,Select a list of friends that will receive an email when something unexpected happens and Automower® needs a helping hand. Mower location will be included in the mail.,Send an email,Send an email,/gmail,/gmail,2.0k
+Send a quick email,"Use the note widget to send a quick email to a predetermined group of people. This is helpful to send a quick note to your alternate email, your assistant or team, or family members.",Any new note,Send an email,/do_note,/gmail,192
+Tell Amazon Alexa to trigger an emergency email blast,"This could come in handy in any situation where you're home alone and not able to get help for yourself. Once you say the key phrase, Amazon Alexa will send an email to up to 5 addresses letting them know you're in a situation where you need assistance ASAP. Note: this Applet does not replace real emergency services like calling the authorities! Think of it as an extra assist.",Say a specific phrase,Send an email,/amazon_alexa,/gmail,230
+New file in Google Drive Folder,This app will send you a email every time someone add a file into the folder,New file in your folder,Send an email,/google_drive,/gmail,122
+Send emails from Gmail for new Google Forms submissions,Automate the process of following up with people that complete your forms by using this Applet. You can use this Applet to send a thank you note or an email containing follow up questions or next steps.,New form response,Send an email,/google_forms,/gmail,7
+New request in r/fantasyartists,Sends new client requests in r/fantasyartists to your Gmail,New post from search,Send yourself an email,/reddit,/gmail,2
+IFTTT update » mail,IFTTT update » mail,New IFTTT update,Send an email,/ifttt,/gmail,17
+Email a random #Wikipedia article to #Gmail every day to increase my knowledge,Email a random #Wikipedia article to #Gmail every day to increase my knowledge,Every day at,Send an email,/date_and_time,/gmail,450
+Time Checking,Time Checking,Every day at,Send yourself an email,/date_and_time,/gmail,21
+Scan Reddit For Free Steam Games,Scans all of Reddit for free steam games.,New post from search,Send an email,/reddit,/gmail,110
+Receive an email when a device joins your ASUS Router,"When a specific device joins your ASUS Router network, you will receive an email from Gmail that the device has connected.",Device connects,Send an email,/asusrouter,/gmail,249
+Send an email if it's going to snow,Send an email when Weather Underground calls for snow in your area. A great way to tell your family to bundle up or as a reminder to bring a snow brush!,Tomorrow's forecast calls for,Send an email,/weather,/gmail,204
+Daily Fitbit summary,Daily Fitbit summary,Daily activity summary,Send an email,/fitbit,/gmail,87
+YT to Diigo via Gmail,YT to Diigo via Gmail,New public video uploaded by you,Send an email,/youtube,/gmail,982
+dollar change,dollar change,Today's exchange rate report,Send an email,/finance,/gmail,21
+Get a funny quote emailed to you every day,Get the funny Quote of the Day sent to your Gmail every day with this Applet.,Funny Quotes,Send an email,/brainyquote,/gmail,412
+Get a daily recommended recipe to your gmail.,Add your own email as the recipient,Daily recommended Applet for you,Send an email,/ifttt,/gmail,42
+Android Low Battery Email Notification #android2016,"Get notified to your email of choice when your Android device battery, phone or tablet, is below 15% and need to be charged.",Battery drops below 15%,Send an email,/android_battery,/gmail,56
+Turns Google Calendar events into TickTick tasks with task Due Date set as Calendar event start time,"The address todo@mail.ticktick.com will work as long as you registered with your Gmail account. If not, you can instead put in your specific token email address, which you can find in your TickTick settings.",New event added,Send an email,/google_calendar,/gmail,386
+"If I upload a file to a specific folder in Dropbox, send that file as an email attachment","If I upload a file to a specific folder in Dropbox, send that file as an email attachment",New file in your folder,Send an email,/dropbox,/gmail,290
+Send me an email when I receive a call.  I use this for tracking calls in a CRM,"I use insightly for my CRM.  With this recipe, I can send an email to my insightly account to create a log to track when I receive a call from a contact.",Any incoming phone call ends,Send an email,/android_phone,/gmail,108
+Daily Reddit Digest in your inbox,Daily Reddit Digest in your inbox,Any new post in subreddit,Send an email,/reddit,/gmail,34
+Monthly reminder to send using Gmail,Monthly reminder to send using Gmail,Every month on the,Send an email,/date_and_time,/gmail,38
+Email myself an .mp3 copy of any new voicemail,"Email yourself an .mp3 copy of any new voicemail that you receive. The email will include caller ID, the phone number that you were called on, the duration of the voicemail, and when you received the voicemail.",New voicemail,Send an email,/ooma,/gmail,1.8k
+Send myself an email when I receive an incoming call,Send myself an email when I receive an incoming call,Any incoming call,Send an email,/ooma,/gmail,464
+Forward inbound SMS to Email,Receive a email notification when you receive a SMS.,SMS received,Send an email,/clicksend,/gmail,21
+Send new Jira issues in Gmail,"Save time letting team members know about new Jira issues with this Applet. When a new Jira issue is created, this Applet will automatically send the details as a Gmail to any team members you specify. Keep the entire team up-to-speed.",New issue,Send an email,/jira,/gmail,1
+Email me my iPhone screenshots.,Email me my iPhone screenshots.,New screenshot,Send an email,/ios_photos,/gmail,6
+Send an email to your Gmail with the details when you add a new contact,"Turn your Gmail inbox into an easily searchable address book. When you add a new Google contact, this Applet will send you an email with the name in the subject line, and all of the other details in the body. 🙌",New contact added,Send yourself an email,/google_contacts,/gmail,465
+omran homsi,omran rss,New feed item matches,Send an email,/feed,/gmail,392
+Foobot Email,Foobot Email,Knock knock,Send an email,/foobot,/gmail,8
+Tea anyone?,"Make Tea Time a social event by emailing selected people, inviting them to have a cuppa with you.",Kettle has finished boiling,Send an email,/smarter,/gmail,1
+Send email when iSpy Agent generates an alert,This will send you an email when iSpy Agent generates an alert.,Alert,Send an email,/ispy_agent,/gmail,59
+Send an Email,Get a email consisting of all you reminders your saved in you pre-defined email.,Thinga was clicked,Send an email,/thinga,/gmail,19
+Follow Up Email,Sends a reminder email to follow up after a meeting.,Any event starts,Send yourself an email,/google_calendar,/gmail,14
+NASA photo of day to Gmail!,Just insert your email address.,Image of the day by NASA,Send an email,/space,/gmail,211
+Laundry is ready!,This applet will email you when your laundry is ready and set an ios reminder that your laundry is done,Cycle is complete,Add reminder to list,/hc_washer,/ios_reminders,
+If flex turned of,If flex turned off then send mail,Relay off,Send an email,/wemo_maker,/gmail,1
+Spend Summary EMAIL,Send a daily summary of transaction spending.,Cell updated in spreadsheet,Send an email,/google_sheets,/gmail,4
+Facebook Google Plus,Facebook Google Plus,New status message on page,Send an email,/facebook_pages,/gmail,26
+Send an email to your Gmail with the details when you add a new contact,"Turn your Gmail inbox into an easily searchable address book. When you add a new iOS contact, this Applet will send you an email with the name in the subject line, and all of the other details in the body. 🙌",Any new contact,Send yourself an email,/ios_contacts,/gmail,193
+Invia un messaggio dal tuo account GMAIL quando la centralina è in allarme,Questa applet invia un messaggio dal tuo account di posta GMAIL quando la centrale va in allarme. Si possono impostare fino a 20 destinatari.,Trigger Centralina In Allarme,Send an email,/ialarmxr,/gmail,22
+RSS to Diigo via Gmail,RSS to Diigo via Gmail,New feed item,Send an email,/feed,/gmail,2.2k

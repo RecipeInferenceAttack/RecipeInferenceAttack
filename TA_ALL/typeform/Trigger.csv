@@ -1,0 +1,3 @@
+trigger,trigger_description
+New form is created,This trigger fires every time a new form is created
+New response in a form,This trigger fires every time a form receives a new response.

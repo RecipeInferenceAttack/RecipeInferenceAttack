@@ -1,0 +1,4 @@
+trigger,trigger_description
+New GIF based on keyword,This Trigger fires every time a new GIF on GIPHY matches a search query you specify.
+New trending GIF,This Trigger fires every time a new GIF on GIPHY is trending.
+New random GIF based on keyword,This Trigger fires every time a new random GIF on GIPHY matches a search query you specify.

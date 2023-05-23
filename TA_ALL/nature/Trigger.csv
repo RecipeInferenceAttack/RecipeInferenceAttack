@@ -1,0 +1,9 @@
+trigger,trigger_description
+Temperature rises above,This trigger fires when the temperature rises above the set value (Celsius).
+Becomes darker,This trigger fires when the room becomes darker than the set category.
+Becomes brighter (for Nature Remo 3),This trigger fires when the room becomes brighter than the set value.
+Becomes brighter,This trigger fires when the room becomes brighter than the set category.
+Humidity rises above,This trigger fires when the humidity rises above the set value.
+Becomes darker (for Nature Remo 3),This trigger fires when the room becomes darker than the set value.
+Humidity drops below,This trigger fires when the humidity drops below the set value.
+Temperature drops below,This trigger fires when the temperature drops below the set value (Celsius).

@@ -1,0 +1,3 @@
+trigger,trigger_description
+Motion detected,This Trigger fires when motion is detected by Beseye camera.
+Human detected,This Trigger fires when a human is detected by Beseye camera.

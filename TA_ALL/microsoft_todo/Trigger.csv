@@ -1,0 +1,2 @@
+trigger,trigger_description
+Task in list completed,This trigger fires when a task in a given list is completed

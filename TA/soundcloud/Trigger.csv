@@ -1,0 +1,8 @@
+trigger,trigger_description
+Any new public track,This Trigger fires every time you upload a new public track.
+New public like,This Trigger fires every time you like a public track.
+New public track by anyone you follow,This Trigger fires every time a new public track is uploaded by anyone you follow.
+New track from search,This Trigger fires every time a new track is uploaded to SoundCloud that matches the search query you specify. NOTE: limited to 15 tracks per check.
+New playlist created,This trigger fires every time you create a new playlist.
+New track in a playlist,This trigger fires every time a new track is added to a selected playlist.
+Any new follower,This trigger fires every time you have a new follower.

@@ -1,0 +1,7 @@
+trigger,trigger_description
+"Door opens, closes or moves","This trigger fires when a door opens, closes, or moves."
+Smoke or CO Alarm detected,This trigger fires when an alarm sounds.
+Water Leak detected,This trigger fires when a water leak is detected or no longer detected.
+"Window opens, closes or moves","This trigger fires when a window opens, closes, or moves."
+Safe Door opens or closes,Fires when a safe door opens or closes.
+Temperature crosses a threshold,This trigger fires when the current temperature goes above or below your set temperature thresholds.

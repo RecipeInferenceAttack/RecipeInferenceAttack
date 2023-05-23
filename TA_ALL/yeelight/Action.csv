@@ -1,0 +1,7 @@
+action,action_description
+Toggle lights on/off,"This Action will turn on, turn off or toggle your lights."
+Change brightness,This action will change your light's brightness to the specified level.
+Set brightness,This Action will set your lights to a specified brightness.
+Set scene,This Action will set your lights to a pre-defined scene.
+Change color temperature,This Action will change your lights to specified color temperature.
+Change color,This Action will change your lights to a specified color.

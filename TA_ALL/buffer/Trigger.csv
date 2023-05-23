@@ -1,0 +1,3 @@
+trigger,trigger_description
+Any new post in Buffer,This Trigger fires every time you add a new post to Buffer or post now via Buffer.
+New photo in Buffer,This Trigger fires every time you add a new photo to Buffer or post now via Buffer.

@@ -1,0 +1,9 @@
+action,action_description
+Lexi Device On,This action will turn on selected Lexi Device
+Lexi Group On,This action will Turn on the selected Group.
+Lexi Group Scene On,This action will apply on selected Lexi Scene on a group.
+Lexi All Devices Off,Turn off all Lexi Device(s)
+Lexi Device Scene On,This action will apply on selected Lexi Scene on a device.
+Lexi All Devices On,This action will turn on all Lexi Device(s)
+Lexi Device Off,This action will turn off selected Lexi Device
+Lexi Group Off,This action will turn off selected Lexi group.

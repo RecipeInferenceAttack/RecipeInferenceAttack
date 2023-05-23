@@ -1,0 +1,7 @@
+action,action_description
+Set Brightness,This Action will set brightness of your Thinka devices that support brightness.
+Set Thermostat Mode,This Action will set thermostat mode of your Thinka devices that support thermostat mode.
+Activate a Scene,This action will activate a specific scene in your home.
+Turn on or off device,This Action will turn on or off your Thinka devices that support switching on/off.
+Set Color,This Action will set color of your Thinka devices that support color.
+Set Temperature,This Action will set temperature of your Thinka devices that support temperature.

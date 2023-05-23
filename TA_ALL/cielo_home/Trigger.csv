@@ -1,0 +1,6 @@
+trigger,trigger_description
+Device is powered on,This trigger fires every time your selected Cielo smart device is powered on.
+Room temperature rises above,This trigger fires every time your selected Cielo smart device senses that the indoor temperature is greater than your specified threshold.
+Room temperature drops below,This trigger fires every time your selected Cielo smart device senses that the indoor temperature is lower than your specified threshold.
+Action performed,"This trigger fires every time an action is performed on your Cielo smart device. This trigger fires for power, mode, and temperature changes."
+Device is powered off,This trigger fires every time your selected Cielo smart device is powered off.

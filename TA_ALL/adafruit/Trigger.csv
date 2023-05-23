@@ -1,0 +1,3 @@
+trigger,trigger_description
+Monitor a feed on Adafruit IO,"This Trigger fires anytime it validates the data that you send to your feed. Example: If Feed Temperature > 80, fire Trigger."
+Any new data,This Trigger fires any time there is new data in your feed.

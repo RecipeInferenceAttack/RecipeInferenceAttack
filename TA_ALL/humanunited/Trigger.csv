@@ -1,0 +1,3 @@
+trigger,trigger_description
+BAC test requested,This trigger fires when BAC test is requested.
+Received new BAC test result,This trigger fires when new BAC test result received.

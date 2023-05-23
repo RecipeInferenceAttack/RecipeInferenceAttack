@@ -1,0 +1,6 @@
+trigger,trigger_description
+Smoke alarm warning,This Trigger fires every time the Nest Protect you specify detects warning smoke levels.
+Battery is low,This Trigger fires evert time the Nest Protect you specify detects low batteries.
+Carbon monoxide warning,This Trigger fires every time the Nest Protect you specify detects warning carbon monoxide levels.
+Smoke alarm emergency,This Trigger fires every time the Nest Protect you specify detects dangerous smoke levels.
+Carbon monoxide emergency,This Trigger fires every time the Nest Protect you specify detects dangerous carbon monoxide levels.

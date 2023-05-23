@@ -1,0 +1,5 @@
+action,action_description
+Lock the Aegis Smart Lock,This action will lock your Aegis Smart Lock.
+Unlock the Aegis Smart Lock,This action will unlock your Aegis Smart Lock.
+Trigger Device Siren,This action will trigger the siren on the selected Bosma device.
+Switch Security Mode,This action will switch your Family's Security Mode to the selected mode.

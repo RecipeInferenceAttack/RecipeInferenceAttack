@@ -1,0 +1,3 @@
+action,action_description
+Open door,"This Action will open the garage door you specify. If the garage door is already opened, the door will remain opened. This Action will only work with ""garage mode"". Remote access must be enabled."
+Close door,"This Action will close the garage door you specify. If the garage door is already closed, the door will remain closed. This Action will only work with ""garage mode"". Remote access must be enabled."

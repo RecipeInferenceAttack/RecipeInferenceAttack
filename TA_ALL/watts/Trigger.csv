@@ -1,0 +1,5 @@
+trigger,trigger_description
+Lowest CO2 intensity in the electricity,This trigger fires when the CO2 intensity in the electricity production is lowest between a starting time and a finish time and for a duration specified by you.
+Lowest electricity price,This trigger fires when the electricity price is lowest between a starting time and a finish time and for a duration specified by you.
+Highest CO2 intensity in the electricity,This trigger fires when the CO2 intensity in the electricity production is highest between a starting time and a finish time and for a duration specified by you.
+Highest electricity price,This trigger fires when the electricity price is highest between a starting time and a finish time and for a duration specified by you.

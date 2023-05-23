@@ -1,0 +1,3 @@
+trigger,trigger_description
+Robot Stopped,This trigger fires when your robot stops a job
+Robot Started,This trigger fire when your robot starts a job

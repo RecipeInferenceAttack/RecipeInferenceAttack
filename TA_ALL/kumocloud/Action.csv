@@ -1,0 +1,5 @@
+action,action_description
+Turn off,This action will turn off a Mitsubishi Electric zone.
+Lower temperature,This action will lower the target temperature of a Mitsubishi Electric zone.
+Turn on,This action will turn on a Mitsubishi Electric zone and optionally change the mode.
+Raise temperature,This action will raise the target temperature of a Mitsubishi Electric zone.

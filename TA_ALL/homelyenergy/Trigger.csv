@@ -1,0 +1,3 @@
+trigger,trigger_description
+Heating off,This trigger fires when heating is turned off.
+Heating on,This trigger fires when heating is turned on.

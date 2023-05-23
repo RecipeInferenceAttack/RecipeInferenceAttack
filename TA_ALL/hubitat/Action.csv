@@ -1,0 +1,9 @@
+action,action_description
+Turn on a device,This Action will turn on a device attached to your Hubitat Elevation system.
+Dim a device,This action will change a device's dimmer level.
+Turn off a device,"This action will turn off your Hubitat switches, lights, sirens, strobes, etc."
+Lock a device,This action will lock a Hubitat device.
+Open a device,This action will open a Hubitat device.
+Close a device,This action will close a Hubitat device.
+Change Mode,This action will change Hubitat's mode.
+Unlock a device,This action will unlock a Hubitat device.

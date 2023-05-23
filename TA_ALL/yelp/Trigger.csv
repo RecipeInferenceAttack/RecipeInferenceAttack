@@ -1,0 +1,2 @@
+trigger,trigger_description
+Hot and new business,This trigger fires when a new business was created near to your location (10 km).

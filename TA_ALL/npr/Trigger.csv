@@ -1,0 +1,2 @@
+trigger,trigger_description
+New story published,"The Trigger fires every time a new story is published on NPR in the selected category, program, or topic."
