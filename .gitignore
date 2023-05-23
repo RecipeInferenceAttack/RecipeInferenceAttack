@@ -3,5 +3,5 @@
 /[Ll]og/
 /tmp/
 /[Mm]odel/
-/experiment.csv
+/experiment*.csv
 /test.py
