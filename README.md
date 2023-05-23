@@ -1,4 +1,4 @@
-# IOTWFST
+# RecipeInferenceAttack
 ## 运行方式
 运行main.py  
 ## 运行后文件架构
